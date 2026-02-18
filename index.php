@@ -199,7 +199,7 @@ li.te:before
 </article>
 <footer>
 <p><i>Twilight Imperium</i> &copy; Fantasy Flight Games. Not Affiliated.</p>
-<p>This website is managed through <a href="https://github.com/bradleysigma/tirules">GitHub</a>. Please submit any suggested changes there.</p>
+<p>This website is not affiliated with tirules.com. <a href="https://github.com/dangothemango/tirules">Github</a></p>
 </footer>
 </body>
 </html>
