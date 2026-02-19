@@ -28,6 +28,7 @@
 
 <h1>Linkship <sub>(Unit)</sub></h1>
     <ol class="note">
+    <li>Linkships cannot fire <sc>Space Cannon</sc> against adjacent units, even if the Ral Nel player has PDS II.</li>
     </ol>
 
 <h1>Last Dispatch <sub>(Flagship)</sub></h1>
@@ -46,6 +47,7 @@
 
 <h1>Watchful Ojz <sub>(Commander)</sub></h1>
     <ol class="note">
+    <li>Watchful Ojz can only be used if the Ral Nel player has a valid retreat path for the moved ships (separate from the system the commander allows them to retreat to).</li>
     <li>If the Ral Nel player moves all their remaining ships, the combat ends immediately.</li>
     <li>The Ral Nel player may transport fighters and ground forces if they move a ship with capacity.</li>
     <li>The destination system may contain a planet controlled by another player, which may also have that player&rsquo;s ground forces on it.</li>

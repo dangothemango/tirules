@@ -17,7 +17,8 @@
     <h2><li>Voting</li></h2>
     <p>When voting during the agenda phase, a player can cast votes for a specific outcome of an agenda.</p>
     <li>To cast votes, a player exhausts any number of their planets and chooses an outcome. The number of votes cast for that outcome is equal to the combined influence values of the planets that the player exhausts.</li>
-    <ol><li>When a player exhausts a planet to cast votes, that player must cast the full amount of votes provided by that planet.</li></ol>
+    <ol><li>When a player exhausts a planet to cast votes, that player must cast the full amount of votes provided by that planet.</li>
+        <li><span class="ruling">A player may exhaust space stations, <i>The Triad</i>, and Oceans to cast votes, using their influence values in the same manner as planets.</span></li></ol>
     <li>A player cannot cast votes for multiple outcomes of the same agenda. Each vote a player casts must be for the same outcome.</li>
     <li>Some agendas have &ldquo;For&rdquo; and &ldquo;Against&rdquo; outcomes. When a player casts votes on such an agenda, that player must cast their votes either &ldquo;For&rdquo; or &ldquo;Against&rdquo;.</li>
     <li>Some agendas instruct players to elect either a player or a planet. When a player casts votes for such an agenda, that player must cast their vote for an eligible player or planet as described on the agenda.</li>
