@@ -202,6 +202,12 @@ h2 + p, p + p, li + p
     margin-left: -2em;
     left: 0;
 }
+.ruling
+{
+    background-color: #fffacd;
+    padding: 0.5em;
+    border-left: 4px solid #ffa500;
+}
 footer
 {
     padding: 5em;

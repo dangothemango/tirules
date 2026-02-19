@@ -47,6 +47,7 @@
 
 <h1>Executive Order <sub>(Technology)</sub></h1>
     <ol class="note">
+    <li><span class="ruling">When resolving <i>Executive Order</i>, players go through the normal when/after timing windows. Abilities that resolve when the agenda outcome is resolved and abilities that resolve after the agenda outcome is resolved both occur. Riders may be cast during this resolution.</span></li>
     <li>If the Keleres player draws one of the <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i> agendas, they will discard it if required and reveal a new agenda from the deck.</li>
     <li>If the <i>Miscount Disclosed</i> agenda is resolved, the players will also vote on the elected agenda during the Keleres player&rsquo;s action.</li>
     <li>If the <i>Public Execution</i> agenda is resolved, the elected player cannot vote in the agenda phase following the current action phase.</li>

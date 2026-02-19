@@ -14,7 +14,8 @@
     </ol>
     <li>Each space station has a corresponding planet card. The space station may be exhausted for resources or influence as though it were a planet. The space station will be readied during the status phase as though it were a planet, or by other game effects that can ready planets.</li>
     <li>Structures and ground forces cannot be committed to or placed on a space station.</li>
-    <li>Space stations do not count as planets for the purpose of voting, or scoring objectives, and a player may still score public objectives even if another player controls a space station in their home system.</li>
+    <li>Space stations <span class="ruling">do</span> count as planets for the purpose of voting.</li>
+    <li>Space Stations do not count as planets for the purpose of scoring objectives, and a player may still score public objectives even if another player controls a space station in their home system.</li>
     <li>For each space station a player controls, their commodity value is increased by one.</li>
     <ol>
         <li>Players may place a space station commodity token in the commodity area of their faction sheet as a reminder of their increased commodity value.</li>

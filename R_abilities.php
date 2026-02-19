@@ -45,6 +45,8 @@
         <li><sc>Space Cannon</sc></li>
         <li><sc>Sustain Damage</sc></li>
     </ul>
+    <li><span class="ruling">Whenever a game effect uses or grants a unit ability, treat it as if a unit were using or having that unit ability.</span></li>
+    <ol><li><span class="ruling">This means abilities that reference unit abilities, such as the Argent Commander, combo with these effects. Similarly, effects that shut down unit abilities, such as the Crimson Flagship, will affect these abilities as well.</span></li></ol>
     <li>If a unit&rsquo;s ability uses the phrase &ldquo;this system&rdquo; or &ldquo;this planet&rdquo;, the ability is referring to the system or planet that contains that unit.</li>
     </ol>
 <h1>Notes</h1>
