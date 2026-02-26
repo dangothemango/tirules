@@ -205,8 +205,9 @@ h2 + p, p + p, li + p
 .ruling
 {
     background-color: #fffacd;
-    padding: 0.5em;
-    border-left: 4px solid #ffa500;
+    padding: 0.25em 0.5em;
+    box-shadow: inset 4px 0 0 0 #ffa500;
+    display: inline;
 }
 footer
 {
