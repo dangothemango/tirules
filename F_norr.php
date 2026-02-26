@@ -1,17 +1,17 @@
 <?php include "prefix.php"?>
-<header>Sardakk N&rsquo;orr</header>
+<header><h1>Sardakk N&rsquo;orr</h1></header>
 <article>
-<h1>Unrelenting</h1>
+<h2>Unrelenting</h2>
     <ol class="note">
     <li><sc>Unrelenting</sc> does not affect anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
     </ol>
 
-<h1>Tekklar Legion <sub>(Promissory Note)</sub></h1>
+<h2>Tekklar Legion <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li><i>Tekklar Legion</i> does not affect anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
     </ol>
 
-<h1>Valkyrie Particle Weave <sub>(Technology)</sub></h1>
+<h2>Valkyrie Particle Weave <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The hit produced by <i>Valkyrie Particle Weave</i> is added to any other hits produced in the immediately preceding <b>Roll Dice</b> step.</li>
     <ol><li><i>Valkyrie Particle Weave</i> produces a hit before any hits may be cancelled. Cancelling the original hits will not cause the additional hit to be cancelled.</li></ol>
@@ -19,7 +19,7 @@
     <li>If the opponent produces a hit, <i>Valkyrie Particle Weave</i> mandatorily produces a hit.</li>
     </ol>
 
-<h1>Exotrireme <sub>(Unit)</sub></h1>
+<h2>Exotrireme <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>When resolving the ability of an Exotrireme II, the N&rsquo;orr player chooses which ships are destroyed.</li>
     <ol><li>The N&rsquo;orr cannot choose their own ships as targets.</li></ol>
@@ -28,16 +28,16 @@
     <li>If the N&rsquo;orr player is in a combat with the Yin player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.</li>
     </ol>
 
-<h1>C&rsquo;morran N&rsquo;orr <sub>(Flagship)</sub></h1>
+<h2>C&rsquo;morran N&rsquo;orr <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li><i>C&rsquo;morran N&rsquo;orr</i> does not affect anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
     </ol>
 
-<h1>T&rsquo;ro <sub>(Agent)</sub></h1>
+<h2>T&rsquo;ro <sub>(Agent)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>G&rsquo;hom Sek&rsquo;kus <sub>(Commander)</sub></h1>
+<h2>G&rsquo;hom Sek&rsquo;kus <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>Planets in the home system of an eliminated player will not contribute to unlocking G&rsquo;hom Sek&rsquo;kus.</li>
     <li>This ability allows the N&rsquo;orr player to commit ground forces to a planet even if they have no ships in the active system.</li>
@@ -61,7 +61,7 @@
     <li>Ground forces cannot be committed to a planet if it has the <i>Demilitarized Zone</i> exploration card attached.</li>
     </ol>
 
-<h1>Sh&rsquo;val, Harbinger &mdash; Tekklar Conditioning <sub>(Hero)</sub></h1>
+<h2>Sh&rsquo;val, Harbinger &mdash; Tekklar Conditioning <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The <i>Parley</i> action card will place the committed ground forces in the space area of the active system. As the N&rsquo;orr player will not have enough capacity in the space area for their ground forces, they will have to remove all ground forces from that planet, that are now in the space area of that system.</li>
     <li>The <b>Space Cannon Offense</b>, <b>Space Combat</b> and <b>Bombardment</b> steps are skipped.</li>
@@ -69,13 +69,13 @@
     <li>Any abilities that trigger &ldquo;after a player moves ships&hellip;&rdquo; or similar cannot be used following <i>Tekklar Conditioning</i>.</li> 
     </ol>
 
-<h1>Valkyrie Exoskeleton <sub>(Mech)</sub></h1>
+<h2>Valkyrie Exoskeleton <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The hit produced by the Valkyrie Exoskeleton is added to any other hits produced in the immediately preceding <b>Roll Dice</b> step.</li>
     <li>If a Valkyrie Exoskeleton uses its <sc>Sustain Damage</sc> ability during a ground combat, it mandatorily produces a hit.</li>
     </ol>
 
-<h1>N&rsquo;orr Supremacy <sub>(Breakthrough)</sub></h1>
+<h2>N&rsquo;orr Supremacy <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The N&rsquo;orr player must meet the prerequisites of the unit upgrade technology they research.</li>
     </ol>

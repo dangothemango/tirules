@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Construction <sub>(Strategy Card)</sub></header>
+<header><h1>Construction <sub>(Strategy Card)</sub></h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '24.' counter(item, decimal);} </style>
 <p>The <i>Construction</i> strategy card allows players to construct structures on planets they control. This card&rsquo;s initiative value is &ldquo;4&rdquo;.</p>
     <ol class="lrr">
@@ -16,14 +16,14 @@
     <ol><li>If a player does not have the unit in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements. Then, that player must place the unit on the game board as instructed by the effect that is placing the unit.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A player may have a maximum of one space dock on each planet.</li>
     <li>A player may have a maximum of two PDS units on each planet.</li>
     <li>Structures cannot be placed on the planet with the <i>Demilitarized Zone</i> exploration card attached.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_initiative_order">Initiative Order</a></li>
     <li><a href="/R_pds">PDS</a></li>

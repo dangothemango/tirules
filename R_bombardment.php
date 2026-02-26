@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Bombardment <sub>(Unit Ability)</sub></header>
+<header><h1>Bombardment <sub>(Unit Ability)</sub></h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '15.' counter(item, decimal);} </style>
 <p>A unit with the <sc>Bombardment</sc> ability may be able to destroy another player&rsquo;s ground forces during an invasion. During the <b>Bombardment</b> step, players perform the following steps:</p>
     <ol class="lrr">
@@ -18,7 +18,7 @@
     <ol><li>If a player has to assign more hits than that player has ground forces, the excess hits have no effect.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>The <b>Bombardment</b> step happens outside of combat. No combat effects may affect a bombardment roll.</li>
     <ol><li>A player cannot score a secret objective that requires them to win a combat or similar by destroying units during the <b>Bombardment</b> step.</li></ol>
@@ -32,7 +32,7 @@
     <ol><li>Say a player had three dreadnoughts in the active system, and owned the <i>Plasma Scoring</i> technology. They would be able to roll their choice of zero, three, or four dice when resolving their <sc>Bombardment</sc> ability.</li></ol>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_destroyed">Destroyed</a></li>

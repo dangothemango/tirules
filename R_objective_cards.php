@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Objective Cards</header>
+<header><h1>Objective Cards</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '61.' counter(item, decimal);} </style>
 <p>Players can score objectives to gain victory points.</p>
     <ol class="lrr">
@@ -43,7 +43,7 @@
     <li>A player can gain secret objectives by resolving either the primary or secondary ability of the <i>Imperial</i> strategy card.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A status phase objective must have its condition met during the status phase; any activity during the action phase is irrelevant.</li>
     <li>Any number of players may score a given public objective during the status phase. Players are not blocked from scoring an objective if another player earlier in initiative order scores it first, unless the earlier player achieved victory and ended the game by doing so.</li>
@@ -57,7 +57,7 @@
     <li>For notes about specific objective cards, see the <a href="/C_objectives">objective card component notes page</a>.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_action_phase">Action Phase</a></li>
     <li><a href="/R_agenda_phase">Agenda Phase</a></li>

@@ -1,10 +1,10 @@
 <?php include "prefix.php"?>
-<header>Coexistence</header>
+<header><h1>Coexistence</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <p>There currently does not exist a Living Rules Reference section regarding coexistence.</p>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Some game effects allow two or more players&rsquo; units to exist on a planet without triggering combat; this is coexistence.</li>
     <li>One player controls the planet; all other players are coexisting on that planet.</li>
@@ -27,7 +27,7 @@
     <li>A player is considered to control a planet they are coexisting on solely when scoring an objective. For any other game ability or effect, they are not considered to control that planet.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_control">Control</a></li>
     <li><a href="/R_planets">Planets</a></li>

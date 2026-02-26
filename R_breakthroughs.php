@@ -1,10 +1,10 @@
 <?php include "prefix.php"?>
-<header>Breakthroughs</header>
+<header><h1>Breakthroughs</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <p>There currently does not exist a Living Rules Reference section regarding breakthroughs.</p>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A breakthrough is a faction specific card. Players start the game without their faction&rsquo;s breakthrough.</li>
     <li>A breakthrough is commonly gained through an expedition, or the Thunder&rsquo;s Edge legendary planet ability card. There are other game effects that can gain a player their faction&rsquo;s breakthrough.</li>
@@ -18,7 +18,7 @@
     <li>For notes about a breakthrough of a specific faction, see that faction&rsquo;s page.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_expedition">Expedition</a></li>
     <li><a href="/R_fracture">The Fracture</a></li>

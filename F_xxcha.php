@@ -1,14 +1,14 @@
 <?php include "prefix.php"?>
-<header>The Xxcha Kingdom</header>
+<header><h1>The Xxcha Kingdom</h1></header>
 <article>
-<h1>Peace Accords</h1>
+<h2>Peace Accords</h2>
     <ol class="note">
     <li>A planet is adjacent to both the system it is in, and every system adjacent to that.</li>
     <li>If the planet was uncontrolled, the Xxcha player explores it.</li>
     <li>The planet is gained exhausted.</li>
     </ol>
 
-<h1>Quash</h1>
+<h2>Quash</h2>
     <ol class="note">
     <li><sc>Quash</sc>, <i>Political Favor</i>, the <i>Political Secret</i> promissory note, and the <i>Veto</i> action card are all played in the same timing window, before the rider timing window.</li>
     <ol><li>If <sc>Quash</sc> is used after any <i>Political Secret</i> promissory notes have been played, those are immediately returned and will have no effect on the replacement agenda.</li></ol>
@@ -16,7 +16,7 @@
     <li><sc>Quash</sc> may be used on the replacement agenda.</li>
     </ol>
 
-<h1>Political Favor <sub>(Promissory Note)</sub></h1>
+<h2>Political Favor <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li><sc>Quash</sc>, <i>Political Favor</i>, the <i>Political Secret</i> promissory note, and the <i>Veto</i> action card are all played in the same timing window, before the rider timing window.</li>
     <ol><li>If <i>Political Favor</i> is used after any <i>Political Secret</i> promissory notes have been played, those are immediately returned and will have no effect on the replacement agenda.</li></ol>
@@ -24,7 +24,7 @@
     <li>Each agenda is considered separate for the purpose of limiting each pair of players to one transaction per agenda.</li>
     </ol>
 
-<h1>Instinct Training <sub>(Technology)</sub></h1>
+<h2>Instinct Training <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>Instinct Training</i> may cancel a <i>Sabotage</i> action card.</li>
     <li>If a player has a second copy of an action card, they may play it if the first was cancelled by <i>Instinct Training</i>.</li>
@@ -41,25 +41,25 @@
     <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <i>Fleet Logistics</i> technology, the active player may end their turn without performing a second action and without passing.</li></ol>
     </ol>
 
-<h1>Nullification Field <sub>(Technology)</sub></h1>
+<h2>Nullification Field <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>Once the Xxcha player resolves the ability of <i>Nullification Field</i>, the active player cannot use any &ldquo;after you activate a system&rdquo; abilities.</li>
     <ol><li>Other players, including the Xxcha player, cannot use any &ldquo;after another player activates a system that&hellip;&rdquo; abilities.</li></ol>
     <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.</li>
     </ol>
 
-<h1>Loncara Ssodu <sub>(Flagship)</sub></h1>
+<h2>Loncara Ssodu <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <sc>Space Cannon</sc> abilities of their units first. If the Xxcha player is not the active player, and the <i>Loncara Ssodu</i> is destroyed by another player&rsquo;s space cannon roll, it will not resolve its own <sc>Space Cannon</sc> ability.</li>
     </ol>
 
-<h1>Ggrocuto Rinn <sub>(Agent)</sub></h1>
+<h2>Ggrocuto Rinn <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>A planet is adjacent to both the system it is in, and every system adjacent to that.</li>
     <li>A planet must be exhausted to be targeted by Ggrocuto Rinn.</li>
     </ol>
 
-<h1>Elder Qanoj <sub>(Commander)</sub></h1>
+<h2>Elder Qanoj <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>A planet with zero influence may be used to cast one additional vote.</li>
     <li>The Xxcha player may play rider action cards and vote on the same agenda.</li>
@@ -68,7 +68,7 @@
     <li>Game effects may prevent the Xxcha player from casting additional votes.</li>
     </ol>
 
-<h1>Xxekir Grom &mdash; Political Data Nexus <sub>(Hero)</sub></h1>
+<h2>Xxekir Grom &mdash; Political Data Nexus <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>If the Xxcha player draws one of the <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i> agendas, they will only discard it (if required) and reveal a new one if they choose to reveal that agenda.</li>
     <li>If the Xxcha player draws the <i>Covert Legislation</i> agenda, they will only draw a hidden agenda if they choose to reveal it. If the Xxcha player is not the speaker, the speaker will view the hidden agenda, but the Xxcha player will not see it until it is either discarded from <sc>Quash</sc>, or resolved.</li>
@@ -89,7 +89,7 @@
     <li>Effects from agenda outcomes that occur &ldquo;at the start of the next strategy phase&rdquo; will still occur.</li>
     </ol>
 
-<h1>Xxekir Grom &mdash; Political Data Nexus &Omega;<sub>(Hero)</sub></h1>
+<h2>Xxekir Grom &mdash; Political Data Nexus &Omega;<sub>(Hero)</sub></h2>
     <ol class="note">
     <li>During the status phase, public and secret objectives are scored simultaneously. The Xxcha player cannot score a public objective, unlock Xxekir Grom, and then use <i>Political Data Nexus &Omega;</i> in order to score a secret objective, or vice versa.</li>
     <li>The combined value may be spent as either influence or resources, not both, and cannot be split between the two.</li>
@@ -105,19 +105,19 @@
     <li>The resource value of a planet will be added to its influence value when the Xxcha player casts votes during the agenda phase.</li>
     </ol>
 
-<h1>Xxekir Grom &mdash; Planetary Defense Nexus &Omega;&Omega;<sub>(Hero)</sub></h1>
+<h2>Xxekir Grom &mdash; Planetary Defense Nexus &Omega;&Omega;<sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The units may be placed on a readied planet.</li>
     <li>Multiple units may be placed on the same planet.</li>
     </ol>
 
-<h1>Indomitus <sub>(Mech)</sub></h1>
+<h2>Indomitus <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <sc>Space Cannon</sc> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <sc>Space Cannon</sc> abilities of any of their removed mechs.</li>
     <li>During the <b>Space Cannon Defense</b> substep of a tactical action, only non&ndash;active players can use the <sc>Space Cannon</sc> ability of their units. The Xxcha player cannot use the <sc>Space Cannon</sc> ability of their mechs immediately after committing them to a planet against units owned by that planet&rsquo;s controller.</li>
     </ol>
 
-<h1>Archon&rsquo;s Gift <sub>(Breakthrough)</sub></h1>
+<h2>Archon&rsquo;s Gift <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>A source of both influence and resources, such as a planet, may be spent for one or the other, but not both.</li>
     <ol><li>For example, Archon Tau will provide one resource or one influence, not two.</li></ol>

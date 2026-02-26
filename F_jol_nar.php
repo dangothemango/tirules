@@ -1,21 +1,21 @@
 <?php include "prefix.php"?>
-<header>The Universities of Jol&ndash;Nar</header>
+<header><h1>The Universities of Jol&ndash;Nar</h1></header>
 <article>
-<h1>Fragile</h1>
+<h2>Fragile</h2>
     <ol class="note">
     <li>The <sc>Fragile</sc> ability does not affect anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
     <li>The effect of the <sc>Fragile</sc> ability is mandatory.</li>
     </ol>
 
-<h1>Brilliant</h1>
+<h2>Brilliant</h2>
     <ol class="note">
     </ol>
 
-<h1>Analytical</h1>
+<h2>Analytical</h2>
     <ol class="note">
     </ol>
 
-<h1>Research Agreement <sub>(Promissory Note)</sub></h1>
+<h2>Research Agreement <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If the Jol&ndash;Nar player will research several technologies in a row, then after each, the player holding <i>Research Agreement</i> may play it. The Jol&ndash;Nar player does not decide the next technology they will research until after the player holding the <i>Research Agreement</i> plays it or declines to.</li>
     <li>If a player receives <i>Research Agreement</i> in a transaction immediately after the Jol&ndash;Nar player researched a technology, that player may play it immediately to gain that technology.</li>
@@ -33,35 +33,35 @@
 	</ol>
     </ol>
 
-<h1>E&ndash;Res Siphons <sub>(Technology)</sub></h1>
+<h2>E&ndash;Res Siphons <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>E&ndash;Res Siphons</i> ability is triggered when the system is activated, even if the active player will perform no hostile acts towards the Jol&ndash;Nar player this turn.</li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Jol&ndash;Nar player&rsquo;s ships (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>E&ndash;Res Siphons</i> ability to trigger.</li>
     </ol>
 
-<h1>Spatial Conduit Cylinder <sub>(Technology)</sub></h1>
+<h2>Spatial Conduit Cylinder <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>Other players may use the <sc>Deep Space Cannon</sc> ability of units in the same system as a Jol&ndash;Nar player&rsquo;s unit to produce hits during the <b>Space Cannon Offense</b> step.</li>
     <li>If the Jol&ndash;Nar player moves ships out of a gravity rift, they must still roll for removal.</li>
     <li>If its move value is high enough, a ship may still travel through other systems as it moves to the active system. This will allow a ship with capacity to transport units as normal from a system it did not start its movement in.</li>
     </ol>
 
-<h1>J.N.S. Hylarim <sub>(Flagship)</sub></h1>
+<h2>J.N.S. Hylarim <sub>(Flagship)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Doctor Sucaban <sub>(Agent)</sub></h1>
+<h2>Doctor Sucaban <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>If the Jol&ndash;Nar player has the Infantry II unit upgrade, any of their infantry removed with Doctor Sucaban will not roll for resurrection.</li>
     </ol>
 
-<h1>Ta Zern /<br/>Agnlan Oln <sub>(Commander)</sub></h1>
+<h2>Ta Zern /<br/>Agnlan Oln <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability; Ta Zern cannot reroll combat dice.</li>
     <li>Ta Zern cannot be used to reroll dice for an Infantry II resurrection ability.</li>
     </ol>
 
-<h1>Rin, The Master&rsquo;s Legacy &mdash; Genetic Memory <sub>(Hero)</sub></h1>
+<h2>Rin, The Master&rsquo;s Legacy &mdash; Genetic Memory <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The Jol&ndash;Nar player does not have to meet the prerequisites of the technologies they acquire.</li>
     <li>All replacements happen simultaneously. If this ability returns a specific technology, it cannot then be regained via this ability.</li>
@@ -69,12 +69,12 @@
     <li>If the Jol&ndash;Nar player has the Nekro player&rsquo;s <i>Alliance</i> promissory note in their play area, they will not draw any action cards from the ability of the Nekro Acidos commander when they resolve <i>Genetic Memory</i>.</li>
     </ol>
 
-<h1>Shield Paling <sub>(Mech)</sub></h1>
+<h2>Shield Paling <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Shield Paling itself is still affected by the <sc>Fragile</sc> ability.</li>
     </ol>
 
-<h1>Specialized Compounds <sub>(Breakthrough)</sub></h1>
+<h2>Specialized Compounds <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Jol&ndash;Nar player cannot use <i>Specialized Compounds</i> when researching a unit upgrade.</li>
     <li>A technology with zero or completely ignored prerequisites must still match the color of the planet&rsquo;s technology specialty to use <i>Specialized Compounds</i>.</li>

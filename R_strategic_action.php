@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Strategic Action</header>
+<header><h1>Strategic Action</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '82.' counter(item, decimal);} </style>
 <p>During the action phase, the active player may perform a strategic action to resolve the primary ability on their strategy card.</p>
     <ol class="lrr">
@@ -12,11 +12,11 @@
     <li>When a player is resolving either the primary or secondary abilities from a strategy card, that player resolves each of the ability&rsquo;s effects from top to bottom.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_action_phase">Action Phase</a></li>
     <li><a href="/R_strategy_card">Strategy Card</a></li>

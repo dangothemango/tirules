@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Command Sheet</header>
+<header><h1>Command Sheet</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '19.' counter(item, decimal);} </style>
 <p>Each player has a command sheet that contains a strategy pool, a tactic pool, a fleet pool, a trade good area, and a quick reference.</p>
     <ol class="lrr">
@@ -10,12 +10,12 @@
     <li>Players who are familiar with the game can hide the quick reference by placing that portion of the command sheet under their faction sheets.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>When a command token is gained, it may be placed in any of the three pools if no specific pool is specified by the gaining effect.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_command_tokens">Command Tokens</a></li>
     <li><a href="/R_fleet_pool">Fleet Pool</a></li>

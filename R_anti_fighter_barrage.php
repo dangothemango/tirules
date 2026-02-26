@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Anti&ndash;Fighter Barrage <sub>(Unit Ability)</sub></header>
+<header><h1>Anti&ndash;Fighter Barrage <sub>(Unit Ability)</sub></h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '10.' counter(item, decimal);} </style>
 <p>A unit with the <sc>Anti&ndash;Fighter Barrage</sc> ability may be able to destroy an opponent&rsquo;s fighters at the onset of a space battle. During the <b>Anti&ndash;Fighter Barrage</b> step of the first round of space combat, players perform the following steps:</p>
     <ol class="lrr">
@@ -16,14 +16,14 @@
     <ol><li>If a player has to assign more hits than they have fighters in the active system, the excess hits have no effect.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A non&ndash;fighter ship cannot use its <sc>Sustain Damage</sc> ability to cancel a hit produced by an anti&ndash;fighter barrage roll.</li>
     <li>Effects such as the <i>Shields Holding</i> action card, which trigger on hits produced during space combat, may be used to cancel a hit produced by an anti&ndash;fighter barrage roll.</li>
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_destroyed">Destroyed</a></li>

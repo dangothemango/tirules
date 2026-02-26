@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Blockaded</header>
+<header><h1>Blockaded</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '14.' counter(item, decimal);} </style>
 <p>A player&rsquo;s unit with <sc>Production</sc> is blockaded if it is in a system that does not contain any of their ships and contains other players&rsquo; ships.</p>
     <ol class="lrr">
@@ -10,7 +10,7 @@
     <ol><li>While a player is blockading another player, the blockaded player cannot capture any of the blockading player&rsquo;s units.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>While a player is involved in a space combat in a system, their units in that system are not blockaded, as both players will have ships in the system. Consequently, they may capture their opponent&rsquo;s units.</li>
     <ol><li>If that player has a unit in another system that their opponent is blockading, they will be unable to capture their opponent&rsquo;s units.</li></ol>
@@ -18,7 +18,7 @@
     <li>When a ship moves, it does not blockade units in systems it moves through.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_capture">Capture</a></li>
     <li><a href="/R_producing_units">Producing Units</a></li>

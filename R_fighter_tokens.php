@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Fighter Tokens</header>
+<header><h1>Fighter Tokens</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '36.' counter(item, decimal);} </style>
 <p>A fighter token functions as a plastic fighter unit for all game purposes.</p>
     <ol class="lrr">
@@ -12,7 +12,7 @@
     <li>Fighter tokens come in values of one and three. A player can swap between these tokens as necessary.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>As each player only has ten plastic fighter figures, a player cannot have fighters in more than ten systems.</li>
     <li>Players may also swap fighter tokens for plastic pieces at any time.</li>
@@ -20,7 +20,7 @@
     <li>A future rule change will have any unaccompanied fighter tokens removed, instead of destroyed.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_component_limitations">Component Limitations</a></li>
     <li><a href="/R_infantry_tokens">Infantry Tokens</a></li>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Victory Points</header>
+<header><h1>Victory Points</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '98.' counter(item, decimal);} </style>
 <p>The first player to gain 10 victory points wins the game.</p>
     <ol class="lrr">
@@ -17,11 +17,11 @@
     <li>If the game ends because the speaker cannot reveal an objective card, the player with the most victory points is the winner. If one or more players are tied for having the most victory points, the tied player who is first in initiative order is the winner.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_agenda_card">Agenda Card</a></li>
     <li><a href="/R_imperial">Imperial</a></li>

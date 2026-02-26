@@ -1,7 +1,7 @@
+<?php ob_start(); ?>
 <!DOCTYPE html>
 <html>
 <head>
-<title>Twilight Imperium Rule Help</title>
 <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
 <meta content="utf-8" http-equiv="encoding"/>
 <meta name="author" content="BradleyΣ"/>
@@ -12,3 +12,21 @@
 <link rel="stylesheet" type="text/css" href="style.css"/>
 </head>
 <body>
+<?php
+$content = ob_get_clean();
+ob_start();
+register_shutdown_function(function() use ($content) {
+    $page_content = ob_get_clean();
+    
+    // Extract the header text
+    $page_title = 'Twilight Imperium Rule Help';
+    if (preg_match('/<header>(.*?)<\/header>/i', $page_content, $matches)) {
+        $page_title = strip_tags($matches[1]) . ' - Twilight Imperium Rules';
+    }
+    
+    // Output the complete page with dynamic title
+    echo $content;
+    echo '<title>' . htmlspecialchars($page_title) . '</title>';
+    echo $page_content;
+});
+?>

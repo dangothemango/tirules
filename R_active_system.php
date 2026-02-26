@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Active System</header>
+<header><h1>Active System</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '5.' counter(item, decimal);} </style>
 <p>The active system is the system that is activated during a tactical action.</p>
     <ol class="lrr">
@@ -11,7 +11,7 @@
     <li>A system remains the active system for the duration of the tactical action during which it was activated.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A player may only move into a nebula if it is the active system.</li>
     <li>No system is the active system during a component or strategic action.</li>
@@ -19,7 +19,7 @@
     <li>After activating a system during a tactical action, play will proceed to the <b>Movement</b> step.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_movement">Movement</a></li>
     <li><a href="/R_nebula">Nebula</a></li>

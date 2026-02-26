@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Speaker</header>
+<header><h1>Speaker</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '80.' counter(item, decimal);} </style>
 <p>The speaker is the player who has the speaker token.</p>
     <ol class="lrr">
@@ -14,12 +14,12 @@
     <li>If the speaker is eliminated from the game, the speaker token is passed to the player to the speaker&rsquo;s left.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>During the strategy and agenda phases, the speaker will have the first opportunity to resolve abilities during each timing window.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_agenda_card">Agenda Card</a></li>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Planets</header>
+<header><h1>Planets</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '64.' counter(item, decimal);} </style>
 <p>Planets provide players with resources and influence. Planets are on system tiles and each has a name, a resource value, and an influence value. Some planets also have traits.</p>
     <ol class="lrr">
@@ -17,7 +17,7 @@
     <li>A player cannot spend an exhausted planet&rsquo;s resources or influence.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Mecatol Rex and planets in home systems do not have traits.</li>
     <li>Planets with traits can be explored.</li>
@@ -26,7 +26,7 @@
     <li>A player may only exhaust their own planets, unless a game effect specifies otherwise.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_control">Control</a></li>
     <li><a href="/R_exploration">Exploration</a></li>

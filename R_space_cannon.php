@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Space Cannon <sub>(Unit Ability)</sub></header>
+<header><h1>Space Cannon <sub>(Unit Ability)</sub></h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '77.' counter(item, decimal);} </style>
 <p>A unit that has the <sc>Space Cannon</sc> ability can use it during two different steps of a player&rsquo;s tactical action: after the <b>Move Ships</b> substep (<b>Space Cannon Offense</b>) and during an invasion (<b>Space Cannon Defense</b>).</p>
     <ol class="lrr">
@@ -34,7 +34,7 @@
     <ol><li>Hits can only be assigned to units that are on the same planet as the units using the <sc>Space Cannon</sc> ability.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>&ldquo;<sc>Deep Space Cannon</sc>&rdquo; is not a term with meaning within the rules. It is, however, used within the notes on this website as a shorthand for <sc>Space Cannon</sc> abilities that can be used against ships in an adjacent system.</li>
     <li>The <b>Space Cannon Offense</b> step happens before combat. Any secret objectives that require winning a combat or similar cannot be scored if all of one player&rsquo;s ships in a system are destroyed during this step.</li>
@@ -47,7 +47,7 @@
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_active_player">Active Player</a></li>

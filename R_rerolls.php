@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Rerolls</header>
+<header><h1>Rerolls</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '74.' counter(item, decimal);} </style>
 <p>Some game effects instruct a player to reroll dice.</p>
     <ol class="lrr">
@@ -10,12 +10,12 @@
     <li>Die rerolls must occur after rolling the dice, before other abilities are resolved.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Effects that reroll &ldquo;combat rolls&rdquo; do not reroll anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_anti_fighter_barrage">Anti&ndash;Fighter Barrage</a></li>

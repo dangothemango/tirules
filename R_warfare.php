@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Warfare <sub>(Strategy Card)</sub></header>
+<header><h1>Warfare <sub>(Strategy Card)</sub></h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '99.' counter(item, decimal);} </style>
 <p>The <i>Warfare</i> strategy card allows a player to remove a command token from the board and redistribute their command tokens between their tactic, fleet, and strategy pools. This card&rsquo;s initiative value is &ldquo;6&rdquo;. During the action phase, if the active player has the <i>Warfare</i> strategy card, they can perform a strategic action to resolve that card&rsquo;s primary ability.</p>
 <p>To resolve the primary ability on the <i>Warfare</i> strategy card, the active player performs the following steps:</p>
@@ -12,12 +12,12 @@
     <ol><li>The command token is <b>not</b> placed in their home system.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>If the player with <i>Warfare</i> has no command tokens on the game board, they may still perform a strategic action. However, they will not gain a command token.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_action_phase">Action Phase</a></li>
     <li><a href="/R_command_sheet">Command Sheet</a></li>

@@ -1,19 +1,19 @@
 <?php include "prefix.php"?>
-<header>The Emirates of Hacan</header>
+<header><h1>The Emirates of Hacan</h1></header>
 <article>
-<h1>Masters of Trade</h1>
+<h2>Masters of Trade</h2>
     <ol class="note">
     <li>If the Hacan player has the Muaat player&rsquo;s <i>Alliance</i> promissory note, they will not gain a trade good from it when they use their Masters of Trade ability.</li>
     </ol>
 
-<h1>Guild Ships</h1>
+<h2>Guild Ships</h2>
     <ol class="note">
     <li>This ability does not make the Hacan player neighbors with all other players.</li>
     <li>Either player may initiate negotiations for a transaction.</li>
     <li>The Hacan player is still limited to one transaction with every other player per turn.</li>
     </ol>
 
-<h1>Arbiters</h1>
+<h2>Arbiters</h2>
     <ol class="note">
     <li>Any number of action cards may be traded.</li>
     <li>A player may receive action cards even if doing so would put them over the seven action card hand limit. They must immediately discard down to seven action cards in this case.</li>
@@ -21,7 +21,7 @@
     <li>If the Hacan player has their <i>Political Secret</i> played during an agenda, they may still trade action cards, as <sc>Arbiters</sc> is a passive ability.</li>
     </ol>
 
-<h1>Trade Convoys <sub>(Promissory Note)</sub></h1>
+<h2>Trade Convoys <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>This ability does not make the player neighbors with all other players.</li>
     <li>Either player may initiate negotiations for a transaction.</li>
@@ -32,30 +32,30 @@
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Hacan player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Trade Convoys</i> to be returned.</li>
     </ol>
 
-<h1>Production Biomes <sub>(Technology)</sub></h1>
+<h2>Production Biomes <sub>(Technology)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Quantum Datahub Node <sub>(Technology)</sub></h1>
+<h2>Quantum Datahub Node <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.</li>
     <li>In a three&ndash; or four&ndash;player game, the Hacan player chooses which strategy cards are swapped.</li>
     <li>The Hacan player must have three trade goods before they spend the command token; they cannot use the Muaat player&rsquo;s <i>Alliance</i> promissory note to gain the third trade good.</li>
     </ol>
 
-<h1>Wrath of Kenara <sub>(Flagship)</sub></h1>
+<h2>Wrath of Kenara <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>This ability may be triggered only once for each die rolled. The Hacan player cannot spend two (or more) trade goods to apply +2 (or more) to a single die, but they may spend two (or more) trade goods to apply +1 to each of two (or more) dice.</li>
     </ol>
 
-<h1>Carth of Golden Sands <sub>(Agent)</sub></h1>
+<h2>Carth of Golden Sands <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>A player that has their maximum number of commodities may have their commodities replenished. If this happens, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <i>Trade Agreement</i> promissory note.</li>
     <li>The Hacan player cannot have more than six commodities.</li>
     <li>The ability of Carth of Golden Sands cannot be resolved while another ability is resolving. For example, if the Hacan player is exploring an industrial planet and has revealed the card, they cannot use the ability of Carth of Golden Sands until after they resolve the card&rsquo;s effect.</li>
     </ol>
 
-<h1>Gila the Silvertongue <sub>(Commander)</sub></h1>
+<h2>Gila the Silvertongue <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>Additional votes must be cast for the same outcome as the other votes the Hacan player cast.</li>
     <ol>
@@ -64,23 +64,23 @@
     </ol>
     </ol>
 
-<h1>Harrugh Gefhara &mdash; Galactic Securities Net <sub>(Hero)</sub></h1>
+<h2>Harrugh Gefhara &mdash; Galactic Securities Net <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Production limits still apply.</li>
     </ol>
 
-<h1>Pride of Kenara <sub>(Mech)</sub></h1>
+<h2>Pride of Kenara <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>Structures are also moved.</li>
     <li>The planet cannot be traded during combat.</li>
     <li>If the Pride of Kenara is on a planet in a gravity rift, any units moved must roll for removal if the planet is transacted.</li>
     </ol>
 
-<h1>Auto&ndash;Factories <sub>(Breakthrough)</sub></h1>
+<h2>Auto&ndash;Factories <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Auto&ndash;Factories <sub>(Breakthrough)</sub></h1>
+<h2>Auto&ndash;Factories <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     </ol>
 </article>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Wormholes</header>
+<header><h1>Wormholes</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '101.' counter(item, decimal);} </style>
 <p>Some systems contain wormholes. Systems that contain identical wormholes are adjacent.</p>
     <ol class="lrr">
@@ -15,7 +15,7 @@
     </ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A system with a wormhole is not an anomaly.</li>
     <li>If a system contains multiple wormholes of the same type, those are treated as separate wormholes.</li>
@@ -29,7 +29,7 @@
     <li>For additional information on how the Creuss interact with wormholes, see <a href="/F_creuss">their faction notes page</a>.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_adjacency">Adjacency</a></li>
     <li><a href="/R_movement">Movement</a></li>

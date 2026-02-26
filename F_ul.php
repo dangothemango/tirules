@@ -1,11 +1,11 @@
 <?php include "prefix.php"?>
-<header>The Titans of Ul</header>
+<header><h1>The Titans of Ul</h1></header>
 <article>
-<h1>Terragenesis</h1>
+<h2>Terragenesis</h2>
     <ol class="note">
     </ol>
 
-<h1>Awaken <sub></sub></h1>
+<h2>Awaken <sub></sub></h2>
     <ol class="note">
     <li>Only sleeper tokens present in the system when it is activated may be replaced with PDS.</li>
     <li>A sleeper token that is placed during the <b>Activation</b> step, most commonly by using the <i>Scanlink Drone Network</i> technology and the <sc>Terragenesis</sc> ability, cannot be replaced via the <sc>Awaken</sc> ability during the same tactical action.</li>
@@ -13,7 +13,7 @@
     <li>If the Ul player places a PDS on a planet controlled by another player, and that player does not have any ground forces on that planet, the Ul player will destroy all of the other player&rsquo;s structures, and gain control of that planet immediately. If the other player has ground forces, then a ground combat will be resolved during the <b>Invasion</b> step of the tactical action.</li>
     </ol>
 
-<h1>Coalescence <sub></sub></h1>
+<h2>Coalescence <sub></sub></h2>
     <ol class="note">
     <li>Units placed on planets via the <sc>Awaken</sc> ability are not committed. They cannot be assigned hits during the <b>Space Cannon Defense</b> step.</li>
     <li>If the Ul player&rsquo;s units exist in the same location as another player&rsquo;s units, no game effect can prevent the combat from occuring, including effects that end the Ul player&rsquo;s turn.</li>
@@ -22,14 +22,14 @@
     <ol><li>This prevents the L1Z1X player from using their <sc>Harrow</sc> ability.</li></ol>
     </ol>
 
-<h1>Terraform <sub>(Promissory Note)</sub></h1>
+<h2>Terraform <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>Once played, <i>Terraform</i> is never returned to the Ul player.</li>
     <li>Once played, <i>Terraform</i> counts as being in the play area of the player who controls the planet.</li>
     <li>If a planet has multiple traits, the player exploring the planet chooses which of the corresponding exploration decks to draw from.</li>
     </ol>
 
-<h1>Hel&ndash;Titan <sub>(Unit)</sub></h1>
+<h2>Hel&ndash;Titan <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>The Ul player cannot use the secondary ability of the <i>Warfare</i> strategy card to use the <sc>Production</sc> ability of a Hel&ndash;Titan.</li>
     <li>When multiple units use their <sc>Production</sc> ability, the <sc>Production</sc> value is pooled. As such, if the Ul player has two Hel&ndash;Titans in a system, they may produce two infantry or two fighters for one resource, rather than two resources.</li>
@@ -38,22 +38,22 @@
     <li>If a player is able to ignore <sc>Planetary Shield</sc>, then Hel&ndash;Titan are eligible units to assign any hits produced by a bombardment roll.</li>
     </ol>
 
-<h1>Saturn Engine <sub>(Unit)</sub></h1>
+<h2>Saturn Engine <sub>(Unit)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Ouranos <sub>(Flagship)</sub></h1>
+<h2>Ouranos <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>Only PDS present in the system when it is activated may be replaced with the <i>Ouranos</i>.</li>
     <li>A PDS that is placed during the activation step, most commonly by using the <sc>Awaken</sc> ability, cannot be replaced with the <i>Ouranos</i> during the same tactical action.</li>
     </ol>
 
-<h1>Tellurian <sub>(Agent)</sub></h1>
+<h2>Tellurian <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>Cancelling a hit cannot be used to stop an effect that directly destroys a unit.</li>
     </ol>
 
-<h1>Tungstantus <sub>(Commander)</sub></h1>
+<h2>Tungstantus <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The trade good may be spent on the units produced by the <sc>Production</sc> ability that triggered Tungstantus.</li>
     <ol>
@@ -63,12 +63,12 @@
     <li>Other effects that produce units without a unit using its <sc>Production</sc> ability will not trigger Tungstantus.</li>
     </ol>
 
-<h1>Ul the Progenitor &mdash; Geoform <sub>(Hero)</sub></h1>
+<h2>Ul the Progenitor &mdash; Geoform <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The <sc>Space Cannon</sc> ability is controlled by whichever player controls Elysium.</li>
     </ol>
 
-<h1>Hecatoncheires <sub>(Mech)</sub></h1>
+<h2>Hecatoncheires <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>When the Ul player would place multiple PDS during a single step, they may resolve a <sc>Deploy</sc> ability to place one Hecatoncheires for any or all of those PDS.</li>
     <li>A <sc>Deploy</sc> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four of the Hecatoncheires are already on the board, no Hecatoncheires may be deployed.</li>
@@ -76,7 +76,7 @@
     <li>The Ul player must have at least one PDS in their reinforcements to place in order to use the <sc>Deploy</sc> ability of a Hecatoncheires. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <sc>Deploy</sc> ability of a Hecatoncheires.</li>
     </ol>
 
-<h1>Slumberstate Computing <sub>(Breakthrough)</sub></h1>
+<h2>Slumberstate Computing <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Ul player does not have to be neighbors with the player that agrees to have a sleeper token placed on their planet.</li>
     <li>Agreeing to have a sleeper token placed is not in and of itself a transaction, though the deal may involve a transaction.</li>

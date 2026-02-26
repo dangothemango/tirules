@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Agendas</header>
+<header><h1>Agendas</h1></header>
 <article>
-<h1>Anti&ndash;Intellectual Revolution</h1>
+<h2>Anti&ndash;Intellectual Revolution</h2>
     <ol class="note">
     <li>When <i>Anti&ndash;Intellectual Revolution</i> is a law in play, a player that directly gains a technology will be unaffected.</li>
     <ol><li>The Nekro player is never affected by the <i>Anti&ndash;Intellectual Revolution</i> law.</li></ol>
@@ -10,36 +10,36 @@
     <li>A player may only exhaust planets they control for the &ldquo;Against&rdquo; effect of <i>Anti&ndash;Intellectual Revolution</i>.</li>
     </ol>
 
-<h1>Archived Secret</h1>
+<h2>Archived Secret</h2>
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.</li>
 	<li>If a player draws the <i>Drive the Debate</i> secret objective while resolving <i>Archived Secret</i>, they cannot score it immediately.</li>
     </ol>
 
-<h1>Armed Forces Standardization</h1>
+<h2>Armed Forces Standardization</h2>
     <ol class="note">
     </ol>
 
-<h1>Arms Reduction</h1>
+<h2>Arms Reduction</h2>
     <ol class="note">
     </ol>
 
-<h1>Articles of War</h1>
+<h2>Articles of War</h2>
     <ol class="note">
     </ol>
 
-<h1>Checks and Balances</h1>
+<h2>Checks and Balances</h2>
     <ol class="note">
     <li>If there are any trade goods on a chosen strategy card while <i>Checks and Balances</i> is a law in play, the player who chose the strategy card gains them, not the player who receives that card.</li>
     <li>The <i>Public Disgrace</i> action card may be played after a player has chosen a strategy card and announced which player will be receiving it. The player must choose a different strategy card, and then choose the same or a different player to receive it.</li>
     </ol>
 
-<h1>Clandestine Operations</h1>
+<h2>Clandestine Operations</h2>
     <ol class="note">
     <li>If the &ldquo;For&rdquo; effect of <i>Clandestine Operations</i> is resolved, the removed tokens may be from any pool or pools on a player&rsquo;s command sheet.</li>
     </ol>
 
-<h1>Classified Document Leaks</h1>
+<h2>Classified Document Leaks</h2>
     <ol class="note">
     <li>If <i>Classified Document Leaks</i> is revealed when only one secret objective is in play, players may only vote for that secret objective or abstain. If no votes are cast, the speaker must decide for that secret objective to be elected.</li>
     <ol><li>Players may still play riders if only one secret objective has been scored.</li></ol>
@@ -54,13 +54,13 @@
     </ol>
     </ol>
 
-<h1>Colonial Redistribution</h1>
+<h2>Colonial Redistribution</h2>
     <ol class="note">
     <li>If the player that originally controlled the elected planet has the fewest victory points, they may choose themselves to place an infantry on that planet.</li>
     <li>If the elected planet has the <i>Demilitarized Zone</i> exploration card attached, no infantry will be placed on it. Control of the planet will remain with the original player.</li>
     </ol>
 
-<h1>Committee Formation</h1>
+<h2>Committee Formation</h2>
     <ol class="note">
     <li><i>Committee Formation</i> is resolved after any riders have been played, if the owner so chooses. Riders will resolve if the predicted outcome matches the player elected by the effect of <i>Committee Formation</i>.</li>
     <ol><li>The owner of <i>Committee Formation</i> may play riders before they resolve <i>Committee Formation</i>.</li></ol>
@@ -68,7 +68,7 @@
     <ol><li>The <i>Deadly Plot</i> action card may be played after <i>Committee Formation</i> has been discarded to discard the agenda without resolving it, but only if that player predicted a different outcome from some other game effect.</li></ol>
     </ol>
 
-<h1>Compensated Disarmament</h1>
+<h2>Compensated Disarmament</h2>
     <ol class="note">
     <li>All trade goods are gained together.</li>
     <li>Each destroyed infantry will provide one trade good and each destroyed mech will provide one trade good.</li>
@@ -77,17 +77,17 @@
     <ol><li>The Titans of Ul&rsquo;s Hel&ndash;Titans are also ground forces and are thus affected by <i>Compensated Disarmament</i>.</li></ol>
     </ol>
 
-<h1>Conventions of War</h1>
+<h2>Conventions of War</h2>
     <ol class="note">
     <li>When <i>Conventions of War</i> is a law in play a player may still use the <i>Tactical Bombardment</i> action card, the <i>X&ndash;89 Bacterial Weapon</i> technology or the <i>Stellar Converter</i> relic on a cultural planet.</li>
     </ol>
 
-<h1>Core Mining</h1>
+<h2>Core Mining</h2>
     <ol class="note">
     <li>A planet with zero infantry on it may be elected.</li>
     </ol>
 
-<h1>Covert Legislation</h1>
+<h2>Covert Legislation</h2>
     <ol class="note">
     <li>If the Speaker draws <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i>, when that agenda would be discarded if revealed, both the hidden agenda and <i>Covert Legislation</i> are discarded.</li>
     <li>Any effects that take place when or after an agenda is revealed instead take place when or after the speaker has drawn and announced the possible outcomes for the hidden agenda.</li>
@@ -96,26 +96,26 @@
     <li>The speaker may still vote on <i>Covert Legislation</i>.</li>
     </ol>
 
-<h1>The Crown of Emphidia</h1>
+<h2>The Crown of Emphidia</h2>
     <ol class="note">
     <li>If <i>The Crown of Emphidia</i> law is discarded, no player loses a victory point.</li>
     <li>If the player that gains <i>The Crown of Emphidia</i> controls no planets in their home system, they cannot lose it.</li>
     </ol>
 
-<h1>The Crown of Thalnos</h1>
+<h2>The Crown of Thalnos</h2>
     <ol class="note">
     </ol>
 
-<h1>Demilitarized Zone</h1>
+<h2>Demilitarized Zone</h2>
     <ol class="note">
     </ol>
 
-<h1>Economic Equality</h1>
+<h2>Economic Equality</h2>
     <ol class="note">
     <li>If the &ldquo;For&rdquo; outcome of <i>Economic Equality</i> is resolved, the Mentak player may resolve their <sc>Pillage</sc> faction ability against each of their neighbors.</li>
     </ol>
 
-<h1>Enforced Travel Ban</h1>
+<h2>Enforced Travel Ban</h2>
     <ol class="note">
     <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the Creuss player.</li>
     <li><i>Enforced Travel Ban</i> only prevents movement using the normal adjacency provided by wormholes. Other effects that create adjacency, such as the <i>Wormhole Reconstruction</i> agenda or the <i>Lost Star Chart</i> action card, may be used to allow movement between systems containing wormholes.</li>
@@ -125,18 +125,18 @@
     <li>The &ldquo;Against&rdquo; effect of <i>Enforced Travel Ban</i> will affect PDS in or adjacent to systems containing an alpha, beta, delta or gamma wormhole.</li>
     </ol>
 
-<h1>Executive Sanctions</h1>
+<h2>Executive Sanctions</h2>
     <ol class="note">
     <li>The effect of the <i>Executive Sanctions</i> law does not affect the Yssaril player.</li>
     </ol>
 
-<h1>Fleet Regulations</h1>
+<h2>Fleet Regulations</h2>
     <ol class="note">
     <li>The effect of the <i>Fleet Regulations</i> law does not prevent the Letnev player from using their <sc>Armada</sc> faction ability. They may have up to six non&ndash;fighter ships in a system if they have four command tokens in their fleet pool.</li>
     <li>The Mahact player may only have up to four command tokens in their fleet pool when the <i>Fleet Regulations</i> law is in play, regardless of which faction the command tokens belong to.</li>
     </ol>
 
-<h1>Galactic Crisis Pact</h1>
+<h2>Galactic Crisis Pact</h2>
     <ol class="note">
     <li>Players resolve the secondary ability of the elected strategy card in speaker order.</li>
     <li>The secondary ability is resolved immediately, during the agenda phase.</li>
@@ -146,23 +146,23 @@
     <li>If a player has a strategy card in their play area due to the effect of the <i>Political Stability</i> action card, that strategy card is eligible to be elected.</li>
     </ol>
 
-<h1>Holy Planet of Ixth</h1>
+<h2>Holy Planet of Ixth</h2>
     <ol class="note">
     <li>If the <i>Holy Planet of Ixth</i> law is discarded, no player loses a victory point.</li>
     </ol>
 
-<h1>Homeland Defense Act</h1>
+<h2>Homeland Defense Act</h2>
     <ol class="note">
     <li>If the <i> Homeland Defense Act</i> law is discarded, players might have to remove PDS so that they have no more than two on each planet.</li>
     </ol>
 
-<h1>Imperial Arbiter</h1>
+<h2>Imperial Arbiter</h2>
     <ol class="note">
     <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.</li>
     <li>In a three&ndash; or four&ndash;player game, the owner of <i>Imperial Arbiter</i> chooses which strategy cards are swapped.</li>
     </ol>
 
-<h1>Incentive Program</h1>
+<h2>Incentive Program</h2>
     <ol class="note">
     </ol>
 
@@ -176,7 +176,7 @@ li.ixth:before
     font-family: helv, Arial, sans-serif;
 }
 </style>
-<h1>Ixthian Artifact</h1>
+<h2>Ixthian Artifact</h2>
     <ol class="note">
     <li>A player must still meet the prerequisites for the technology they research.</li>
     <ol>
@@ -189,29 +189,29 @@ li.ixth:before
     <li class="ixth">To cast votes against or to play a rider on <i>Ixthian Artifact</i> is to commit heresy.</li>
     </ol>
 
-<h1>Judicial Abolishment</h1>
+<h2>Judicial Abolishment</h2>
     <ol class="note">
     <li>If <i>Judicial Abolishment</i> is revealed when only one law is in play, players may only vote for that law or abstain. If no votes are cast, the speaker must decide for that law to be elected.</li>
     <ol><li>Players may still play riders if only one law is in play.</li></ol>
     </ol>
 
-<h1>Minister of Antiquities</h1>
+<h2>Minister of Antiquities</h2>
     <ol class="note">
     </ol>
 
-<h1>Minister of Commerce</h1>
+<h2>Minister of Commerce</h2>
     <ol class="note">
 	<li><i>Minister of Commerce</i> triggers when its owner has their commodities replenished by any game effect.</li>
     <ol><li>Gaining a fixed number of commodities does not trigger <i>Minister of Commerce</i>, even if doing so would result in its owner having commodities equal to their commodity value.</li></ol>
     <li>All trade goods are gained together.</li>
     </ol>
 
-<h1>Minister of Exploration</h1>
+<h2>Minister of Exploration</h2>
     <ol class="note">
     <li>If the owner of <i>Minister of Exploration</i> gains control of multiple planets during one invasion, the trade goods are gained one at a time.</li>
     </ol>
 
-<h1>Minister of Industry</h1>
+<h2>Minister of Industry</h2>
     <ol class="note">
     <li>All units in that system may use their <sc>Production</sc> ability, not just the placed space dock.</li>
     <li>The produced units must be paid for.</li>
@@ -220,7 +220,7 @@ li.ixth:before
     <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <i>Infiltrate</i> action card, will trigger <i>Minister of Industry</i>.</li>
     </ol>
 
-<h1>Minister of Peace</h1>
+<h2>Minister of Peace</h2>
     <ol class="note">
     <li>Once a player resolves the ability of <i>Minister of Peace</i>, the active player cannot use any &ldquo;after you activate a system&rdquo; abilities.</li>
     <ol><li>Other players, including the <i>Minister of Peace</i> player, cannot use any &ldquo;after another player activates a system that&hellip;&rdquo; abilities.</li></ol>
@@ -228,23 +228,23 @@ li.ixth:before
     <li>The player that owns <i>Minister of Peace</i> does not have to have any of their units in the active system to resolve <i>Minister of Peace</i>, so long as any non&ndash;active player owns at least one unit in the active system.</li>
     </ol>
 
-<h1>Minister of Policy</h1>
+<h2>Minister of Policy</h2>
     <ol class="note">
     <li>The owner of <i>Minister of Policy</i> will draw action cards during the <b>Draw Action Cards</b> step of the status phase, and again at the end of the status phase.</li>
     <ol><li>If the Yssaril player owns <i>Minister of Policy</i>, they will use their <sc>Scheming</sc> ability for both the <b>Draw Action Cards</b> step and for <i>Minister of Policy</i>. However, they do not draw all the cards together; they must fully resolve <sc>Scheming</sc> by discarding an action card for the <b>Draw Action Cards</b> step before drawing any action cards for <i>Minister of Policy</i>.</li></ol>
     <li><i>Neural Motivator</i> does not apply when the owner of <i>Minister of Policy</i> draws action cards from its effect.</li>
     </ol>
 
-<h1>Minister of Sciences</h1>
+<h2>Minister of Sciences</h2>
     <ol class="note">
     </ol>
 
-<h1>Minister of War</h1>
+<h2>Minister of War</h2>
     <ol class="note">
     <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s action.</li>
     </ol>
 
-<h1>Miscount Disclosed</h1>
+<h2>Miscount Disclosed</h2>
     <ol class="note">
     <li>If <i>Miscount Disclosed</i> is revealed when only one law is in play, players may only vote for that law or abstain. If no votes are cast, the speaker must decide for that law to be elected.</li>
     <ol><li>Players may still play riders if only one law is in play.</li></ol>
@@ -272,17 +272,17 @@ li.ixth:before
     <li>If <i>Holy Planet of Ixth</i>, <i>Shard of the Throne</i> or <i>The Crown of Emphidia</i> is elected by <i>Miscount Disclosed</i>, the owner will not lose a victory point.</li>
     </ol>
 
-<h1>Mutiny</h1>
+<h2>Mutiny</h2>
     <ol class="note">
     <li>If the &ldquo;For&rdquo; outcome of <i>Mutiny</i> is resolved, players gain victory points in speaker order.</li>
     </ol>
 
-<h1>New Constitution</h1>
+<h2>New Constitution</h2>
     <ol class="note">
     <li>If a player controls planets in another player&rsquo;s home system, those planets are not exhausted by the &ldquo;For&rdquo; outcome of <i>New Constitution</i>.</li>
     </ol>
 
-<h1>Nexus Sovereignty</h1>
+<h2>Nexus Sovereignty</h2>
     <ol class="note">
     <li>The effect of the <i>Nexus Sovereignty</i> law does not affect the Creuss player.</li>
     <li>When the <i>Nexus Sovereignty</i> law is in play, units cannot move through the alpha and beta wormholes in the wormhole nexus, even by effects that move ships outside of the movement step of a tactical action, such as while retreating.</li>
@@ -290,21 +290,21 @@ li.ixth:before
     <li>Players may still be neighbors via systems that are adjacent via wormholes.</li>
     </ol>
 
-<h1>Political Censure</h1>
+<h2>Political Censure</h2>
     <ol class="note">
     <li>When a player is elected for <i>Political Censure</i>, they may play the <i>Confusing Legal Text</i> or <i>Deadly Plot</i> action cards before it resolves.</li>
     </ol>
 
-<h1>Prophecy of Ixth</h1>
+<h2>Prophecy of Ixth</h2>
     <ol class="note">
     <li>Other effects that produce units without a unit using its <sc>Production</sc> ability will not cause <i>Prophecy of Ixth</i> to be discarded.</li>
     </ol>
 
-<h1>Public Execution</h1>
+<h2>Public Execution</h2>
     <ol class="note">
     </ol>
 
-<h1>Publicize Weapon Schematics</h1>
+<h2>Publicize Weapon Schematics</h2>
     <ol class="note">
     <li>If the <i>Publicize Weapon Schematics</i> law is in play, and a player is the first to gain the war sun unit upgrade technology, from then on, prerequisites for the war sun unit upgrade technology will be ignored.</li>
     <li>If the Muaat does not own their Prototype War Sun II faction unit upgrade technology, they do not own a war sun technology.</li>
@@ -315,22 +315,22 @@ li.ixth:before
     <li>The Muaat player&rsquo;s Prototype War Sun will lose its <sc>Sustain Damage</sc> ability, regardless of if the Muaat player owns their Prototype War Sun II faction unit upgrade technology.</li>
     </ol>
 
-<h1>Rearmament Agreement</h1>
+<h2>Rearmament Agreement</h2>
     <ol class="note">
     <li>A player that controls no planets in their home system will not place a mech if the &ldquo;For&rdquo; outcome of Rearmament Agreement is resolved.</li>
     <li>If a player wishes to place a mech, but there are none in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.</li>
     <li>A player that has no mechs on the game board is unaffected by the &ldquo;Against&rdquo; effect of Rearmament Agreement.</li>
     </ol>
 
-<h1>Regulated Conscription</h1>
+<h2>Regulated Conscription</h2>
     <ol class="note">
     </ol>
 
-<h1>Representative Government</h1>
+<h2>Representative Government</h2>
     <ol class="note">
     </ol>
 
-<h1>Research Grant Reallocation</h1>
+<h2>Research Grant Reallocation</h2>
     <ol class="note">
     <li>A player may gain any technology, regardless of the number of command tokens in their fleet pool.</li>
     <ol><li>If a player must remove more command tokens than they have in their fleet pool, they remove all their command tokens from their fleet pool instead.</li></ol>
@@ -338,73 +338,73 @@ li.ixth:before
     <ol><li>A player cannot exhaust a planet with a technology specialty to reduce the number of command tokens they remove.</li></ol>
     </ol>
 
-<h1>Research Team: Biotic</h1>
+<h2>Research Team: Biotic</h2>
     <ol class="note">
     <li>The agenda card, not the planet, is exhausted to ignore the prerequisite.</li>
     </ol>
 
-<h1>Research Team: Cybernetic</h1>
+<h2>Research Team: Cybernetic</h2>
     <ol class="note">
     <li>The agenda card, not the planet, is exhausted to ignore the prerequisite.</li>
     </ol>
 
-<h1>Research Team: Propulsion</h1>
+<h2>Research Team: Propulsion</h2>
     <ol class="note">
     <li>The agenda card, not the planet, is exhausted to ignore the prerequisite.</li>
     </ol>
 
-<h1>Research Team: Warfare</h1>
+<h2>Research Team: Warfare</h2>
     <ol class="note">
     <li>The agenda card, not the planet, is exhausted to ignore the prerequisite.</li>
     </ol>
 
-<h1>Search Warrant</h1>
+<h2>Search Warrant</h2>
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.</li>
     <li>If the elected player has three secret objective cards, and they would draw another, the drawn secret objective card is revealed before that player chooses which card to discard. This applies both when the elected player initially draws the secret objective cards from the effect of <i>Search Warrant</i> when they are elected, and if they later draw secret objective cards from another effect.</li>
 	<li>If a player draws the <i>Drive the Debate</i> secret objective while resolving <i>Search Warrant</i>, they cannot score it immediately.</li>
     </ol>
 
-<h1>Seed of an Empire</h1>
+<h2>Seed of an Empire</h2>
     <ol class="note">
     <li>If multiple players have the most or fewest victory points, they gain victory points in speaker order.</li>
     </ol>
 
-<h1>Senate Sanctuary</h1>
+<h2>Senate Sanctuary</h2>
     <ol class="note">
     </ol>
 
-<h1>Shard of the Throne</h1>
+<h2>Shard of the Throne</h2>
     <ol class="note">
     <li>If the <i>Shard of the Throne</i> law is discarded, no player loses a victory point.</li>
     </ol>
 
-<h1>Shared Research</h1>
+<h2>Shared Research</h2>
     <ol class="note">
     <li>If the <i>Shared Research</i> law is in play, a player still cannot move into a nebula unless it is the active system.</li>
     <li>If the <i>Shared Research</i> law is in play, a ship that begins the <b>Movement</b> step of a tactical action in a nebula still treats its move value as one for the duration of that step.</li>
     </ol>
 
-<h1>Swords to Plowshares</h1>
+<h2>Swords to Plowshares</h2>
     <ol class="note">
     <li>Mechs are ignored by the &ldquo;For&rdquo; effect of <i>Swords to Plowshares.</i></li>
     </ol>
 
-<h1>Terraforming Initiative</h1>
+<h2>Terraforming Initiative</h2>
     <ol class="note">
     </ol>
 
-<h1>Unconventional Measures</h1>
+<h2>Unconventional Measures</h2>
     <ol class="note">
     </ol>
 
-<h1>Wormhole Reconstruction</h1>
+<h2>Wormhole Reconstruction</h2>
     <ol class="note">
     <li>While <i>Wormhole Reconstruction</i> is in play, <i>Enforced Travel Ban</i> will have no effect.</li>
     <li>The &ldquo;Against&rdquo; effect of <i>Wormhole Reconstruction</i> will cause each player to place command tokens in each system that contains an alpha, beta, delta or gamma wormhole and one or more of that player&rsquo;s ships.</li>
     </ol>
 
-<h1>Wormhole Research</h1>
+<h2>Wormhole Research</h2>
     <ol class="note">
     <li>A player with ships in a delta or gamma wormhole may research a technology from the &ldquo;For&rdquo; effect. Those ships will not be destroyed.</li>
     <ol><li>If a system contains both a delta and gamma wormhole and an alpha or beta wormhole, such as the active wormhole nexus, then ships in that system will be destroyed.</li></ol>

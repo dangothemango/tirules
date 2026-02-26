@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Commodities</header>
+<header><h1>Commodities</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '21.' counter(item, decimal);} </style>
 <p>Commodities represent goods that are plentiful for their own faction and are desired by other factions. A commodity has no inherent game effects, but converts into a trade good if given to or received from another player.</p>
     <ol class="lrr">
@@ -20,13 +20,13 @@
     <li>Commodity tokens come in values of one and three. A player can swap between these tokens as necessary.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A player starts the game with zero commodities.</li>
     <li>If a player has their maximum number of commodities, and is instructed to replenish their commodities, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <i>Trade Agreement</i> promissory note.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_deals">Deals</a></li>
     <li><a href="/R_trade">Trade</a></li>

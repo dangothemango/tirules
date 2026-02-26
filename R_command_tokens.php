@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Command Tokens</header>
+<header><h1>Command Tokens</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '20.' counter(item, decimal);} </style>
 <p>Command tokens are a currency that players use to perform actions and expand their fleets.</p>
     <ol class="lrr">
@@ -22,11 +22,11 @@
     <li>If a game effect would place a player&rsquo;s command token in a system where they already have one, they place the token in their reinforcements instead. Any effects that resolve by placing that token are resolved as normal.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_command_sheet">Command Sheet</a></li>
     <li><a href="/R_fleet_pool">Fleet Pool</a></li>

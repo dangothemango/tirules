@@ -1,10 +1,10 @@
 <?php include "prefix.php"?>
-<header>The Fracture</header>
+<header><h1>The Fracture</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <p>There currently does not exist a Living Rules Reference section regarding The Fracture.</p>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>The Fracture consists of additional systems beyond the regular bounds of the game map.</li>
     <li>When a player gains their breakthrough, they roll a dice. On a result of 1 or 10, The Fracture enters play. Other game effects may also bring The Fracture into play.</li>
@@ -26,7 +26,7 @@
     <li>When a player gains control of a planet in The Fracture that is not already controlled by another player, they draw one relic card.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_breakthroughs">Breakthroughs</a></li>
     <li><a href="/R_neutral_units">Neutral Units</a></li>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Strategy Phase</header>
+<header><h1>Strategy Phase</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '84.' counter(item, decimal);} </style>
 <p>During the strategy phase, each player chooses a strategy card to use during the round.</p>
 <p>To resolve the strategy phase, players perform the following steps:</p>
@@ -17,12 +17,12 @@
     <p>Then, players proceed to the action phase.</p>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>If a player chooses a strategy card, but later loses it, they will keep any trade goods that were on the strategy card.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_action_phase">Action Phase</a></li>
     <li><a href="/R_game_round">Game Round</a></li>

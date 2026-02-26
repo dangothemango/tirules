@@ -1,23 +1,23 @@
 <?php include "prefix.php"?>
-<header>The Empyrean</header>
+<header><h1>The Empyrean</h1></header>
 <article>
-<h1>Voidborn</h1>
+<h2>Voidborn</h2>
     <ol class="note">
     <li>This effect also applies outside the <b>Movement</b> step.</li>
     <li>The Empyrean player treats nebulae as nebulae and as anomalies for all other game purposes.</li>
     <ol><li>When the Empyrean player is the defender during a space combat in a nebula, they will receive the +1 to their combat rolls.</li></ol>
     </ol>
 
-<h1>Aetherpassage</h1>
+<h2>Aetherpassage</h2>
     <ol class="note">
     <li>The Empyrean player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.</li>
     </ol>
 
-<h1>Dark Whispers</h1>
+<h2>Dark Whispers</h2>
     <ol class="note">
     </ol>
 
-<h1>Blood Pact <sub>(Promissory Note)</sub></h1>
+<h2>Blood Pact <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>Both players must cast at least one vote to trigger the additional votes.</li>
     <ol><li>If either player cannot vote on an agenda, then the additional votes will not trigger for that agenda.</li></ol>
@@ -27,7 +27,7 @@
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Blood Pact</i> to be returned.</li>
     </ol>
 
-<h1>Dark Pact <sub>(Promissory Note)</sub></h1>
+<h2>Dark Pact <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player cannot have more commodities than their commodity value.</li>
     <li>If the Empyrean player plays a player&rsquo;s <i>Trade Agreement</i> promissory note, this will count for that player giving the Empyrean player all their commodities.</li>
@@ -39,19 +39,19 @@
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Dark Pact</i> to be returned.</li>
     </ol>
 
-<h1>Aetherstream <sub>(Technology)</sub></h1>
+<h2>Aetherstream <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The Empyrean player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.</li>
     <li>A system is not adjacent to itself. If a system with an anomaly is activated, <i>Aetherstream</i> will not give any ships +1 to their move value, unless that system is adjacent to another anomaly.</li>
     </ol>
 
-<h1>Voidwatch <sub>(Technology)</sub></h1>
+<h2>Voidwatch <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The active player chooses which promissory note they give the Empyrean player.</li>
     <li>Giving a promissory note because of <i>Voidwatch</i> is not resolving a transaction.</li>
     </ol>
 
-<h1>Dynamo <sub>(Flagship)</sub></h1>
+<h2>Dynamo <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>A unit may only use its <sc>Sustain Damage</sc> ability once in each <b>Assign Hits</b> step, even if it is repaired.</li>
     <li>A unit that becomes damaged without using its <sc>Sustain Damage</sc> ability will not trigger this effect.</li>
@@ -60,13 +60,13 @@
     <ol><li>As an example, The Dark may be exhausted to repair only one ship, not two.</li></ol>
     </ol>
 
-<h1>Acamar <sub>(Agent)</sub></h1>
+<h2>Acamar <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>Exhausting Acamar is a cost. Acamar cannot be used if it is exhausted.</li>
     <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.</li>
     </ol>
 
-<h1>Xuange <sub>(Commander)</sub></h1>
+<h2>Xuange <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>While the agenda phase and the Hacan player&rsquo;s <i>Trade Convoys</i> promissory note allow a player to resolve transactions with all other players, they do not make that player neighbors with all other players.</li>
     <li>Any movement of ships can trigger this ability, not just movement during the <b>Move Ships</b> step of a tactical action.</li>
@@ -74,14 +74,14 @@
     <li>If the Empyrean player moves a ship into a system containing one of the Saar player&rsquo;s Floating Factories, and no other ships, that Floating Factory will by blockaded and destroyed before the Empyrean player can unlock Xuange. If the Empyrean and Saar players are not neighbors in any other way, then Xuange will not unlock.</li>
     </ol>
 
-<h1>Conservator Procyon &mdash; Multiverse Shift <sub>(Hero)</sub></h1>
+<h2>Conservator Procyon &mdash; Multiverse Shift <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The Empyrean player chooses the order of exploration.</li>
     <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets. <i>Multiverse Shift</i> will place a frontier token in such a system.</li>
     <li>If The Fracture is in play when the Empyrean player resolves <i>Multiverse Shift</i>, frontier tokens will be placed in the systems in The Fracture that do not contain a planet, and then the Empyrean player will explore those tokens if they have ships present.</li>
     </ol>
 
-<h1>Watcher <sub>(Mech)</sub></h1>
+<h2>Watcher <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>This effect may cancel a <i>Sabotage</i> action card.</li>
     <li>The Watcher must be adjacent to the other player&rsquo;s units during the timing window when the action card is played in order to cancel it.</li>
@@ -100,7 +100,7 @@
     <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <i>Fleet Logistics</i> technology, the active player may end their turn without performing a second action and without passing.</li></ol>
     </ol>
 
-<h1>Void Tether <sub>(Breakthrough)</sub></h1>
+<h2>Void Tether <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>Other players treat the systems that share the border with the Void Tether token as not being adjacent for all game effects. The Empyrean player continues to treat them as adjacent.</li>
     <ol>

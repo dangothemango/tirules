@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Initiative Order</header>
+<header><h1>Initiative Order</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '48.' counter(item, decimal);} </style>
 <p>Initiative order is the order in which players resolve steps of the action and status phases.</p>
     <ol class="lrr">
@@ -12,7 +12,7 @@
     <li>When playing with three or four players, a player&rsquo;s initiative is determined only by their lowest&ndash;numbered strategy card.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>If there are multiple abilities that players wish to resolve at the same time during the action phase, initiative order will determine the order they are resolved in. See the <a href="/R_abilities">abilities page</a> for more details.</li>
     <li>The initiative order of all strategy cards is:</li>
@@ -28,7 +28,7 @@
     </ol>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_action_phase">Action Phase</a></li>

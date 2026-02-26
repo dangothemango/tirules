@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Attach</header>
+<header><h1>Attach</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '12.' counter(item, decimal);} </style>
 <p>Some game effects instruct a player to attach a card to a planet card. The attached card modifies that planet card in some way.</p>
     <ol class="lrr">
@@ -14,13 +14,13 @@
     <li>When a card is attached to a planet card, place the corresponding attachment token on that planet on the game board.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>There is no limit on how many attachments a single planet may have.</li>
     <li>The Custodians Token is not an attachment.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_agenda_card">Agenda Card</a></li>
     <li><a href="/R_control">Control</a></li>

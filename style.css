@@ -63,7 +63,15 @@ article
     padding: 2em 6em;
     flex: 1 0 auto;
 }
-article > h1
+header h1
+{
+    margin: 0;
+    padding: 0;
+    font-size: inherit;
+    font-weight: inherit;
+    font-family: inherit;
+}
+article > h1, article > h2
 {
     column-span: all;
     margin: 0;
@@ -248,7 +256,7 @@ header, footer
         column-gap: 2.4em;
         padding: 0.8em 2.4em;
     }
-    article > h1
+    article > h1, article > h2
     {
         font-size: 200%;
     }

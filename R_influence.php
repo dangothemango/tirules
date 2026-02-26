@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Influence</header>
+<header><h1>Influence</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '47.' counter(item, decimal);} </style>
 <p>Influence represents a planet&rsquo;s political power. Players spend influence to gain command tokens using the <i>Leadership</i> strategy card, and the influence values of planets are used to cast votes during the agenda phase.</p>
     <ol class="lrr">
@@ -11,11 +11,11 @@
     <ol><li>Players cannot spend trade goods to cast votes during the agenda phase.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_agenda_phase">Agenda Phase</a></li>
     <li><a href="/R_custodians_token">Custodians Token</a></li>

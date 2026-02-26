@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Gravity Rift</header>
+<header><h1>Gravity Rift</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '41.' counter(item, decimal);} </style>
 <p>A gravity rift is an anomaly that affects movement.</p>
     <ol class="lrr">
@@ -17,7 +17,7 @@
     <li>A system that contains multiple gravity rifts is treated as a single gravity rift.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Moving into a gravity rift, usually when it is the active system, will not provide the +1, nor will the ships have to roll for removal.</li>
     <li>A ship removed by a gravity rift is not destroyed.</li>
@@ -36,7 +36,7 @@
     <li>A future rule change will place the ship movement restrictions of anomalies upon all units.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_anomalies">Anomalies</a></li>
     <li><a href="/R_movement">Movement</a></li>

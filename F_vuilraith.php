@@ -1,14 +1,14 @@
 <?php include "prefix.php"?>
-<header>The Vuil&rsquo;raith Cabal</header>
+<header><h1>The Vuil&rsquo;raith Cabal</h1></header>
 <article>
-<h1>Devour</h1>
+<h2>Devour</h2>
     <ol class="note">
     <li>When an opponent&rsquo;s Infantry II is destroyed during combat, the Vuil&rsquo;raith player captures an infantry token, and the opponent rolls for resurrection, placing the destroyed infantry on the Infantry II unit upgrade card if successful.</li>
     <li>The Vuil&rsquo;raith player cannot capture the Ul player&rsquo;s Hel Titan PDS.</li>
     <li>For additional information, see the <a href="/R_capture">Capture rules reference page</a>.</li>
     </ol>
 
-<h1>Amalgamation</h1>
+<h2>Amalgamation</h2>
     <ol class="note">
     <li>If the Vuil&rsquo;raith player produces multiple units, their <sc>Amalgamation</sc> ability may be applied to each.</li>
     <li>If the Vuil&rsquo;raith player has captured their own units, they may use their <sc>Amalgamation</sc> ability when producing a unit of that type, even of they have no other units of that type in their reinforcements.</li>
@@ -18,11 +18,11 @@
     <li>If the Vuil&rsquo;raith player has the Naalu or Yin player&rsquo;s <i>Alliance</i> promissory note, they may spend one resource for one fighter or infantry, but spend a captured unit instead of that resource, then get one additional fighter or infantry for no cost, which will not count towards their production limit.</li>
     </ol>
 
-<h1>Riftmeld</h1>
+<h2>Riftmeld</h2>
     <ol class="note">
     </ol>
 
-<h1>Crucible <sub>(Promissory Note)</sub></h1>
+<h2>Crucible <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>Each gravity rift will still provide its usual +1 to each ship&rsquo;s move value.</li>
     <li><i>Crucible</i> will provide an additional +1 to each ship&rsquo;s move value, which will not increase if that ship moves through two or more gravity rifts.</li>
@@ -40,7 +40,7 @@
     <li>If a player plays both <i>Crucible</i> and the <i>Nav Suite</i> action card during the same tactical action, they will still apply +1 to the move value of their ships that move through or out of a gravity rift.</li>
     </ol>
 
-<h1>Vortex <sub>(Technology)</sub></h1>
+<h2>Vortex <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>A unit is not adjacent to the system it is in; the <i>Vortex</i> ability cannot target a ground force on another planet in the same systems as one of the Vuil&rsquo;raith player&rsquo;s Dimensional Tears, unless there is a second space dock in an adjacent system.</li>
     <li><i>Vortex</i> cannot be used if there are no units that can be targeted.</li>
@@ -48,7 +48,7 @@
     <li>If another player is blockading a Dimensional Tear, their units cannot be targeted with <i>Vortex</i>.</li>
     </ol>
 
-<h1>Dimensional Tear <sub>(Unit)</sub></h1>
+<h2>Dimensional Tear <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>This system is a gravity rift, and thus an anomaly.</li>
     <ol><li>This system qualifies for the <i>Make History</i> and similar such objectives.</li></ol>
@@ -60,14 +60,14 @@
     <li>If the Dimensional Tear plastic figure is destroyed or removed, the Dimensional Tear token is also removed.</li>
     </ol>
 
-<h1>The Terror Between <sub>(Flagship)</sub></h1>
+<h2>The Terror Between <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>When <i>The Terror Between</i> is destroyed, it still captures units that were destroyed at the same time.</li>
     <ol><li>Using the <sc>Sustain Damage</sc> ability of units is done before remaining hits are assigned. As such, if <i>The Terror Between</i> is destroyed by a <i>Direct Hit</i> action card, units destroyed by being assigned hits in the same round of combat, or from the same pool of <sc>Space Cannon</sc> hits, will not be captured.</li></ol>
     <li>If ships are destroyed outside of combat, those ships will still be captured by <i>The Terror Between</i>.</li>
     </ol>
 
-<h1>The Stillness of Stars <sub>(Agent)</sub></h1>
+<h2>The Stillness of Stars <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>If a player loses their commodities immediately after replenishing them, most commonly via that player&rsquo;s <i>Trade Agreement</i> promissory note, the Vuil&rsquo;raith player may still target them. If they do, they still use that player&rsquo;s full commodity value to determine which units may be captured.</li>
     <li>The Vuil&rsquo;raith player cannot capture a unit without a cost. Notably, they cannot capture a PDS, a space dock, or a war sun of a player without their war sun unit upgrade.</li>
@@ -77,11 +77,11 @@
     <li>When The Stillness of Stars converts a player&rsquo;s commodities to trade goods, those trade goods are not treated as being gained for the purpose of triggering other abilities. In particular, the Mentak player&rsquo;s <sc>Pillage</sc> faction ability is not triggered by this ability.</li>
     </ol>
 
-<h1>That Which Molds Flesh <sub>(Commander)</sub></h1>
+<h2>That Which Molds Flesh <sub>(Commander)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>It Feeds on Carrion &mdash; Dimensional Anchor<sub> (Hero)</sub></h1>
+<h2>It Feeds on Carrion &mdash; Dimensional Anchor<sub> (Hero)</sub></h2>
     <ol class="note">
     <li>Units captured while resolving <i>Dimensional Anchor</i> are not destroyed.</li>
     <li>If a player&rsquo;s units are blockading one of the Vuil&rsquo;raith player&rsquo;s Dimensional Tears, dice will not be rolled for that player&rsquo;s units when resolving <i>Dimensional Anchor</i>.</li>
@@ -90,13 +90,13 @@
     <li>If the Nekro player has used a <i>Valefar Assimilator</i> faction technology to copy Dimensional Tear II, ships in systems containing or adjacent to the Nekro player&rsquo;s space docks will also have to roll for capture when resolving <i>Dimensional Anchor</i>. This includes the Nekro player&rsquo;s own ships.</li>
     </ol>
 
-<h1>Reanimator <sub>(Mech)</sub></h1>
+<h2>Reanimator <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>If the Vuil&rsquo;raith player owns the Infantry II unit upgrade technology, and one is destroyed during ground combat on a planet with a Reanimator, the Vuil&rsquo;raith player captures an infantry token, and they roll for resurrection, placing the destroyed infantry on the Infantry II unit upgrade card if successful.</li>
     <li>If the Vuil&rsquo;raith player&rsquo;s infantry on a planet with a Reanimator are destroyed outside of combat, such as with the <i>Plague</i> action card, those infantry will be captured.</li>
     </ol>
 
-<h1>Al&rsquo;raith Ix Ianovar <sub>(Breakthrough)</sub></h1>
+<h2>Al&rsquo;raith Ix Ianovar <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li><span class="ruling">When The Fracture is brought into play by <i>Al&rsquo;raith Ix Ianovar</i>, the Vuil&rsquo;raith player places ingress tokens according to the synergy on the Cabal breakthrough. For each color of technology in the synergy, they choose up to three planets with a matching technology specialty and place an ingress token in each of those planets&rsquo; systems.</span></li>
     <ol>

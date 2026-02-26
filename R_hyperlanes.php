@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Hyperlanes</header>
+<header><h1>Hyperlanes</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '44.' counter(item, decimal);} </style>
 <p>Hyperlanes are tiles that are used in some game board setups to create adjacency of system tiles that are not touching each other.</p>
     <ol class="lrr">
@@ -9,7 +9,7 @@
     <li>Hyperlane tiles are not systems. They cannot have units on them and they cannot be targets for effects or abilities.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
     <ol>
@@ -26,7 +26,7 @@
     <li>Hyperlanes on the same tile that converge at a point on the tile edge are not connected. For example, with the &ldquo;Five&ndash;Player Galaxy Setup (With Hyperlanes)&rdquo; in the <i>Prophecy of Kings</i> Map Appendix, the hyperlanes on tile 87A do not connect tiles 39 and 63, and the hyperlanes on tile 88A do not connect tiles 41 and 80.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_adjacency">Adjacency</a></li>
     <li><a href="/R_game_board">Game Board</a></li>

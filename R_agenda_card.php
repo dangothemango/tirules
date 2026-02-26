@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Agenda Card</header>
+<header><h1>Agenda Card</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '7.' counter(item, decimal);} </style>
 <p>Agenda cards represent galactic laws and policies. During each agenda phase, players cast votes for specific outcomes on two agenda cards.</p>
     <ol class="lrr">
@@ -15,14 +15,14 @@
     <li>When resolving a directive, players resolve the outcome that received the most votes and discard the agenda card.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>When resolving the primary ability of the <i>Politics</i> card, the active player cannot show the agenda cards they drew to any other player.</li>
     <li>If the outcome of an agenda affects multiple players, it will do so in speaker order.</li>
     <li>For notes about specific agenda cards, see the <a href="/C_agendas">agenda card component notes page</a>.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_agenda_phase">Agenda Phase</a></li>
     <li><a href="/R_attach">Attach</a></li>

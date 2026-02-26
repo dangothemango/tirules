@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Exploration</header>
+<header><h1>Exploration</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '35.' counter(item, decimal);} </style>
 <p>Planets and some space areas can be explored, yielding varying results determined by the cards drawn from the exploration decks.</p>
     <ol class="lrr">
@@ -28,7 +28,7 @@
     </ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>An exploration cards that purges itself is not discarded into its respective discard pile.</li>
     <li><i>Enigmatic Device</i> and <i>Ion Storm</i> are placed into play, not into the frontier discard pile.</li>
@@ -38,7 +38,7 @@
     <li>For notes about specific exploration cards, see the <a href="/C_exploration_cards">exploration cards notes page</a>.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_attach">Attach</a></li>
     <li><a href="/R_control">Control</a></li>

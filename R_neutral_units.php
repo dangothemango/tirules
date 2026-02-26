@@ -1,10 +1,10 @@
 <?php include "prefix.php"?>
-<header>Neutral Units</header>
+<header><h1>Neutral Units</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <p>There currently does not exist a Living Rules Reference section regarding neutral units.</p>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Neutral units are placed in some system within The Fracture when it enters play. Several other game effects also place neutral units.</li>
     <li>If a player has ships in a space area that contains neutral units, they will resolve a space combat against those units.</li>
@@ -17,7 +17,7 @@
     <li>Neutral units are considered to be another player&rsquo;s ships for abilities and other game effects. However, there is no neutral player.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_fracture">The Fracture</a></li>
     <li><a href="/R_ground_combat">Ground Combat</a></li>

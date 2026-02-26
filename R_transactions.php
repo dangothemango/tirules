@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Transactions</header>
+<header><h1>Transactions</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '94.' counter(item, decimal);} </style>
 <p>A transaction is a way for a player to exchange commodities, trade goods, promissory notes, and relic fragments.</p>
     <ol class="lrr">
@@ -17,7 +17,7 @@
     <ol><li>Players do not need to be neighbors to perform these transactions.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Relic fragments may be traded. Relics themselves cannot be.</li>
     <li>Captured units may be returned to the player that originally owned them as part of a transaction.</li>
@@ -30,7 +30,7 @@
     <li>If an agenda is discarded and replaced with another, players who resolved a transaction during the discarded agenda may resolve another transaction during the replacement agenda.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_active_player">Active Player</a></li>
     <li><a href="/R_agenda_phase">Agenda Phase</a></li>

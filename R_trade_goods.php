@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Trade Goods</header>
+<header><h1>Trade Goods</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '93.' counter(item, decimal);} </style>
 <p>A trade good represents a player&rsquo;s buying and trading power beyond their planet&rsquo;s raw resources.</p>
     <ol class="lrr">
@@ -20,11 +20,11 @@
     <li>Trade good tokens come in values of one and three. A player can swap between these tokens as necessary.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_command_sheet">Command Sheet</a></li>
     <li><a href="/R_commodities">Commodities</a></li>

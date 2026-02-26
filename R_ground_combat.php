@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Ground Combat</header>
+<header><h1>Ground Combat</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '42.' counter(item, decimal);} </style>
 <p>During the <b>Ground Combat</b> step of an invasion, if the active player has ground forces on a planet that contains another player&rsquo;s ground forces, those players resolve a ground combat on that planet. To resolve a ground combat, players perform the following steps:</p>
     <ol class="lrr">
@@ -19,7 +19,7 @@
     </ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>The &ldquo;start of combat&rdquo; and &ldquo;start of combat round&rdquo; windows occur before the <b>Roll Dice</b> step.</li>
     <li>The &ldquo;end of combat&rdquo; and &ldquo;end of combat round&rdquo; windows occur after the <b>Assign Hits</b> step.</li>
@@ -30,7 +30,7 @@
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_attacker">Attacker</a></li>
     <li><a href="/R_combat">Combat</a></li>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Elimination</header>
+<header><h1>Elimination</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '33.' counter(item, decimal);} </style>
 <p>A player who is eliminated is no longer part of the game.</p>
     <ol class="lrr">
@@ -32,7 +32,7 @@
     <li>If a player becomes eliminated, any units they have captured are returned to the reinforcements of their original owners.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>While the Arborec flagship may produce units, it does not have the <sc>Production</sc> ability. Having it on the game board will not prevent the Arborec player from being eliminated. This applies to all similar effects in the game.</li>
     <li>An eliminated player&rsquo;s home system remains a home system for game effects.</li>
@@ -41,7 +41,7 @@
     <li>If a player is eliminated, any of their units that are captured remain with the player that captured them. When the capturing player would return them, the units are instead returned to the game box.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_control">Control</a></li>
     <li><a href="/R_ground_forces">Ground Forces</a></li>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Leadership <sub>(Strategy Card)</sub></header>
+<header><h1>Leadership <sub>(Strategy Card)</sub></h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '52.' counter(item, decimal);} </style>
 <p>The <i>Leadership</i> strategy card allows players to gain command tokens. This card&rsquo;s initiative value is &ldquo;1&rdquo;.</p>
     <ol class="lrr">
@@ -11,13 +11,13 @@
     <li>When a player gains command tokens, that player places each token on their command sheet in the pool of their choice.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>The secondary ability of <i>Leadership</i> does not require a player to spend a strategy token.</li>
     <li>A player may spend one or two more influence than the amount necessary for the tokens they gain; however, this influence is wasted.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_command_sheet">Command Sheet</a></li>
     <li><a href="/R_command_tokens">Command Tokens</a></li>

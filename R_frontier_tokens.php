@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Frontier Tokens</header>
+<header><h1>Frontier Tokens</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '38.' counter(item, decimal);} </style>
 <p>Frontier tokens can be explored for a variety of game effects.</p>
     <ol class="lrr">
@@ -14,12 +14,12 @@
     </ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Players may explore space areas that contain frontier tokens if they own the <i>Dark Energy Tap</i> technology or if another game effect allows them to.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_exploration">Exploration</a></li>
     </ul>

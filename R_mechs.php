@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Mechs</header>
+<header><h1>Mechs</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '55.' counter(item, decimal);} </style>
 <p>Mechs are unique, faction&ndash;specific heavy ground forces.</p>
     <ol class="lrr">
@@ -11,13 +11,13 @@
     <li>Mech unit cards are not technologies.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Effects that refer to &ldquo;ground forces&rdquo; apply to mechs. Effects that refer to &ldquo;infantry&rdquo; do not.</li>
     <li>For notes about a mech of a specific faction, see that faction&rsquo;s page.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_deploy">Deploy</a></li>
     <li><a href="/R_ground_forces">Ground Forces</a></li>

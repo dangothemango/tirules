@@ -1,10 +1,10 @@
 <?php include "prefix.php"?>
-<header>Space Stations</header>
+<header><h1>Space Stations</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <p>There currently does not exist a Living Rules Reference section regarding space stations.</p>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Several systems contain space stations, which are mechanically similar to planets.</li>
     <li>A player gains control of a space station when they are the only player with units in that space station&rsquo;s system.</li>
@@ -31,7 +31,7 @@
     <li>If a system tile contains a space station, but no planets, then a frontier token will be placed in that system during game setup.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_control">Control</a></li>
     <li><a href="/R_exhausted">Exhausted</a></li>

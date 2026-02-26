@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Deals</header>
+<header><h1>Deals</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '28.' counter(item, decimal);} </style>
 <p>A deal is an agreement between two players that may or may not include a transaction that involves physical components.</p>
     <ol class="lrr">
@@ -12,7 +12,7 @@
     <li>If the terms of a deal cannot be resolved immediately, it is a non&ndash;binding deal. When a deal is non&ndash;binding, a player does not have to adhere to any part of the agreement.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>In general, only the terms of the deal that a player can immediately perform, even without the deal taking place, are binding. For example:</li>
     <ol>
@@ -29,7 +29,7 @@
     </ol>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_promissory_notes">Promissory Notes</a></li>
     <li><a href="/R_trade_goods">Trade Goods</a></li>

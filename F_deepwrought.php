@@ -1,39 +1,39 @@
 <?php include "prefix.php"?>
-<header>The Deepwrought Scholarate</header>
+<header><h1>The Deepwrought Scholarate</h1></header>
 <article>
-<h1>Research Team</h1>
+<h2>Research Team</h2>
     <ol class="note">
     </ol>
 
-<h1>Oceanbound</h1>
+<h2>Oceanbound</h2>
     <ol class="note">
     </ol>
 
-<h1>Share Knowledge <sub>(Promissory Note)</sub></h1>
+<h2>Share Knowledge <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If a player gains then loses the <i>Antimass Deflectors</i> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.</li>
     </ol>
 
-<h1>Hydrothermal Mining <sub>(Technology)</sub></h1>
+<h2>Hydrothermal Mining <sub>(Technology)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Radical Advancement <sub>(Technology)</sub></h1>
+<h2>Radical Advancement <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If the Deepwrought player replaces the <i>Antimass Deflectors</i> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.</li>
     <li>The Deepwrought player may replace <i>Radical Advancement</i> itself for a biotic technology with two prerequisites.</li>
     <li>If the Deepwrought player has the Nekro player&rsquo;s <i>Alliance</i> promissory note in their play area, they will not draw an action card from the ability of the Nekro Acidos commander when they resolve <i>Radical Advancement</i>.</li>
     </ol>
 
-<h1>D.W.S. Luminous <sub>(Flagship)</sub></h1>
+<h2>D.W.S. Luminous <sub>(Flagship)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Doctor Carrina <sub>(Agent)</sub></h1>
+<h2>Doctor Carrina <sub>(Agent)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Aello <sub>(Commander)</sub></h1>
+<h2>Aello <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>Say a player is researching a technology, and they use the ability of Doctor Carrina, which results in the Deepwrought player placing their first ocean into play, unlocking Aello. Should this happen, then the researching player will be unable to use Aello to pay for the resource cost of the researched technology.</li>
     <ol>
@@ -53,17 +53,17 @@
     </ol>
     </ol>
 
-<h1>Ta Zern &mdash; Wave Function Collapse <sub>(Hero)</sub></h1>
+<h2>Ta Zern &mdash; Wave Function Collapse <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>If they also owned the purged technology, the Deepwrought player too will research another technology.</li>
     <li>If the Nekro player purges a technology, they will gain three command tokens instead of researching another technology.</li>
     </ol>
 
-<h1>Eanautic <sub>(Mech)</sub></h1>
+<h2>Eanautic <sub>(Mech)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Visionaria Select <sub>(Breakthrough)</sub></h1>
+<h2>Visionaria Select <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>When <i>Visionaria Select</i> is exhausted, all other players have the opportunity to participate; the Deepwrought player does not choose which players will participate.</li>
     <li>The researching player chooses which promissory note they give to the Deepwrought player.</li>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Relics</header>
+<header><h1>Relics</h1></header>
 <article>
-<h1>Book of Latvinia</h1>
+<h2>Book of Latvinia</h2>
     <ol class="note">
     <li>If a player owns all technologies without prerequisites when they draw the <i>Book of Latvinia</i>, they will not research any technologies.</li>
     <ol><li>If a player owns all&ndash;but&ndash;one technologies without prerequisites when they draw the <i>Book of Latvinia</i>, they will research only that one technology.</li></ol>
@@ -11,7 +11,7 @@
     <li>If a player uses the component action of the <i>Book of Latvinia</i> when they control planets with each type of technology specialty, they mandatorily gain a victory point; they cannot choose instead to gain the speaker token.</li>
     </ol>
 
-<h1>Circlet of the Void</h1>
+<h2>Circlet of the Void</h2>
     <ol class="note">
     <li>The player that owns <i>Circlet of the Void</i> may move through or into supernovae and/or asteroid fields.</li>
     <li>The player that owns <i>Circlet of the Void</i> may move through nebulae, and their ships in nebulae do not have their movement values reduced.</li>
@@ -19,17 +19,17 @@
     <li>The player that owns <i>Circlet of the Void</i> will still ignore anomaly movement effects and not roll for gravity rifts if <i>Circlet of the Void</i> is exhausted.</li>
     </ol>
 
-<h1>The Codex</h1>
+<h2>The Codex</h2>
     <ol class="note">
     <li>The action card discard is shuffled to form a new action card deck as soon as the action card deck has zero cards in it.</li>
     <li>It is public knowledge which action cards a player takes using <i>The Codex</i>.</li>
     </ol>
 
-<h1>The Crown of Emphidia</h1>
+<h2>The Crown of Emphidia</h2>
     <ol class="note">
     </ol>
 
-<h1>The Crown of Thalnos</h1>
+<h2>The Crown of Thalnos</h2>
     <ol class="note">
     <li>A player may only reroll combat rolls with <i>The Crown of Thalnos</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.</li>
     <li>If a unit rolls multiple combat dice, it will not be destroyed if it produces at least one hit from its original roll, and that dice is not rerolled, even if it produces no hits from its reroll.</li>
@@ -39,21 +39,21 @@
     <li>A unit with the <sc>Sustain Damage</sc> ability cannot use it to avoid being destroyed when it fails to produce a hit with the reroll from <i>The Crown of Thalnos</i>.</li>
     </ol>
 
-<h1>Dominus Orb</h1>
+<h2>Dominus Orb</h2>
     <ol class="note">
     </ol>
 
-<h1>Dynamis Core</h1>
+<h2>Dynamis Core</h2>
     <ol class="note">
     <li>If a player uses the purge ability of <i>Dynamis Core</i>, they will need to return commodities if they now exceed their original commodity value.</li>
     </ol>
 
-<h1>Heart of Ixth</h1>
+<h2>Heart of Ixth</h2>
     <ol class="note">
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10. <i>Heart of Ixth</i> may be used to turn this result into a 9, or vice versa.</li>
     </ol>
 
-<h1>JR&ndash;XS455&ndash;O</h1>
+<h2>JR&ndash;XS455&ndash;O</h2>
     <ol class="note">
     <li><i>JR&ndash;XS455&ndash;O</i> is an agent. All rules that apply to agents (and leaders) apply to <i>JR&ndash;XS455&ndash;O</i>.</li>
     <ol>
@@ -62,21 +62,21 @@
     </ol>
     </ol>
 
-<h1>Lightrail Ordnance</h1>
+<h2>Lightrail Ordnance</h2>
     <ol class="note">
     <li>The space docks may use the <sc>Space Cannon</sc> ability during both the <b>Space Cannon Offense</b> and <b>Space Cannon Defense</b> steps.</li>
     </ol>
 
-<h1>Maw of Worlds</h1>
+<h2>Maw of Worlds</h2>
     <ol class="note">
     <li>The player does not have to meet the prerequisites of the technologies they acquire using <i>Maw of Worlds</i>.</li>
     </ol>
 
-<h1>Metali Void Armaments</h1>
+<h2>Metali Void Armaments</h2>
     <ol class="note">
     </ol>
 
-<h1>Metali Void Shielding</h1>
+<h2>Metali Void Shielding</h2>
     <ol class="note">
     <li>The affected ship may be destroyed by the <i>Direct Hit</i> action card after it uses the <sc>Sustain Damage</sc> ability.</li>
     <li>A player may play the <i>Reflective Shielding</i> action card after it uses the <sc>Sustain Damage</sc> ability via <i>Metali Void Shielding</i>.</li>
@@ -84,12 +84,12 @@
     <li><i>Metali Void Shielding</i> has no effect when the Argent player resolves their <sc>Raid Formation</i> faction ability.</li>
     </ol>
 
-<h1>Nano&ndash;Forge</h1>
+<h2>Nano&ndash;Forge</h2>
     <ol class="note">
     <li>The attached planet will not have a corresponding legendary planet ability card. However, it will be legendary for effects such as scoring the <i>Make History</i> public objective and similar objectives, transferring the <i>Shard of the Throne</i> relic, and the Winnu player's commander, Rickar Rickani. The attached planet will also no longer be non&ndash;legendary for effects such as the <i>Stellar Converter</i> relic.</li>
     </ol>
 
-<h1>Neuraloop</h1>
+<h2>Neuraloop</h2>
     <ol class="note">
     <li>A player may use <i>Neuraloop</i> to purge <i>Neuraloop</i> itself, resolving its ability.</li>
     <li>A player may use <i>Neuraloop</i> to purge <i>Nano&ndash;Forge</i>, even if it is attached to a planet, if they control that planet. That planet loses the increase to its resources and influence values, and is no longer legendary.</li>
@@ -106,46 +106,46 @@
     <ol><li>This happens before the player with <i>Neuraloop</i> chooses if they wish to purge another relic to replace the new objective. As such, it is possible for the player to reveal the original objective after purging two or more relics.</li></ol>
     </ol>
 
-<h1>The Obsidian</h1>
+<h2>The Obsidian</h2>
     <ol class="note">
     </ol>
 
-<h1>The Prophet&rsquo;s Tears</h1>
+<h2>The Prophet&rsquo;s Tears</h2>
     <ol class="note">
     <li>A player cannot use the ability of <i>The Prophet&rsquo;s Tears</i> when they directly gain a technology.</li>
     <li>The Nekro player may use the ability of <i>The Prophet&rsquo;s Tears</i> to draw an action card when they would have researched a technology.</li>
     </ol>
 
-<h1>The Quantumcore</h1>
+<h2>The Quantumcore</h2>
     <ol class="note">
     </ol>
 
-<h1>Scepter of Emelpar</h1>
+<h2>Scepter of Emelpar</h2>
     <ol class="note">
     <li>If a player has no command tokens in their reinforcements, they must use a command token from their command sheet instead when they use the ability of the <i>Scepter of Emelpar</i>.</li>
     <li>The <i>Scepter of Emelpar</i> may be used whenever a command token would be spent from a player&rsquo;s strategy pool. This includes when spending to perform the secondary ability of a strategy card, for faction abilities, and when scoring objectives.</li>
     <li>If the Muaat player uses the ability of the <i>Scepter of Emelpar</i>, they will not gain a trade good from the ability of their commander, Magmus.</li>
     </ol>
 
-<h1>Shard of the Throne</h1>
+<h2>Shard of the Throne</h2>
     <ol class="note">
     <li>When the player that owns the <i>Shard of the Throne</i> loses control of a legendary planet or a planet in their home system, they immediately give it to the player who gained control of that planet. No abilities may be resolved before this.</li>
     <li>If the player that gains <i>Shard of the Throne</i> controls no legendary planets or planets in their home system, they cannot lose it.</li>
     </ol>
 
-<h1>The Silver Flame</h1>
+<h2>The Silver Flame</h2>
     <ol class="note">
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.</li>
     </ol>
 
-<h1>Stellar Converter</h1>
+<h2>Stellar Converter</h2>
     <ol class="note">
     <li>The chosen planet must be in a system adjacent to the unit with <sc>bombardment</sc>; the planet and unit cannot both be in the same system.</li>
     <li>A system that contains a planet destroyed by <i>Stellar Converter</i>, and no other planets, is considered to contain no planets.</li>
     <li>A player cannot target a planet they control with <i>Stellar Converter</i>.</li> 
     </ol>
 
-<h1>The Triad</h1>
+<h2>The Triad</h2>
     <ol class="note">
     <li><i>The Triad</i> may be readied by effects that ready planets, such as the <i>Diplomacy</i> strategy card.</li>
     <li><i>The Triad</i> is not considered a planet for other game effects.</li>

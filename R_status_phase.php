@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Status Phase</header>
+<header><h1>Status Phase</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '81.' counter(item, decimal);} </style>
 <p>During the status phase, players score objectives and prepare for the next game round. To resolve the status phase, players perform the following steps:</p>
     <ol class="lrr">
@@ -23,14 +23,14 @@
     <li><b>Step 8 &ndash; Return Strategy Cards</b>: Each player returns their strategy card to the common play area. Then, if a player has removed the custodians token from Mecatol Rex, the game round continues to the agenda phase. Otherwise, a new game round begins with the strategy phase.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A player cannot score public objectives if that player does not control each planet in their home system.</li>
     <li>If there are few cards remaining in the action card deck, they will be dealt out first to the players lowest in initiative order. After those players have discarded down to their seven card hand limit, if necessary, the discard pile will be shuffled to form a new deck. The remaining players (including the player who received the last action card from the previous deck, if applicable) will then be dealt their action cards.</li>
     <li>All damaged units will be repaired, even if a game effect has caused those units to no longer have the <sc>Sustain Damage</sc> ability.</li> 
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_action_cards">Action Cards</a></li>
     <li><a href="/R_agenda_phase">Agenda Phase</a></li>

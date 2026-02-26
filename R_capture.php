@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Capture</header>
+<header><h1>Capture</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '17.' counter(item, decimal);} </style>
 <p>Some abilities instruct a player to capture a unit, preventing the unit&rsquo;s original owner from using it.</p>
     <ol class="lrr">
@@ -23,7 +23,7 @@
     <li>If one or more of a player&rsquo;s space docks is being blockaded, that player cannot capture units from the blockading players.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>For additional information, see the <a href="/F_vuilraith">Vuil&rsquo;raith faction notes page</a>.</li>
 	<li>Units are returned as soon as a space dock is blockaded. If this occurs at the end of the <b>Space Combat</b> step of a tactical action, the units will be returned before the <b>Invasion</b> step, in which the space dock could potentially be destroyed.</li>
@@ -38,7 +38,7 @@
     <li>A player cannot capture fighter or infantry tokens corresponding to units belonging to a player that is blockading one of their space docks.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_blockaded">Blockaded</a></li>
     <li><a href="/R_fighter_tokens">Fighter Tokens</a></li>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Capacity <sub>(Attribute)</sub></header>
+<header><h1>Capacity <sub>(Attribute)</sub></h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '16.' counter(item, decimal);} </style>
 <p>Capacity is an attribute of some units that is presented on faction sheets and unit upgrade technology cards.</p>
     <ol class="lrr">
@@ -16,7 +16,7 @@
     <li>Fighters and ground forces are not assigned to specific ships, except while they are being transported.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>If a player moves more fighters and/or ground forces into a system containing another player&rsquo;s ships, capacity limits must be met before proceeding to the <b>Space Cannon Offense</b> substep or the <b>Space Combat</b> step.</li>
     <li>If a ship with capacity is destroyed during the <b>Space Cannon Offense</b> step, capacity limits must be met before space combat starts.</li>
@@ -32,7 +32,7 @@
     </ol>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_fleet_pool">Fleet Pool</a></li>
     <li><a href="/R_movement">Movement</a></li>
