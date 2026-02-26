@@ -7,6 +7,7 @@
 <meta name="author" content="BradleyΣ"/>
 <meta name="version" content="v0.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="canonical" href="https://tirules2.com/"/>
 <link rel="icon" href="favicon.png"/>
 <link rel="stylesheet" type="text/css" href="style.css"/>
 <style>
