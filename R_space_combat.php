@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Space Combat</header>
+<header><h1>Space Combat</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '78.' counter(item, decimal);} </style>
 <p>After resolving the <b>Space Cannon Offense</b> step of a tactical action, if two players have ships in the active system, those players must resolve a space combat.</p>
     <ol class="lrr">
@@ -52,7 +52,7 @@
     <ol><li>If the winner of the combat has fighters or ground forces in the space area of the active system and those units exceed the capacity of that player&rsquo;s ships in that system, that player must choose and remove any excess units.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A player&rsquo;s fighters and ground forces do not count against capacity during combat. At the end of combat, any excess units are removed and returned to that player&rsquo;s reinforcements.</li>
     <li>A player may retreat into an asteroid field only if that player owns the <i>Antimass Deflectors</i> technology.</li>
@@ -75,7 +75,7 @@
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_anti_fighter_barrage">Anti&ndash;Fighter Barrage</a></li>
     <li><a href="/R_attacker">Attacker</a></li>

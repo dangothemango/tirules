@@ -1,10 +1,10 @@
 <?php include "prefix.php"?>
-<header>Entropic Scars</header>
+<header><h1>Entropic Scars</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <p>There currently does not exist a Living Rules Reference section regarding entropic scars.</p>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>An entropic scar is an anomaly that affects unit abilities and faction technologies.</li>
     <li>A unit in an entropic scar cannot use unit abilities.</li>
@@ -23,7 +23,7 @@
     </ol>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_anomalies">Anomalies</a></li>
     <li><a href="/R_abilities">Abilities</a></li>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Modifiers</header>
+<header><h1>Modifiers</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '56.' counter(item, decimal);} </style>
 <p>A modifier is a number that is applied by an ability to increase or decrease the attribute values of a unit or the results of a die roll.</p>
     <ol class="lrr">
@@ -9,13 +9,13 @@
     <li>A modifier value preceded by a &ldquo;+&rdquo; is added to the attribute or result being modified; a modifier value preceded by a &ldquo;&minus;&rdquo; is subtracted from the attribute or result being modified.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>&ldquo;Combat roll&rdquo; modifiers do not modify anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
     <li>When an effect moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_anti_fighter_barrage">Anti&ndash;Fighter Barrage</a></li>

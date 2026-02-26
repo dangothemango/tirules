@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Resources</header>
+<header><h1>Resources</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '75.' counter(item, decimal);} </style>
 <p>Resources represent a planet&rsquo;s material value and industry. Many game effects, such as producing units, require players to spend resources.</p>
     <ol class="lrr">
@@ -10,11 +10,11 @@
     <li>A player can spend a trade good as if it were one resource.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_cost">Cost</a></li>
     <li><a href="/R_exhausted">Exhausted</a></li>

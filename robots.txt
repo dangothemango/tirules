@@ -1,0 +1,8 @@
+# robots.txt for tirules2.com
+# Twilight Imperium Rules Reference
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://tirules2.com/sitemap.xml

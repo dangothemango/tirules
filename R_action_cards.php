@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Action Cards</header>
+<header><h1>Action Cards</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '2.' counter(item, decimal);} </style>
 <p>Action cards provide players with various abilities that they can resolve as described on the cards.</p>
     <ol class="lrr">
@@ -19,7 +19,7 @@
     <li>To play an action card, a player reads and resolves the card&rsquo;s ability text, making any decisions as prompted by the card. Then, that player discards the card, placing it in the action discard pile.</li>
     <li>If an action card is canceled, that card has no effect and is discarded.</li>
     </ol>
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Players start the game with zero action cards.</li>
     <li>The number of action cards in a player&rsquo;s hand is public information.</li>
@@ -37,7 +37,7 @@
     <li>If a player has more than seven action cards, they must discard the excess immediately. They cannot play them to get down to seven, and the Hacan player cannot trade them.</li>
     <li>For notes about specific action cards, see the <a href="/C_action_cards">action card component notes page</a>.</li>
     </ol>
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_component_action">Component Action</a></li>

@@ -1,8 +1,8 @@
 <?php include "prefix.php"?>
-<header>Promissory Notes</header>
+<header><h1>Promissory Notes</h1></header>
 <article>
 <p>For notes about a promissory notes of a specific faction, see that faction&rsquo;s notes page.</p>
-<h1>Alliance</h1>
+<h2>Alliance</h2>
     <ol class="note">
     <li>An <i>Alliance</i> must be played by the receiving player as soon as it is received. It cannot be kept secret.</li>
     <ol><li>If the active player receives an <i>Alliance</i>, they cannot then attempt to trade it with another player. It must be played immediately.</li></ol>
@@ -12,7 +12,7 @@
     <li>For notes about a commander of a specific faction, see that faction&rsquo;s notes page.</li>
     </ol>
 
-<h1>Ceasefire</h1>
+<h2>Ceasefire</h2>
     <ol class="note">
     <li>The active player may still use the <sc>Space Cannon</sc> ability of any units during the <b>Space Cannon Offense</b> step of the tactical action.</li>
     <li>If a player has units in the active system from before the tactical action in which their <i>Ceasefire</i> is played, those units will remain in the active system.</li>
@@ -21,7 +21,7 @@
     <li><i>Ceasefire</i> does not prevent a player from producing or placing units in the active system.</li>
     </ol>
 
-<h1>Political Secret</h1>
+<h2>Political Secret</h2>
     <ol class="note">
     <li>A player may still use abilities from their faction technology, leaders, or mechs after their <i>Political Secret</i> has been played.</li>
     <ol><li>If a player has had their <i>Political Secret</i> played, other players may still use that player&rsquo;s other promissory notes.</li></ol>
@@ -29,7 +29,7 @@
     <li>The effect of <i>Political Secret</i> does not stop a player from using their passive faction ability, only the abilities that player may choose to use.</li>
     </ol>
 
-<h1>Support For The Throne</h1>
+<h2>Support For The Throne</h2>
     <ol class="note">
     <li>A <i>Support For The Throne</i> must be played by the receiving player as soon as it is received. It cannot be kept secret.</li>
     <ol><li>If the active player receives a <i>Support For The Throne</i>, they cannot then attempt to trade it with another player. It must be played immediately.</li></ol>
@@ -40,7 +40,7 @@
     <ol><li>During the agenda phase, the first player in speaker order will be the first to gain a victory point.</li></ol>
     </ol>
 
-<h1>Trade Agreement</h1>
+<h2>Trade Agreement</h2>
     <ol class="note">
     <li>If a player has their maximum number of commodities, and is instructed to replenish their commodities, they will take no commodities. However, that player&rsquo;s <i>Trade Agreement</i> may be played.</li>
     <li>A player does not have to be neighbors with the player that plays their <i>Trade Agreement</i> to give them their commodities.</li>

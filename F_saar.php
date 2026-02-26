@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>The Clan of Saar</header>
+<header><h1>The Clan of Saar</h1></header>
 <article>
-<h1>Scavenge</h1>
+<h2>Scavenge</h2>
     <ol class="note">
     <li>If the Saar player gains control of multiple planets during one invasion, the trade goods are gained one at a time.</li>
     <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before gaining the trade good from this ability.</li>
@@ -11,11 +11,11 @@
     </ol>
     </ol>
 
-<h1>Nomadic</h1>
+<h2>Nomadic</h2>
     <ol class="note">
     </ol>
 
-<h1>Ragh&rsquo;s Call <sub>(Promissory Note)</sub></h1>
+<h2>Ragh&rsquo;s Call <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>Playing <i>Ragh&rsquo;s Call</i> will prevent ground combat from occurring on that planet.</li>
     <li>Any PDS on the planet remain. They might produce hits during the <b>Space Cannon Defense</b> step.</li>
@@ -23,7 +23,7 @@
     <li>Any damaged mechs remain damaged.</li>
     </ol>
 
-<h1>Chaos Mapping <sub>(Technology)</sub></h1>
+<h2>Chaos Mapping <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The produced unit must be paid for.</li>
     <li>The produced unit may move later that same turn, if the Saar player performs a tactical action.</li>
@@ -33,7 +33,7 @@
     <li>If an asteroid field contains only non&ndash;ship units belonging to the Saar player, it may still be activated by other players.</li>
     </ol>
 
-<h1>Floating Factory <sub>(Unit)</sub></h1>
+<h2>Floating Factory <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>A floating Factory does not count towards the Saar player&rsquo;s fleet pool.</li>
     <li>When a Floating Factory produces ground forces, they may be placed in the space area or on a planet they control in that system.</li>
@@ -61,11 +61,11 @@
     <li>A Floating Factory cannot count towards the <i>Improve Infrastructure</i> or <i>Protect the Border</i> objectives.</li>
     </ol>
 
-<h1>Son of Ragh <sub>(Flagship)</sub></h1>
+<h2>Son of Ragh <sub>(Flagship)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Captain Mendosa <sub>(Agent)</sub></h1>
+<h2>Captain Mendosa <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The Saar player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.</li>
     <li>The effect of Captain Mendosa occurs when the system is activated. The move value will be set to the chosen ship&rsquo;s move value during this window.</li>
@@ -76,24 +76,24 @@
     <li>The nebula effect of setting the move value of all ships in that system to one will be overwritten by Captain Mendosa&rsquo;s effect.</li>
     </ol>
 
-<h1>Rowl Sarring <sub>(Commander)</sub></h1>
+<h2>Rowl Sarring <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>If another player has the Saar player&rsquo;s <i>Alliance</i> promissory note, this does not allow them to produce fighters at a blockaded space dock, so as to place them elsewhere.</li>
     </ol>
 
-<h1>Gurno Aggero &mdash; Armageddon Relay <sub>(Hero)</sub></h1>
+<h2>Gurno Aggero &mdash; Armageddon Relay <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>A unit is not adjacent to the system it is in.</li>
     </ol>
 
-<h1>Scavenger Zeta <sub>(Mech)</sub></h1>
+<h2>Scavenger Zeta <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Saar player may perform the <sc>Deploy</sc> ability or their <sc>Scavenge</sc> ability in either order. If they perform their <sc>Scavenge</sc> ability first, they may pay for the <sc>Deploy</sc> ability with the gained trade good.</li>
     <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before the <sc>Deploy</sc> ability will be able to trigger.</li>
     <li>If the Saar player gains control of multiple planets, they may deploy one Scavenger Zeta to each.</li>
     </ol>
 
-<h1>Deorbit Barrage <sub>(Breakthrough)</sub></h1>
+<h2>Deorbit Barrage <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Saar player must choose how many resources to spend before rolling any dice.</li>
     <li>The Saar player chooses which unit the hits get assigned to.</li>

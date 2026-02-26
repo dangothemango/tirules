@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Movement</header>
+<header><h1>Movement</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '58.' counter(item, decimal);} </style>
 <style> .lrr {counter-reset: item 1; }</style>
 <p>A player can move their ships by resolving a tactical action during the action phase. Additionally, some abilities can move a unit outside of the tactical action.</p>
@@ -25,7 +25,7 @@
     <li>If an ability moves a unit outside of the <b>Movement</b> step of a tactical action, players follow the rules specified by that ability; neither a unit&rsquo;s move value nor the rules specified above apply.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>When an effect moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.</li>
     <li>An ability may move a player&rsquo;s ship out of a system containing one of the player&rsquo;s faction&rsquo;s command tokens. However, the transport rules prevent a player&rsquo;s units from being transported from systems containing one of that player&rsquo;s command tokens, other than the active system. An ability that moves a player&rsquo;s ship must also explicitly allow it to transport units from non&ndash;active systems containing that player&rsquo;s faction&rsquo;s command token for it to be able to do so.</li>
@@ -35,7 +35,7 @@
     <li>Fighters alone will block other player&rsquo;s ships from moving through that system, whether they are accompanied by a Space Dock or they are Fighters II.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_active_system">Active System</a></li>
     <li><a href="/R_adjacency">Adjacency</a></li>

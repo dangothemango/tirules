@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Transport</header>
+<header><h1>Transport</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '95.' counter(item, decimal);} </style>
 <p>When a ship moves, it may transport any combination of fighters and ground forces, but the number of units it transports cannot exceed that ship&rsquo;s capacity value.</p>
     <ol class="lrr">
@@ -15,7 +15,7 @@
     <li>A player can land ground forces on a planet in a system during the <b>Invasion</b> step of a tactical action.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A ship that can both move and be transported (i.e. Fighter II) cannot do both by &ldquo;meeting&rdquo; a ship with capacity partway through a tactical action movement, as all movement is simultaneous.</li>
     <li>A ship may transport as it retreats or is otherwise moved out of the active system, as the units it transports will be picked up from the active system.</li>
@@ -32,7 +32,7 @@
     <li>A future rule change will allow a player&rsquo;s ships to transport units from systems that contain that player&rsquo;s command token when those ships move outside of a tactical action.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_capacity">Capacity</a></li>
     <li><a href="/R_ground_forces">Ground Forces</a></li>

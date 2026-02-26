@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Ships</header>
+<header><h1>Ships</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '76.' counter(item, decimal);} </style>
 <p>A ship is a unit type consisting of carriers, cruisers, dreadnoughts, destroyers, fighters, and war suns. Each race also has a unique flagship.</p>
     <ol class="lrr">
@@ -11,12 +11,12 @@
     <li>Ships can have any number of the following attributes: cost, combat, move, and capacity. These attributes are shown on faction sheets and unit upgrade technology cards.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A Fighter II may count towards either the fleet pool limit or a player&rsquo;s capacity.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_capacity">Capacity</a></li>
     <li><a href="/R_combat">Combat</a></li>

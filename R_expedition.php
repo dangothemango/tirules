@@ -1,10 +1,10 @@
 <?php include "prefix.php"?>
-<header>Expeditions</header>
+<header><h1>Expeditions</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <p>There currently does not exist a Living Rules Reference section regarding expeditions.</p>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A player may perform an expedition, which will unlock their breakthrough, and potentially put The Fracture and/or Thunder&rsquo;s Edge into play.</li>
     <li>At the end of their turn, a player may perform an expedition. To do so they choose one of the unclaimed slices on the expedition token. They pay the indicated cost, and place one of their control tokens in the indicated area to claim it.</li>
@@ -30,7 +30,7 @@
     <li>If a player has not gained their breakthrough by the time Thunder&rsquo;s Edge is placed, they will be unable to gain their breakthrough by performing an expedition.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_breakthroughs">Breakthroughs</a></li>
     <li><a href="/R_fracture">The Fracture</a></li>

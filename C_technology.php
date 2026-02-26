@@ -1,14 +1,14 @@
 <?php include "prefix.php"?>
-<header>Technology</header>
+<header><h1>Technology</h1></header>
 <article>
 <p>For notes about specific generic unit upgrade technologies, see the <a href="C_units">unit component notes page</a>.</p>
 <p>For notes about technologies of a specific faction, see that faction&rsquo;s notes page.</p>
-<h1>Antimass Deflectors</h1>
+<h2>Antimass Deflectors</h2>
     <ol class="note">
     <li>The &minus;1 applies to space cannon rolls during both the <b>Space Cannon Offense</b> and <b>Space Cannon Defense</b> steps.</li>
     </ol>
 
-<h1>Dark Energy Tap</h1>
+<h2>Dark Energy Tap</h2>
     <ol class="note">
     <li>A ship may be moved into the system containing the frontier token during the same action that it is explored.</li>
     <li>Exploring the frontier token happens at the end of the tactical action. Notably, this is after the <b>Space Cannon Offense</b> and/or <b>Space Combat</b> steps.</li>
@@ -19,17 +19,17 @@
     <li>A player cannot use <i>Dark Energy Tap</i> to retreat into a system that contains another player&rsquo;s units, including ground forces and structures on planets.</li>
     </ol>
 
-<h1>Gravity Drive</h1>
+<h2>Gravity Drive</h2>
     <ol class="note">
     </ol>
 
-<h1>Sling Relay</h1>
+<h2>Sling Relay</h2>
     <ol class="note">
     <li>The produced unit must be paid for.</li>
     <li><i>Sling Relay</i> cannot be used without producing a unit.</li>
     </ol>
 
-<h1>Fleet Logistics</h1>
+<h2>Fleet Logistics</h2>
     <ol class="note">
     <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.</li>
     <li>A player may use the ability of <i>Fleet Logistics</i> the same turn they gain it.</li>
@@ -38,47 +38,47 @@
     <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate second action on that turn.</li>
     </ol>
 
-<h1>Light/Wave Deflector</h1>
+<h2>Light/Wave Deflector</h2>
     <ol class="note">
     </ol>
 
-<h1>Neural Motivator</h1>
+<h2>Neural Motivator</h2>
     <ol class="note">
     <li><i>Neural Motivator</i> does not apply when a player draws action cards from either of the abilities of the <i>Politics</i> action card, or any other effect outside of the status phase.</li>
     <li><i>Neural Motivator</i> only applies to the <b>Draw Action Card</b> step of the status phase. It does not apply when a player draws action cards due to the effect of the <i>Minister of Policy</i> law or similar effects.</li>
     </ol>
 
-<h1>Psychoarchaeology</h1>
+<h2>Psychoarchaeology</h2>
     <ol class="note">
     <li>When researching a technology, each planet with a technology speciality can only be used to ignore a single prerequisite.</li>
     <li>Exhausting planets to gain trade goods can be done at any time during action phase, except when another ability is being resolved. For example, if a player has one of their planets with a technology specialty targeted with the <i>Uprising</i> action card, they cannot use <i>Psychoarchaeology</i> in response to gain a trade good.</li>
     <li>If multiple planets are exhausted, the trade goods are gained one at a time.</li>
     </ol>
 
-<h1>Dacxive Animators</h1>
+<h2>Dacxive Animators</h2>
     <ol class="note">
     </ol>
 
-<h1>Bio&ndash;Stims</h1>
+<h2>Bio&ndash;Stims</h2>
     <ol class="note">
     </ol>
 
-<h1>Hyper Metabolism</h1>
+<h2>Hyper Metabolism</h2>
     <ol class="note">
     </ol>
 
-<h1>X&ndash;89 Bacterial Weapon</h1>
+<h2>X&ndash;89 Bacterial Weapon</h2>
     <ol class="note">
     </ol>
 
-<h1>X&ndash;89 Bacterial Weapon &Omega;</h1>
+<h2>X&ndash;89 Bacterial Weapon &Omega;</h2>
     <ol class="note">
     <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> may be used against each planet in a system, if the conditions are met.</li>
     <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> will trigger only after all bombardment hits have been assigned.</li> 
     <li>The L1Z1X may use <i>X&ndash;89 Bacterial Weapon &Omega;</i> after they use their <sc>Harrow</sc> faction ability.</li>
     </ol>
 
-<h1>X&ndash;89 Bacterial Weapon &Omega;&Omega;</h1>
+<h2>X&ndash;89 Bacterial Weapon &Omega;&Omega;</h2>
     <ol class="note">
     <li>A player with <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> must mandatorily double the number of hits they produce.</li>
     <li>Effects that cancel hits will only cancel hits based on the doubled number of hits.</li>
@@ -90,7 +90,7 @@
     <li>A player may roll for <sc>bombardment</sc> against a planet that contains no ground forces.</li>
     </ol>
 
-<h1>Plasma Scoring</h1>
+<h2>Plasma Scoring</h2>
     <ol class="note">
     <li>Only one additional dice is rolled for each bombardment or space cannon roll, regardless of how many units are using that ability.</li>
     <ol>
@@ -99,25 +99,25 @@
     </ol>
     </ol>
 
-<h1>AI Development Algorithm</h1>
+<h2>AI Development Algorithm</h2>
     <ol class="note">
     <li>When a player exhausts <i>AI Development Algorithm</i> to ignore a prerequisite of a unit upgrade technology that they are researching, they may still use <i>AI Development Algorithm</i> itself for meeting a warfare technology (red) prerequisite on that unit upgrade technology in the same manner as any other technology.</li>
     <ol><li>For example, <i>AI Development Algorithm</i> alone may be used to research the Destroyer II unit upgrade.</li></ol>
     </ol>
 
-<h1>Magen Defense Grid</h1>
+<h2>Magen Defense Grid</h2>
     <ol class="note">
     <li><i>Magen Defense Grid</i> cannot be used if all of a player&rsquo;s units in combat that had the <sc>Planetary Shield</sc> ability have lost it.</li>
     </ol>
 
-<h1>Magen Defense Grid &Omega;</h1>
+<h2>Magen Defense Grid &Omega;</h2>
     <ol class="note">
     <li>The player with <i>Magen Defense Grid &Omega;</i> chooses which ground force the hit is assigned to.</li>
     <li>The chosen ground force may cancel the hit by using its <sc>Sustain Damage</sc> ability, if present. A different ground force with the <sc>Sustain Damage</sc> ability cannot do so.</li>
     <li>If the last of a player&rsquo;s ground forces in a ground combat are destroyed by the effect of <i>Magen Defense Grid &Omega;</i>, that player loses the combat immediately. They will be unable to use any &ldquo;start of combat&rdquo; abilities.</li>
     </ol>
 
-<h1>Magen Defense Grid &Omega;&Omega;</h1>
+<h2>Magen Defense Grid &Omega;&Omega;</h2>
     <ol class="note">
     <li>The player with <i>Magen Defense Grid &Omega;&Omega;</i> chooses which ground force the hit is assigned to.</li>
     <li>The chosen ground force may cancel the hit by using its <sc>Sustain Damage</sc> ability, if present. A different ground force with the <sc>Sustain Damage</sc> ability cannot do so.</li>
@@ -128,7 +128,7 @@
     <ol><li>If the Saar player owns <i>Magen Defense Grid &Omega;&Omega;</i>, and a system containing a Floating Factory is activated, then the infantry will be placed in the space area.</li></ol>
     </ol>
 
-<h1>Self&ndash;Assembly Routines</h1>
+<h2>Self&ndash;Assembly Routines</h2>
     <ol class="note">
     <li>If multiple mechs are destroyed, the trade goods are gained one at a time.</li>
     <li>A mech cannot be placed in a space area with <i>Self&ndash;Assembly Routines</i>, and so cannot be placed in a system that does not contain a planet.</li>
@@ -136,7 +136,7 @@
     <li>A player will still gain the trade good for a destroyed mech if <i>Self&ndash;Assembly Routines</i> is exhausted.</li>
     </ol>
 
-<h1>Duranium Armor</h1>
+<h2>Duranium Armor</h2>
     <ol class="note">
     <li>A player must mandatorily repair a unit with <i>Duranium Armor</i> during each round of combat, if possible.</li>
     <li>A player uses <i>Duranium Armor</i> only once during each round of combat, at the end of the <b>Assign Hits</b> substep. Hits assigned outside of this substep will not allow <i>Duranium Armor</i> to repair an additional unit.</li>
@@ -148,7 +148,7 @@
     <li><i>Duranium Armor</i> can be used to repair a damaged unit which does not currently have the <sc>Sustain Damage</sc> ability.</li>
     </ol>
 
-<h1>Assault Cannon</h1>
+<h2>Assault Cannon</h2>
     <ol class="note">
     <li>A player with <i>Assault Cannon</i> must mandatorily resolve its ability if they meet the requirement.</li>
     <li>If a player loses ships before they can resolve the <i>Assault Cannon</i> ability, they will be unable to resolve it if they no longer have three or more non&ndash;fighter ships.</li>
@@ -164,28 +164,28 @@
     <li>Effects that cancel hits, such as <sc>Sustain Damage</sc>, cannot be used to prevent ships from being destroyed.</li>
     </ol>
 
-<h1>Sarween Tools</h1>
+<h2>Sarween Tools</h2>
     <ol class="note">
     <li>If units are produced without any unit using its <sc>Production</sc> ability, <i>Sarween Tools</i> will not provide a reduction to the cost.</li>
     </ol>
 
-<h1>Scanlink Drone Network</h1>
+<h2>Scanlink Drone Network</h2>
     <ol class="note">
     <li>The units must be on the planet before the <b>Movement</b> step of the tactical action.</li>
     </ol>
 
-<h1>Graviton Laser System</h1>
+<h2>Graviton Laser System</h2>
     <ol class="note">
     <li>If multiple players are resolving the <sc>Space Cannon</sc> ability of their units against the active player, the active player must resolve capacity limits after assigning one player&rsquo;s hits and before the next player makes their space cannon roll.</li> 
     </ol>
 
-<h1>Predictive Intelligence</h1>
+<h2>Predictive Intelligence</h2>
     <ol class="note">
     <li>Neither ability of <i>Predictive Intelligence</i> may be used if it is exhausted.</li>
     <li>If a player removes any tokens from their fleet pool, they will need to meet their new fleet pool limits before any other effects may resolve.</li>
     </ol>
 
-<h1>Transit Diodes</h1>
+<h2>Transit Diodes</h2>
     <ol class="note">
     <li>When resolving the ability of <i>Transit Diodes</i>, that player may remove ground forces from a system containing their command token.</li>
     <li>The ground forces may be removed from on a planet or from in a space area.</li>
@@ -194,7 +194,7 @@
     <li>If a mech is damaged when it is removed, it will remain damaged when it is placed.</li>
     </ol>
 
-<h1>Integrated Economy</h1>
+<h2>Integrated Economy</h2>
     <ol class="note">
     <li>The produced units must be paid for.</li>
     <li>There is no limit on the number of units produced, so long as the combined cost does not exceed the planet&rsquo;s resource value.</li>

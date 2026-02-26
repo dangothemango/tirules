@@ -1,24 +1,24 @@
 <?php include "prefix.php"?>
-<header>Objectives</header>
+<header><h1>Objectives</h1></header>
 <article>
-<h1>Achieve Supremacy</h1>
+<h2>Achieve Supremacy</h2>
     <ol class="note">
     <li>The flagship or war sun may be in the home system of an eliminated player.</li>
     </ol>
 
-<h1>Adapt New Strategies</h1>
+<h2>Adapt New Strategies</h2>
     <ol class="note">
     <li>A <i>Valefar Assimilator</i> technology will count if it is currently copying another player&rsquo;s faction technology.</li>
     </ol>
 
-<h1>Amass Wealth</h1>
+<h2>Amass Wealth</h2>
     <ol class="note">
     <li>The influence, resources and trade goods must be spent during the status phase. Any that were spent during the action phase will have no effect.</li>
     <li>A planet may be exhausted to spend either its resource or influence value, but not both.</li>
     <li>Trade goods may be spent as influence or resources when scoring <i>Amass Wealth</i>.</li>
     </ol>
 
-<h1>Become a Legend</h1>
+<h2>Become a Legend</h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
     <li>A ship, ground force, or structure will all qualify for <i>Become a Legend</i>.</li>
@@ -31,7 +31,7 @@
     <ol><li>If a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system towards the requirements of <i>Become a Legend</i>.</li></ol>
     </ol>
 
-<h1>Become a Martyr</h1>
+<h2>Become a Martyr</h2>
     <ol class="note">
     <li>The lost planet may be in any player&rsquo;s home system. It does not have to be a planet in the home system of the player scoring <i>Become a Martyr</i>.</li>
     <ol><li>The lost planet may be in the home system of an eliminated player.</li></ol>
@@ -40,13 +40,13 @@
     <li>The attacker will have the opportunity to score a secret objective before the defender has the opportunity to score <i>Become a Martyr</i>.</li>
     </ol>
 
-<h1>Become the Gatekeeper</h1>
+<h2>Become the Gatekeeper</h2>
     <ol class="note">
     <li>A player with a ship in the wormhole nexus, or in any other system with both an alpha and beta wormhole, qualifies for <i>Become the Gatekeeper</i>.</li>
     <li>Any ground forces or structures are irrelevant.</li>
     </ol>
 
-<h1>Betray a Friend</h1>
+<h2>Betray a Friend</h2>
     <ol class="note">
     <li>The following promissory notes qualify for scoring <i>Betray a Friend</i>:</li>
     <ol>
@@ -66,35 +66,35 @@
     <li>The defender cannot score <i>Betray a Friend</i>.</li>
     </ol>
 
-<h1>Brave the Void</h1>
+<h2>Brave the Void</h2>
     <ol class="note">
     <li>Any system containing a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is a gravity rift, and thus, an anomaly.</li>
     <li>A wormhole is not an anomaly.</li>
     </ol>
 
-<h1>Build Defenses</h1>
+<h2>Build Defenses</h2>
     <ol class="note">
     </ol>
 
-<h1>Centralize Galactic Trade</h1>
+<h2>Centralize Galactic Trade</h2>
     <ol class="note">
     <li>The trade goods must be spent during the status phase. Any trade goods that were spent during the action phase will have no effect.</li>
     </ol>
 
-<h1>Command an Armada</h1>
+<h2>Command an Armada</h2>
     <ol class="note">
     </ol>
 
-<h1>Conquer the Weak</h1>
+<h2>Conquer the Weak</h2>
     <ol class="note">
     <li>The planet may be in the home system of an eliminated player.</li>
     </ol>
 
-<h1>Construct Massive Cities</h1>
+<h2>Construct Massive Cities</h2>
     <ol class="note">
     </ol>
 
-<h1>Control the Borderlands</h1>
+<h2>Control the Borderlands</h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
     <li>A ship, ground force, or structure will all qualify for <i>Control the Borderlands</i>.</li>
@@ -109,32 +109,32 @@
     </ol>
     </ol>
 
-<h1>Control the Region</h1>
+<h2>Control the Region</h2>
     <ol class="note">
     <li>Any ground forces or structures are irrelevant.</li>
     </ol>
 
-<h1>Corner the Market</h1>
+<h2>Corner the Market</h2>
     <ol class="note">
     </ol>
 
-<h1>Cut Supply Lines</h1>
+<h2>Cut Supply Lines</h2>
     <ol class="note">
     </ol>
 
-<h1>Darken the Skies</h1>
+<h2>Darken the Skies</h2>
     <ol class="note">
     <li><i>Darken the Skies</i> may be scored by winning a combat in an eliminated player&rsquo;s home system.</li>
     </ol>
 
-<h1>Defy Space and Time</h1>
+<h2>Defy Space and Time</h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
     <li>A ship, ground force, or structure will all qualify for <i>Defy Space and Time</i>.</li>
     <ol><li>If one player has a ground force or structure on Mallice, and another player has a ship in the wormhole nexus, both players may score <i>Defy Space and Time</i>, if it is elected by the <i>Classified Document Leaks</i> agenda.</li></ol>
     </ol>
 
-<h1>Demonstrate Your Power</h1>
+<h2>Demonstrate Your Power</h2>
     <ol class="note">
     <li>A player need not win the combat to score <i>Demonstrate Your Power</i>; they are able to score it if their opponent plays the <i>Skilled Retreat</i> action card.</li>
     <li>A player involved in a combat due to the Mahact player&rsquo;s <i>Benediction</i> hero ability may score <i>Demonstrate Your Power</i> after that combat.</li>
@@ -143,13 +143,13 @@
     <ol><li>The Mentak player cannot use the ability of their <i>Salvage Operations</i> technology until after the window in which to score <i>Demonstrate Your Power</i>.</li></ol>
     </ol>
 
-<h1>Destroy Heretical Works</h1>
+<h2>Destroy Heretical Works</h2>
     <ol class="note">
     <li>A player will not gain a relic when scoring <i>Destroy Heretical Works</i>.</li>
     <li>The relic fragments may be the same or different types.</li>
     </ol>
 
-<h1>Destroy Their Greatest Ship</h1>
+<h2>Destroy Their Greatest Ship</h2>
     <ol class="note">
     <li>If a player destroys their own flagship or war sun during combat, such as via the effect of <i>The Crown of Thalnos</i> relic, their opponent cannot score <i>Destroy their Greatest Ship</i>.</li>
     <li><i>Destroy their Greatest Ship</i> is scored as soon as the war sun or flagship is destroyed; it does not require waiting until the end of the combat.</li>
@@ -157,13 +157,13 @@
     <li>A player may score <i>Destroy their Greatest Ship</i> outside of a combat.</li>
     </ol>
 
-<h1>Develop Weaponry</h1>
+<h2>Develop Weaponry</h2>
     <ol class="note">
     <li>A <i>Valefar Assimilator</i> technology will count if it is currently copying another player&rsquo;s faction unit upgrade technology.</li>
     <li>If the Nekro player owns both a generic unit upgrade technology and a faction unit upgrade technology of the same type, only the faction unit upgrade technology will count for <i>Develop Weaponry</i>.</li>
     </ol>
 
-<h1>Dictate Policy</h1>
+<h2>Dictate Policy</h2>
     <ol class="note">
     <li><i>Dictate Policy</i> is scored after the third law resolves. As such, the <i>Deadly Plot</i> action card will prevent any player from scoring <i>Dictate Policy</i>.</li>
     <li><i>Dictate Policy</i> is scored before any rider action cards are resolved.</li>
@@ -171,16 +171,16 @@
     <li>If the <i>Political Data Nexus</i> Xxcha hero ability puts a third law in play during the action phase, <i>Dictate Policy</i> cannot be scored until the agenda phase.</li>
     </ol>
 
-<h1>Discover Lost Outposts</h1>
+<h2>Discover Lost Outposts</h2>
     <ol class="note">
     <li>The number of attachments a planet has is irrelevant, if it has at least one.</li>
     </ol>
 
-<h1>Diversify Research</h1>
+<h2>Diversify Research</h2>
     <ol class="note">
     </ol>
 
-<h1>Drive the Debate</h1>
+<h2>Drive the Debate</h2>
     <ol class="note">
     <li>Any &ldquo;For&rdquo;/&ldquo;Against&rdquo; agenda cannot count for <i>Drive the Debate</i>, even if the outcome affects only a single player.</li>
     <li><i>Drive the Debate</i> is scored immediately before the agenda resolves. The <i>Confounding Legal Text</i> and <i>Confusing Legal Text</i> action cards will allow only the newly elected player to score <i>Drive the Debate</i>, and the <i>Deadly Plot</i> action card will prevent any player from scoring <i>Drive the Debate</i>.</li>
@@ -188,37 +188,37 @@
 	<li>If a player draws <i>Drive the Debate</i> while resolving the <i>Archived Secret</i> or <i>Search Warrant</i> agendas, they cannot score it immediately.</li>
     </ol>
 
-<h1>Engineer a Marvel</h1>
+<h2>Engineer a Marvel</h2>
     <ol class="note">
     </ol>
 
-<h1>Erect a Monument</h1>
+<h2>Erect a Monument</h2>
     <ol class="note">
     <li>The resources must be spent during the status phase. Any resources that were spent during the action phase will have no effect.</li>
     <li>Trade goods may be spent as resources when scoring <i>Erect a Monument</i>.</li>
     </ol>
 
-<h1>Establish a Perimeter</h1>
+<h2>Establish a Perimeter</h2>
     <ol class="note">
     </ol>
 
-<h1>Establish Hegemony</h1>
+<h2>Establish Hegemony</h2>
     <ol class="note">
     <li>With the right attachments, the requirements of <i>Establish Hegemony</i> may be met with a single planet.</li>
     </ol>
 
-<h1>Expand Borders</h1>
+<h2>Expand Borders</h2>
     <ol class="note">
     <li>The planets cannot be in any player&rsquo;s home system, including those of eliminated players.</li>
     </ol>
 
-<h1>Explore Deep Space</h1>
+<h2>Explore Deep Space</h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
     <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.</li>
     </ol>
 
-<h1>Fight with Precision</h1>
+<h2>Fight with Precision</h2>
     <ol class="note">
     <li>Scoring <i>Fight with Precision</i> will count as that player&rsquo;s single secret objective scoring for that combat.</li>
     <li><i>Fight with Precision</i> is scored immediately in the <b>Anti&ndash;Fighter Barrage</b> step of combat.</li>
@@ -226,7 +226,7 @@
     <li>If a player&rsquo;s last fighter in a system is destroyed, but an ability allows that player to then place fighters into that system, <i>Fight with Precision</i> may still be scored.</li>
     </ol>
 
-<h1>Fight with Precision &Omega;</h1>
+<h2>Fight with Precision &Omega;</h2>
     <ol class="note">
     <li>Scoring <i>Fight with Precision &Omega;</i> will count as that player&rsquo;s single secret objective scoring for that combat.</li>
     <li><i>Fight with Precision</i> is scored immediately in the <b>Anti&ndash;Fighter Barrage</b> step of combat.</li>
@@ -236,83 +236,83 @@
 	<ol><li>For example, say a player plays the <i>Courageous to the End</i> action card when one of their fighters are destroyed during the <b>Anti&ndash;Fighter Barrage</b> step. If the dice roll causes their opponent to destroy their ships, and they choose their last fighter, that would allow the player to score <i>Fight with Precision &Omega;</i>.</li></ol>
     </ol>
 
-<h1>Forge an Alliance</h1>
+<h2>Forge an Alliance</h2>
     <ol class="note">
     </ol>
 
-<h1>Form a Spy Network</h1>
+<h2>Form a Spy Network</h2>
     <ol class="note">
     <li>The action cards must be discarded during the status phase. Any action cards that were discarded during the action phase will have no effect.</li>
     </ol>
 
-<h1>Form Galactic Brain Trust</h1>
+<h2>Form Galactic Brain Trust</h2>
     <ol class="note">
     <li>The number of technology specialties a planet has is irrelevant, if it has at least one.</li>
     </ol>
 
-<h1>Foster Cohesion</h1>
+<h2>Foster Cohesion</h2>
     <ol class="note">
     <li>The Hacan player&rsquo;s <sc>Guild Ships</sc> faction ability and <i>Trade Convoys</i> promissory note does not make a player neighbors with all other players.</li>
     <li>If a player has units or controls a planet in a system containing an alpha wormhole, and the Creuss player has units or controls a planet in a system containing a beta wormhole, or vice versa, those two players are neighbors.</li>
     </ol>
 
-<h1>Found a Golden Age</h1>
+<h2>Found a Golden Age</h2>
     <ol class="note">
     <li>The resources must be spent during the status phase. Any resources that were spent during the action phase will have no effect.</li>
     <li>Trade goods may be spent as resources when scoring <i>Found a Golden Age</i>.</li>
     </ol>
 
-<h1>Found Research Outposts</h1>
+<h2>Found Research Outposts</h2>
     <ol class="note">
     <li>The number of technology specialties a planet has is irrelevant, if it has at least one.</li>
     </ol>
 
-<h1>Fuel the War Machine</h1>
+<h2>Fuel the War Machine</h2>
     <ol class="note">
     </ol>
 
-<h1>Galvanize the People</h1>
+<h2>Galvanize the People</h2>
     <ol class="note">
     <li>The command tokens must be spent during the status phase. Any command tokens that were spent during the action phase will have no effect.</li>
     <li>Any effect that triggers when a command token is spent will be triggered six times. For example, if the Muaat player has unlocked their commander, Magmus, they will gain six trade goods, one at a time, when scoring <i>Galvanize the People</i>.</li>
     </ol>
 
-<h1>Gather a Mighty Fleet</h1>
+<h2>Gather a Mighty Fleet</h2>
     <ol class="note">
     </ol>
 
-<h1>Hoard Raw Materials</h1>
+<h2>Hoard Raw Materials</h2>
     <ol class="note">
     <li>With the right attachments, the requirements of <i>Hoard Raw Materials</i> may be met with a single planet.</li>
     </ol>
 
-<h1>Hold Vast Reserves</h1>
+<h2>Hold Vast Reserves</h2>
     <ol class="note">
     <li>The influence, resources and trade goods must be spent during the status phase. Any that were spent during the action phase will have no effect.</li>
     <li>A planet may be exhausted to spend either its resource or influence value, but not both.</li>
     <li>Trade goods may be spent as influence or resources when scoring <i>Hold Vast Reserves</i>.</li>
     </ol>
 
-<h1>Improve Infrastructure</h1>
+<h2>Improve Infrastructure</h2>
     <ol class="note">
     <li>The number of structures on the planet is irrelevant, if there is at least one.</li>
     <li>The structures may be on planets in another player&rsquo;s home system.</li>
     <li>The Saar player&rsquo;s Floating Factories cannot be used to score <i>Improve Infrastructure</i>.</li>
     </ol>
 
-<h1>Intimidate Council</h1>
+<h2>Intimidate Council</h2>
     <ol class="note">
     <li>Any ships in the Mecatol Rex system are irrelevant.</li>
     <li>Any ground forces or structures are irrelevant.</li>
     </ol>
 
-<h1>Lead From the Front</h1>
+<h2>Lead From the Front</h2>
     <ol class="note">
     <li>The command tokens must be spent during the status phase. Any command tokens that were spent during the action phase will have no effect.</li>
     <li>Any effect that triggers when a command token is spent will be triggered three times. For example, if the Muaat player has unlocked their commander, Magmus, they will gain three trade goods, one at a time when scoring <i>Lead From the Front</i>.</li>
     </ol>
 
-<h1>Learn the Secrets of the Cosmos</h1>
+<h2>Learn the Secrets of the Cosmos</h2>
     <ol class="note">
     <li>The three systems may be mutually adjacent to one system, or separate systems.</li>
     <li>Having ships in an anomaly is irrelevant, unless that system is also adjacent to another anomaly.</li>
@@ -320,7 +320,7 @@
     <li>Any system containing a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is a gravity rift, and thus, an anomaly.</li>
     </ol>
 
-<h1>Make an Example of Their World</h1>
+<h2>Make an Example of Their World</h2>
     <ol class="note">
     <li>If the last ground force is destroyed using the <i>X&ndash;89 Bacterial Weapon &Omega;</i> technology, <i>Make an Example of Their World</i> cannot be scored.</li>
     <li>Scoring <i>Make an Example of Their World</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.</li>
@@ -328,7 +328,7 @@
     <li>The L1Z1X player may score <i>Make an Example of Their World</i> by using their <sc>Harrow</sc> faction ability. If they do they cannot score another objective during that ground combat.</li>
     </ol>
 
-<h1>Make an Example of Their World &Omega;</h1>
+<h2>Make an Example of Their World &Omega;</h2>
     <ol class="note">
     <li>If the last ground force is destroyed using the <i>X&ndash;89 Bacterial Weapon &Omega;</i> technology, <i>Make an Example of Their World &Omega;</i> may be scored.</li>
     <li>Scoring <i>Make an Example of Their World &Omega;</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.</li>
@@ -336,7 +336,7 @@
     <li>The L1Z1X player cannot score <i>Make an Example of Their World &Omega;</i> by using their <sc>Harrow</sc> faction ability.</li>
     </ol>
 
-<h1>Make History</h1>
+<h2>Make History</h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
     <li>A ship, ground force, or structure will all qualify for <i>Make History</i>.</li>
@@ -349,54 +349,54 @@
     <ol><li>If a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system towards the requirements of <i>Make History</i>.</li></ol>
     </ol>
 
-<h1>Manipulate Galactic Law</h1>
+<h2>Manipulate Galactic Law</h2>
     <ol class="note">
     <li>The influence must be spent during the status phase. Any influence that was spent during the action phase will have no effect.</li>
     <li>Trade goods may be spent as influence when scoring <i>Manipulate Galactic Law</i>.</li>
     </ol>
 
-<h1>Master the Laws of Physics</h1>
+<h2>Master the Laws of Physics</h2>
     <ol class="note">
     </ol>
 
-<h1>Master the Sciences</h1>
+<h2>Master the Sciences</h2>
     <ol class="note">
     </ol>
 
-<h1>Mechanize the Military</h1>
+<h2>Mechanize the Military</h2>
     <ol class="note">
     <li>Given that each player only has four mechs, to score <i>Mechanize the Military</i>, a player will have to have all of them on the game board, and on separate planets.</li>
     </ol>
 
-<h1>Mine Rare Minerals</h1>
+<h2>Mine Rare Minerals</h2>
     <ol class="note">
     </ol>
 
-<h1>Monopolize Production</h1>
+<h2>Monopolize Production</h2>
     <ol class="note">
     </ol>
 
-<h1>Negotiate Trade Routes</h1>
+<h2>Negotiate Trade Routes</h2>
     <ol class="note">
     <li>The trade goods must be spent during the status phase. Any trade goods that were spent during the action phase will have no effect.</li>
     </ol>
 
-<h1>Occupy the Fringe</h1>
+<h2>Occupy the Fringe</h2>
     <ol class="note">
     <li>The Saar player&rsquo;s Floating Factories are never on a planet.</li>
     </ol>
 
-<h1>Occupy the Seat of the Empire</h1>
+<h2>Occupy the Seat of the Empire</h2>
     <ol class="note">
     </ol>
 
-<h1>Patrol Vast Territories</h1>
+<h2>Patrol Vast Territories</h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
     <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.</li>
     </ol>
 
-<h1>Populate the Outer Rim</h1>
+<h2>Populate the Outer Rim</h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
     <li>A ship, ground force, or structure will all qualify for <i>Populate the Outer Rim</i>.</li>
@@ -411,66 +411,66 @@
     </ol>
     </ol>
 
-<h1>Produce en Masse</h1>
+<h2>Produce en Masse</h2>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
     </ol>
 
-<h1>Protect the Border</h1>
+<h2>Protect the Border</h2>
     <ol class="note">
     <li>The number of structures on the planet is irrelevant, if there is at least one.</li>
     <li>The structures may be on planets in another player&rsquo;s home system.</li>
     <li>The Saar player&rsquo;s Floating Factories cannot be used to score <i>Protect the Border</i>.</li>
     </ol>
 
-<h1>Prove Endurance</h1>
+<h2>Prove Endurance</h2>
     <ol class="note">
     <li><i>Prove Endurance</i> is scored when the player passes during the action phase. They may then score another secret objective in the status phase immediately following.</li>
     </ol>
 
-<h1>Push Boundaries</h1>
+<h2>Push Boundaries</h2>
     <ol class="note">
     <li>If a player has units or controls a planet in a system containing an alpha wormhole, and the Creuss player has units or controls a planet in a system containing a beta wormhole, or vice versa, those two players are neighbors.</li>
     </ol>
 
-<h1>Raise a Fleet</h1>
+<h2>Raise a Fleet</h2>
     <ol class="note">
     </ol>
 
-<h1>Reclaim Ancient Monuments</h1>
+<h2>Reclaim Ancient Monuments</h2>
     <ol class="note">
     <li>The number of attachments a planet has is irrelevant, if it has at least one.</li>
     </ol>
 
-<h1>Revolutionize Warfare</h1>
+<h2>Revolutionize Warfare</h2>
     <ol class="note">
     <li>A <i>Valefar Assimilator</i> technology will count if it is currently copying another player&rsquo;s faction unit upgrade technology.</li>
     <li>If the Nekro player owns both a generic unit upgrade technology and a faction unit upgrade technology of the same type, only the faction unit upgrade technology will count for <i>Revolutionize Warfare</i>.</li>
     </ol>
 
-<h1>Rule Distant Lands</h1>
+<h2>Rule Distant Lands</h2>
     <ol class="note">
     <li>A player will qualify for <i>Rule Distant Lands</i> if they can select two home systems other than their own, and they control a planet in or adjacent to each of those systems.</li>
     <li>The planets may meet the criteria by being adjacent to an eliminated player&rsquo;s home system.</li>
     <li>If a player controls a single planet in a home system that is adjacent to another home system via the use of wormholes, that planet alone will not qualify them for <i>Rule Distant Lands</i>.</li>
     </ol>
 
-<h1>Seize an Icon</h1>
+<h2>Seize an Icon</h2>
     <ol class="note">
     </ol>
 
-<h1>Spark a Rebellion</h1>
+<h2>Spark a Rebellion</h2>
     <ol class="note">
     <li>A player that currently outright has the most victory points cannot score <i>Spark a Rebellion</i>.</li>
     <li>If multiple players are tied for the most victory points, <i>Spark a Rebellion</i> may be scored by winning a combat against any of them.</li>
     <ol><li><i>Spark a Rebellion</i> may be scored by winning a combat against a player with zero victory points if all players have zero victory points.</li></ol>
     </ol>
 
-<h1>Stake Your Claim</h1>
+<h2>Stake Your Claim</h2>
     <ol class="note">
     </ol>
 
-<h1>Strengthen Bonds</h1>
+<h2>Strengthen Bonds</h2>
     <ol class="note">
     <li>The following promissory notes qualify for scoring Strengthen Bonds:</li>
     <ol>
@@ -489,25 +489,25 @@
     </ol>
     </ol>
 
-<h1>Subdue the Galaxy</h1>
+<h2>Subdue the Galaxy</h2>
     <ol class="note">
     <li>The planets cannot be in any player&rsquo;s home system, including those of eliminated players.</li>
     </ol>
 
-<h1>Sway the Council</h1>
+<h2>Sway the Council</h2>
     <ol class="note">
     <li>The influence must be spent during the status phase. Any influence that was spent during the action phase will have no effect.</li>
     <li>Trade goods may be spent as influence when scoring <i>Sway the Council</i>.</li>
     </ol>
 
-<h1>Threaten Enemies</h1>
+<h2>Threaten Enemies</h2>
     <ol class="note">
     <li>Any ships in another players home system are irrelevant.</li>
     <li>The ships may be adjacent to the home system of an eliminated player.</li>
     <li>Any ground forces or structures are irrelevant.</li>
     </ol>
 
-<h1>Turn Their Fleets to Dust</h1>
+<h2>Turn Their Fleets to Dust</h2>
     <ol class="note">
     <li>If the last ship is destroyed using a <i>Direct Hit</i> action card, <i>Turn Their Fleets to Dust</i> cannot be scored.</li>
     <li>If a player still has fighters in a system after assigning all hits produced during the <b>Space Cannon Offense</b> step, but is forced to remove all of them to meet capacity limits, <i>Turn Their Fleets to Dust</i> cannot be scored.</li>
@@ -515,7 +515,7 @@
     <li>Scoring <i>Turn Their Fleets to Dust</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.</li>
     </ol>
 
-<h1>Turn Their Fleets to Dust &Omega;</h1>
+<h2>Turn Their Fleets to Dust &Omega;</h2>
     <ol class="note">
     <li>If the last ship is destroyed using a <i>Direct Hit</i> action card, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.</li>
     <li>If a player still has fighters in a system after assigning all hits produced during the <b>Space Cannon Offense</b> step, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.</li>
@@ -526,11 +526,11 @@
 	<ol><li>For example, say the Yin player has their flagship, the <i>Van Hauge</i>, destroyed during the <b>Space Cannon Offense</b> step. They may score <i>Turn Their Fleets to Dust &Omega;</i> if the effect of their flagship destroys all non&ndash;fighter ships owned by another player in the active system.</li></ol>
     </ol>
 
-<h1>Unify the Colonies</h1>
+<h2>Unify the Colonies</h2>
     <ol class="note">
     </ol>
 
-<h1>Unveil Flagship</h1>
+<h2>Unveil Flagship</h2>
     <ol class="note">
     <li>If a player&rsquo;s flagship is destroyed during combat, but a later effect places it into the same combat, that player cannot score <i>Unveil Flagship.</i></li>
     </ol>

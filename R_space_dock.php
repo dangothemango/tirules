@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Space Dock</header>
+<header><h1>Space Dock</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '79.' counter(item, decimal);} </style>
 <p>A space dock is a structure that allows players to produce units.</p>
     <ol class="lrr">
@@ -12,14 +12,14 @@
     <ol><li>The Clan of Saar&rsquo;s <i>Floating Factory</i> faction&ndash;specific space dock is destroyed when it is blockaded; that is to say, when it is in a system with another player&rsquo;s ships and none of the Clan of Saar&rsquo;s ships.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A Space Dock is both a structure and a unit.</li>
 	<li>Fighters transported during movement remain assigned to the transporting ship until movement is complete. They cannot be counted towards a space dock&rsquo;s allocation until after movement is complete.</li>
 	<ol><li>If a player moves one of their units with capacity into a system, transporting fighters, they cannot pick up ground forces from a planet in that system with that ship by transferring those fighters to a space dock in that system to free up capacity.</li></ol>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_blockaded">Blockaded</a></li>
     <li><a href="/R_construction">Construction</a></li>

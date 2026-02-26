@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Game Round</header>
+<header><h1>Game Round</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '40.' counter(item, decimal);} </style>
 <p>A game round consists of the following four phases:
 <ol>
@@ -16,13 +16,13 @@
     <li>Abilities that last until the end of a player&rsquo;s turn do not persist for the duration of a game round or into the other phases of that game round. Those effects end at the end of that player&rsquo;s turn, before the next player&rsquo;s turn begins.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>During the strategy, status and agenda phases, players to not take turns for the purpose of game effects.</li>
     <li>A game has a maximum of nine game rounds.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_action_phase">Action Phase</a></li>
     <li><a href="/R_agenda_phase">Agenda Phase</a></li>

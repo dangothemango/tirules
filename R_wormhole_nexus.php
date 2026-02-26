@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Wormhole Nexus</header>
+<header><h1>Wormhole Nexus</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '100.' counter(item, decimal);} </style>
 <p>The wormhole nexus is a system tile where several wormholes converge.</p>
     <ol class="lrr">
@@ -15,7 +15,7 @@
     <ol><li>When a ship moves into the wormhole nexus, the nexus becomes active at the end of the <b>Movement</b> step.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>The wormhole nexus will flip if a unit exists in the system while inactive, even if that unit did not move through a gamma wormhole.</li>
     <li>As the wormhole nexus becomes active at the end of the <b>Movement</b> step, only units with the <sc>Deep Space Cannon</sc> ability in systems containing a gamma wormhole will be able to produce hits during the <b>Space Cannon Offense</b> step during that action.</li>
@@ -24,7 +24,7 @@
     <li>A ship in the wormhole will single&ndash;handedly qualify for the <i>Become the Gatekeeper</i> objective.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_movement">Movement</a></li>
     <li><a href="/R_system_tiles">System Tiles</a></li>

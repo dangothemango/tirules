@@ -1,10 +1,10 @@
 <?php include "prefix.php"?>
-<header>Synergy</header>
+<header><h1>Synergy</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <p>There currently does not exist a Living Rules Reference section regarding synergy.</p>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Certain abilities, primarily breakthroughs, grant synergy between two colors of technology, allowing components of one color to be treated as the other for some game effects.</li>
     <li>When researching a technology, a player may treat each technology they own and/or each technology speciality on a planet they control that matches one color of their synergy as any color of that synergy.</li>
@@ -17,7 +17,7 @@
     <ol><li>For example, say a player currently has just one biotic technology, and they are resolving the primary ability of the <i>Technology</i> strategy card to research two technologies; they have a propulsion/biotic synergy ability. They may first treat the biotic technology as a propulsion technology in order to research a technology with one propulsion prerequisite. Then, they may treat both the original biotic technology and the new propulsion technology as biotic technologies in order to research a technology with two biotic prerequisites.</li></ol>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_breakthroughs">Breakthroughs</a></li>
     </ul>

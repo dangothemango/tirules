@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>The Nekro Virus</header>
+<header><h1>The Nekro Virus</h1></header>
 <article>
-<h1>Galactic Threat</h1>
+<h2>Galactic Threat</h2>
     <ol class="note">
     <li>The Nekro player may still play rider action cards.</li>
     <li>If the Nekro player has the Xxcha player&rsquo;s <i>Alliance</i> promissory note, the Nekro player may vote, without losing their ability to predict outcomes for their <sc>Galactic Threat</sc> ability.</li>
@@ -9,7 +9,7 @@
     <ol><li>If no player casts votes, then no technology can be gained.</li></ol>
     </ol>
 
-<h1>Technology Singularity</h1>
+<h2>Technology Singularity</h2>
     <ol class="note">
     <li>If the Nekro player gains a technology during a space combat, this does not prevent them from gaining technology during ground combats in the <b>Invasion</b> step of the same tactical action.</li>
     <li>If multiple ground combats happen on separate planets as part of a single <b>Invasion</b> step during one action, the Nekro player may gain a technology during each combat.</li>
@@ -36,7 +36,7 @@
     </ol>
     </ol>
 
-<h1>Propagation</h1>
+<h2>Propagation</h2>
     <ol class="note">
     <li>If the Nekro player resolves an ability that instructs them to &ldquo;gain&rdquo; a technology, instead of &ldquo;research&rdquo; that technology, they will get that technology instead of the command tokens.</li>
     <li>The Nekro player may still resolve the primary or secondary abilities of the <i>Technology</i> strategy card, which will instead gain them command tokens.</li>
@@ -49,7 +49,7 @@
     <ol><li>For example, the Nekro player may always play the <i>Reveal Prototype</i> action card at the start of combat, even if they would not meet the prerequisites of any of the unit upgrades for the units they have participating in the combat, and/or they already have the unit upgrades for each unit they have participating in the combat, and/or the units they have participating in the combat have no unit upgrade.</li></ol>
     </ol>
 
-<h1>Antivirus <sub>(Promissory Note)</sub></h1>
+<h2>Antivirus <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>The effect of <i>Antivirus</i> does not prevent the Nekro player gaining a technology from a player via their <sc>Galactic Threat</sc> ability.</li>
     <li>The player holding <i>Antivirus</i> may only play it at the start of a combat they are participating in.</li>
@@ -60,7 +60,7 @@
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Nekro player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Antivirus</i> to be returned.</li>
     </ol>
 
-<h1>Valefar Assimilator <sub>(Technology)</sub></h1>
+<h2>Valefar Assimilator <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>When copying another technology, each <i>Valefar Assimilator</i> retains its original text; it may later be used to copy a different faction technology.</li>
     <li>When copying another technology, <i>Valefar Assimilator</i> will retain its exhausted/readied state. It will not copy the target technology&rsquo;s exhausted/readied state.</li>
@@ -99,7 +99,7 @@
     </ol>
     </ol>
 
-<h1>The Alastor <sub>(Flagship)</sub></h1>
+<h2>The Alastor <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>Any effect that may target ships or non&ndash;fighter ships may target a ground force that is participating in space combat due to the effect of <i>The Alastor</i>.</li>
     <ol>
@@ -121,31 +121,31 @@
     <ol><li>If the Nekro player uses a <i>Direct Hit</i> action card to destroy an opponent&rsquo;s flagship, they may score the <i>Destroy their Greatest Ship</i> secret objective, even if there are some hits remaining that will cause the Nekro player to be eliminated once they are assigned. If this would bring the Nekro player to ten victory points, they will instead win the game before they are eliminated.</li></ol>
     </ol>
 
-<h1>Nekro Malleon <sub>(Agent)</sub></h1>
+<h2>Nekro Malleon <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>If the chosen player is the Muaat player with their commander, Magmus, unlocked, they will gain a trade good from it if they spend a token from their strategy pool when resolving this ability.</li>
     <ol><li>That trade good will be gained separately from the other two.</li></ol>
     <li>The ability of Nekro Malleon cannot be resolved while another ability is resolving. For example, if the Nekro player is targeted by the <i>Spy</i> action card, they cannot use the ability of Nekro Malleon to discard one of their action cards before <i>Spy</i> resolves.</li>
     </ol>
 
-<h1>Nekro Acidos <sub>(Commander)</sub></h1>
+<h2>Nekro Acidos <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>When the Nekro player gains their third technology and unlocks Nekro Acidos, they cannot apply Nekro Acidos to that instance of gaining a technology.</li>
     <li>When the Nekro places a Valefar Assimilator token on a technology, they are not gaining a technology.</li>
     </ol>
 
-<h1>UNIT.DSGN.FLAYESH &mdash; Polymorphic Algorithm <sub>(Hero)</sub></h1>
+<h2>UNIT.DSGN.FLAYESH &mdash; Polymorphic Algorithm <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>When the other player&rsquo;s units are destroyed, this does not trigger the Nekro player&rsquo;s <sc>Technology Singularity</sc> ability.</li>
     <li>Unit upgrades do not have a color. The Nekro player cannot gain a unit upgrade with <i>Polymorphic Algorithm</i>.</li>
     </ol>
 
-<h1>Mordred <sub>(Mech)</sub></h1>
+<h2>Mordred <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>A Mordred will apply +2 against a player with both Valefar Assimilator tokens, and not +4.</li>
     </ol>
 
-<h1>Valefar Assimilator Z <sub>(Breakthrough)</sub></h1>
+<h2>Valefar Assimilator Z <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>If the Nekro player places a Valefar Assimilator X or Y token on the Nomad player&rsquo;s <i>Memoria II</i> unit upgrade technology card, their flagship would still gain each ability granted to them by <i>Valefar Assimilator Z</i> from the flagships of other players.</li>
     <li>The Nekro player cannot place multiple Valefar Assimilator Z tokens on the same player&rsquo;s faction sheet.</li>

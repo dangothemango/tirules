@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Imperial <sub>(Strategy Card)</sub></header>
+<header><h1>Imperial <sub>(Strategy Card)</sub></h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '45.' counter(item, decimal);} </style>
 <p>The <i>Imperial</i> strategy card allows players to score victory points and draw secret objectives. This card&rsquo;s initiative value is &ldquo;8&rdquo;.</p>
     <ol class="lrr">
@@ -11,7 +11,7 @@
     <li>If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their <b>unscored</b> secret objectives and return it to the secret objective deck. This number includes the secret objective cards in the player&rsquo;s hand <b>and</b> the cards that player has already scored. Then, they shuffle the secret objective deck.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A player must control every planet in their home system to score a public objective using the first primary ability of <i>Imperial</i>.</li>
     <li>A player who controls Mecatol Rex does not need to control every planet in their home system to gain a victory point from the second primary ability of <i>Imperial</i>.</li>
@@ -19,7 +19,7 @@
     <li>A player who needs to discard a secret objective must do so and reshuffle the deck before the next player may draw from the deck.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_initiative_order">Initiative Order</a></li>
     <li><a href="/R_mecatol_rex">Mecatol Rex</a></li>

@@ -1,11 +1,11 @@
 <?php include "prefix.php"?>
-<header>The Nomad</header>
+<header><h1>The Nomad</h1></header>
 <article>
-<h1>The Company</h1>
+<h2>The Company</h2>
     <ol class="note">
     </ol>
 
-<h1>Future Sight</h1>
+<h2>Future Sight</h2>
     <ol class="note">
     <li>The Nomad player may only predict agenda outcomes via game effects that allow them to do so, e.g. rider action cards.</li>
     <li>If the Nomad player predicts multiple different outcomes, and one of those outcomes is resolved, they will gain the trade good.</li>
@@ -13,7 +13,7 @@
 	<li>If the <i>Deadly Plot</i> action card is played, the Nomad will not gain a trade good from <sc>Future Sight</sc>.</li>
     </ol>
 
-<h1>The Cavalry <sub>(Promissory Note)</sub></h1>
+<h2>The Cavalry <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>One ship is chosen. That ship retains the flagship&rsquo;s values and abilities until it is destroyed or the combat ends.</li>
     <li>If the chosen ship does not usually have the <sc>Sustain Damage</sc> ability, and is damaged during combat, it will remain damaged even after losing the <sc>Sustain Damage</sc> ability.</li>
@@ -25,7 +25,7 @@
     </ol>
     </ol>
 
-<h1>Temporal Command Suite <sub>(Technology)</sub></h1>
+<h2>Temporal Command Suite <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The Nomad player may perform a transaction with another player without being neighbors with that player.</li>
     <li>The Nomad player may perform a transaction with another player even if neither player is the active player.</li>
@@ -34,7 +34,7 @@
     <li>An agent cannot be resolved twice in one timing window. If a player&rsquo;s agent is readied immediately after resolving, it cannot immediately resolve again.</li>
     </ol>
 
-<h1>Memoria <sub>(Flagship)</sub></h1>
+<h2>Memoria <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>Only the <i>Memoria</i> is adjacent to systems with a Quantum Manipulator. Other ships cannot move between the <i>Memoria</i>&rsquo;s system and a system containing a Quantum Manipulator using this ability.</li>
     <li>Other players cannot use the <sc>Deep Space Cannon</sc> ability of units in the same system as a Quantum Manipulator against the <i>Memoria</i>, unless those units are adjacent using another adjacency method.</li>
@@ -44,7 +44,7 @@
 	<li>The <i>Memoria</i> is adjacent to the system that the Quantum Manipulator is in before movement, regardless of if that Quantum Manipulator is transported during that movement.</li>
     </ol>
 
-<h1>Artuno the Betrayer <sub>(Agent)</sub></h1>
+<h2>Artuno the Betrayer <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>If the Nomad player would gain trade goods from multiple effects, they may only put the trade goods from one of those effects on Artuno the Betrayer.</li>
     <ol><li>For example, if the Nomad player successfully predicts the outcome of an agenda via the <i>Trade Rider</i> action card, they could put either the trade goods gained from the <i>Trade Rider</i>, or from <sc>Future Sight</sc>, but not both.</li></ol>
@@ -52,7 +52,7 @@
     <li>When the Nomad player gains trade goods that were on Artuno the Betrayer, they do not gain them from the supply.</li>
     </ol>
 
-<h1>Field Marshal Mercer <sub>(Agent)</sub></h1>
+<h2>Field Marshal Mercer <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The ground forces may be from a system with that players command token in it.</li>
     <li>The ground forces may be on a planet or in a space area.</li>
@@ -61,7 +61,7 @@
     <li>Any damaged mechs remain damaged.</li>
     </ol>
 
-<h1>The Thundarian <sub>(Agent)</sub></h1>
+<h2>The Thundarian <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The dice are rerolled in the same round. Any effects that apply for a single round of combat remain in effect.</li>
     <ol>
@@ -82,7 +82,7 @@
     <li>If a game effect readies The Thundarian when it is used, its effect may be applied again at the end of the same round of combat.</li>
     </ol>
 
-<h1>Navarch Feng <sub>(Commander)</sub></h1>
+<h2>Navarch Feng <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>Producing the flagship still counts towards <sc>Production</sc> limits.</li>
     <li>The flagship still has a cost of 8.</li>
@@ -98,13 +98,13 @@
     </ol>
     </ol>
 
-<h1>Ahk&ndash;Syl Siven &mdash; Probability Matrix <sub>(Hero)</sub></h1>
+<h2>Ahk&ndash;Syl Siven &mdash; Probability Matrix <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from Mecatol Rex).</li>
     <li>The <i>Memoria</i> may transport ground forces from systems containing one of the Nomad player&rsquo;s command tokens while the ability of Ahk&ndash;Syl Siven is active.</li>
     </ol>
 
-<h1>Quantum Manipulator <sub>(Mech)</sub></h1>
+<h2>Quantum Manipulator <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>When a Quantum Manipulator uses its <sc>Sustain Damage</sc> ability to cancel a hit produced against a ship, the <i>Direct Hit</i> and <i>Reflective Shielding</i> action cards cannot be played, as the Quantum Manipulator is not a ship.</li>
     <li>A Quantum Manipulator may use its <sc>Sustain Damage</sc> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be cancelled.</li>
@@ -115,7 +115,7 @@
     <li>During a space combat, A Quantum Manipulator cannot be repaired by the <i>Duranium Armor</i> technology, as it is not participating in the combat.</li>
     </ol>
 
-<h1>Thunder&rsquo;s Paradox <sub>(Breakthrough)</sub></h1>
+<h2>Thunder&rsquo;s Paradox <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The readied agent can belong to any player. It need not belong to the Nomad player nor the active player.</li>
     </ol>

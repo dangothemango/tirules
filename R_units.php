@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Units</header>
+<header><h1>Units</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '96.' counter(item, decimal);} </style>
 <p>A unit is represented by a plastic figure.</p>
     <ol class="lrr">
@@ -23,14 +23,14 @@
     <li>Units exist either on the game board or in a player&rsquo;s reinforcements.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>If an effect allows a player produce a ship of a specific type, then factional variations do not prevent that player from producing that type of ship.</li>
     <li>Units are component limited.</li>
     <ol><li>Fighters and infantry are semi&ndash;limited, via the use of tokens.</li></ol>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_component_limitations">Component Limitations</a></li>
     <li><a href="/R_fighter_tokens">Fighter Tokens</a></li>

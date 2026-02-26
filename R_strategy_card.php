@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Strategy Card</header>
+<header><h1>Strategy Card</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '83.' counter(item, decimal);} </style>
 <p>Strategy cards determine initiative order and provide each player with a powerful ability that they can use one time during the action phase.</p>
     <ol class="lrr">
@@ -23,13 +23,13 @@
     </ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>During three&ndash; and four&ndash;player games, each player will choose two strategy cards during the strategy phase.</li>
     <ol><li>Players will use the lower of the two initiative numbers on their strategy cards to determine the initiative order.</li></ol>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_construction">Construction</a></li>
     <li><a href="/R_diplomacy">Diplomacy</a></li>

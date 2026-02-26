@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Leaders</header>
+<header><h1>Leaders</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '51.' counter(item, decimal);} </style>
 <p>Each player has several faction&ndash;specific leader cards that represent characters with unique abilities.</p>
     <ol class="lrr">
@@ -38,14 +38,14 @@
     <ol><li>The Titans of Ul&rsquo;s hero is not purged; it is attached to the planet Elysium instead.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A commander&rsquo;s ability cannot be applied to the instance of the effect that unlocked it.</li>
     <li>A commander may be unlocked between two abilities that occur in the same timing window.</li>
     <li>For notes about a leader of a specific faction, see that faction&rsquo;s page.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_component_action">Component Action</a></li>

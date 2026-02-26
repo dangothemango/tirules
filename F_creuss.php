@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>The Ghosts of Creuss</header>
+<header><h1>The Ghosts of Creuss</h1></header>
 <article>
-<h1>Quantum Entanglement</h1>
+<h2>Quantum Entanglement</h2>
     <ol class="note">
     <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the Creuss player.</li>
     <li>If the Creuss player has units or controls planets in a system with an alpha wormhole, and another player has units or controls planets in a system with a beta wormhole, or vice versa, then the Creuss player and that player are neighbors.</li>
@@ -10,18 +10,18 @@
     <li>The Creuss player&rsquo;s <sc>Quantum Entanglement</sc> ability applies to their units with the <sc>Deep Space Cannon</sc> ability. Other players cannot use <sc>Quantum Entanglement</sc> to produce hits from a unit with the <sc>Deep Space Cannon</sc> ability against the Creuss player&rsquo;s units.</li>
     </ol>
 
-<h1>Slipstream</h1>
+<h2>Slipstream</h2>
     <ol class="note">
     <li><sc>Slipstream</sc> does not apply to the Creuss Gate or to the <i>Hil Colish</i>, or to gamma wormholes.</li>
     </ol>
 
-<h1>Creuss Gate</h1>
+<h2>Creuss Gate</h2>
     <ol class="note">
     <li>A frontier token is placed in the Creuss Gate system during setup.</li>
     <li>Both the Creuss Gate and the Creuss home system (in standard game board setups) are on the edge of the board.</li>
     </ol>
 
-<h1>Creuss IFF <sub>(Promissory Note)</sub></h1>
+<h2>Creuss IFF <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player may receive the <i>Creuss IFF</i> in a transaction during their turn. If received at the start of that player&rsquo;s turn, that player may play it immediately.</li>
     <ol>
@@ -33,7 +33,7 @@
     <li>The <i>Creuss IFF</i> cannot place wormhole tokens in the home system of an eliminated player.</li>
     </ol>
 
-<h1>Dimensional Splicer <sub>(Technology)</sub></h1>
+<h2>Dimensional Splicer <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>Any wormhole may trigger <i>Dimensional Splicer</i>, including the one produced by the ability of the <i>Hil Colish</i></li>
     <li>One hit will be produced even if the system contains multiple wormholes.</li>
@@ -45,20 +45,20 @@
     </ol>
     </ol>
 
-<h1>Wormhole Generator <sub>(Technology)</sub></h1>
+<h2>Wormhole Generator <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>This ability is mandatory for the Creuss player in every status phase after it has been researched.</li>
     <ol><li>The Creuss player may move a wormhole token from the system it is in into the same system.</li></ol>
     <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player.</li>
     </ol>
 
-<h1>Wormhole Generator &Omega; <sub>(Technology)</sub></h1>
+<h2>Wormhole Generator &Omega; <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The Creuss player may move a wormhole token from the system it is in into the same system.</li>
     <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player.</li>
     </ol>
 
-<h1>Hil Colish <sub>(Flagship)</sub></h1>
+<h2>Hil Colish <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>If the <i>Hil Colish</i> moves first, then the Creuss player uses the new position of the <i>Hil Colish</i> when determining if the active system may be reached by their other ships.</li>
     <li>If the <i>Hil Colish</i> moves last, then it may move itself into (or through, if its move value is increased) the Creuss Gate or Creuss home system. Before it does so, the Creuss player&rsquo;s other ships may move through the wormhole created by the <i>Hil Colish</i>.</li>
@@ -76,7 +76,7 @@
     <li>When the <i>Hil Colish</i> retreats, it may retreat before or after the Creuss player&rsquo;s other ships, but cannot retreat in such a way that would prevent the other ships from retreating to the same system.</li>
     </ol>
 
-<h1>Emissary Taivra <sub>(Agent)</sub></h1>
+<h2>Emissary Taivra <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The Creuss player may use this ability to access the inactive wormhole nexus without a gamma wormhole. Moving ships into the wormhole nexus this way will cause it to flip.</li>
     <li>A delta wormhole in the system (such as from the <i>Hil Colish</i>) does not prevent this ability from being usable.</li>
@@ -86,7 +86,7 @@
     <ol><li>If a wormhole is placed at the start of a player&rsquo;s turn in the system using the Creuss IFF, then Emissary Taivra may be used for the activation immediately following.</li></ol>
     </ol>
 
-<h1>Sai Seravus <sub>(Commander)</sub></h1>
+<h2>Sai Seravus <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The fighters are placed one at a time, until either one has been placed for each ship with capacity that moved through a wormhole, or the capacity of the system is reached.</li>
     <ol>
@@ -104,19 +104,19 @@
     <ol><li>If the Creuss player moves the <i>Hil Colish</i> separately from other ships during the same <b>Move Ships</b> step, Sai Seravus cannot unlock until all movement is completed.</li></ol>
     </ol>
 
-<h1>Riftwalker Meian &mdash; Singularity Reactor <sub>(Hero)</sub></h1>
+<h2>Riftwalker Meian &mdash; Singularity Reactor <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Any units and tokens on either system are moved with their system.</li>
     <li>Systems that comprise The Fracture and the Rebellion player&rsquo;s home system cannot be swapped with other system tiles.</li>
     </ol>
 
-<h1>Icarus Drive <sub>(Mech)</sub></h1>
+<h2>Icarus Drive <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Icarus Drive does not have to be in the activated system.</li>
     <li>The wormhole token is placed in the system the Icarus Drive was in.</li>
     </ol>
 
-<h1>Particle Synthesis <sub>(Breakthrough)</sub></h1>
+<h2>Particle Synthesis <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>Each wormhole in the system provides the <sc>Production</sc> value and discount, even those of the same type.</li>
     <li>If the Creuss player moves the <i>Hil Colish</i> into a system, the Creuss player may use the <sc>Production</sc> ability of the associated delta wormhole during the production step of the same tactical action.

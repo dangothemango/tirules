@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Promissory Notes</header>
+<header><h1>Promissory Notes</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '69.' counter(item, decimal);} </style>
 <p>Each player begins the game with one unique and five generic promissory note cards that can be given to other players.</p>
     <ol class="lrr">
@@ -18,7 +18,7 @@
     <ol><li>Other players&rsquo; promissory notes are returned to those players.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>The number of promissory notes in a player&rsquo;s hand is public information.</li>
     <li>When two players make a trade for a promissory note, the specific promissory note that was traded may be hidden from other players.</li>
@@ -31,7 +31,7 @@
     <li>For notes about a promissory note of a specific faction, see that faction&rsquo;s notes page.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_component_action">Component Action</a></li>

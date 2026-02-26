@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>The Argent Flight</header>
+<header><h1>The Argent Flight</h1></header>
 <article>
-<h1>Zeal</h1>
+<h2>Zeal</h2>
     <ol class="note">
     <li>Additional votes must be cast for the same outcome as the other votes the Argent player cast.</li>
     <ol><li>If the Argent player abstains or otherwise casts zero votes, they cannot cast additional votes.</li></ol>
@@ -9,7 +9,7 @@
     <li>Other players vote in their regular order after the Argent player votes; clockwise starting with the player to the left of the speaker (skipping over the Argent player as necessary).</li>
     </ol>
 
-<h1>Raid Formation</h1>
+<h2>Raid Formation</h2>
     <ol class="note">
     <li>The <b>Anti&ndash;Fighter Barrage</b> step happens during each space combat, even if no fighters are present in the system.</li>
     <li><sc>Raid Formation</sc> occurs when hits are produced, not after hits are assigned. As such, cancelling any hits will not prevent an opponent&rsquo;s ships from becoming damaged.</li>
@@ -26,40 +26,40 @@
     <li>If the Argent player is in combat with the Nekro player, and the Nekro player has their mechs participating in the space combat via the effects of <i>The Alastor</i>, those mechs may become damaged by the effect of <sc>Raid Formation</sc>.</li>
     </ol>
 
-<h1>Strike Wing Ambuscade <sub>(Promissory Note)</sub></h1>
+<h2>Strike Wing Ambuscade <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Aerie Hololattice <sub>(Technology)</sub></h1>
+<h2>Aerie Hololattice <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The planet with &ldquo;<sc>Production</sc> 1&rdquo; is considered to be on itself for the purposes of producing ground forces.</li>
     <li>A player with the <i>Light/Wave Deflector</i> technology cannot move their ships through systems containing the Argent player's structures, if the Argent player owns <i>Aerie Hololattice</i>.</li>
     </ol>
 
-<h1>Strike Wing Alpha <sub>(Unit)</sub></h1>
+<h2>Strike Wing Alpha <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>When a Strike Wing Alpha II rolls a 9 or 10 for their <sc>anti&ndash;fighter barrage</sc> ability, infantry are destroyed at the end of the <b>Roll Dice</b> step. This occurs before any ship may use its <sc>Sustain Damage</sc> ability at the start of the <b>Assign Hits</b> step.</li>
     <li>Effects that cancel hits, such as the <i>Shields Holding</i> action card, cannot prevent the infantry from being destroyed. If an effect rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.</li>
     <li>If the last of a player&rsquo;s ground forces are destroyed by the ability of a Strike Wing Alpha II, and that player meets the other conditions for elimination, that player is immediately eliminated. All of their units are removed from the board, and the Argent player wins the combat.</li>
     </ol>
 
-<h1>Quetzecoatl <sub>(Flagship)</sub></h1>
+<h2>Quetzecoatl <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>A player may still use the <sc>Space Cannon</sc> ability of their units against the Argent player&rsquo;s ground forces during the <b>Space Cannon Defense</b> step of an invasion in this system.</li>
     </ol>
 
-<h1>Trilossa Aun Mirik <sub>(Agent)</sub></h1>
+<h2>Trilossa Aun Mirik <sub>(Agent)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Trrakan Aun Zulok <sub>(Commander)</sub></h1>
+<h2>Trrakan Aun Zulok <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>Ships that gain <sc>Bombardment</sc> due to the <i>Blitz</i> action card will contribute to the unlock condition.</li>
     <ol><li>The <i>Experimental Battlestation</i> action card will not contribute.</li></ol>
     <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability.</li>
     </ol>
 
-<h1>Mirik Aun Sissiri &mdash; Helix Protocol <sub>(Hero)</sub></h1>
+<h2>Mirik Aun Sissiri &mdash; Helix Protocol <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Fighters may be moved without being transported.</li>
     <li>Ships in systems with one of the Argent player&rsquo;s command tokens may move.</li>
@@ -72,12 +72,12 @@
     <li><i>Helix Protocol</i> may be used to move ships into the wormhole nexus. If the nexus is inactive, this will cause it to activate.</li>
     </ol>
 
-<h1>Aerie Sentinel <sub>(Mech)</sub></h1>
+<h2>Aerie Sentinel <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>An Aerie Sentinel cannot be transported by a ship without a capacity value.</li>
     </ol>
 
-<h1>Wing Transfer <sub>(Breakthrough)</sub></h1>
+<h2>Wing Transfer <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>If the Argent player produces units on their turn in the active system, they will have to satisfy fleet pool and capacity limits there before they may move units to adjacent systems.</li>
     </ol>

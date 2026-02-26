@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Component Action</header>
+<header><h1>Component Action</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '22.' counter(item, decimal);} </style>
 <p>A component action is a type of action that a player can perform during their turn of an action phase.</p>
     <ol class="lrr">
@@ -11,12 +11,12 @@
     <li>If a component action is canceled, it does not use that player&rsquo;s action.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Action cards without the &ldquo;Action&rdquo; header are not used to perform component actions.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_action_cards">Action Cards</a></li>

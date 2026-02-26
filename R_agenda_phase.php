@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Agenda Phase</header>
+<header><h1>Agenda Phase</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '8.' counter(item, decimal);} </style>
 <p>During the agenda phase, players can cast votes on agendas that can change the rules of the game.</p>
     <ol class="lrr">
@@ -44,7 +44,7 @@
     </ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A player cannot cast zero votes for an outcome. Casting zero votes is the same as abstaining.</li>
     <li>When a player casts votes during the agenda phase, it is not that player&rsquo;s turn for the purpose of game effects.</li>
@@ -56,7 +56,7 @@
     <li>For notes about specific agenda cards, see the <a href="/C_agendas">agenda card component notes page</a>.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_agenda_card">Agenda Cards</a></li>
     <li><a href="/R_custodians_token">Custodians Token</a></li>

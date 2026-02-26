@@ -1,27 +1,27 @@
 <?php include "prefix.php"?>
-<header>The Naaz&ndash;Rokha Alliance</header>
+<header><h1>The Naaz&ndash;Rokha Alliance</h1></header>
 <article>
-<h1>Distant Suns</h1>
+<h2>Distant Suns</h2>
     <ol class="note">
     <li>If the Naaz&ndash;Rokha player has multiple Eidolon on the planet they explore, they will draw only one additional exploration card.</li>
     <li>The Naaz&ndash;Rokha player must choose to use this ability before seeing the first exploration card.</li>
     <li>If a planet has multiple traits, the additional exploration card must come from the same deck as the first.</li>
     </ol>
 
-<h1>Fabrication</h1>
+<h2>Fabrication</h2>
     <ol class="note">
     <li>If the relic deck is empty, the Naaz&ndash;Rokha player may still purge two relic fragments as an action.</li>
     <li>If the Naaz&ndash;Rokha player has no command tokens in their reinforcements, they may still purge one relic fragment as an action.</li>
     <li>Either or both of the relic fragments may be <i>Unknown Relic Fragments</i>.</li>
     </ol>
 
-<h1>Black Market Forgery <sub>(Promissory Note)</sub></h1>
+<h2>Black Market Forgery <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If there are no cards in the relic deck, a player cannot gain a relic. As such, a player cannot play <i>Black Market Forgery</i> when the relic deck is empty.</li>
     <li>Either or both of the relic fragments may be <i>Unknown Relic Fragments</i>.</li>
     </ol>
 
-<h1>Pre&ndash;Fab Arcologies <sub>(Technology)</sub></h1>
+<h2>Pre&ndash;Fab Arcologies <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The planet is not readied until after the planet is explored. If the <i>Freelancers</i> exploration card is revealed, then:</li>
     <ol>
@@ -30,26 +30,26 @@
     </ol>
     </ol>
 
-<h1>Supercharge <sub>(Technology)</sub></h1>
+<h2>Supercharge <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>Supercharge</i> does not modify anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
     </ol>
 
-<h1>Visz El Vir <sub>(Flagship)</sub></h1>
+<h2>Visz El Vir <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>Each mech will roll an additional die.</li>
     <li>The <i>Visz El Vir</i> ability applies to both Eidolon and Z&ndash;Grav Eidolon.</li>
     </ol>
 
-<h1>Garv and Gunn <sub>(Agent)</sub></h1>
+<h2>Garv and Gunn <sub>(Agent)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Dart and Tai <sub>(Commander)</sub></h1>
+<h2>Dart and Tai <sub>(Commander)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Hesh and Prit &mdash; Perfect Synthesis <sub>(Hero)</sub></h1>
+<h2>Hesh and Prit &mdash; Perfect Synthesis <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The Naaz&ndash;Rokha player may choose to perform the secondary ability of zero, one or two strategy cards.</li>
     <ol><li>The Naaz&ndash;Rokha player cannot choose the same strategy card twice.</li></ol>
@@ -63,7 +63,7 @@
     <li>If the Naaz&ndash;Rokha player has the Muaat player&rsquo;s <i>Alliance</i> promissory note, they will not gain a trade good from it when they use their <i>Perfect Synthesis</i> ability.</li>
     </ol>
 
-<h1>Eidolon /<br/>Z&ndash;Grav Eidolon <sub>(Mech)</sub></h1>
+<h2>Eidolon /<br/>Z&ndash;Grav Eidolon <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Naaz&ndash;Rokha mechs are only Z&ndash;Grav Eidolon during the <b>Space Combat</b> step, only in the active system, and only in the space area.</li>
     <li>If the Naaz&ndash;Rokha player had  an Eidolon in the space area of the active system, they must mandatorily use its ability to convert it to a Z&ndash;Grav Eidolon.</li>
@@ -77,13 +77,13 @@
     <li>When a Z&ndash;Grav Eidolon reverts back to an Eidolon at the end of combat, it will count towards capacity in the active system. Capacity limits must be met before proceeding to the <b>Invasion</b> step.</li>
     </ol>
 
-<h1>Absolute Synergy <sub>(Breakthrough)</sub></h1>
+<h2>Absolute Synergy <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The four mechs can be anywhere in the same system; they need not be all on the same planet, and some or all may be in the space area.</li>
     <li>The mechs may be removed and the card flipped as soon as the four mechs are in the same system. For example, this may be done before space combat starts.</li>
     </ol>
 
-<h1>Eidolon Maximum <sub>(Mech)</sub></h1>
+<h2>Eidolon Maximum <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>When in the space area of a system, the Eidolon Maximum counts towards either of the Naaz&ndash;Rokha player&rsquo;s capacity or fleet pool in that system.</li>
     <li>If hits are produced by unit abilities against a group of the Naaz&ndash;Rokha player&rsquo;s units that includes the Eidolon Maximum, then these hits must be assigned to the other eligible units in that group, if possible.</li>

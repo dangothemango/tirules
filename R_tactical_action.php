@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Tactical Action</header>
+<header><h1>Tactical Action</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '89.' counter(item, decimal);} </style>
 <p>The tactical action is the primary method by which players produce units, move ships, and extend their dominion within the galaxy. To perform a tactical action, the active player performs the following steps:</p>
     <ol class="lrr">
@@ -23,13 +23,13 @@
     <ol><li>The active player may do this even if they did not move units or land ground forces during this tactical action.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Each of these five steps happen during every tactical action, unless explicitly skipped; the active player does not have to choose between fighting a combat or producing units, for example.</li>
     <li>Any abilities that occur at the end of an action happen before any abilities that occur at the end of a player&rsquo;s turn.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_action_phase">Action Phase</a></li>
     <li><a href="/R_active_system">Active System</a></li>

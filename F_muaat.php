@@ -1,40 +1,40 @@
 <?php include "prefix.php"?>
-<header>The Embers of Muaat</header>
+<header><h1>The Embers of Muaat</h1></header>
 <article>
-<h1>Star Forge</h1>
+<h2>Star Forge</h2>
     <ol class="note">
     <li>The Muaat player cannot use <sc>Star Forge</sc> if the do not have a war sun on the game board.</li>
     </ol>
 
-<h1>Gashlai Physiology</h1>
+<h2>Gashlai Physiology</h2>
     <ol class="note">
     </ol>
 
-<h1>Fires of the Gashlai <sub>(Promissory Note)</sub></h1>
+<h2>Fires of the Gashlai <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If a player already owns their war sun unit upgrade technology, they cannot play <i>Fires of the Gashlai</i>.</li>
     </ol>
 
-<h1>Magmus Reactor <sub>(Technology)</sub></h1>
+<h2>Magmus Reactor <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The war sun must be in the system prior to the use of <sc>Production</sc> to gain the trade good.</li>
     <li>The trade good is gained after the use of <sc>Production</sc>; it cannot be used to pay for the produced units.</li>
     </ol>
 
-<h1>Magmus Reactor &Omega; <sub>(Technology)</sub></h1>
+<h2>Magmus Reactor &Omega; <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If the Muaat player has a unit in a system containing a supernova, they cannot be eliminated.</li>
     </ol>
 
-<h1>Prototype War Sun <sub>(Unit)</sub></h1>
+<h2>Prototype War Sun <sub>(Unit)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>The Inferno <sub>(Flagship)</sub></h1>
+<h2>The Inferno <sub>(Flagship)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Umbat <sub>(Agent)</sub></h1>
+<h2>Umbat <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The produced units must be paid for.</li>
     <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not allow a more expensive ship to be produced.</li>
@@ -43,7 +43,7 @@
     <ol><li>If the <i>Regulated Conscription</i> law is in play, then that player may use their commander to produce two units for one resource when resolving Umbat.</li></ol>
     </ol>
 
-<h1>Magmus <sub>(Commander)</sub></h1>
+<h2>Magmus <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>When a command token is spent to resolve the secondary ability of a strategy card, the trade good is gained after resolving the secondary ability. As such, it cannot be spent to pay for costs of the secondary ability.</li>
     <li>If the Muaat player spends multiple tokens from their strategy pool (e.g. for the <i>Lead From the Front</i> objective), they gain that many trade goods, one at a time.</li>
@@ -56,7 +56,7 @@
     <ol><li>For example, if the Muaat player spends a strategy token to follow the secondary ability of the <i>Warfare</i> strategy card, and in doing so produces the war sun that unlocks Magmus, they will not gain the trade good from spending that strategy token.</li></ol>
     </ol>
 
-<h1>Adjudicator Ba&rsquo;al &mdash; Nova Seed <sub>(Hero)</sub></h1>
+<h2>Adjudicator Ba&rsquo;al &mdash; Nova Seed <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Any method of movement is sufficient to trigger this ability, not only tactical action movement. For example, the Muaat player may trigger <i>Nova Seed</i> when they retreat.</li>
     <ol><li>If the Mahact player moves the Muaat player&rsquo;s war sun via the use of their <i>Benediction</i> hero ability, the Muaat player cannot trigger <i>Nova Seed</i>.</li></ol>
@@ -69,11 +69,11 @@
     <li>The Empyrean player cannot use the ability of their agent, Acamar, on the Muaat player after they use <i>Nova Seed</i> if the original system tile contained planets.</li>
     </ol>
 
-<h1>Ember Colossus <sub>(Mech)</sub></h1>
+<h2>Ember Colossus <sub>(Mech)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Stellar Genesis <sub>(Breakthrough)</sub></h1>
+<h2>Stellar Genesis <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Muaat player explores Avernus when they gain it.</li>
     <li>The Muaat player may move Avernus even if another player controls it.</li>
@@ -85,7 +85,7 @@
     </ol>
     </ol>
 
-<h1>Avernus &mdash; The Nucleus <sub>(Legendary Planet)</sub></h1>
+<h2>Avernus &mdash; The Nucleus <sub>(Legendary Planet)</sub></h2>
     <ol class="note">
      <li>If the Muaat player uses <i>The Nucleus</i>, they will not gain a trade good from the ability of their commander, Magmus.</li>
      <li>If the Muaat player uses <i>The Nucleus</i>, they will still place infantry with their adjacent mechs.</li>

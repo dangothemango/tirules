@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Exhausted</header>
+<header><h1>Exhausted</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '34.' counter(item, decimal);} </style>
 <p>Some cards can be exhausted. A player cannot resolve abilities or spend the resources or influence of an exhausted card.</p>
     <ol class="lrr">
@@ -13,13 +13,13 @@
     <li>After a player performs a strategic action, they exhaust the strategy card that corresponds to that action.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Planets will also ready at the end of each agenda phase. Leaders, relics and technologies will not.</li>
     <li>If a game effect instructs a player to exhaust a planet, the exhausted planet must be controlled by that player, unless the game effect specifies otherwise.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_influence">Influence</a></li>
     <li><a href="/R_leaders">Leaders</a></li>

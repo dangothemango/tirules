@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Structures</header>
+<header><h1>Structures</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '85.' counter(item, decimal);} </style>
 <p>A structure is a type of unit. PDS units and space docks are structures.</p>
     <ol class="lrr">
@@ -14,11 +14,11 @@
     <li>A player cannot place a structure on a planet if it would exceed the maximum number of allowed structures of that type on that planet.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_construction">Construction</a></li>
     <li><a href="/R_space_dock">Space Dock</a></li>

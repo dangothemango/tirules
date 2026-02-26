@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Planetary Shield <sub>(Unit Ability)</sub></header>
+<header><h1>Planetary Shield <sub>(Unit Ability)</sub></h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '65.' counter(item, decimal);} </style>
 <p>Units cannot use the <sc>Bombardment</sc> ability against a planet that contains a unit that has the <sc>Planetary Shield</sc> ability.</p>
     <ol class="lrr">
@@ -14,7 +14,7 @@
     </ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A unit with the <sc>Planetary Shield</sc> ability on a planet does not stop of the use of a unit&rsquo;s <sc>Bombardment</sc> ability on other planets in the same system.</li>
     <li>If the <sc>Planetary Shield</sc> ability prevents the use of the  the use of a <sc>Bombardment</sc> ability, then the abilities of the <i>X&ndash;89 Bacterial Weapon &Omega;</i> or <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> technologies cannot be used.</li>
@@ -22,7 +22,7 @@
     <li>If a war sun causes a unit to be treated as if it does not have a <sc>Planetary Shield</sc> ability, all units in that system with a <sc>Bombardment</sc> ability may use it against the planet that unit is on.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_bombardment">Bombardment</a></li>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Producing Units</header>
+<header><h1>Producing Units</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '67.' counter(item, decimal);} </style>
 <p>The primary way that a player produces new units is by resolving the <sc>Production</sc> abilities of existing units during a tactical action. However, other game effects also allow players to produce units.</p>
     <ol class="lrr">
@@ -31,7 +31,7 @@
     <ol><li>Ground forces can still be produced.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Whenever a unit is produced, its cost must be paid, unless the effect that is producing the unit explicitly says otherwise.</li>
     <li>A player cannot produce one fighter and one infantry for one resource.</li>
@@ -39,7 +39,7 @@
     <li>If a player removes a unit in order to place it, because they have none of that unit type in their reinforcements, that unit is placed undamaged.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_blockaded">Blockaded</a></li>
     <li><a href="/R_component_limitations">Component Limitations</a></li>

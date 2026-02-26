@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Relics</header>
+<header><h1>Relics</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '73.' counter(item, decimal);} </style>
 <p>Relics are powerful artifacts with unique abilities.</p>
     <ol class="lrr">
@@ -13,14 +13,14 @@
     <li>Relics cannot be traded.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>If the relic deck is empty, a player may still purge three relic fragments as an action.</li>
     <li>If an eliminated player had any relic fragments, they are discarded to their respective exploration discard piles. If an eliminated player had any relics, they are purged.</li>
     <li>For notes about specific relics, see the <a href="/C_relics">relic notes page</a>.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_component_action">Component Action</a></li>

@@ -1,17 +1,17 @@
 <?php include "prefix.php"?>
-<header>The Barony of Letnev</header>
+<header><h1>The Barony of Letnev</h1></header>
 <article>
-<h1>Munitions Reserves</h1>
+<h2>Munitions Reserves</h2>
     <ol class="note">
     <li><sc>Munitions Reserves</sc> may only be triggered once per round. The Letnev player cannot spend four (or more) trade goods to get two (or more) rerolls.</li>
     </ol>
 
-<h1>Armada</h1>
+<h2>Armada</h2>
     <ol class="note">
     <li>If the Letnev player has zero command tokens in their fleet pool, they may still have ships on the game board. While this is the case, effects that remove command tokens from a player&rsquo;s fleet pool cannot affect the Letnev player.</li>
     </ol>
 
-<h1>War Funding <sub>(Promissory Note)</sub></h1>
+<h2>War Funding <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player may play <i>War Funding</i> when the Letnev player has zero or one trade goods. The Letnev player will lose the single trade good, if applicable, and the other effects will resolve as normal.</li>
     <li>A player may receive <i>War Funding</i> in a transaction during a combat. If received at the start of a round, that player may play it immediately.</li>
@@ -23,7 +23,7 @@
     </ol>
     </ol>
 
-<h1>War Funding &Omega; <sub>(Promissory Note)</sub></h1>
+<h2>War Funding &Omega; <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.</li>
     <ol>
@@ -35,12 +35,12 @@
     <li>A player may only reroll combat rolls with <i>War Funding &Omega;</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.</li>
     </ol>
 
-<h1>L4 Disruptors <sub>(Technology)</sub></h1>
+<h2>L4 Disruptors <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>A player may still use the <sc>Space Cannon</sc> ability of their units against the Letnev player&rsquo;s ships during the <b>Space Cannon Offense</b> step in this system.</li>
     </ol>
 
-<h1>Non&ndash;Euclidean Shielding <sub>(Technology)</sub></h1>
+<h2>Non&ndash;Euclidean Shielding <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a Dunlain Reaper uses its <sc>Sustain damage</sc> ability.</li>
     <li><i>Non&ndash;Euclidean Shielding</i> applies whenever hits are produced. This includes hits produced by <sc>Bombardment</sc> and <sc>Space Cannon</sc> abilities.</li>
@@ -48,7 +48,7 @@
     <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <sc>Sustain damage</sc> ability to cancel it. If additional hits are produced against the Letnev player's units, such as with the <i>Reflective Shielding</i> action card, the Letnev player cannot retroactively use the previous use of <sc>Sustain damage</sc> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.</li>
     </ol>
 
-<h1>Arc Secundus <sub>(Flagship)</sub></h1>
+<h2>Arc Secundus <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>The <i>Arc Secundus</i> is not repaired at the end of combat.</li>
     <li>The <i>Arc Secundus</i> only uses its repair ability during combats it is participating in.</li>
@@ -56,13 +56,13 @@
     <ol><li>The <i>Arc Secundus</i> has no effect on the <i>Magen Defense Grid &Omega;</i> or <i>Magen Defense Grid &Omega;&Omega;</i> technologies.</li></ol>
     </ol>
 
-<h1>Viscount Unlenn <sub>(Agent)</sub></h1>
+<h2>Viscount Unlenn <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>This ability only applies to combat rolls. It does not apply to dice rolls for a unit&rsquo;s <sc>Anti&ndash;Fighter Barrage</sc> ability.</li>
     <li>The extra dice is mandatory for the chosen unit.</li>
     </ol>
 
-<h1>Rear Admiral Farran <sub>(Commander)</sub></h1>
+<h2>Rear Admiral Farran <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>If the Letnev player has more ships in a system than allowed for by their fleet pool plus <sc>Armada</sc>, they must first remove ships to meet this limit before they can unlock Rear Admiral Farran.</li>
     <li>This effect may be applied when a Dunlain Reaper uses its <sc>Sustain damage</sc> ability.</li>
@@ -71,13 +71,13 @@
     <li>If multiple units use their <sc>Sustain Damage</sc> ability within a single step, the trade goods are gained one at a time.</li>
     </ol>
 
-<h1>Darktalon Treilla &mdash; Dark Matter Affinity <sub>(Hero)</sub></h1>
+<h2>Darktalon Treilla &mdash; Dark Matter Affinity <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from Mecatol Rex).</li>
     <li>At the end of the game round the Letnev player might need to remove ships from the board to satisfy fleet pool limits.</li>
     </ol>
 
-<h1>Dunlain Reaper <sub>(Mech)</sub></h1>
+<h2>Dunlain Reaper <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>A <sc>Deploy</sc> ability may be resolved only once per timing window. As such, the Letnev player may only place one Dunlain Reaper this way per ground combat round.</li>
     <ol><li>Further Dunlain Reapers may be placed in later rounds.</li></ol>
@@ -85,7 +85,7 @@
     <ol><li>If a Dunlain Reaper is destroyed during combat, then another may be deployed in a later round of the same combat.</li></ol>
     </ol>
 
-<h1>Gravleash Maneuvers <sub>(Breakthrough)</sub></h1>
+<h2>Gravleash Maneuvers <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>If a ship has its movement value increased by an ability such as the <i>Gravity Drive</i> technology, then other ships will have their movement values increased to match the modified value.</li>
     <li>If the Letnev player owns the Fighter II unit upgrade technology, another ship may have its move value increased to match that of a Fighter II in that system.</li>

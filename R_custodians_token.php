@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Custodians Token</header>
+<header><h1>Custodians Token</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '27.' counter(item, decimal);} </style>
 <p>The custodians token begins each game on Mecatol Rex. The token represents the caretakers that safeguard the seat of the empire until such time as the galactic council can be reconvened.</p>
     <ol class="lrr">
@@ -12,12 +12,12 @@
     <li>After a player removes the custodians token from Mecatol Rex, the agenda phase is added to all subsequent game rounds, including the game round during which the custodians token was removed from Mecatol Rex.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>The custodians token is not an attachment.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_agenda_phase">Agenda Phase</a></li>
     <li><a href="/R_control">Control</a></li>

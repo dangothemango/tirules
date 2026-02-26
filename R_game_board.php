@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Game Board</header>
+<header><h1>Game Board</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '39.' counter(item, decimal);} </style>
 <p>The game board consists of all system tiles in play.</p>
     <ol class="lrr">
@@ -10,7 +10,7 @@
     <ol><li>The Ghosts of Creuss home system and the wormhole nexus are on the edge of the game board.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
     <ol>
@@ -19,7 +19,7 @@
     </ol>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_adjacency">Adjacency</a></li>
     <li><a href="/R_hyperlanes">Hyperlanes</a></li>

@@ -1,20 +1,20 @@
 <?php include "prefix.php"?>
-<header>Council Keleres</header>
+<header><h1>Council Keleres</h1></header>
 <article>
-<h1>The Tribunii</h1>
+<h2>The Tribunii</h2>
     <ol class="note">
     <li>The Keleres player chooses their starting technology after all other players, including the Argent, Bastion, Deepwrought, Firmament, Ral Nel, Rebellion, and Winnu players, have gained their starting technologies.</li>
     <li>If there are not two unique starting technologies amongst those owned by other players, the Keleres player will start the game with fewer technologies. This will most commonly happen in a three player game, where one of the other players is playing as N&rsquo;orr or Winnu.</li>
     </ol>
 
-<h1>Council Patronage</h1>
+<h2>Council Patronage</h2>
     <ol class="note">
     <li>The Keleres player must mandatorily replenish their commodities and gain a trade good every strategy phase.</li>
     <li>If the Keleres player already has two commodities, they will still replenish their commodities during the strategy phase. This will not give them additional commodities, but will trigger any effects that happen when the Keleres player replenishes their commodities.</li>
     <li>If another player is holding the Keleres player&rsquo;s <i>Trade Agreement</i> promissory note, they may use it when the Keleres player replenishes commodities from <sc>Council Patronage</sc>.</li>
     </ol>
 
-<h1>Law&rsquo;s Order</h1>
+<h2>Law&rsquo;s Order</h2>
     <ol class="note">
     <li>The blanked laws come back into effect at the end of the turn.</li>
     <li>If this ability is used, all laws are blanked. The Keleres player cannot choose for some laws to remain in effect.</li>
@@ -23,7 +23,7 @@
     <li>The Keleres player and all of the other players treat all laws as blank for the turn.</li>
     </ol>
 
-<h1>Keleres Rider <sub>(Promissory Note)</sub></h1>
+<h2>Keleres Rider <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>After playing <i>Keleres Rider</i>, a player may use additional abilities, including playing other rider cards.</li>
     <ol><li>Any other riders may be played to predict the same or a different outcome.</li></ol>
@@ -32,7 +32,7 @@
     <li>A player who cannot play action cards may still play a <i>Keleres Rider</i>.</li>
     </ol>
 
-<h1>Agency Supply Network <sub>(Technology)</sub></h1>
+<h2>Agency Supply Network <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>Any abilities that trigger &ldquo;when/after a unit uses <sc>Production</sc>&rdquo; will trigger an additional time, for example, the <i>Sarween Tools</i> technology.</li>
     <li>The additional <sc>Production</sc> ability cannot belong to the same unit as the original <sc>Production</sc> ability.</li>
@@ -45,7 +45,7 @@
     <ol><li>The Keleres player cannot pay one resource for two fighters or infantry, then place one with a unit using the original <sc>Production</sc> ability and one with the unit using the additional <sc>Production</sc> ability.</li></ol>
     </ol>
 
-<h1>Executive Order <sub>(Technology)</sub></h1>
+<h2>Executive Order <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><span class="ruling">When resolving <i>Executive Order</i>, players go through the normal when/after timing windows. Abilities that resolve when the agenda outcome is revealed and abilities that resolve after the agenda outcome is resolved both occur. Riders may be cast during this resolution.</span></li>
     <li>If the Keleres player draws one of the <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i> agendas, they will discard it if required and reveal a new agenda from the deck.</li>
@@ -60,12 +60,12 @@
     <li>Effects from agenda outcomes that occur &ldquo;at the start of the next strategy phase&rdquo; will still resolve at the start of the next strategy phase.</li>
     </ol>
 
-<h1>I.I.H.Q. Modernization <sub>(Technology/Breakthrough)</sub></h1>
+<h2>I.I.H.Q. Modernization <sub>(Technology/Breakthrough)</sub></h2>
     <ol class="note">
     <li>If the Keleres player is neighbors with another player, that player is neighbors with the Keleres player.</li>
     </ol>
 
-<h1>Custodia Vigilia <sub>(Legendary Planet)</sub></h1>
+<h2>Custodia Vigilia <sub>(Legendary Planet)</sub></h2>
     <ol class="note">
     <li>The Custodia Vigilia planet card is gained exhausted.</li>
     <li>Units cannot be placed on Custodia Vigilia.</li>
@@ -86,17 +86,17 @@
     <ol><li>If <i>Terraform</i> is attached to Custodia Vigilia, it may be explored. However, Custodia Vigilia may be immune to the effects of some exploration cards.</li></ol>
     </ol>
 
-<h1>Artemiris <sub>(Flagship)</sub></h1>
+<h2>Artemiris <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>If a player cannot spend two influence, they cannot activate the system containing the <i>Artemiris</i>.</li>
     </ol>
 
-<h1>Xander Alexin Victori III <sub>(Agent)</sub></h1>
+<h2>Xander Alexin Victori III <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>Xander Alexin Victori III applies to only a single instance of spending trade goods.</li>
     </ol>
 
-<h1>Suffi An <sub>(Commander)</sub></h1>
+<h2>Suffi An <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The trade good to unlock Suffi An is spent after, and independent of, any trade goods spent while resolving the action card.</li>
     <li>If the Keleres player uses their additional action to perform another component action, they may perform another additional action. They may do this any number of times.</li>
@@ -107,11 +107,11 @@
     <li>If a player&rsquo;s additional action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate additional action on that turn.</li>
     </ol>
 
-<h1>Harka Leeds &mdash; Erwan&rsquo;s Covenant <sub>(Hero)</sub></h1>
+<h2>Harka Leeds &mdash; Erwan&rsquo;s Covenant <sub>(Hero)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Kuuasi Aun Jalatai &mdash; Overwing Zeta <sub>(Hero)</sub></h1>
+<h2>Kuuasi Aun Jalatai &mdash; Overwing Zeta <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The Keleres player must be participating in the combat in order to resolve <i>Overwing Zeta</i>.</li>
     <li>If a player wishes to place a ship, but there are none of that type left in their reinforcements, they may remove a ship of that type from any system that does not contain one of their command tokens and place that instead.</li>
@@ -119,14 +119,14 @@
     <ol><li><i>Overwing Zeta</i> may be played in a round following the <i>Artemiris</i> being destroyed.</li></ol>
     </ol>
 
-<h1>Odlynn Myrr &mdash; Operation Archon <sub>(Hero)</sub></h1>
+<h2>Odlynn Myrr &mdash; Operation Archon <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The additional votes are not cast until the Keleres player casts votes normally.</li>
     <li>The Keleres player may vote for a different outcome than the one they predicted. If they do, they will gain one trade good and one command token.</li>
     <li>The Keleres player will still receive the trade goods and command tokens if the agenda is discarded and resolved with no effect by the <i>Deadly Plot</i> action card.</li>
     </ol>
 
-<h1>Omniopiares <sub>(Mech)</sub></h1>
+<h2>Omniopiares <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>If a planet contains multiple mechs, the invading player must pay one influence for each, as separate payments. For example, if all four mechs were on a planet, the invading player could only exhaust Meer to pay for one instance of the ability; they would still have three instances of a single influence to pay.</li>
     </ol>

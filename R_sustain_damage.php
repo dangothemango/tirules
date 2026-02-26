@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Sustain Damage</header>
+<header><h1>Sustain Damage</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '87.' counter(item, decimal);} </style>
 <p>Some units have the <sc>Sustain Damage</sc> ability. Immediately before a player assigns hits to their units, that player can use the <sc>Sustain Damage</sc> ability of any of their units in the active system.</p>
     <ol class="lrr">
@@ -14,11 +14,11 @@
     <li>The Barony of Letnev&rsquo;s <i>Non&ndash;Euclidean Shielding</i> faction technology allows the Letnev player&rsquo;s units with the <sc>Sustain Damage</sc> ability to cancel up to two hits instead of one.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_anti_fighter_barrage">Anti&ndash;Fighter Barrage</a></li>

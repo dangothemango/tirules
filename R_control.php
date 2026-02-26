@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Control</header>
+<header><h1>Control</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '25.' counter(item, decimal);} </style>
 <p>Each player begins the game with control of each planet in their home system. During the game, players can gain control of additional planets.</p>
     <ol class="lrr">
@@ -23,12 +23,12 @@
     <li>If a player loses control of a planet that contains their control token, they remove their control token from the planet.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Control tokens are not component limited; a player may control an unlimited number of planets.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_attach">Attach</a></li>
     <li><a href="/R_exhausted">Exhausted</a></li>

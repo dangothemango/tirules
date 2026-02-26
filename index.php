@@ -7,6 +7,7 @@
 <meta name="author" content="BradleyΣ"/>
 <meta name="version" content="v0.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="canonical" href="https://tirules2.com/"/>
 <link rel="icon" href="favicon.png"/>
 <link rel="stylesheet" type="text/css" href="style.css"/>
 <style>
@@ -21,7 +22,7 @@
 </style>
 </head>
 <body>
-<header>Twilight Imperium Rules</header>
+<header><h1>Twilight Imperium Rules</h1></header>
 <article>
 <p><strong>This is a work in progress.</strong></p>
 <p>This website contains the rules for Fantasy Flight&rsquo;s fourth edition of <i>Twilight Imperium</i>.</p>

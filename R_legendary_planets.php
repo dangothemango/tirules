@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Legendary Planets</header>
+<header><h1>Legendary Planets</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '53.' counter(item, decimal);} </style>
 <p>Legendary planets grant the player that controls them unique, planet&ndash;specific abilities.</p>
     <ol class="lrr">
@@ -15,7 +15,7 @@
     <li>If a legendary planet&rsquo;s planet card is purged, its corresponding legendary planet ability card is also purged.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>If a player wishes to resolve the <i>Imperial Arms Vault</i> ability of Hope&rsquo;s End, but they have no mechs left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.</li>
     <li>If an effect instructs a player to &ldquo;end your turn&rdquo;, that player may still resolve any &ldquo;at the end of your turn&rdquo; abilities, including those of legendary planets.</li>
@@ -27,7 +27,7 @@
     <li>For the system that contains Malice, see the <a href="/R_wormhole_nexus">wormhole nexus</a>.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_control">Control</a></li>
     <li><a href="/R_exhausted">Exhausted</a></li>

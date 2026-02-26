@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>System Tiles</header>
+<header><h1>System Tiles</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '88.' counter(item, decimal);} </style>
 <p>A system tile represents an area of the galaxy. Players place system tiles during setup to create the game board.</p>
     <ol class="lrr">
@@ -14,11 +14,11 @@
     <li>Double&ndash;sided tiles that have lines crossing from one edge to another are hyperlane tiles. Hyperlane tiles are not systems.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_active_system">Active System</a></li>
     <li><a href="/R_adjacency">Adjacency</a></li>

@@ -1,15 +1,15 @@
 <?php include "prefix.php"?>
-<header>The Federation of Sol</header>
+<header><h1>The Federation of Sol</h1></header>
 <article>
-<h1>Orbital Drop</h1>
+<h2>Orbital Drop</h2>
     <ol class="note">
     </ol>
 
-<h1>Versatile</h1>
+<h2>Versatile</h2>
     <ol class="note">
     </ol>
 
-<h1>Military Support <sub>(Promissory Note)</sub></h1>
+<h2>Military Support <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li><i>Military Support</i> is played before the Sol player may use <i>Orbital Drop</i>.</li>
     <li><i>Military Support</i> may be played the turn the Sol player passes.</li>
@@ -21,41 +21,41 @@
     </ol>
     </ol>
 
-<h1>Advanced Carrier <sub>(Unit)</sub></h1>
+<h2>Advanced Carrier <sub>(Unit)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Spec Ops <sub>(Unit)</sub></h1>
+<h2>Spec Ops <sub>(Unit)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Genesis <sub>(Flagship)</sub></h1>
+<h2>Genesis <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>Placing the infantry during the status phase is mandatory. After, the Sol player might need to remove an infantry or fighter to meet capacity limits.</li>
     </ol>
 
-<h1>Evelyn DeLouis <sub>(Agent)</sub></h1>
+<h2>Evelyn DeLouis <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>This ability only applies to combat rolls.</li>
     <ol><li>This ability does not allow one of the L1Z1X player&rsquo;s Annihilator mechs to roll an additional <sc>Bombardment</sc> dice when resolving their <sc>Harrow</sc> ability.</li></ol>
     </ol>
 
-<h1>Claire Gibson <sub>(Commander)</sub></h1>
+<h2>Claire Gibson <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>If an invasion involves ground combat on multiple planets, an infantry will be placed on each.</li>
     <li>If the Sol player has no ground forces on a planet they control, ground combat will not occur, and so they cannot place an infantry on that planet. This includes if they lose the last of their ground forces during the <b>Bombardment</b> step of the invasion.</li>
     <li>The start of ground combat occurs after the <b>Space Cannon Defense</b> step. If all of the ground forces committed to a planet are destroyed in that step, then the ground combat will be skipped on that planet, and this ability will not trigger.</li>
     </ol>
 
-<h1>Jace X &mdash; Helio Command Array <sub>(Hero)</sub></h1>
+<h2>Jace X &mdash; Helio Command Array <sub>(Hero)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>ZS Thunderbolt M2 <sub>(Mech)</sub></h1>
+<h2>ZS Thunderbolt M2 <sub>(Mech)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Bellum Gloriosum <sub>(Breakthrough)</sub></h1>
+<h2>Bellum Gloriosum <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>If the Sol player produces multiple ships simultaneously, the combined capacity is used to determine how many fighters and ground forces do not count towards the <sc>Production</sc> limit.</li>
     <li>The additional fighters and ground forces are produced simultaneously with any other fighters and ground forces, and the resources paid will be determined by their combined cost.</li>

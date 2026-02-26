@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Politics <sub>(Strategy Card)</sub></header>
+<header><h1>Politics <sub>(Strategy Card)</sub></h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '66.' counter(item, decimal);} </style>
 <p>The <i>Politics</i> strategy card allows players to draw action cards. Additionally, the active player chooses a new speaker and looks at cards in the agenda deck. This card&rsquo;s initiative value is &ldquo;3&rdquo;.</p>
     <ol class="lrr">
@@ -15,13 +15,13 @@
     <li>After the active player resolves the primary ability of the <i>Politics</i> strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may spend one command token from their strategy pool to draw two action cards.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>If there are few cards remaining in the action card deck, they will be dealt out in clockwise order from the active player. After those players have discarded down to their seven card hand limit, if necessary, the discard pile will be shuffled to form a new deck. The remaining players (including the player who received the last action card from the previous deck, if applicable) will then be dealt their action cards.</li>
     <li>When resolving the primary ability of the <i>Politics</i> card, the active player cannot show the agenda cards they drew to any other player.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_action_cards">Action Cards</a></li>
     <li><a href="/R_agenda_card">Agenda Card</a></li>

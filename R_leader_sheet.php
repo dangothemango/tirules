@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Leader Sheet</header>
+<header><h1>Leader Sheet</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '50.' counter(item, decimal);} </style>
 <p>Each player has a leader sheet that contains slots for their faction&rsquo;s three leader cards as well as their faction&rsquo;s mech unit card. </p>
     <ol class="lrr">
@@ -11,11 +11,11 @@
     <li>Players who are familiar with the game can hide the quick reference by placing that portion of the leader sheet under their faction sheets.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_leaders">Leaders</a></li>
     <li><a href="/R_mechs">Mechs</a></li>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Nebula</header>
+<header><h1>Nebula</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '59.' counter(item, decimal);} </style>
 <p>A nebula is an anomaly that affects movement and combat.</p>
     <ol class="lrr">
@@ -12,7 +12,7 @@
     <li>If a space combat occurs in a nebula, the defender applies +1 to each combat roll of their ships during that combat.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A player cannot retreat (or similar) into a nebula, since it would not be the active system.</li>
     <li>The +1 modifier for the defender does not modify anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
@@ -21,7 +21,7 @@
     <li>A future rule change will allow ships to move into a nebula when it is not the active system.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_active_system">Active System</a></li>
     <li><a href="/R_anomalies">Anomalies</a></li>

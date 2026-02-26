@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Active Player</header>
+<header><h1>Active Player</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '4.' counter(item, decimal);} </style>
 <p>The active player is the player taking a turn during the action phase.</p>
     <ol class="lrr">
@@ -10,7 +10,7 @@
     <li>After the last player in initiative order takes a turn, the player who is first in initiative order becomes the active player again, and turns begin again in initiative order, ignoring any players who have already passed.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>During the strategy, status and agenda phases, no player is the active player.</li>
     <li>During combat, the active player is the attacker.</li>
@@ -19,7 +19,7 @@
     <li>If a non&ndash;active player produces hits using the <sc>Space Cannon Offense</sc> ability of one of their units, those hits must be assigned to the active player&rsquo;s units.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_action_phase">Action Phase</a></li>

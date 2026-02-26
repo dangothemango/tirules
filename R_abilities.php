@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Abilities</header>
+<header><h1>Abilities</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '1.' counter(item, decimal);} </style>
 <p>Cards and faction sheets each have abilities that players can resolve to trigger various game effects.</p>
     <ol class="lrr">
@@ -49,7 +49,7 @@
     <ol><li><span class="ruling">This means abilities that reference unit abilities, such as the Argent Commander, combo with these effects. Similarly, effects that shut down unit abilities, such as the Crimson Flagship, will affect these abilities as well.</span></li></ol>
     <li>If a unit&rsquo;s ability uses the phrase &ldquo;this system&rdquo; or &ldquo;this planet&rdquo;, the ability is referring to the system or planet that contains that unit.</li>
     </ol>
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>An ability may be triggered during the timing window it was gained, if applicable. For example, if a player receives the Creuss player&rsquo;s <i>Creuss Iff</i> promissory note at the start of their turn, they may use it immediately.</li>
     <ol>
@@ -73,7 +73,7 @@
     <li>All abilities that occur &ldquo;when&rdquo; an event occurs all trigger before any abilities that occur &ldquo;after&rdquo; the same event occurs.</li>
     <li>All abilities that occur &ldquo;after&rdquo; an event occurs all trigger before any abilities that occur &ldquo;before&rdquo; the next event occurs.</li>
     </ol>
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_action_cards">Action Cards</a></li>
     <li><a href="/R_active_player">Active Player</a></li>

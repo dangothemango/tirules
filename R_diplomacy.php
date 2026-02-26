@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Diplomacy <sub>(Strategy Card)</sub></header>
+<header><h1>Diplomacy <sub>(Strategy Card)</sub></h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '32.' counter(item, decimal);} </style>
 <p>The <i>Diplomacy</i> strategy card can be used to preemptively prevent other players from activating a specific system. It can also be used to ready planets. This card&rsquo;s initiative value is &ldquo;2&rdquo;.</p>
     <ol class="lrr">
@@ -14,7 +14,7 @@
     <li>After the active player resolves the primary ability of the <i>Diplomacy</i> strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may spend one command token from their strategy pool to ready up to two exhausted planets they control.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>If the player with <i>Diplomacy</i> controls no planets, or controls only Mecatol Rex, they may still perform a strategic action. However, other players will no place a command token in any system.</li>
     <li>If the player with <i>Diplomacy</i> controls fewer than two exhausted planets, they may still perform a strategic action. They will ready as many planets as possible.</li>
@@ -27,7 +27,7 @@
     </ol>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_active_system">Active System</a></li>
     <li><a href="/R_command_tokens">Command Tokens</a></li>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>The L1Z1X Mindnet</header>
+<header><h1>The L1Z1X Mindnet</h1></header>
 <article>
-<h1>Assimilate</h1>
+<h2>Assimilate</h2>
     <ol class="note">
     <li>Any space docks that are placed by this ability during a tactical action may produce units during the <b>Production</b> step of that tactical action.</li>
     <li>If the L1Z1X player resolves their <sc>Assimilate</sc> ability, and then plays the <i>Infiltrate</i> action card, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.</li>
@@ -9,7 +9,7 @@
     <li>The L1Z1X player must mandatorily replace every structure. However, if there are none of that type in their reinforcements they are not forced to do so.</li>
     </ol>
 
-<h1>Harrow</h1>
+<h2>Harrow</h2>
     <ol class="note">
     <li>The <sc>Planetary Shield</sc> ability will prevent the use of the <sc>Harrow</sc> ability on a planet.</li>
     <li>The L1Z1X player cannot use their <sc>Harrow</sc> ability if they are not the active player. This will most commonly occur due to the effect of the N&rsquo;orr player&rsquo;s commander, G&rsquo;hom Sek&rsquo;kus.</li>
@@ -19,40 +19,40 @@
     <li>The L1Z1X player may use the ability of the <i>X&ndash;89 Bacterial Weapon &Omega;</i> or <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> technologies whenever they bombard.</li>
     </ol>
 
-<h1>Cybernetic Enhancements <sub>(Promissory Note)</sub></h1>
+<h2>Cybernetic Enhancements <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If the L1Z1X player has no command tokens in their strategy pool, <i>Cybernetic Enhancements</i> cannot be played.</li>
     </ol>
 
-<h1>Cybernetic Enhancements &Omega; <sub>(Promissory Note)</sub></h1>
+<h2>Cybernetic Enhancements &Omega; <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Inheritance Systems <sub>(Technology)</sub></h1>
+<h2>Inheritance Systems <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The two resources for <i>Inheritance</i> Systems must be paid in addition to and separately from any other costs paid to research the technology. For example, if the L1Z1X player is performing the secondary of the <i>Technology</i> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <i>Technology</i> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <i>Technology</i>, wasting the fifth resource, then spend two trade goods to pay for the cost of <i>Inheritance Systems</i>.</li>
     </ol>
 
-<h1>Super Dreadnought <sub>(Unit)</sub></h1>
+<h2>Super Dreadnought <sub>(Unit)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>[0.0.1] <sub>(Flagship)</sub></h1>
+<h2>[0.0.1] <sub>(Flagship)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>I48S <sub>(Agent)</sub></h1>
+<h2>I48S <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The infantry must be in the system when it is activated for it to be eligible to be replaced. It cannot be replaced if it is moved into or produced in the active system later in the turn.</li>
     <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.</li>
     </ol>
 
-<h1>2RAM <sub>(Commander)</sub></h1>
+<h2>2RAM <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>Those units still have <sc>Planetary Shield</sc>. The player that owns those units may still use the ability of the <i>Magen Defense Grid</i> technology.</li>
     </ol>
 
-<h1>The Helmsman &mdash; Dark Space Navigation <sub>(Hero)</sub></h1>
+<h2>The Helmsman &mdash; Dark Space Navigation <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Ships in systems with one of the L1Z1X player&rsquo;s command tokens may move.</li>
     <li>Ships may transport units only if their origin system does not contain one of the L1Z1X player&rsquo;s command tokens.</li>
@@ -64,13 +64,13 @@
     <li><i>Dark Space Navigation</i> may be used to move ships into the wormhole nexus. If the nexus is inactive, this will cause it to activate.</li>
     </ol>
 
-<h1>Annihilator <sub>(Mech)</sub></h1>
+<h2>Annihilator <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>An Annihilator may bombard when using the L1Z1X player&rsquo;s <sc>Harrow</sc> ability if that mech is not currently participating in ground combat, even if it has been committed to a different planet, and has been or will be involved in another ground combat during the current invasion.</li>
     <li>An Annihilator may bombard any one planet during the <b>Bombardment</b> step of an invasion.</li>
     </ol>
 
-<h1>Fealty Uplink <sub>(Breakthrough)</sub></h1>
+<h2>Fealty Uplink <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>If the L1Z1X player gains control of an uncontrolled planet, they may choose if they place the infantry before or after they explore the planet.</li>
     <li>The L1Z1X player must mandatorily place the infantry.</li>

@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Invasion</header>
+<header><h1>Invasion</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '49.' counter(item, decimal);} </style>
 <p>Invasion is a step of the tactical action during which the active player can land ground forces on planets to gain control of those planets.</p>
 <p>To resolve an invasion, players perform the following steps:</p>
@@ -26,7 +26,7 @@
     </ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Units are considered to be on the planet for game effects from the <b>Commit Ground Forces</b> step onward.</li>
     <li>If a player gains control of an uncontrolled planet during the <b>Establish Control</b> step, they explore it.</li>
@@ -34,7 +34,7 @@
     <li>If Mecatol Rex has the custodians token on it, a player must remove it before they may commit ground forces to it.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_active_player">Active Player</a></li>
     <li><a href="/R_bombardment">Bombardment</a></li>

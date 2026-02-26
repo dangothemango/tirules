@@ -1,11 +1,11 @@
 <?php include "prefix.php"?>
-<header>Events</header>
+<header><h1>Events</h1></header>
 <article>
-<h1>Advent of the War Sun</h1>
+<h2>Advent of the War Sun</h2>
     <ol class="note">
     </ol>
 
-<h1>Age of Commerce</h1>
+<h2>Age of Commerce</h2>
     <ol class="note">
     <li>Players must still be neighbors on the game board for the purpose of resolving game effects that depend on players being neighbors.</li>
     <ol><li>For example, the Mentak player must still be neighbors with another player on the game board to resolve their <sc>Pillage</sc> faction ability against that player.</li></ol>
@@ -16,55 +16,55 @@
     <li>A player may share any number of technologies in a single transaction.</li>
     </ol>
 
-<h1>Age of Exploration</h1>
+<h2>Age of Exploration</h2>
     <ol class="note">
     <li>If there are no more blue&ndash;backed or red&ndash;backed tiles available, a player does not place any tile if they roll the corresponding dice result.</li>
     <li>The <i>Dark Energy Tap</i> technology retains all its printed abilities when it is exhausted.</li>
     <li>New tiles cannot be placed adjacent to the Creuss or Rebellion home systems, the wormhole nexus, or systems that comprise The Fracture.</li>
     </ol>
 
-<h1>Age of Fighters</h1>
+<h2>Age of Fighters</h2>
     <ol class="note">
     <li>The Vuil&rsquo;raith player still captures ships that they destroy via their various abilities. These ships are purged when they would be returned to their original owner.</li>
     </ol>
 
-<h1>Call of the Void</h1>
+<h2>Call of the Void</h2>
     <ol class="note">
     </ol>
 
-<h1>Civilized Society</h1>
+<h2>Civilized Society</h2>
     <ol class="note">
     </ol>
 
-<h1>Conventions of War Abandoned</h1>
+<h2>Conventions of War Abandoned</h2>
     <ol class="note">
     </ol>
 
-<h1>Cosmic Phenomanae</h1>
+<h2>Cosmic Phenomanae</h2>
     <ol class="note">
     <li>Only ships moving out of gravity rifts may apply the +2 to their move value; ships moving through cannot.</li>
     <li>For ships moving out of a gravity rift, the active player chooses for each one whether it applies +1 or +2 to its move value, and then rolls for removing with the corresponding threshold.</li>
     <li>Ships that move out of a gravity rift outside of the movement step of a tactical action, such as through retreating from a space combat, must still roll for removal. Their owner may choose which threshold to use.</li>
     </ol>
 
-<h1>Cultural Exchange Program</h1>
+<h2>Cultural Exchange Program</h2>
     <ol class="note">
     </ol>
 
-<h1>Dangerous Wilds</h1>
+<h2>Dangerous Wilds</h2>
     <ol class="note">
     <li>The player may research the technology before or after they explore the planet.</li>
     </ol>
 
-<h1>Hidden Agenda</h1>
+<h2>Hidden Agenda</h2>
     <ol class="note">
     </ol>
 
-<h1>Mercenaries for Hire</h1>
+<h2>Mercenaries for Hire</h2>
     <ol class="note">
     </ol>
 
-<h1>Minor Factions</h1>
+<h2>Minor Factions</h2>
     <ol class="note">
     <li>During setup, if a player places a minor faction system with two planets, that player chooses which planet gets two neutral infantry and which planet gets one.</li>
     <li>During setup, if a player is dealt the Creuss reference card, they place the Creuss Gate (tile 17) in the equidistant, and place the Creuss home system (tile 51) in the common play area.</li>
@@ -96,7 +96,7 @@
     </ol>
     </ol>
 
-<h1>Monuments to the Ages</h1>
+<h2>Monuments to the Ages</h2>
     <ol class="note">
     <li>If a player would gain their final victory point at the start of the status phase from a monument, they immediately win the game. Players will not score objectives.</li>
     <ol>
@@ -105,19 +105,19 @@
     </ol>
     </ol>
 
-<h1>Rapid Mobilization</h1>
+<h2>Rapid Mobilization</h2>
     <ol class="note">
     <li>During setup, if a player gains and readies a planet with a technology specialty, they may exhaust that planet when they research a technology to ignore a prerequisite.</li>
     </ol>
 
-<h1>Stellar Atomics</h1>
+<h2>Stellar Atomics</h2>
     <ol class="note">
     <li>If all players have removed their control token from <i>Stellar Atomics</i>, then no player will vote on agendas, and the speaker will decide which outcome is resolved.</li>
     <li>Players may still resolve non&ndash;action card abilities during the action phase.</li>
     <li>If the Xxcha player has Elder Qanoj, their commander, unlocked, they will be able to vote after removing their control token from <i>Stellar Atomics</i>.</li>
     </ol>
 
-<h1>Total War</h1>
+<h2>Total War</h2>
     <ol class="note">
     <li>Commodities on planets are not treated as commodities for any game effect, other than those that appear on the <i>Total War</i> event card.</li>
     <ol>
@@ -131,17 +131,17 @@
     </ol>
     </ol>
 
-<h1>Weird Wormholes</h1>
+<h2>Weird Wormholes</h2>
     <ol class="note">
     </ol>
 
-<h1>Wild, Wild Galaxy</h1>
+<h2>Wild, Wild Galaxy</h2>
     <ol class="note">
     <li>A player with no planets remaining in their home system is not prevented from scoring public objectives.</li>
     <li>If the Muaat player&rsquo;s <i>Nova Seed</i> hero ability replaces a player&rsquo;s home system with a supernova, then that supernova becomes that player&rsquo;s home system.</li>
     </ol>
 
-<h1>Zealous Orthodoxy</h1>
+<h2>Zealous Orthodoxy</h2>
     <ol class="note">
     </ol>
 </article>

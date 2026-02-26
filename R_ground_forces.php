@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Ground Forces</header>
+<header><h1>Ground Forces</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '43.' counter(item, decimal);} </style>
 <p>A ground force is a type of unit. All infantry and mech units in the game are ground forces. Some races have unique infantry units.</p>
     <ol class="lrr">
@@ -10,11 +10,11 @@
     <li>There is no limit to the number of ground forces a player can have on a planet.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_capacity">Capacity</a></li>
     <li><a href="/R_control">Control</a></li>

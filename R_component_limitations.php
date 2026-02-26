@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Component Limitations</header>
+<header><h1>Component Limitations</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '23.' counter(item, decimal);} </style>
 <p>If a component type is depleted during the game, players obey the following rules:</p>
     <ol class="lrr">
@@ -22,7 +22,7 @@
     <li>Cards: When a deck is depleted, players shuffle the deck&rsquo;s discard pile and place it facedown to create a new deck.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>As each player only has ten plastic fighter figures and twelve plastic infantry figures, a player cannot have fighters in more than ten systems, and cannot have infantry on more than twelve planets or being carried in more than twelve space areas, or any combination thereof.</li>
     <li>Players may also swap infantry and fighter plastic pieces for tokens at any time.</li>
@@ -34,7 +34,7 @@
     <li>If a player is instructed to &ldquo;replace&rdquo; one unit with another, and they have none of the replacement unit type in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that unit instead.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_fighter_tokens">Fighter Tokens</a></li>
     <li><a href="/R_infantry_tokens">Infantry Tokens</a></li>

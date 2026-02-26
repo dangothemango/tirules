@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>The Mahact Gene&ndash;Sorcerers</header>
+<header><h1>The Mahact Gene&ndash;Sorcerers</h1></header>
 <article>
-<h1>Edict</h1>
+<h2>Edict</h2>
     <ol class="note">
     <li>If the Mahact player is ever required to remove one of their command tokens from their fleet pool, and they only have other players&rsquo; command tokens in their fleet pool, they must remove one of those tokens, and return it to the reinforcements of the player that owns it.</li>
     <li>If the Mahact player is ever limited by the number of tokens they may have in their fleet pool, such as by the <i>Fleet Regulations</i> law, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corresponding reinforcements.</li>
@@ -12,16 +12,16 @@
     <li>If the Mahact player wins a combat against the Mentak player and gains one of their command tokens, they cannot resolve the ability of S&rsquo;ula Mentarion, the Mentak commander, from winning that same combat to take a promissory note from the Mentak player.</li>
     </ol>
 
-<h1>Imperia</h1>
+<h2>Imperia</h2>
     <ol class="note">
     </ol>
 
-<h1>Hubris</h1>
+<h2>Hubris</h2>
     <ol class="note">
     <li>If a game effect would force another player to give a promissory note to the Mahact player, but the only promissory note that player has is their <i>Alliance</i> promissory note, that player does not give anything to the Mahact player.</li>
     </ol>
 
-<h1>Scepter of Dominion <sub>(Promissory Note)</sub></h1>
+<h2>Scepter of Dominion <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If a player already has a command token in the chosen system, they do not place a command token there.</li>
     <li>If a player has no command tokens in their reinforcements, that player places one command token of their choice from their command sheet.</li>
@@ -30,23 +30,23 @@
     <li><i>Scepter of Dominion</i> cannot place command tokens in the home system of an eliminated player.</li>
     </ol>
 
-<h1>Genetic Recombination <sub>(Technology)</sub></h1>
+<h2>Genetic Recombination <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>A player that cannot vote due to a game effect or because they have zero influence on readied planets cannot be targeted by <i>Genetic Recombination</i>.</li>
     <ol><li>If a player then gains the ability to vote, such as by gaining the Xxcha player&rsquo; <i>Alliance</i> promissory note, they may then be targeted by <i>Genetic Recombination</i>.</li></ol>
     </ol>
 
-<h1>Crimson Legionnaire <sub>(Unit)</sub></h1>
+<h2>Crimson Legionnaire <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>If multiple Crimson Legionnaires are destroyed at the same time, the Mahact player decides whether to gain a commodity or convert a commodity to a trade good individually for each.</li>
     <ol><li>If two Crimson Legionnaires are destroyed at the same time, the Mahact player may choose to gain a commodity, then immediately convert that commodity to a trade good.</li></ol>
     </ol>
 
-<h1>Arvicon Rex <sub>(Flagship)</sub></h1>
+<h2>Arvicon Rex <sub>(Flagship)</sub></h2>
     <ol class="note">
     </ol>
 
-<h1>Jae Mir Kan <sub>(Agent)</sub></h1>
+<h2>Jae Mir Kan <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>When resolving the secondary ability of the <i>Construction</i> strategy card, the active player&rsquo;s command token is placed in the system the Mahact player places their structure.</li>
     <ol>
@@ -56,7 +56,7 @@
     <li>If the Mahact player has the Muaat player&rsquo;s <i>Alliance</i> promissory note, they will not gain a trade good from it when they use the ability of Jae Mir Kan.</li>
     </ol>
 
-<h1>Il Na Viroset <sub>(Commander)</sub></h1>
+<h2>Il Na Viroset <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The Mahact player cannot use any &ldquo;when/after you activate a system&rdquo; abilities.</li>
     <ol>
@@ -66,7 +66,7 @@
     <li>The Mahact player may still use any &ldquo;at the end of your turn&rdquo; abilities.</li>
     </ol>
 
-<h1>Airo Shir Aur &mdash; Benediction <sub>(Hero)</sub></h1>
+<h2>Airo Shir Aur &mdash; Benediction <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Fighters and ground forces in the space area of the origin system are moved. Ground forces on planets are left behind.</li>
     <ol>
@@ -101,7 +101,7 @@
     </ol>
     </ol>
 
-<h1>Starlancer <sub>(Mech)</sub></h1>
+<h2>Starlancer <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>Once the Mahact player resolves the ability of a Starlancer, the active player cannot use any &ldquo;after you activate a system&rdquo; abilities.</li>
     <ol><li>Other players, including the Mahact player, cannot use any &ldquo;after another player activates a system that&hellip;&rdquo; abilities.</li></ol>
@@ -110,7 +110,7 @@
     <li>The Starlancer must be in the system before activation to be able to use its ability.</li>
     </ol>
 
-<h1>Vaults of the Heir <sub>(Breakthrough)</sub></h1>
+<h2>Vaults of the Heir <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The purged technology must be one that the Mahact player has in their play area, and not from their technology deck.</li>
     <ol><li>The technology may be exhausted when it is purged.</li></ol>

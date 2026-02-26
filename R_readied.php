@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Readied</header>
+<header><h1>Readied</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '71.' counter(item, decimal);} </style>
 <p>Cards have a readied state, which indicates that a player can exhaust or resolve the abilities on those cards.</p>
     <ol class="lrr">
@@ -15,14 +15,14 @@
     <ol><li>That card is later readied during the status phase.</li></ol>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>Passive abilities on an exhausted card are still in effect while that card is exhausted.</li>
     <li>Planets will also ready at the end of each agenda phase. Leaders, relics and technologies will not.</li>
     <li>If a game effect instructs a player to ready a planet, the readied planet must be controlled by that player, unless the game effect specifies otherwise.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_diplomacy">Diplomacy</a></li>

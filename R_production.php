@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Production <sub>(Unit Ability)</sub></header>
+<header><h1>Production <sub>(Unit Ability)</sub></h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '68.' counter(item, decimal);} </style>
 <p>During the <b>Production</b> step of a tactical action, the active player can resolve the <sc>Production</sc> ability of each of their units that are in the active system to produce units</p>
     <ol class="lrr">
@@ -17,7 +17,7 @@
     <li>If a player uses the <sc>Production</sc> ability of a unit in a space area of a system to produce ground forces, those ground forces may either be placed on a planet the player controls in that system or in the space area of that system.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A unit&rsquo;s <sc>Production</sc> value is the maximum number of units that may be produced by that unit, regardless of cost. For example, a space dock with &ldquo;<sc>Production</sc> 6&rdquo; could produce six dreadnoughts or six fighters.</li>
     <li>Placement of produced units is not limited by a unit&rsquo;s <sc>Production</sc> value, only by the location of the producing units.</li>
@@ -25,7 +25,7 @@
     <li>If an effect allows a player to produce a ship of a specific type, then factional variations do not prevent that player from producing that type of ship.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_blockaded">Blockaded</a></li>

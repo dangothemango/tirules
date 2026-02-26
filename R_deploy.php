@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Deploy</header>
+<header><h1>Deploy</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '30.' counter(item, decimal);} </style>
 <p>Some units have deploy abilities. Deploy abilities are indicated by the <sc>Deploy</sc> header and provide the means to place specific units on the game board without producing them as normal.</p>
     <ol class="lrr">
@@ -12,11 +12,11 @@
     <li>A unit&rsquo;s <sc>Deploy</sc> ability can be resolved only once per timing window.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_mechs">Mechs</a></li>

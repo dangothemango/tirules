@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Adjacency</header>
+<header><h1>Adjacency</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '6.' counter(item, decimal);} </style>
 <p>Two system tiles are adjacent to each other if any of the tiles&rsquo; sides are touching each other.</p>
     <ol class="lrr">
@@ -12,13 +12,13 @@
     <li>Systems that are connected by lines drawn across one or more hyperlane tiles are adjacent for all purposes.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>A unit is not adjacent to the system it is in.</li>
     <li>The Wormhole Nexus and the Creuss home system are only adjacent to tiles via wormholes.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_game_board">Game Board</a></li>
     <li><a href="/R_hyperlanes">Hyperlanes</a></li>

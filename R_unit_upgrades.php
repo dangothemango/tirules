@@ -1,7 +1,7 @@
 <?php include "prefix.php"?>
-<header>Unit Upgrades</header>
+<header><h1>Unit Upgrades</h1></header>
 <article>
-<h1>Rules Reference</h1>
+<h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '97.' counter(item, decimal);} </style>
 <p>A unit upgrade is a type of technology card.</p>
     <ol class="lrr">
@@ -13,14 +13,14 @@
     <li>A mech unit card is not a technology.</li>
     </ol>
 
-<h1>Notes</h1>
+<h2>Notes</h2>
     <ol class="note">
     <li>If a player is playing a faction with a faction&ndash;specific unit upgrade, they cannot research or otherwise gain the generic upgrade for that unit type.</li>
     <li>For notes about specific generic unit upgrades, see the <a href="/C_units">unit component notes page</a>.</li>
     <li>For notes about a unit upgrade technology of a specific faction, see that faction&rsquo;s notes.</li>
     </ol>
 
-<h1>Related Topics</h1>
+<h2>Related Topics</h2>
     <ul>
     <li><a href="/R_technology">Technology</a></li>
     <li><a href="/R_units">Units</a></li>
