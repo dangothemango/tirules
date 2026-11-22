@@ -4,7 +4,7 @@
 <h2 id="zeal"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Zeal">Zeal</a></h2>
     <ol class="note">
     <li>The Argent player always votes first, even if they are the speaker.<sup>2,14</sup></li>
-    <ol><li>When the Argent player is the speaker, effects timed &ldquo;after the speaker votes&rdquo;, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> action card, resolve right after the Argent player votes.<sup>2</sup></li></ol>
+    <ol><li>When the Argent player is the speaker, effects timed &ldquo;after the speaker votes&rdquo;, such as the <i>Bribery</i> action card, resolve right after the Argent player votes.<sup>2</sup></li></ol>
     <li>Other players vote in their regular order after the Argent player votes; clockwise starting with the player to the left of the speaker (skipping over the Argent player as necessary).<sup>2</sup></li>
     <li>If the Argent player abstains or otherwise casts zero votes, they cannot cast additional votes.<sup>*</sup></li>
     </ol>
@@ -14,12 +14,12 @@
     <li>The <sc>Anti&ndash;Fighter Barrage</sc> ability can still be used even if no fighters are present in the system.<sup>1,2,8</sup></li>
     <li><sc>Raid Formation</sc> occurs when hits are produced, not after hits are assigned. As such, canceling any hits will not prevent an opponent&rsquo;s ships from becoming damaged.<sup>4</sup></li>
     <li>The Argent player may choose a damaged ship. This will have no effect.<sup>*</sup></li>
-    <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship uses its <sc>Sustain Damage</sc> ability, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, cannot be played.<sup>2,4</sup></li>
+    <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship uses its <sc>Sustain Damage</sc> ability, such as the <i>Direct Hit</i> action card, cannot be played.<sup>2,4</sup></li>
     <ol>
         <li>If the <a href="/F_letnev">Letnev</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Non-Euclidean%20Shielding"><i>Non&ndash;Euclidean Shielding</i></a> faction technology, this will not reduce the number of ships that the Argent player chooses.<sup>2</sup></li>
         <li>The ships cannot be repaired by the effect of the <a href="/F_empyrean">Empyrean</a> player&rsquo;s flagship, the Dynamo.<sup>*</sup></li>
     </ol>
-    <li>If the Argent player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be assigned.<sup>2</sup></li>
+    <li>If the Argent player plays the <i>Waylay</i> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be assigned.<sup>2</sup></li>
     <ol><li>For example, say the opponent has three fighters and three dreadnoughts, undamaged. The Argent player plays <i>Waylay</i>, and rolls five hits. This allows them to cause two of the dreadnoughts to become damaged. The opponent then has to assign all five hits. The final dreadnought may use its <sc>Sustain Damage</sc> ability to cancel one of those hits.<sup>2</sup></li></ol>
     <li>If the Argent player is in combat with the <a href="/F_nekro">Nekro</a> player, and the Nekro player has their mechs participating in the space combat via the effects of <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, those mechs may become damaged by the effect of <sc>Raid Formation</sc>.<sup>*</sup></li>
     </ol>
@@ -31,13 +31,13 @@
 <h2 id="aerie-hololattice"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Technologies:~:text=Aerie%20Hololattice">Aerie Hololattice</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The planet with &ldquo;<sc>Production</sc> 1&rdquo; is considered to be on itself for the purposes of producing ground forces.<sup>*</sup></li>
-    <li>A player with the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology cannot move their ships through systems containing the Argent player&rsquo;s structures, if the Argent player owns <i>Aerie Hololattice</i>.<sup>2</sup></li>
+    <li>A player with the <i>Light/Wave Deflector</i> technology cannot move their ships through systems containing the Argent player&rsquo;s structures, if the Argent player owns <i>Aerie Hololattice</i>.<sup>2</sup></li>
     </ol>
 
 <h2 id="strike-wing-alpha"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Destroyer:~:text=Strike%20Wing%20Alpha">Strike Wing Alpha</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>When a Strike Wing Alpha II rolls a 9 or 10 for their <sc>anti&ndash;fighter barrage</sc> ability, infantry are destroyed before any hits are canceled.<sup>4</sup></li>
-    <li>Effects that cancel hits, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card, cannot prevent the infantry from being destroyed. If an effect rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.<sup>4</sup></li>
+    <li>Effects that cancel hits, such as the <i>Shields Holding</i> action card, cannot prevent the infantry from being destroyed. If an effect rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.<sup>4</sup></li>
     <li>If the last of a player&rsquo;s ground forces are destroyed by the ability of a Strike Wing Alpha II, and that player meets the other conditions for elimination, that player is immediately eliminated. All of their units are removed from the board, and the Argent player wins the combat.<sup>*</sup></li>
     </ol>
 
@@ -52,8 +52,8 @@
 
 <h2 id="trrakan-aun-zulok"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trrakan%20Aun%20Zulok">Trrakan Aun Zulok</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>Ships that gain <sc>Bombardment</sc> due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Blitz"><i>Blitz</i></a> action card will contribute to the unlock condition.<sup>*</sup></li>
-    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card will not contribute.<sup>*</sup></li></ol>
+    <li>Ships that gain <sc>Bombardment</sc> due to the <i>Blitz</i> action card will contribute to the unlock condition.<sup>*</sup></li>
+    <ol><li>The <i>Experimental Battlestation</i> action card will not contribute.<sup>*</sup></li></ol>
     <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability.<sup>1</sup></li>
     </ol>
 

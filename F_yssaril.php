@@ -3,7 +3,7 @@
 <article>
 <h2 id="stall-tactics"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Stall%20Tactics">Stall Tactics</a></h2>
     <ol class="note">
-    <li><sc>Stall Tactics</sc> is a faction ability, not an action card, and so cannot be canceled by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup></li>
+    <li><sc>Stall Tactics</sc> is a faction ability, not an action card, and so cannot be canceled by the <i>Sabotage</i> action card.<sup>2</sup></li>
     </ol>
 
 <h2 id="scheming"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming">Scheming</a></h2>
@@ -12,12 +12,12 @@
     <li>The Yssaril player will draw only one additional action card, regardless of how many action cards they are instructed to draw.<sup>*</sup></li>
     <li>The discarded action card may be any card in the Yssaril player&rsquo;s hand; it does not have to be one of the cards they just drew.<sup>6</sup></li>
     <li>No other abilities may resolve until the Yssaril player has discarded the action card.<sup>*</sup></li>
-    <li>Effects that give the Yssaril player action cards without drawing them, such as <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Codex"><i>The Codex</i></a> relic or the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> action card, will not trigger <sc>Scheming</sc>.<sup>2</sup></li>
+    <li>Effects that give the Yssaril player action cards without drawing them, such as <i>The Codex</i> relic or the <i>Reverse Engineer</i> action card, will not trigger <sc>Scheming</sc>.<sup>2</sup></li>
     </ol>
 
 <h2 id="crafty"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Crafty">Crafty</a></h2>
     <ol class="note">
-    <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Executive%20Sanctions"><i>Executive Sanctions</i></a> law does not affect the Yssaril player.<sup>2</sup></li>
+    <li>The effect of the <i>Executive Sanctions</i> law does not affect the Yssaril player.<sup>2</sup></li>
     <li><sc>Crafty</sc> does not prevent the Yssaril player from being made to discard action cards by other effects.<sup>2</sup></li>
     </ol>
 
@@ -42,7 +42,7 @@
 
 <h2 id="ysia-yssrila"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Flagship:~:text=Y%27sia%20Y%27ssrila">Y&rsquo;sia Y&rsquo;ssrila</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>If the Yssaril player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology, it will have no additional effect on the <i>Y&rsquo;sia Y&rsquo;ssrila</i>.<sup>*</sup></li>
+    <li>If the Yssaril player owns the <i>Light/Wave Deflector</i> technology, it will have no additional effect on the <i>Y&rsquo;sia Y&rsquo;ssrila</i>.<sup>*</sup></li>
     <li>If the <a href="/F_argent">Argent</a> player owns the <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Technologies:~:text=Aerie%20Hololattice"><i>Aerie Hololattice</i></a> technology, the <i>Y&rsquo;sia Y&rsquo;ssrila</i> cannot move through systems that contain the Argent player&rsquo;s structures.<sup>2</sup></li>
     </ol>
 

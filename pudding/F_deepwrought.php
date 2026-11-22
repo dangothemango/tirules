@@ -21,7 +21,7 @@
 
 <h2 id="oceanbound"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Abilities:~:text=Oceanbound">Oceanbound</a></h2>
     <ol class="note">
-    <li>Ocean cards are spent as though they were planet cards. However, oceans are not planets, and do not count as planets for the purpose of scoring objectives, such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries"><i>Push Boundaries</i></a>.<sup>6</sup>
+    <li>Ocean cards are spent as though they were planet cards. However, oceans are not planets, and do not count as planets for the purpose of scoring objectives, such as <i>Push Boundaries</i>.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What are the Ocean cards exactly? Do they count as planets for scoring purposes (i.e. Push Boundaries)? &hellip; A: Oceans do not count as planets for scoring. They may be spent as planet cards.&rdquo;</li>
         </ul></li>
@@ -38,7 +38,7 @@
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play p. 21, Agenda Phase, &ldquo;3. READY PLANETS&rdquo;: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, Deepwrought Scholarate: &ldquo;What do Ocean Cards do? A: They are planet cards and can be spent as such.&rdquo;</li>
         </ul></li>
-    <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to an ocean card.<sup>6</sup>
+    <li>Attachments such as the <i>Nano&ndash;Forge</i> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to an ocean card.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Nano-Forge and/or Terraform be attached to an Ocean Card? A: No, they are oceans&rdquo;</li>
         </ul></li>
@@ -46,7 +46,7 @@
 
 <h2 id="share-knowledge"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Promissory_Note:~:text=Share%20Knowledge">Share Knowledge</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>If a player gains the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology through <i>Share Knowledge</i> and later loses it, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup>
+    <li>If a player gains the <i>Antimass Deflectors</i> technology through <i>Share Knowledge</i> and later loses it, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?&rdquo;: &ldquo;Nothing &mdash; anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally&rdquo;</li>
         </ul></li>
@@ -62,7 +62,7 @@
 
 <h2 id="radical-advancement"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Technologies:~:text=Radical%20Advancement">Radical Advancement</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>If the Deepwrought player replaces the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup>
+    <li>If the Deepwrought player replaces the <i>Antimass Deflectors</i> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?&rdquo;: &ldquo;Nothing &mdash; anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally&rdquo;</li>
         </ul></li>
@@ -70,7 +70,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Deepwrought player has the <a href="/F_nekro">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note in their play area, they will not draw an action card from the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> commander when they resolve <i>Radical Advancement</i>.<sup>*</sup>
+    <li>If the Deepwrought player has the <a href="/F_nekro">Nekro</a> player&rsquo;s <i>Alliance</i> promissory note in their play area, they will not draw an action card from the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> commander when they resolve <i>Radical Advancement</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -115,7 +115,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player has the Deepwrought player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then other players may use the ability of either or both (or neither):<sup>2</sup>
+    <li>If a player has the Deepwrought player&rsquo;s <i>Alliance</i> promissory note, then other players may use the ability of either or both (or neither):<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a researching player use both the Deepwrought commander and alliance for -2?&rdquo;: &ldquo;Yes &mdash; each is a separate optional trigger, and the Deepwrought and their ally can&rsquo;t refuse.&rdquo;</li>
         </ul></li>

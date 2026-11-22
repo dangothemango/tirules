@@ -28,7 +28,7 @@
 <h2 id="dark-pact"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Dark%20Pact">Dark Pact</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player cannot have more commodities than their commodity value.<sup>1,3</sup></li>
-    <li>If the Empyrean player plays a player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, this will count for that player giving the Empyrean player all their commodities.<sup>*</sup></li>
+    <li>If the Empyrean player plays a player&rsquo;s <i>Trade Agreement</i> promissory note, this will count for that player giving the Empyrean player all their commodities.<sup>*</sup></li>
     <li>The trade goods gained from <i>Dark Pact</i> are gained simultaneously with the commodities transacted between the two players.<sup>4</sup></li>
     <li>As the trade goods from <i>Dark Pact</i> are gained simultaneously with any commodities and/or trade goods transacted, the <a href="/F_mentak">Mentak</a> player may only use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability on each player once per <i>Dark Pact</i> transaction.<sup>4</sup></li>
     <li><i>Dark Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Empyrean player this turn.<sup>*</sup></li>
@@ -52,14 +52,14 @@
     <ol class="note">
     <li>A unit may only use its <sc>Sustain Damage</sc> ability once in each timing window, even if it is repaired.<sup>2,4</sup></li>
     <li>A unit that becomes damaged without using its <sc>Sustain Damage</sc> ability will not trigger this effect.<sup>*</sup></li>
-    <li>A player may play a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card during the same timing window as this ability. If they do so, the ship is destroyed.<sup>2</sup></li>
+    <li>A player may play a <i>Direct Hit</i> action card during the same timing window as this ability. If they do so, the ship is destroyed.<sup>2</sup></li>
     <li>Influence must be spent separately for each use of this ability. As such, any excess influence used to repair a ship is wasted, and cannot be used to repair a different ship.<sup>2,4</sup></li>
     <ol><li>As an example, The Dark may be exhausted to repair only one ship, not two.<sup>*</sup></li></ol>
     </ol>
 
 <h2 id="acamar"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Acamar">Acamar</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup></li>
+    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup></li>
     </ol>
 
 <h2 id="xuange"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Xuange">Xuange</a> <sub>(Commander)</sub></h2>
@@ -73,13 +73,13 @@
 
 <h2 id="conservator-procyon"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Conservator%20Procyon">Conservator Procyon</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Multiverse%20Shift">Multiverse Shift</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup></li>
+    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup></li>
     <li>If The Fracture is in play when the Empyrean player resolves <i>Multiverse Shift</i>, frontier tokens will be placed in the systems in The Fracture that do not contain a planet.<sup>2,6</sup></li>
     </ol>
 
 <h2 id="watcher"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Mech:~:text=Watcher">Watcher</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>This effect may cancel a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup></li>
+    <li>This effect may cancel a <i>Sabotage</i> action card.<sup>2</sup></li>
     <li>The Watcher must be adjacent to the other player&rsquo;s units during the timing window when the action card is played in order to cancel it.<sup>*</sup></li>
     <ol><li>In particular, if an action card is played &ldquo;when/after you activate a system&rdquo; or similar, then the Watcher must be adjacent before any ships move during that tactical action.<sup>*</sup></li></ol>
     <li>If an action card is canceled by a Watcher, no costs are paid.<sup>*</sup></li>
@@ -92,7 +92,7 @@
     <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until the Empyrean player has declined to remove a Watcher.<sup>*</sup></li>
     <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by a Watcher when it is originally played.<sup>*</sup></li>
     <li>If the action card that was canceled by a Watcher was to be used to perform a component action, the active player must perform a different action, or pass.<sup>2</sup></li>
-    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup></li></ol>
+    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <i>Fleet Logistics</i> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup></li></ol>
     </ol>
 
 <h2 id="void-tether"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> <sub>(Breakthrough)</sub></h2>

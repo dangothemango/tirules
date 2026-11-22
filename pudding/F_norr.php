@@ -112,11 +112,11 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N&rsquo;orr&rsquo;s commander &hellip;? A: Will change &lsquo;commit ground forces&rsquo; in LRR to say &lsquo;move&rsquo; to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>If another player plays the N&rsquo;orr player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, they cannot commit any ground forces to planets in the active system during this action, other than ground forces already in the active system.<sup>4</sup>
+        <li>If another player plays the N&rsquo;orr player&rsquo;s <i>Ceasefire</i> promissory note, they cannot commit any ground forces to planets in the active system during this action, other than ground forces already in the active system.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N&rsquo;orr&rsquo;s commander &hellip;? A: Will change &lsquo;commit ground forces&rsquo; in LRR to say &lsquo;move&rsquo; to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law.&rdquo;</li>
         </ul></li>
-        <li>The N&rsquo;orr player cannot commit ground forces to planets in an asteroid field, unless the N&rsquo;orr player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>4</sup>
+        <li>The N&rsquo;orr player cannot commit ground forces to planets in an asteroid field, unless the N&rsquo;orr player owns the <i>Antimass Deflectors</i> technology.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N&rsquo;orr&rsquo;s commander &hellip;? A: Will change &lsquo;commit ground forces&rsquo; in LRR to say &lsquo;move&rsquo; to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law.&rdquo;</li>
         </ul></li>
@@ -129,11 +129,11 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does a Ceasefire promissory note have any impact on committing ground forces from adjacent planets via Sardakk N&rsquo;orr&rsquo;s commander &hellip;? A: Will change &lsquo;commit ground forces&rsquo; in LRR to say &lsquo;move&rsquo; to ensure Ceasefire works. Will also prevent units from being committed to planets in anomalies without the appropriate technology, or through wormholes if Enforced Travel Ban is a Law.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>Purging the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Dominus%20Orb"><i>Dominus Orb</i></a> relic does not allow the N&rsquo;orr player to use G&rsquo;hom Sek&rsquo;kus to commit ground forces from systems that contain their command tokens.<sup>4</sup>
+    <li>Purging the <i>Dominus Orb</i> relic does not allow the N&rsquo;orr player to use G&rsquo;hom Sek&rsquo;kus to commit ground forces from systems that contain their command tokens.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does using Dominus Orb allow the Sardakk N&rsquo;orr player to commit ground forces via their commander &hellip;? A: No, G&rsquo;hom Sek&rsquo;kus is explicitly preventing committing from systems with tokens, and Dominus Orb is purged several steps before committing takes place.&rdquo;</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card will place the committed ground forces in the space area of the active system. If the N&rsquo;orr player does not have enough capacity in the space area for the extra ground forces, including zero capacity, they will have to remove fighters and ground forces to meet capacity limits.<sup>2</sup>
+    <li>The <i>Parley</i> action card will place the committed ground forces in the space area of the active system. If the N&rsquo;orr player does not have enough capacity in the space area for the extra ground forces, including zero capacity, they will have to remove fighters and ground forces to meet capacity limits.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to committed ground forces when Parley is played?&rdquo;: &ldquo;They return to the space area rather than being destroyed, within capacity.&rdquo;</li>
         </ul></li>
@@ -162,7 +162,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card will place the committed ground forces in the space area of the active system. As the N&rsquo;orr player will not have enough capacity in the space area for their ground forces, they will have to remove all ground forces from that planet, that are now in the space area of that system.<sup>2</sup>
+    <li>The <i>Parley</i> action card will place the committed ground forces in the space area of the active system. As the N&rsquo;orr player will not have enough capacity in the space area for their ground forces, they will have to remove all ground forces from that planet, that are now in the space area of that system.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to committed ground forces when Parley is played?&rdquo;: &ldquo;They return to the space area rather than being destroyed, within capacity.&rdquo; The N&rsquo;orr player has no capacity in the space area, so all of them are removed.</li>
         </ul></li>

@@ -37,7 +37,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>Say a player had three dreadnoughts in the active system, and owned the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology. They would be able to roll their choice of zero, three, or four dice when resolving their <sc>Bombardment</sc> ability.<sup>*</sup>
+    <ol><li>Say a player had three dreadnoughts in the active system, and owned the <i>Plasma Scoring</i> technology. They would be able to roll their choice of zero, three, or four dice when resolving their <sc>Bombardment</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

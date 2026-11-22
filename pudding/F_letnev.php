@@ -93,7 +93,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Non-Euclidean Shielding work?&rdquo;: &ldquo;Every time one of your units uses Sustain Damage, it cancels 2 hits instead of 1.&rdquo;</li>
         </ul></li>
-    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <sc>Sustain Damage</sc> ability to cancel it. If additional hits are produced against the Letnev player&rsquo;s units, such as with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card, the Letnev player cannot retroactively use the previous use of <sc>Sustain Damage</sc> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.<sup>2</sup>
+    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <sc>Sustain Damage</sc> ability to cancel it. If additional hits are produced against the Letnev player&rsquo;s units, such as with the <i>Reflective Shielding</i> action card, the Letnev player cannot retroactively use the previous use of <sc>Sustain Damage</sc> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Non-Euclidean Shielding work?&rdquo;: &ldquo;Unused cancellation is lost; it doesn&rsquo;t carry over to a later hit such as Devotion&rsquo;s.&rdquo;</li>
         </ul></li>
@@ -105,7 +105,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li class="removed">If the ability of the <i>Arc Secundus</i> results in no units on a planet having the <sc>Planetary Shield</sc> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>*</sup>
+    <li class="removed">If the ability of the <i>Arc Secundus</i> results in no units on a planet having the <sc>Planetary Shield</sc> ability, then the ability of the <i>Magen Defense Grid</i> technology cannot be used during ground combat on that planet.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -138,7 +138,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the <a href="/F_ul">Ul</a> player has the Letnev player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <sc>Sustain Damage</sc> ability.<sup>*</sup>
+    <ol><li>If the <a href="/F_ul">Ul</a> player has the Letnev player&rsquo;s <i>Alliance</i> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <sc>Sustain Damage</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -172,7 +172,7 @@
 
 <h2 id="gravleash-maneuvers"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Breakthrough:~:text=Gravleash%20Maneuvers">Gravleash Maneuvers</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>If a ship has its movement value increased by an ability such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology, then other ships will have their movement values increased to match the modified value.<sup>6</sup>
+    <li>If a ship has its movement value increased by an ability such as the <i>Gravity Drive</i> technology, then other ships will have their movement values increased to match the modified value.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can a fast ship have its movement boosted with Gravity Drive, and then have this modified value copied to a slow ship? A: Yes&rdquo;</li>
         </ul></li>

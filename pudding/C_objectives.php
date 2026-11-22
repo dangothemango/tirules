@@ -13,7 +13,7 @@
 
 <h2 id="adapt-new-strategies"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Adapt%20New%20Strategies">Adapt New Strategies</a></h2>
     <ol class="note">
-    <li>A <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technology will count if it is currently copying another player&rsquo;s faction technology.<sup>2,5</sup>
+    <li>A <i>Valefar Assimilator</i> technology will count if it is currently copying another player&rsquo;s faction technology.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do technologies the Nekro copy with Valefar Assimilator count for objectives?&rdquo;: &ldquo;Yes &mdash; a copied technology counts with its colour and type, so the Nekro can score faction-technology objectives that way.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> FFG ruling (stephen986, Sep 19 2017): &ldquo;The intent was that after placing an assimilator token on another faction&rsquo;s faction specific technology, it would then count toward the secret objective.&rdquo;</li>
@@ -56,7 +56,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup>
+    <li>If Mirage is placed in an anomaly, or the <i>Nano&ndash;Forge</i> relic is attached to a planet in an anomaly, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -85,11 +85,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Secrets are scored &lsquo;after&rsquo;, so Become a Martyr would trigger after Shard of the Throne is lost or elimination.&rdquo;</li>
         </ul></li>
-    <li>If the player with the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> relic loses their home system, they will lose the <i>Shard of the Throne</i> card and the associated victory point before they may score <i>Become a Martyr</i>.<sup>4</sup>
+    <li>If the player with the <i>Shard of the Throne</i> relic loses their home system, they will lose the <i>Shard of the Throne</i> card and the associated victory point before they may score <i>Become a Martyr</i>.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Become a Martyr would trigger after Shard of the Throne is lost.&rdquo;</li>
         </ul></li>
-    <li>A player who loses their home system due to <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Silver%20Flame"><i>The Silver Flame</i></a> relic may score <i>Become a Martyr</i>.<sup>6,9</sup>
+    <li>A player who loses their home system due to <i>The Silver Flame</i> relic may score <i>Become a Martyr</i>.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Silver Flame&rdquo;: &ldquo;You can lose your home system from the relic to satisfy BAM.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does purging your home system with The Silver Flame score Become a Martyr? A: Yes.&rdquo;</li>
@@ -118,7 +118,7 @@
 
 <h2 id="betray-a-friend"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Betray%20a%20Friend">Betray a Friend</a></h2>
     <ol class="note">
-    <li>Only promissory notes that specifically instruct a player to place them in their play area count for <i>Betray a Friend</i>. Another player having a player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note does not count.<sup>4</sup>
+    <li>Only promissory notes that specifically instruct a player to place them in their play area count for <i>Betray a Friend</i>. Another player having a player&rsquo;s <i>Trade Agreement</i> promissory note does not count.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does another player having my &lsquo;Trade Agreement&rsquo; promissory note count for the secret objectives &lsquo;Strengthen Bonds&rsquo; or &lsquo;Betray a Friend&rsquo;? A: No, only promissory notes that specifically instruct that player to place them in their play area count for these objectives.&rdquo;</li>
         </ul></li>
@@ -255,7 +255,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If one player has a ground force or structure on Mallice, and another player has a ship in the wormhole nexus, both players may score <i>Defy Space and Time</i>, if it is elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda.<sup>*</sup>
+    <ol><li>If one player has a ground force or structure on Mallice, and another player has a ship in the wormhole nexus, both players may score <i>Defy Space and Time</i>, if it is elected by the <i>Classified Document Leaks</i> agenda.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -263,11 +263,11 @@
 
 <h2 id="demonstrate-your-power"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power">Demonstrate Your Power</a></h2>
     <ol class="note">
-    <li>A player need not win the combat to score <i>Demonstrate Your Power</i>; they are able to score it if their opponent plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card.<sup>*</sup>
+    <li>A player need not win the combat to score <i>Demonstrate Your Power</i>; they are able to score it if their opponent plays the <i>Skilled Retreat</i> action card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A player involved in a combat due to the <a href="/F_mahact">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability may score <i>Demonstrate Your Power</i> after that combat.<sup>*</sup>
+    <li>A player involved in a combat due to the <a href="/F_mahact">Mahact</a> player&rsquo;s <i>Benediction</i> hero ability may score <i>Demonstrate Your Power</i> after that combat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -313,7 +313,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR, Objective Cards: &ldquo;A player can score any number of objectives during the agenda phase or during a turn of the action phase; however, they can only score one objective during or after each combat.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>If a player destroys their own flagship or war sun during combat, such as via the effect of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> relic, their opponent cannot score <i>Destroy Their Greatest Ship</i>.<sup>*</sup>
+    <li>If a player destroys their own flagship or war sun during combat, such as via the effect of <i>The Crown of Thalnos</i> relic, their opponent cannot score <i>Destroy Their Greatest Ship</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -335,7 +335,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Dictate Policy</i> is scored after the third law resolves. As such, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card will prevent any player from scoring <i>Dictate Policy</i>.<sup>*</sup>
+    <li><i>Dictate Policy</i> is scored after the third law resolves. As such, the <i>Deadly Plot</i> action card will prevent any player from scoring <i>Dictate Policy</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -367,16 +367,16 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Confounding%20Legal%20Text"><i>Confounding Legal Text</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text"><i>Confusing Legal Text</i></a> action cards are played before <i>Drive the Debate</i> can be scored.<sup>2,4</sup>
+    <li>The <i>Confounding Legal Text</i> and <i>Confusing Legal Text</i> action cards are played before <i>Drive the Debate</i> can be scored.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Confusing and Confounding Legal Text interact with riders and Drive the Debate?&rdquo;: &ldquo;They act before the outcome resolves, so riders and agenda-phase secrets like Drive the Debate use the final elected player.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;&rsquo;Legal Text&rsquo; ACs would be played before Drive the Debate can be scored.&rdquo;</li>
         </ul></li>
-    <li>Scoring <i>Drive the Debate</i> immediately before the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution"><i>Colonial Redistribution</i></a> agenda is resolved may change which player(s) can be chosen to place the infantry on the elected planet.<sup>*</sup>
+    <li>Scoring <i>Drive the Debate</i> immediately before the <i>Colonial Redistribution</i> agenda is resolved may change which player(s) can be chosen to place the infantry on the elected planet.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player draws <i>Drive the Debate</i> while resolving the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Archived%20Secret"><i>Archived Secret</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Search%20Warrant"><i>Search Warrant</i></a> agendas, they cannot score it immediately, as the timing window to score it has already passed.<sup>*</sup>
+    <li>If a player draws <i>Drive the Debate</i> while resolving the <i>Archived Secret</i> or <i>Search Warrant</i> agendas, they cannot score it immediately, as the timing window to score it has already passed.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. Source 4 gives only the general timing: &ldquo;Secrets are scored &ldquo;after&rdquo;, so &hellip; &ldquo;Legal Text&rdquo; ACs would be played before Drive the Debate can be scored.&rdquo; The player is elected before the agenda resolves, so they did not hold the card in that window.</li>
         </ul></li>
@@ -432,7 +432,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Do objectives that say &ldquo;units&rdquo; require multiple units, or is one enough?: &ldquo;One unit is enough to satisfy these requirements.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Defy Space and Time need more than one unit in the Wormhole Nexus?&rdquo;: &ldquo;No &mdash; one unit is enough; the plural is just the card template.&rdquo;</li>
         </ul></li>
-    <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
+    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.&rdquo;</li>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Thunder&rsquo;s Edge be placed in the system that contains the remains of a Stellar Converted planet? A: Yes, so long as it contains no other planets it meets the requirements.&rdquo;</li>
@@ -471,7 +471,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>For example, say a player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End"><i>Courageous to the End</i></a> action card when one of their fighters is destroyed during the <b>Anti&ndash;Fighter Barrage</b> step. If the dice roll causes their opponent to destroy their ships, and they choose their last fighter, that would allow the player to score <i>Fight with Precision &Omega;</i>.<sup>*</sup>
+    <ol><li>For example, say a player plays the <i>Courageous to the End</i> action card when one of their fighters is destroyed during the <b>Anti&ndash;Fighter Barrage</b> step. If the dice roll causes their opponent to destroy their ships, and they choose their last fighter, that would allow the player to score <i>Fight with Precision &Omega;</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -673,7 +673,7 @@
 
 <h2 id="make-an-example-of-their-world-omega"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World">Make an Example of Their World &Omega;</a></h2>
     <ol class="note">
-    <li class="removed">If the last ground force is destroyed using the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a> technology, <i>Make an Example of Their World &Omega;</i> may be scored.<sup>*</sup>
+    <li class="removed">If the last ground force is destroyed using the <i>X&ndash;89 Bacterial Weapon &Omega;</i> technology, <i>Make an Example of Their World &Omega;</i> may be scored.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -713,7 +713,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup>
+    <li>If Mirage is placed in an anomaly, or the <i>Nano&ndash;Forge</i> relic is attached to a planet in an anomaly, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -792,7 +792,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Do objectives that say &ldquo;units&rdquo; require multiple units, or is one enough?: &ldquo;One unit is enough to satisfy these requirements.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Defy Space and Time need more than one unit in the Wormhole Nexus?&rdquo;: &ldquo;No &mdash; one unit is enough; the plural is just the card template.&rdquo;</li>
         </ul></li>
-    <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
+    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.&rdquo;</li>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus, on Thunder&rsquo;s Edge: &ldquo;so long as it contains no other planets it meets the requirements.&rdquo;</li>
@@ -946,7 +946,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> Same entry: &ldquo;when players are tied for most points, each of them counts as having the most.&rdquo; A 0&ndash;0 tie is a tie for most.</li>
         </ul></li></ol>
-    <li class="removed">A player who wins a combat against the owner of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> law, who has the most victory points, may both score <i>Spark a Rebellion</i> and gain Shard of the Throne.<sup>2</sup>
+    <li class="removed">A player who wins a combat against the owner of the Shard of the Throne law, who has the most victory points, may both score <i>Spark a Rebellion</i> and gain Shard of the Throne.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If I beat the Shard of the Throne holder, who leads on points, can I score Spark a Rebellion and take the Shard?&rdquo;: &ldquo;Yes, both.&rdquo;</li>
         </ul></li>
@@ -972,7 +972,7 @@
 
 <h2 id="strengthen-bonds"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Strengthen%20Bonds">Strengthen Bonds</a></h2>
     <ol class="note">
-    <li>Only promissory notes that specifically instruct a player to place them in their play area count for <i>Strengthen Bonds</i>. Another player having a player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note does not count.<sup>4</sup>
+    <li>Only promissory notes that specifically instruct a player to place them in their play area count for <i>Strengthen Bonds</i>. Another player having a player&rsquo;s <i>Trade Agreement</i> promissory note does not count.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;only promissory notes that specifically instruct that player to place them in their play area count for these objectives.&rdquo;</li>
         </ul></li>
@@ -1027,7 +1027,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>12</sup> Codex III p. 13, &ldquo;The Omega Initiative&rdquo;: &ldquo;These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Turn Their Fleets to Dust&rdquo;.</li>
         </ul></li>
-    <li>If the last ship is destroyed using a <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, <i>Turn Their Fleets to Dust</i> cannot be scored.<sup>1,2,5</sup>
+    <li>If the last ship is destroyed using a <i>Direct Hit</i> action card, <i>Turn Their Fleets to Dust</i> cannot be scored.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can the &lsquo;Turn Their Fleets to Dust&rsquo; objective be fulfilled by using a &lsquo;Direct Hit&rsquo; action card &hellip;? A: No.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Direct Hit&rsquo;s own text destroys the ship, not the Space Cannon.&rdquo;</li>
@@ -1063,7 +1063,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>If the last ship is destroyed using a <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.<sup>*</sup>
+    <li>If the last ship is destroyed using a <i>Direct Hit</i> action card, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. Closest: RulesPal, &ldquo;Does a ship destroyed by Space Cannon plus Direct Hit &hellip; count for Turn Their Fleets to Dust?&rdquo;: &ldquo;No to both&rdquo;, and Designer ruling (Dane, 2018): &ldquo;It would not.&rdquo; Both are about the original card (&ldquo;Use SPACE CANNON to destroy the last of a player&rsquo;s ships&rdquo;), so they do not apply to the Ω card (&ldquo;Destroy the last of a player&rsquo;s non-fighter ships in the active system during the space cannon offense step&rdquo;). The Twilight Imperium Wiki FAQ (not a numbered source): &ldquo;In the Omega version, the ships are destroyed during the Space Cannon Offense step, so the objective is fulfilled.&rdquo;</li>
         </ul></li>

@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Players may explore space areas that contain frontier tokens if they own the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap"><i>Dark Energy Tap</i></a> technology or if another game effect allows them to.<sup>1,8</sup>
+    <li>Players may explore space areas that contain frontier tokens if they own the <i>Dark Energy Tap</i> technology or if another game effect allows them to.<sup>1,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 35.4: &ldquo;Players can explore space areas that contain frontier tokens if they own the &lsquo;Dark Energy Tap&rsquo; technology or if another game effect allows them to.&rdquo;</li>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 16: &ldquo;If an ability instructs a player to explore a frontier token, they may do so even if they do not have the &lsquo;Dark Energy Tap&rsquo; technology.&rdquo;</li>

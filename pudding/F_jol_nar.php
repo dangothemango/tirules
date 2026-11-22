@@ -60,12 +60,12 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Research Agreement</i> may be triggered when the Jol&ndash;Nar player researches a technology outside of the <i>Technology</i> strategy card. For example, it may be triggered by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Divert%20Funding"><i>Divert Funding</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Focused%20Research"><i>Focused Research</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reveal%20Prototype"><i>Reveal Prototype</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Technology%20Rider"><i>Technology Rider</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda, the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Wormhole%20Research"><i>Wormhole Research</i></a> agenda, or the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Enigmatic%20Device"><i>Enigmatic Device</i></a> exploration card.<sup>2</sup>
+    <li><i>Research Agreement</i> may be triggered when the Jol&ndash;Nar player researches a technology outside of the <i>Technology</i> strategy card. For example, it may be triggered by the <i>Divert Funding</i> action card, the <i>Focused Research</i> action card, the <i>Reveal Prototype</i> action card, the <i>Technology Rider</i> action card, the <i>Ixthian Artifact</i> agenda, the <i>Wormhole Research</i> agenda, or the <i>Enigmatic Device</i> exploration card.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Jol-Nar&rsquo;s Research Agreement work?&rdquo;: &ldquo;When Jol-Nar researches a non-faction technology, by any means, while you hold the note, both of you end up with it &hellip; It doesn&rsquo;t trigger when Jol-Nar merely gains a tech.&rdquo;</li>
         </ul></li>
     <ol>
-        <li><i>Research Agreement</i> cannot be triggered by a game effect that instructs the Jol&ndash;Nar player to directly gain a technology, without researching. For example, it cannot be triggered by the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Promissory_Note:~:text=Fires%20of%20the%20Gashlai"><i>Fires of the Gashlai</i></a> <a href="/F_muaat">Muaat</a> faction promissory note, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Plagiarize"><i>Plagiarize</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Research%20Grant%20Reallocation"><i>Research Grant Reallocation</i></a> agenda, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Maw%20of%20Worlds"><i>Maw of Worlds</i></a> relic.<sup>2</sup>
+        <li><i>Research Agreement</i> cannot be triggered by a game effect that instructs the Jol&ndash;Nar player to directly gain a technology, without researching. For example, it cannot be triggered by the <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Promissory_Note:~:text=Fires%20of%20the%20Gashlai"><i>Fires of the Gashlai</i></a> <a href="/F_muaat">Muaat</a> faction promissory note, the <i>Plagiarize</i> action card, the <i>Research Grant Reallocation</i> agenda, or the <i>Maw of Worlds</i> relic.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Jol-Nar&rsquo;s Research Agreement work?&rdquo;: &ldquo;When Jol-Nar researches a non-faction technology, by any means, while you hold the note, both of you end up with it &hellip; It doesn&rsquo;t trigger when Jol-Nar merely gains a tech.&rdquo;</li>
         </ul></li>
@@ -98,7 +98,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;systems with your units count as adjacent to it for that action, so all your PDS II there can fire into it.&rdquo;</li>
         </ul></li>
-    <li>Other players may use the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability of units in the same system as a Jol&ndash;Nar player&rsquo;s unit to produce hits during the <b>Space Cannon Offense</b> step.<sup>*</sup>
+    <li>Other players may use the <sc>Deep Space Cannon</sc> ability of units in the same system as a Jol&ndash;Nar player&rsquo;s unit to produce hits during the <b>Space Cannon Offense</b> step.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -155,7 +155,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Jol&ndash;Nar player has the <a href="/F_nekro">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note in their play area, they will not draw any action cards from the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> commander when they resolve <i>Genetic Memory</i>.<sup>*</sup>
+    <li>If the Jol&ndash;Nar player has the <a href="/F_nekro">Nekro</a> player&rsquo;s <i>Alliance</i> promissory note in their play area, they will not draw any action cards from the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> commander when they resolve <i>Genetic Memory</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -191,7 +191,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 90 (Technology): &ldquo;Unit upgrades do not have a color and do not satisfy prerequisites.&rdquo;</li>
         </ul></li></ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Psychoarchaeology"><i>Psychoarchaeology</i></a> technology cannot be used to avoid exhausting the planet with the technology specialty.<sup>6</sup>
+    <li>The <i>Psychoarchaeology</i> technology cannot be used to avoid exhausting the planet with the technology specialty.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Jol-Nar use Psychoarchaeology to bypass exhausting the technology specialty when using Specialised Compounds? A: No&rdquo;</li>
         </ul></li>

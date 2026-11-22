@@ -16,7 +16,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the agenda phase happen, and when are planets readied?&rdquo;: &ldquo;Planets ready again at the end of the agenda phase.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
         </ul></li>
-    <ol><li>This includes the Deepwrought player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>, space stations and <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a>.<sup>3,6,7</sup>
+    <ol><li>This includes the Deepwrought player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>, space stations and <i>The Triad</i>.<sup>3,6,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play p. 21, Agenda Phase, &ldquo;3. READY PLANETS&rdquo;: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, Deepwrought Scholarate: &ldquo;What do Ocean Cards do? A: They are planet cards and can be spent as such.&rdquo;</li>

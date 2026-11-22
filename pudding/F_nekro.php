@@ -5,7 +5,7 @@
 
 <h2 id="galactic-threat"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Galactic%20Threat">Galactic Threat</a></h2>
     <ol class="note">
-    <li>The Nekro player makes their prediction during the same timing window as riders, after any &ldquo;when an agenda is revealed&rdquo; abilities, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card or the <a href="/F_xxcha">Xxcha</a> player&rsquo;s Quash faction ability. They must predict an outcome; abstaining is not an outcome.<sup>2</sup>
+    <li>The Nekro player makes their prediction during the same timing window as riders, after any &ldquo;when an agenda is revealed&rdquo; abilities, such as the <i>Veto</i> action card or the <a href="/F_xxcha">Xxcha</a> player&rsquo;s Quash faction ability. They must predict an outcome; abstaining is not an outcome.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Nekro make its Galactic Threat prediction, and what can it predict?&rdquo;: &ldquo;In the same window as riders: after &lsquo;when revealed&rsquo; effects such as Veto or Quash, before anyone votes. It predicts an outcome; abstaining isn&rsquo;t one.&rdquo;</li>
         </ul></li>
@@ -14,7 +14,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Can a player who cannot vote (such as the Nekro Virus) play rider action cards? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Nekro make its Galactic Threat prediction &hellip;?&rdquo;: &ldquo;The Nekro may also play riders on the same or different outcomes.&rdquo;</li>
         </ul></li></ol>
-    <li>If the Nekro player has the Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the Nekro player may vote, without losing their ability to predict outcomes for their <sc>Galactic Threat</sc> ability.<sup>*</sup>
+    <li>If the Nekro player has the Xxcha player&rsquo;s <i>Alliance</i> promissory note, the Nekro player may vote, without losing their ability to predict outcomes for their <sc>Galactic Threat</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -38,7 +38,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Any method that destroys a unit during combat will trigger <sc>Technological Singularity</sc>, including an anti&ndash;fighter barrage roll, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer"><i>Dimensional Splicer</i></a> faction technology, etc.<sup>2</sup>
+    <li>Any method that destroys a unit during combat will trigger <sc>Technological Singularity</sc>, including an anti&ndash;fighter barrage roll, the <i>Direct Hit</i> action card, the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer"><i>Dimensional Splicer</i></a> faction technology, etc.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which kills trigger Nekro&rsquo;s Technological Singularity?&rdquo;: &ldquo;Anti-Fighter Barrage is part of combat and counts.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When the Nekro Virus gain a technology, does the other player lose it?&rdquo;: &ldquo;It triggers when any opponent&rsquo;s unit is destroyed in combat, even one the Yin sacrifice with Devotion or one killed by Assault Cannon or Anti-Fighter Barrage.&rdquo;</li>
@@ -70,7 +70,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: the gained technology &ldquo;works immediately, even for the rest of that combat.&rdquo;</li>
         </ul></li>
-        <li>Destroying an opponent&rsquo;s unit at the start of a combat, such as with the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology, and gaining a unit upgrade technology with an <sc>Anti&ndash;Fighter Barrage</sc> ability will allow units of that type to use that ability during the <b>Anti&ndash;Fighter Barrage</b> step of the first round of combat.<sup>2</sup>
+        <li>Destroying an opponent&rsquo;s unit at the start of a combat, such as with the ability of the <i>Assault Cannon</i> technology, and gaining a unit upgrade technology with an <sc>Anti&ndash;Fighter Barrage</sc> ability will allow units of that type to use that ability during the <b>Anti&ndash;Fighter Barrage</b> step of the first round of combat.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: the gained technology &ldquo;works immediately, even for the rest of that combat.&rdquo;</li>
         </ul></li>
@@ -101,7 +101,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>The Nekro player cannot use <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Prophet%27s%20Tears"><i>The Prophet&rsquo;s Tears</i></a> relic to draw an action card when they gain a technology using this ability.<sup>2,4</sup>
+    <li>The Nekro player cannot use <i>The Prophet&rsquo;s Tears</i> relic to draw an action card when they gain a technology using this ability.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;They cannot do this when they GAIN technology via their Technological Singularity faction ability.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Nekro Virus use the Prophet&rsquo;s Tears relic?&rdquo;: &ldquo;No &mdash; it triggers when you research a technology, which the Nekro never do.&rdquo;</li>
@@ -114,7 +114,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Nekro Virus pay normally to use the Technology secondary?&rdquo;: &ldquo;Yes &mdash; like anyone they spend a strategy token and 4 resources, and because they can&rsquo;t research, Propagation gives them 3 command tokens instead.&rdquo;</li>
         </ul></li>
-    <ol><li>The Nekro player may still benefit from owning the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Sciences"><i>Minister of Sciences</i></a> agenda card.<sup>*</sup>
+    <ol><li>The Nekro player may still benefit from owning the <i>Minister of Sciences</i> agenda card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -122,7 +122,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the Nekro player owns <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Prophet%27s%20Tears"><i>The Prophet&rsquo;s Tears</i></a> relic, they may draw an action card whenever they would research a technology.<sup>4</sup>
+    <ol><li>If the Nekro player owns <i>The Prophet&rsquo;s Tears</i> relic, they may draw an action card whenever they would research a technology.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Nekro Virus player use the Prophet&rsquo;s Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card.&rdquo;</li>
         <li><b>Unverified</b>: <sup>2</sup> Conflicts: RulesPal, &ldquo;Can the Nekro Virus use the Prophet&rsquo;s Tears relic?&rdquo;: &ldquo;No &mdash; it triggers when you research a technology, which the Nekro never do, so it does nothing for them.&rdquo;</li>
@@ -131,11 +131,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a> law is in play, the Nekro player will not destroy a ship when they would research a technology.<sup>2</sup>
+    <ol><li>If the <i>Anti&ndash;Intellectual Revolution</i> law is in play, the Nekro player will not destroy a ship when they would research a technology.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Anti-Intellectual Revolution work?&rdquo;: &ldquo;The Nekro are unaffected, since Propagation gains tokens instead of researching.&rdquo;</li>
         </ul></li></ol>
-    <li>The Nekro player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reveal%20Prototype"><i>Reveal Prototype</i></a> action card, gaining three command tokens instead of researching, but only if there is a unit upgrade technology the card could research.<sup>2</sup>
+    <li>The Nekro player may play the <i>Reveal Prototype</i> action card, gaining three command tokens instead of researching, but only if there is a unit upgrade technology the card could research.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Nekro Virus play Reveal Prototype?&rdquo;: &ldquo;Yes, gaining 3 command tokens instead of the technology, but only if there&rsquo;s a valid unit upgrade the card could research.&rdquo;</li>
         </ul></li>
@@ -221,7 +221,7 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;The intent is not that that the generic upgrades are lost, in this case.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>Owning two unit upgrades for the same type of unit in this manner only counts as one unit upgrade toward the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Develop%20Weaponry"><i>Develop Weaponry</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Revolutionize%20Warfare"><i>Revolutionize Warfare</i></a> objectives.<sup>1,2,5</sup>
+        <li>Owning two unit upgrades for the same type of unit in this manner only counts as one unit upgrade toward the <i>Develop Weaponry</i> and <i>Revolutionize Warfare</i> objectives.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If the Nekro Virus owns multiple unit upgrade technologies of the same type &hellip; does each one count toward the &lsquo;Develop Weaponry&rsquo; and &lsquo;Revolutionize Warfare&rsquo; objectives? A: No.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do technologies the Nekro copy with Valefar Assimilator count for objectives?&rdquo;: &ldquo;But when a copied faction upgrade covers a generic one, like Dreadnought II, only one of the two counts.&rdquo;</li>
@@ -242,7 +242,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology&rsquo;s text.&rdquo;</li>
         </ul></li>
-    <li>For the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Adapt%20New%20Strategies"><i>Adapt New Strategies</i></a> objective, a <i>Valefar Assimilator</i> technology will count if and only if it is currently copying another technology.<sup>5</sup>
+    <li>For the <i>Adapt New Strategies</i> objective, a <i>Valefar Assimilator</i> technology will count if and only if it is currently copying another technology.<sup>5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do technologies the Nekro copy with Valefar Assimilator count for objectives?&rdquo;: &ldquo;Yes &mdash; a copied technology counts with its colour and type.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> FFG ruling (stephen986, Sep 19 2017): &ldquo;The intent was that after placing an assimilator token on another faction&rsquo;s faction specific technology, it would then count toward the secret objective.&rdquo; Counting only once a token is placed on another technology implies the if-and-only-if.</li>
@@ -256,7 +256,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If the Nekro player has copied both the <a href="/F_letnev">Letnev</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Non-Euclidean%20Shielding"><i>Non&ndash;Euclidean Shielding</i></a> technology and the generic <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> technology, then a space combat between the Nekro player and the Letnev player in certain circumstances may result in neither player being able to win. If this happens, the attacker must declare a retreat. If the attacker cannot do so, they destroy all their units in that combat.<sup>1</sup>
+        <li>If the Nekro player has copied both the <a href="/F_letnev">Letnev</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Non-Euclidean%20Shielding"><i>Non&ndash;Euclidean Shielding</i></a> technology and the generic <i>Duranium Armor</i> technology, then a space combat between the Nekro player and the Letnev player in certain circumstances may result in neither player being able to win. If this happens, the attacker must declare a retreat. If the attacker cannot do so, they destroy all their units in that combat.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ, on combats that are &ldquo;impossible for either side to win&mdash;for example, certain configurations of ships using the &lsquo;Non-Euclidean Shielding&rsquo; and &lsquo;Duranium Armor&rsquo; technologies in concert? A: If neither side has the potential to win, the attacker must retreat.&rdquo;</li>
         </ul></li>
@@ -313,7 +313,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Infantry that are participating in space combat due to the effects of &lsquo;The Alastor&rsquo; do count as ships (in addition to their own unit type) for the purpose of card effects. But, as a unit that can be transported, they do not count against fleet supply in that system.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>This includes counting toward the three non&ndash;fighter ships necessary to trigger the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology.<sup>1</sup>
+        <li>This includes counting toward the three non&ndash;fighter ships necessary to trigger the effect of the <i>Assault Cannon</i> technology.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Do infantry involved in a space combat via the effects of &lsquo;The Alastor&rsquo; flagship count toward the ships required to use the &lsquo;Assault Cannon&rsquo; technology? A: Yes.&rdquo;</li>
         </ul></li>
@@ -367,7 +367,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A ground force participating in a space combat may count toward scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power"><i>Demonstrate Your Power</i></a> secret objective.<sup>*</sup>
+    <li>A ground force participating in a space combat may count toward scoring the <i>Demonstrate Your Power</i> secret objective.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -375,7 +375,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the Nekro player uses a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy an opponent&rsquo;s flagship, they may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Destroy%20their%20Greatest%20Ship"><i>Destroy Their Greatest Ship</i></a> secret objective, even if there are some hits remaining that will cause the Nekro player to be eliminated once they are assigned. If this would bring the Nekro player to ten victory points, they will instead win the game before they are eliminated.<sup>*</sup>
+    <ol><li>If the Nekro player uses a <i>Direct Hit</i> action card to destroy an opponent&rsquo;s flagship, they may score the <i>Destroy Their Greatest Ship</i> secret objective, even if there are some hits remaining that will cause the Nekro player to be eliminated once they are assigned. If this would bring the Nekro player to ten victory points, they will instead win the game before they are eliminated.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

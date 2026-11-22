@@ -5,7 +5,7 @@
 
 <h2 id="masters-of-trade"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Masters%20of%20Trade">Masters of Trade</a></h2>
     <ol class="note">
-    <li>If the Hacan player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use their Masters of Trade ability.<sup>*</sup>
+    <li>If the Hacan player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <i>Alliance</i> promissory note, they will not gain a trade good from it when they use their Masters of Trade ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -38,7 +38,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 2.4: &ldquo;If a player ever has more than seven action cards, that player must choose seven cards to keep and discard the rest.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;If a player exceeds this number, they must choose which seven cards they wish to keep and discard the rest.&rdquo;</li>
         </ul></li>
-    <li>If the Hacan player has their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> played during an agenda, they may still trade action cards, as <sc>Arbiters</sc> is a passive ability.<sup>1,2,4</sup>
+    <li>If the Hacan player has their <i>Political Secret</i> played during an agenda, they may still trade action cards, as <sc>Arbiters</sc> is a passive ability.<sup>1,2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can Hacan trade action cards after having Political Secret played against them? A: Arbiters is a passive ability and the Emirates of Hacan can trade Action cards regardless.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What exactly does Political Secret stop the affected player from doing?&rdquo;: &ldquo;Mandatory and passive abilities still apply, such as &hellip; Hacan&rsquo;s Arbiters.&rdquo;</li>
@@ -77,11 +77,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Hacan&rsquo;s Quantum Datahub Node swap strategy cards?&rdquo;: &ldquo;Hacan chooses both which of their cards to give and which face-up card to take.&rdquo;</li>
         </ul></li>
-    <li>The Hacan player must have three trade goods before they spend the command token; they cannot use the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note to gain the third trade good.<sup>*</sup>
+    <li>The Hacan player must have three trade goods before they spend the command token; they cannot use the <a href="/F_muaat">Muaat</a> player&rsquo;s <i>Alliance</i> promissory note to gain the third trade good.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Public%20Disgrace"><i>Public Disgrace</i></a> action card cannot be played against a strategy card the Hacan player takes with <i>Quantum Datahub Node</i>, as <i>Quantum Datahub Node</i> is resolved at the end of the strategy phase and is not a player &ldquo;choosing a strategy card.&rdquo;<sup>2</sup>
+    <li>The <i>Public Disgrace</i> action card cannot be played against a strategy card the Hacan player takes with <i>Quantum Datahub Node</i>, as <i>Quantum Datahub Node</i> is resolved at the end of the strategy phase and is not a player &ldquo;choosing a strategy card.&rdquo;<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Public Disgrace be played against a strategy card swap from Quantum Datahub Node or Imperial Arbiter?&rdquo;: &ldquo;No &mdash; Public Disgrace triggers when a player chooses a strategy card, and those swaps at the end of the strategy phase aren&rsquo;t choices.&rdquo;</li>
         </ul></li>
@@ -102,7 +102,7 @@
 
 <h2 id="carth-of-golden-sands"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Leaders:~:text=Carth%20of%20Golden%20Sands">Carth of Golden Sands</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>A player that has their maximum number of commodities may have their commodities replenished. If this happens, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note.<sup>1</sup>
+    <li>A player that has their maximum number of commodities may have their commodities replenished. If this happens, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <i>Trade Agreement</i> promissory note.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Even if that player gains zero commodities when their commodities are refreshed, their &lsquo;Trade Agreement&rsquo; may still be played against them.&rdquo;</li>
         </ul></li>
@@ -142,7 +142,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the planet traded contains coexisting units, those units remain coexisting. Because the mech is moved after control of the planet is exchanged, the player gaining the planet may use their <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, or a similar ability, before coexistence would end.<sup>6</sup>
+    <li>If the planet traded contains coexisting units, those units remain coexisting. Because the mech is moved after control of the planet is exchanged, the player gaining the planet may use their <i>Integrated Economy</i> technology, or a similar ability, before coexistence would end.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Coexisting units remain in a state of coexistence as ownership changes through Hacan mech &hellip; The Hacan mech specifically moves units *after* exchanging control and so allows the gaining player to use Integrated Economy before&rdquo; coexistence ends.</li>
         </ul></li>

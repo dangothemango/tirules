@@ -15,11 +15,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can they use the Creuss IFF? A: Yes, they still may not move through the Creuss wormholes though.&rdquo;</li>
         </ul></li>
-    <li>The Rebellion player may use the Creuss player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a>, and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lost%20Star%20Chart"><i>Lost Star Chart</i></a> action card.<sup>6</sup>
+    <li>The Rebellion player may use the Creuss player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a>, and the <i>Lost Star Chart</i> action card.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can they use the Creuss agent or the Lost Star Charts action card? A: Yes&rdquo;</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Wormhole%20Reconstruction"><i>Wormhole Reconstruction</i></a> agenda does not override <sc>Sundered</sc>. However, the systems it makes adjacent are adjacent for movement, and the Rebellion player&rsquo;s ships do not need to use the wormholes to move between them.<sup>6</sup>
+    <li>The <i>Wormhole Reconstruction</i> agenda does not override <sc>Sundered</sc>. However, the systems it makes adjacent are adjacent for movement, and the Rebellion player&rsquo;s ships do not need to use the wormholes to move between them.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does Wormhole Reconstruction override SUNDERED? A: No, but those systems are adjacent for movement, they do not need to use the worm holes so functionally it overrides Sundered.&rdquo;</li>
         </ul></li>
@@ -64,7 +64,7 @@
 
 <h2 id="sever"><a href="https://twilight-imperium.fandom.com/wiki/The_Crimson_Rebellion#Faction_Promissory_Note:~:text=Sever">Sever</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li><i>Sever</i> only prevents movement through the wormhole. Adjacency, <sc>Space Cannon</sc>, the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement"><sc>Quantum Entanglement</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream"><sc>Slipstream</sc></a> faction abilities, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Ghost%20Ship"><i>Ghost Ship</i></a> action card and the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper"><i>Become the Gatekeeper</i></a> objective are unaffected.<sup>6</sup>
+    <li><i>Sever</i> only prevents movement through the wormhole. Adjacency, <sc>Space Cannon</sc>, the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement"><sc>Quantum Entanglement</sc></a> and <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream"><sc>Slipstream</sc></a> faction abilities, the <i>Ghost Ship</i> action card and the <i>Become the Gatekeeper</i> objective are unaffected.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Sever (Promissory Note): Does the wormhole still count for other non-movement game effects? &hellip; A: Blocks movement. Adjacency, PDS, Ghost Ship, Become the Gatekeeper, SLIPSTREAM are all unaffected.&rdquo;</li>
         </ul></li>

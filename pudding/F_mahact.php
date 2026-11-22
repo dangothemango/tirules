@@ -14,7 +14,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you are the Mahact player, what happens when an agenda tells you to &lsquo;remove one of your command tokens from your fleet pool &hellip;&rsquo; but you only have tokens from&rdquo; other players? &ldquo;A: You are required to remove another player&rsquo;s token and return it to that player&rsquo;s reinforcements.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Armed Forces Standardization affect Mahact holding other players&rsquo; fleet tokens?&rdquo;: &ldquo;other players&rsquo; tokens removed go back to their owners&rsquo; reinforcements.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Fleet%20Regulations"><i>Fleet Regulations</i></a> law limits the number of tokens the Mahact player may have in their fleet pool, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corresponding reinforcements.<sup>4</sup>
+    <li>If the <i>Fleet Regulations</i> law limits the number of tokens the Mahact player may have in their fleet pool, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corresponding reinforcements.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the law Fleet Regulations is in play, and Mahact already has 4 tokens in fleet, can they add another one &hellip;? A: The Mahact player can add a 5th token and choose one to return to their reinforcements from their fleet pool afterward.&rdquo;</li>
         </ul></li>
@@ -42,7 +42,7 @@
 
 <h2 id="hubris"><a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Faction_Abilities:~:text=Hubris">Hubris</a></h2>
     <ol class="note">
-    <li>If a game effect would force another player to give a promissory note to the Mahact player, but the only promissory note that player has is their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, that player does not give anything to the Mahact player.<sup>*</sup>
+    <li>If a game effect would force another player to give a promissory note to the Mahact player, but the only promissory note that player has is their <i>Alliance</i> promissory note, that player does not give anything to the Mahact player.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -103,7 +103,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Mahact agent, or other effects used instead of spending a strategy token, work with an empty strategy pool?&rdquo;: &ldquo;Yes &mdash; they replace the token, so none is needed.&rdquo;</li>
         </ul></li>
-    <li>If the Mahact player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use the ability of Jae Mir Kan.<sup>*</sup>
+    <li>If the Mahact player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <i>Alliance</i> promissory note, they will not gain a trade good from it when they use the ability of Jae Mir Kan.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -131,12 +131,12 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;In regards to the Mahact Commander, Il Na Viroset, when does your turn end? &hellip; Is this different from Nullification Field or Starlancer? A: &hellip; when/after you activate and other abilities within your turn cannot be used when the Mahact player places a second token in a system. End of turn abilities can still be used. Any ability that ends your turn should be treated as ending your turn when they occur, and no further abilities during that same trigger window can take place.&rdquo;</li>
         </ul></li>
-    <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Counterstroke"><i>Counterstroke</i></a> action card cannot be played.<sup>2,4</sup>
+    <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <i>Counterstroke</i> action card cannot be played.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;What&rsquo;s the interaction with the Mahact Commander, Il Na Viroset, and the Counterstroke action card? A: Counterstroke cannot be played.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I play Counterstroke on a system I activate that already has my command token?&rdquo;: &ldquo;Mahact&rsquo;s commander doesn&rsquo;t help either, since activating that way ends your turn at once with no after-activation abilities&rdquo;</li>
         </ul></li>
-    <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap"><i>Dark Energy Tap</i></a> technology does not trigger.<sup>4</sup>
+    <li>If the Mahact player places a second command token in a system using Il Na Viroset, the <i>Dark Energy Tap</i> technology does not trigger.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Dark Energy Tap trigger if you used the Mahact Commander, Il Na Viroset? A: No.&rdquo;</li>
         </ul></li>
@@ -177,7 +177,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>The Mahact player may move another player&rsquo;s ships into an asteroid field only if that player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>2</sup>
+    <li>The Mahact player may move another player&rsquo;s ships into an asteroid field only if that player owns the <i>Antimass Deflectors</i> technology.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Mahact hero&rsquo;s Benediction work?&rdquo;: &ldquo;The moved ships&rsquo; owner must be able to enter that system, so no pushing them into asteroid fields or supernovas they can&rsquo;t enter.&rdquo;</li>
         </ul></li>
@@ -235,7 +235,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>Either player in the combat may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Brave%20the%20Void"><i>Brave the Void</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Darken%20the%20Skies"><i>Darken the Skies</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power"><i>Demonstrate Your Power</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Destroy%20their%20Greatest%20Ship"><i>Destroy Their Greatest Ship</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Fight%20with%20Precision"><i>Fight with Precision</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Spark%20a%20Rebellion"><i>Spark a Rebellion</i></a>, or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> secret objectives.<sup>*</sup>
+    <li>Either player in the combat may score the <i>Brave the Void</i>, <i>Darken the Skies</i>, <i>Demonstrate Your Power</i>, <i>Destroy Their Greatest Ship</i>, <i>Fight with Precision</i>, <i>Spark a Rebellion</i>, or <i>Unveil Flagship</i> secret objectives.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -244,7 +244,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>No player may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Betray%20a%20Friend"><i>Betray a Friend</i></a> secret objective.<sup>*</sup>
+        <li>No player may score the <i>Betray a Friend</i> secret objective.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -291,7 +291,7 @@
         <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Purge: &ldquo;If an ability instructs a player to purge a component, that component is removed from the game and returned to the box.&rdquo; purged component is out of the game.</li>
         <li><b>Implicit</b>: <sup>8</sup> PoK rulebook: &ldquo;A purged card is removed from the&rdquo; game.</li>
         </ul></li>
-    <li>If the Mahact player purges the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>*</sup>
+    <li>If the Mahact player purges the <i>Antimass Deflectors</i> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

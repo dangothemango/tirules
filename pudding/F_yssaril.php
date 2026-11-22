@@ -5,7 +5,7 @@
 
 <h2 id="stall-tactics"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Stall%20Tactics">Stall Tactics</a></h2>
     <ol class="note">
-    <li><sc>Stall Tactics</sc> is a faction ability, not an action card, and so cannot be canceled by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup>
+    <li><sc>Stall Tactics</sc> is a faction ability, not an action card, and so cannot be canceled by the <i>Sabotage</i> action card.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What is Yssaril&rsquo;s Stall Tactics for, and can it be Sabotaged?&rdquo;: &ldquo;It is a faction ability, not an action card, so Sabotage cannot cancel it.&rdquo;</li>
         </ul></li>
@@ -30,7 +30,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Effects that give the Yssaril player action cards without drawing them, such as <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Codex"><i>The Codex</i></a> relic or the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> action card, will not trigger <sc>Scheming</sc>.<sup>2</sup>
+    <li>Effects that give the Yssaril player action cards without drawing them, such as <i>The Codex</i> relic or the <i>Reverse Engineer</i> action card, will not trigger <sc>Scheming</sc>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Yssaril&rsquo;s Scheming trigger on cards taken from other players &hellip;?&rdquo;: &ldquo;Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player.&rdquo;</li>
         </ul></li>
@@ -38,7 +38,7 @@
 
 <h2 id="crafty"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Crafty">Crafty</a></h2>
     <ol class="note">
-    <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Executive%20Sanctions"><i>Executive Sanctions</i></a> law does not affect the Yssaril player.<sup>2</sup>
+    <li>The effect of the <i>Executive Sanctions</i> law does not affect the Yssaril player.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Public Execution stop the elected player voting in the next agenda phase, and does Yssaril&rsquo;s Crafty save their hand?&rdquo;: &ldquo;Crafty does beat effects that cap hand size, such as Executive Sanctions.&rdquo; Yssaril is unaffected by Executive Sanctions hand cap.</li>
         </ul></li>
@@ -91,7 +91,7 @@
 
 <h2 id="ysia-yssrila"><a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Flagship:~:text=Y%27sia%20Y%27ssrila">Y&rsquo;sia Y&rsquo;ssrila</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>If the Yssaril player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology, it will have no additional effect on the <i>Y&rsquo;sia Y&rsquo;ssrila</i>.<sup>*</sup>
+    <li>If the Yssaril player owns the <i>Light/Wave Deflector</i> technology, it will have no additional effect on the <i>Y&rsquo;sia Y&rsquo;ssrila</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

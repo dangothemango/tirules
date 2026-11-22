@@ -33,8 +33,8 @@
     <ol><li>For example, the <a href="/F_mentak">Mentak</a> player must still be neighbors with another player on the game board to resolve their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability against that player.<sup>*</sup></li></ol>
     <li>The <a href="/F_hacan">Hacan</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Guild%20Ships"><sc>Guild Ships</sc></a> faction ability and <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Promissory_Note:~:text=Trade%20Convoys"><i>Trade Convoys</i></a> promissory note provide no benefit while playing with the <i>Age of Commerce</i> event. However, <i>Trade Convoys</i> may still be played as a component action.<sup>*</sup></li>
     <li>If the <a href="/F_empyrean">Empyrean</a> player receives commodities from a player with their <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Dark%20Pact"><i>Dark Pact</i></a> promissory note in their play area equal to that player&rsquo;s printed commodity value, then both players will gain one trade good. This need not be all of the giving player&rsquo;s current commodities.<sup>*</sup></li>
-    <ol><li>If the giving player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Dynamis%20Core"><i>Dynamis Core</i></a> relic, they must give two commodities above their faction&rsquo;s printed commodity value to trigger the effect of <i>Dark Pact</i>.<sup>*</sup></li></ol>
-    <li>When a player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note is played, they give only the number of commodities that they just gained due to replenishing commodities.<sup>*</sup></li>
+    <ol><li>If the giving player owns the <i>Dynamis Core</i> relic, they must give two commodities above their faction&rsquo;s printed commodity value to trigger the effect of <i>Dark Pact</i>.<sup>*</sup></li></ol>
+    <li>When a player&rsquo;s <i>Trade Agreement</i> promissory note is played, they give only the number of commodities that they just gained due to replenishing commodities.<sup>*</sup></li>
     <li>A player may share any number of technologies in a single transaction.<sup>*</sup></li>
     </ol>
 
@@ -89,7 +89,7 @@
 <h2 id="minor-factions"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Codex_IV_(Liberation):~:text=Minor%20Factions">Minor Factions</a></h2>
     <ol class="note">
     <li>During setup, if a player places a minor faction system with two planets, that player chooses which planet gets two neutral infantry and which planet gets one.<sup>11</sup></li>
-    <li>During setup, if a player is dealt the <a href="/F_creuss">Creuss</a> reference card, they place the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Creuss%20Gate">Creuss Gate</a> (tile 17) where a minor faction home system would go, and place the Creuss home system (tile 51) in the common play area.<sup>7</sup></li>
+    <li>During setup, if a player is dealt the <a href="/F_creuss">Creuss</a> reference card, they place the Creuss Gate (tile 17) where a minor faction home system would go, and place the Creuss home system (tile 51) in the common play area.<sup>7</sup></li>
     <li>During setup, if a player is dealt the <a href="/F_rebellion">Rebellion</a> reference card, they place the Sorrow (tile 94) where a minor faction home system would go, and place the Rebellion home system (tile 118) in the common play area.<sup>7</sup></li>
     <ol><li>If the Rebellion is a minor faction, other players may move ships into the Rebellion home system, as the Rebellion&rsquo;s <sc>Sundered</sc> faction ability, which destroys those ships, is not in play.<sup>*</sup></li></ol>
     <li>During setup, if a player is dealt the <a href="/F_keleres">Keleres</a> reference card, then they select a home system at random from among the <a href="/F_argent">Argent</a>, <a href="/F_mentak">Mentak</a> and <a href="/F_xxcha">Xxcha</a>.<sup>7</sup></li>
@@ -105,10 +105,10 @@
     <ol><li>A player will retain a minor faction&rsquo;s alliance card even if they control no planets in that minor faction&rsquo;s system, should two or more other players each control planets in that system.<sup>11</sup></li></ol>
     <li>The planets in a minor faction&rsquo;s system are not home planets, nor is the system a home system.<sup>11</sup></li>
     <ol>
-        <li>The minor faction systems cannot be used to score objectives such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Conquer%20the%20Weak"><i>Conquer the Weak</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Darken%20the%20Skies"><i>Darken the Skies</i></a>, but may be used to score objectives such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Expand%20Borders"><i>Expand Borders</i></a>.<sup>*</sup></li>
-        <li>The minor faction systems may be targeted by action cards such as <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Reactor%20Meltdown"><i>Reactor Meltdown</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming"><i>Signal Jamming</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a>.<sup>*</sup></li>
-        <li>The minor faction systems may be elected for agendas such as <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution"><i>Colonial Redistribution</i></a>. They will be unaffected by agendas such as <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=New%20Constitution"><i>New Constitution</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shared%20Research"><i>Shared Research</i></a>.<sup>*</sup></li>
-        <li>The minor faction systems may be targeted with the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic or with the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability. These will not cause a player to lose an alliance card.<sup>*</sup></li>
+        <li>The minor faction systems cannot be used to score objectives such as <i>Conquer the Weak</i> or <i>Darken the Skies</i>, but may be used to score objectives such as <i>Expand Borders</i>.<sup>*</sup></li>
+        <li>The minor faction systems may be targeted by action cards such as <i>Reactor Meltdown</i>, <i>Signal Jamming</i> or <i>Uprising</i>.<sup>*</sup></li>
+        <li>The minor faction systems may be elected for agendas such as <i>Colonial Redistribution</i>. They will be unaffected by agendas such as <i>New Constitution</i> or <i>Shared Research</i>.<sup>*</sup></li>
+        <li>The minor faction systems may be targeted with the <i>Stellar Converter</i> relic or with the <a href="/F_muaat">Muaat</a> player&rsquo;s <i>Nova Seed</i> hero ability. These will not cause a player to lose an alliance card.<sup>*</sup></li>
     </ol>
     </ol>
 
@@ -132,7 +132,7 @@
     <li>Commodities on planets are not treated as commodities for any game effect, other than those that appear on the <i>Total War</i> event card.<sup>*</sup></li>
     <ol>
         <li>The <a href="/F_mentak">Mentak</a> player cannot use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability to target the commodities on planets.<sup>*</sup></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Salvage"><i>Salvage</i></a> action card cannot be used to target the commodities on planets.<sup>*</sup></li>
+        <li>The <i>Salvage</i> action card cannot be used to target the commodities on planets.<sup>*</sup></li>
     </ol>
     <li>If a player gains control of a planet in another player&rsquo;s home system, without controlling at least one planet in their own home system, then any commodities on the planet they gained control of remain on that planet.<sup>*</sup></li>
     <ol>
@@ -150,7 +150,7 @@
 <h2 id="wild-wild-galaxy"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Wild%2C%20Wild%20Galaxy">Wild, Wild Galaxy</a></h2>
     <ol class="note">
     <li>A player with no planets remaining in their home system is not prevented from scoring public objectives.<sup>7</sup></li>
-    <li>If the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability replaces a player&rsquo;s home system with a supernova, then that supernova becomes that player&rsquo;s home system.<sup>7</sup></li>
+    <li>If the <a href="/F_muaat">Muaat</a> player&rsquo;s <i>Nova Seed</i> hero ability replaces a player&rsquo;s home system with a supernova, then that supernova becomes that player&rsquo;s home system.<sup>7</sup></li>
     </ol>
 
 <h2 id="zealous-orthodoxy"><a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Zealous%20Orthodoxy">Zealous Orthodoxy</a></h2>

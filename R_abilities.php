@@ -54,7 +54,7 @@
         <li>Note that some triggers check their conditions when they trigger, while some check their conditions when they would resolve.</li>
         <ol>
             <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability is an example of an ability that checks its condition when it triggers; activating a system without a sleeper token will not trigger <sc>Awaken</sc>, even if a sleeper token is later added during the activation step of that tactical action.<sup>2</sup></li>
-            <li>The <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology is an example of an ability that checks its condition when it would resolve; a player without three or more non&ndash;fighter ships in the system cannot use <i>Assault Cannon</i>, even if they previously had more ships.<sup>2,5</sup></li>
+            <li>The <i>Assault Cannon</i> technology is an example of an ability that checks its condition when it would resolve; a player without three or more non&ndash;fighter ships in the system cannot use <i>Assault Cannon</i>, even if they previously had more ships.<sup>2,5</sup></li>
         </ol>
     </ol>
     <!-- <li>Once an ability has been resolved, it cannot be undone or withdrawn, even if another player then resolves an ability in response. The player may instead respond by resolving another ability when they next have the opportunity during that timing window.<sup>2</sup></li> -->

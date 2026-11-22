@@ -14,7 +14,7 @@
         <li data-src="1,8">If a player gains control of multiple planets or resolves multiple explore effects at the same time, they choose the order in which they resolve those explorations, completely resolving each exploration card before resolving the next.</li>
     </ol>
     <li data-src="1">Certain abilities may allow a planet to be explored multiple times.</li>
-    <li data-src="1,8">Players can explore space areas that contain frontier tokens if they own the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap"><i>Dark Energy Tap</i></a> technology or if another game effect allows them to.</li>
+    <li data-src="1,8">Players can explore space areas that contain frontier tokens if they own the <i>Dark Energy Tap</i> technology or if another game effect allows them to.</li>
     <ol><li data-src="1,6">Frontier tokens are placed in systems during setup and by specific abilities.</li></ol>
     <li data-src="1,8">When a player explores a frontier token, they draw and resolve a card from the frontier exploration deck.</li>
     <li data-src="1,8">After a frontier token is explored, it is discarded and returned to the supply.</li>
@@ -30,11 +30,11 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>When a player gains control of a planet that is not controlled by another player, they explore it before resolving any &ldquo;after you gain control of a planet&rdquo; abilities, such as the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology.<sup>2</sup></li>
+    <li>When a player gains control of a planet that is not controlled by another player, they explore it before resolving any &ldquo;after you gain control of a planet&rdquo; abilities, such as the <i>Integrated Economy</i> technology.<sup>2</sup></li>
     <li>Before resolving an exploration card, it is revealed to all players.<sup>2</sup></li>
     <li>A player may perform transactions after revealing an exploration card and before resolving it.<sup>2,4</sup></li>
     <li>If a player is to gain multiple planets in a system, they choose the order in which they gain them, and explore each planet as they gain it before gaining the next.<sup>4,8</sup></li>
-    <li><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm"><i>Ion Storm</i></a> is placed into play, not into the frontier discard pile.<sup>6</sup></li>
+    <li><i>Ion Storm</i> is placed into play, not into the frontier discard pile.<sup>6</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

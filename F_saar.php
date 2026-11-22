@@ -7,7 +7,7 @@
     <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before gaining the trade good from this ability.<sup>1</sup></li>
     <ol>
         <li>If the Saar player is to gain control of multiple planets not already controlled by another player, they will gain and explore one planet and gain a trade good before gaining and exploring the next.<sup>1</sup></li>
-        <li>If the Saar player has the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, and they gain control of a planet that was controlled by another player, they may explore it or gain a trade good in either order.<sup>*</sup></li>
+        <li>If the Saar player has the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s <i>Alliance</i> promissory note, and they gain control of a planet that was controlled by another player, they may explore it or gain a trade good in either order.<sup>*</sup></li>
     </ol>
     <li>The Saar player does not gain trade goods from <sc>Scavenge</sc> for the planets in their home system at the start of the game, as they begin the game in control of those planets rather than gaining control of them.<sup>2</sup></li>
     </ol>
@@ -29,8 +29,8 @@
     <ol><li>A unit may be produced on the turn the Saar player passes.<sup>1,2</sup></li></ol>
     <li>The produced unit must be paid for.<sup>1,2</sup></li>
     <li>The produced unit may move later that same turn, if the Saar player performs a tactical action.<sup>*</sup></li>
-    <li>No unit is using its <sc>Production</sc> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup></li>
-    <li>A player may still use abilities such as action cards or <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> that affect the Saar player&rsquo;s units located in asteroid fields.<sup>*</sup></li>
+    <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not apply.<sup>1,2</sup></li>
+    <li>A player may still use abilities such as action cards or <sc>Deep Space Cannon</sc> that affect the Saar player&rsquo;s units located in asteroid fields.<sup>*</sup></li>
     <li>If an asteroid field contains only non&ndash;ship units belonging to the Saar player, it may still be activated by other players.<sup>*</sup></li>
     <li>The <a href="/F_creuss">Creuss</a> player may place a wormhole token in an asteroid field that contains the Saar player&rsquo;s ships, but still cannot activate that system while <i>Chaos Mapping</i> applies.<sup>2</sup></li>
     </ol>
@@ -42,8 +42,8 @@
     <li>When a Floating Factory produces ground forces, they may be placed in the space area or on a planet they control in that system.<sup>2</sup></li>
     <li>A Floating Factory may move into the active system and use its <sc>Production</sc> ability during the same tactical action.<sup>2</sup></li>
     <li>When resolving an ability of the <i>Construction</i> strategy card, the Saar player must control a planet in the system they place a Floating Factory in.<sup>2,5</sup></li>
-    <ol><li>The Saar player cannot place a Floating Factory in a system if the only planet they control in that system has the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone"><i>Demilitarized Zone</i></a> cultural exploration card attached.<sup>*</sup></li></ol>
-    <li>Game effects that affect ship movement, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card, the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, etc, may affect Floating Factories.<sup>2,5</sup></li>
+    <ol><li>The Saar player cannot place a Floating Factory in a system if the only planet they control in that system has the <i>Demilitarized Zone</i> cultural exploration card attached.<sup>*</sup></li></ol>
+    <li>Game effects that affect ship movement, such as the <i>Gravity Drive</i> technology, the <i>Flank Speed</i> action card, the <i>Light/Wave Deflector</i> technology, the <i>Antimass Deflectors</i> technology, etc, may affect Floating Factories.<sup>2,5</sup></li>
     <li>A Floating Factory moving through or out of a gravity rift must roll for removal. It will receive the +1 to its movement.<sup>2,5</sup></li>
     <li>If an effect allows a Floating Factory to move through a system that contains another player&rsquo;s ships (such as the <i>Light/Wave Deflector</i> technology), it will not be blockaded in systems it moves through.<sup>*</sup></li>
     <li>Hits produced by space cannon rolls cannot be assigned to a Floating Factory.<sup>1,2,5</sup></li>
@@ -54,14 +54,14 @@
         <li>If all of the other player&rsquo;s ships are removed due to a gravity rift, they will not arrive in the active system. The Floating Factory will not be destroyed.<sup>*</sup></li>
     </ol>
     <li>If another player&rsquo;s ships move through a system that contains a Floating Factory and none of the Saar player&rsquo;s ships, the Floating Factory is not destroyed; it is destroyed only if those ships end their movement in that system.<sup>5</sup></li>
-    <li>If the Saar player has their last ship destroyed during combat by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, a Floating Factory in the system will be blockaded and destroyed, even if the Saar player produced enough hits to destroy their opponent&rsquo;s remaining ships during that round of combat.<sup>*</sup></li>
+    <li>If the Saar player has their last ship destroyed during combat by a <i>Direct Hit</i> action card, a Floating Factory in the system will be blockaded and destroyed, even if the Saar player produced enough hits to destroy their opponent&rsquo;s remaining ships during that round of combat.<sup>*</sup></li>
     <ol><li>Players alternate using the <sc>Sustain Damage</sc> ability of their units, one at a time, starting with the active player, and continuing until both players decline, in a row, to use the <sc>Sustain Damage</sc> of one of their units. If both the Saar player and their opponent have a <i>Direct Hit</i>, then the first unit to use <sc>Sustain Damage</sc> will be the first unit that may be destroyed by a <i>Direct Hit</i>. If the Saar player&rsquo;s unit is the last to be destroyed, and leaves no other ships in the system, then a Floating Factory in that system will not be blockaded nor destroyed.<sup>*</sup></li></ol>
     <li>If, at the end of the combat, the Saar player has no ships, and their opponent has only fighters, then any Floating Factories in the system will be blockaded, and thus destroyed, before the fighters are removed due to lack of capacity.<sup>*</sup></li>
     <ol><li>If the <a href="/F_nekro">Nekro</a> player has only ground forces participating in the combat as ships due to the effect of their flagship, the Alastor, those ground forces will blockade and destroy any Floating Factories, even if those ground forces are on planets instead of in the space area.<sup>*</sup></li></ol>
     <li>If the Saar player announces a retreat during a space combat, but all their ships are destroyed that round, any Floating Factories in that system are destroyed without retreating.<sup>5</sup></li>
     <ol><li>If neither player has ships in the active system after the final round of combat, the Floating Factory is not destroyed, and does not retreat.<sup>*</sup></li></ol>
-    <li>If the Saar player retreats from a space combat, Floating Factories in the active system may retreat with the Saar player&rsquo;s other ships, even if those ships are only fighters. Floating Factories may also be moved by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, provided they are never alone with another player&rsquo;s ships.<sup>2,5</sup></li>
-    <li>A Floating Factory cannot count toward the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Improve%20Infrastructure"><i>Improve Infrastructure</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Protect%20the%20Border"><i>Protect the Border</i></a> objectives.<sup>*</sup></li>
+    <li>If the Saar player retreats from a space combat, Floating Factories in the active system may retreat with the Saar player&rsquo;s other ships, even if those ships are only fighters. Floating Factories may also be moved by the <i>Skilled Retreat</i> action card, provided they are never alone with another player&rsquo;s ships.<sup>2,5</sup></li>
+    <li>A Floating Factory cannot count toward the <i>Improve Infrastructure</i> or <i>Protect the Border</i> objectives.<sup>*</sup></li>
     </ol>
 
 <h2 id="son-of-ragh"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Flagship:~:text=Son%20of%20Ragh">Son of Ragh</a> <sub>(Flagship)</sub></h2>
@@ -72,7 +72,7 @@
     <ol class="note">
     <li>The effect of Captain Mendosa occurs when the system is activated.<sup>4</sup></li>
     <ol>
-        <li>Move value modifying effects that trigger after a system is activated, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology will not be included in Captain Mendosa&rsquo;s effect.<sup>4</sup></li>
+        <li>Move value modifying effects that trigger after a system is activated, such as the <i>Flank Speed</i> action card or the <i>Gravity Drive</i> technology will not be included in Captain Mendosa&rsquo;s effect.<sup>4</sup></li>
         <li>Gravity rifts apply the +1 during movement. This modifier will not be included in Captain Mendosa&rsquo;s effect.<sup>4</sup></li>
     </ol>
     <li>The nebula effect of setting the move value of all ships in that system to one will be overwritten by Captain Mendosa&rsquo;s effect.<sup>4</sup></li>
@@ -80,7 +80,7 @@
 
 <h2 id="rowl-sarrig"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Rowl%20Sarrig">Rowl Sarrig</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>If another player has the Saar player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, this does not allow them to produce fighters at a blockaded space dock, so as to place them elsewhere.<sup>*</sup></li>
+    <li>If another player has the Saar player&rsquo;s <i>Alliance</i> promissory note, this does not allow them to produce fighters at a blockaded space dock, so as to place them elsewhere.<sup>*</sup></li>
     </ol>
 
 <h2 id="gurno-aggero"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Gurno%20Aggero">Gurno Aggero</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Armageddon%20Relay">Armageddon Relay</a> <sub>(Hero)</sub></h2>

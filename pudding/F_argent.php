@@ -10,7 +10,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;With Argent Flight&rsquo;s Zeal, what is the voting order?&rdquo;: &ldquo;Argent votes first, even as speaker.&rdquo;</li>
         <li><b>Explicit</b>: <sup>14</sup> Codex II faction summary: &ldquo;You always have to vote first, but you get extra votes.&rdquo;</li>
         </ul></li>
-    <ol><li>When the Argent player is the speaker, effects timed &ldquo;after the speaker votes&rdquo;, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> action card, resolve right after the Argent player votes.<sup>2</sup>
+    <ol><li>When the Argent player is the speaker, effects timed &ldquo;after the speaker votes&rdquo;, such as the <i>Bribery</i> action card, resolve right after the Argent player votes.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;With Argent Flight&rsquo;s Zeal, what is the voting order?&rdquo;: &ldquo;Effects timed &lsquo;after the speaker votes&rsquo;, like Bribery, come right after the Argent vote when Argent is speaker.&rdquo;</li>
         </ul></li></ol>
@@ -40,7 +40,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship uses its <sc>Sustain Damage</sc> ability, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, cannot be played.<sup>2,4</sup>
+    <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship uses its <sc>Sustain Damage</sc> ability, such as the <i>Direct Hit</i> action card, cannot be played.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can ships damaged by Raid Formation trigger a window for the Direct Hit Action card? A: No, Raid Formation does not cause the ship to use its Sustain Damage ability, it only causes it to become damaged.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Argent Flight&rsquo;s Raid Formation work &hellip;?&rdquo;: &ldquo;It produces no hits and those ships don&rsquo;t use Sustain Damage, so it can&rsquo;t destroy anything and Direct Hit or Non-Euclidean Shielding don&rsquo;t come into it.&rdquo;</li>
@@ -55,7 +55,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If the Argent player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be assigned.<sup>2</sup>
+    <li>If the Argent player plays the <i>Waylay</i> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be assigned.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Raid Formation and Waylay interact?&rdquo;: &ldquo;Raid Formation works off the barrage roll without using up the hits. With Waylay, those hits still hit ships and the opponent assigns them normally.&rdquo;</li>
         </ul></li>
@@ -79,7 +79,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A player with the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology cannot move their ships through systems containing the Argent player&rsquo;s structures, if the Argent player owns <i>Aerie Hololattice</i>.<sup>2</sup>
+    <li>A player with the <i>Light/Wave Deflector</i> technology cannot move their ships through systems containing the Argent player&rsquo;s structures, if the Argent player owns <i>Aerie Hololattice</i>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Argent&rsquo;s Aerie Hololattice stop ships with Light/Wave Deflector moving through?&rdquo;: &ldquo;Yes &mdash; it says other players can&rsquo;t move through systems with Argent structures, and &lsquo;cannot&rsquo; is absolute.&rdquo;</li>
         </ul></li>
@@ -91,7 +91,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Strike Wing Alpha II infantry killing get prevented by Shields Holding/re-roll abilities? A: &hellip; the infantry would be destroyed BEFORE any cancellation of hits.&rdquo;</li>
         </ul></li>
-    <li>Effects that cancel hits, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card, cannot prevent the infantry from being destroyed. If an effect rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.<sup>4</sup>
+    <li>Effects that cancel hits, such as the <i>Shields Holding</i> action card, cannot prevent the infantry from being destroyed. If an effect rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The rolls from Strike Wing Alpha II can be subject to rerolls before the ability is applied, but the infantry would be destroyed BEFORE any cancellation of hits.&rdquo;</li>
         </ul></li>
@@ -115,11 +115,11 @@
 
 <h2 id="trrakan-aun-zulok"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trrakan%20Aun%20Zulok">Trrakan Aun Zulok</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>Ships that gain <sc>Bombardment</sc> due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Blitz"><i>Blitz</i></a> action card will contribute to the unlock condition.<sup>*</sup>
+    <li>Ships that gain <sc>Bombardment</sc> due to the <i>Blitz</i> action card will contribute to the unlock condition.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card will not contribute.<sup>*</sup>
+    <ol><li>The <i>Experimental Battlestation</i> action card will not contribute.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

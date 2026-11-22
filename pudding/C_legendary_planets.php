@@ -37,7 +37,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The player with <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Codex_II:_Affinity:~:text=The%20Codex"><i>The Codex</i></a> cannot take cards that are on <i>Dok &rsquo;N Pic&rsquo;s Salvage Yard</i>.<sup>*</sup>
+    <li>The player with <i>The Codex</i> cannot take cards that are on <i>Dok &rsquo;N Pic&rsquo;s Salvage Yard</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

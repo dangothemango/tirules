@@ -5,7 +5,7 @@
 
 <h2 id="quantum-entanglement"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement">Quantum Entanglement</a></h2>
     <ol class="note">
-    <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law does not affect the Creuss player.<sup>2</sup>
+    <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the Creuss player.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What exactly does Creuss&rsquo;s Quantum Entanglement connect &hellip;?&rdquo;: &ldquo;no game effect, Enforced Travel Ban included, can stop that.&rdquo;</li>
         </ul></li>
@@ -19,12 +19,12 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;because the &lsquo;neighbor&rsquo; status is active as a result of the ability, the Mentak may use their &lsquo;Pillage&rsquo; in these situations.&rdquo;</li>
         </ul></li></ol>
-    <li>If Mecatol Rex contains an alpha wormhole, then the &ldquo;For&rdquo; effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda will not affect the Creuss player&rsquo;s units in a system with a beta wormhole (and no alpha wormhole), and vice versa.<sup>1,5</sup>
+    <li>If Mecatol Rex contains an alpha wormhole, then the &ldquo;For&rdquo; effect of the <i>Ixthian Artifact</i> agenda will not affect the Creuss player&rsquo;s units in a system with a beta wormhole (and no alpha wormhole), and vice versa.<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If there is an &lsquo;A&rsquo; wormhole on Mecatol Rex when the &lsquo;Ixthian Artifact&rsquo; agenda causes units in adjacent systems to be destroyed, does the Quantum Entanglement ability cause the Ghost of Creuss faction to lose units in a system that contains a &lsquo;B&rsquo; wormhole? A: No. Only the Creuss treats those systems as adjacent.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Sep 11, 2018): &ldquo;The intent is that it would not work that way.&rdquo; Alpha at Mecatol does not affect Creuss ships in a beta system; vice versa by symmetry.</li>
         </ul></li>
-    <li>Other players cannot use <sc>Quantum Entanglement</sc> to produce hits from a unit with the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability against the Creuss player&rsquo;s units.<sup>2</sup>
+    <li>Other players cannot use <sc>Quantum Entanglement</sc> to produce hits from a unit with the <sc>Deep Space Cannon</sc> ability against the Creuss player&rsquo;s units.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What exactly does Creuss&rsquo;s Quantum Entanglement connect &hellip;?&rdquo;: &ldquo;Other players can&rsquo;t fire Space Cannon or move through that connection.&rdquo;</li>
         </ul></li>
@@ -32,7 +32,7 @@
 
 <h2 id="slipstream"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream">Slipstream</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law has no effect on <sc>Slipstream</sc>.<sup>2,5</sup>
+    <li>The <i>Enforced Travel Ban</i> law has no effect on <sc>Slipstream</sc>.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Enforced Travel Ban stop Creuss&rsquo;s Slipstream bonus?&rdquo;: &ldquo;No &mdash; Slipstream only checks for a wormhole in the ship&rsquo;s starting system.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Enforced Travel Ban has no effect on Slipstream.&rdquo;</li>
@@ -102,7 +102,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When Dimensional Splicer or Yin&rsquo;s Devotion hits my ship, who picks the target &hellip;?&rdquo;: &ldquo;The Creuss or Yin player chooses which of your ships takes the hit.&rdquo;</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2</sup>
+    <li>The <i>Shields Holding</i> action card may be used to cancel the hit.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Shields Holding&rsquo; may be used to cancel hits that are produced by these abilities,&rdquo; including &ldquo;Dimensional Splicer.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?&rdquo;: &ldquo;Yes to both.&rdquo;</li>
@@ -111,7 +111,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When Dimensional Splicer or Yin&rsquo;s Devotion hits my ship &hellip;?&rdquo;: &ldquo;Only that ship can use its own Sustain Damage to cancel it; you can&rsquo;t move the hit elsewhere.&rdquo;</li>
         </ul></li>
-    <li>If the chosen ship cancels the hit by using its <sc>Sustain Damage</sc> ability, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be used.<sup>1,2,5</sup>
+    <li>If the chosen ship cancels the hit by using its <sc>Sustain Damage</sc> ability, the <i>Direct Hit</i> action card may be used.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Direct Hit&rsquo; can be used to follow up hits that are assigned by &lsquo;Ambush,&rsquo; &lsquo;Dimensional Splicer,&rsquo; &lsquo;Devotion,&rsquo; and other similar abilities.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Creuss flagship&rsquo;s delta wormhole trigger Dimensional Splicer?&rdquo;: &ldquo;which can set up Direct Hit.&rdquo;</li>
@@ -192,7 +192,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If another player uses the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology to move through a system that contains the Creuss player&rsquo;s ships, that player may move through the delta wormhole in the <i>Hil Colish</i>&rsquo;s system.<sup>1,2</sup>
+    <li>If another player uses the <i>Light/Wave Deflector</i> technology to move through a system that contains the Creuss player&rsquo;s ships, that player may move through the delta wormhole in the <i>Hil Colish</i>&rsquo;s system.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Light/Wave Deflector&rsquo; allows a player other than the Ghosts of Creuss to move their fleet through the &lsquo;Hil Colish&rsquo;s&rsquo; system into the Creuss home system or the Creuss Gate system.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can other players use the Creuss Gate and the Creuss flagship&rsquo;s delta wormhole?&rdquo;: &ldquo;enemies need a way to move through it (such as Light/Wave Deflector).&rdquo;</li>
@@ -218,7 +218,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to the Hil Colish delta wormhole in the entropic scar? A: &hellip; there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish.&rdquo;</li>
         </ul></li>
-    <li>The delta wormhole of the <i>Hil Colish</i> creates adjacency for the range of <sc>Space Cannon</sc> abilities, such as <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a>.<sup>*</sup>
+    <li>The delta wormhole of the <i>Hil Colish</i> creates adjacency for the range of <sc>Space Cannon</sc> abilities, such as <sc>Deep Space Cannon</sc>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. RulesPal (NOT USED, unconfirmed), &ldquo;Can Space Cannon with range reach through a wormhole?&rdquo;: &ldquo;wormhole adjacency counts for Space Cannon range, including the delta wormhole on the Creuss flagship&rdquo;.</li>
         </ul></li>
@@ -239,7 +239,7 @@
         <li><b>Implicit</b>: <sup>8</sup> PoK rulebook, Emissary Taivra card: &ldquo;that system is adjacent to all other systems that contain wormholes during this tactical action.&rdquo; All systems containing wormholes includes delta and epsilon.</li>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Using Wormholes&rdquo;: &ldquo;The Crimson Rebellion&rsquo;s &lsquo;Sundered&rsquo; ability says &lsquo;You cannot use wormholes other than epsilon wormholes.&rsquo;&rdquo; The ability names epsilon wormholes as a type of wormhole, so they are among the systems that contain wormholes.</li>
         </ul></li>
-    <li>If a ship moves from the system containing the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a>, it will not flip, unless the active player may move ships through the Ion Storm wormhole and chooses to do so.<sup>2</sup>
+    <li>If a ship moves from the system containing the Ion Storm, it will not flip, unless the active player may move ships through the Ion Storm wormhole and chooses to do so.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Ion Storm flip &hellip;?&rdquo;: &ldquo;With several wormhole routes, the moving player chooses which, if any, they use, which decides whether the Ion Storm flips.&rdquo;</li>
         </ul></li>
@@ -331,7 +331,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> applies when producing with a wormhole, as each wormhole has <sc>Production</sc> &ldquo;as if it were a unit you control&rdquo;.<sup>*</sup>
+    <li><i>Sarween Tools</i> applies when producing with a wormhole, as each wormhole has <sc>Production</sc> &ldquo;as if it were a unit you control&rdquo;.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Ghosts of Creuss: &ldquo;Yes, Sarween Tools applies anytime the PRODUCTION keyword is present. Because the breakthrough grants PRODUCTION 1, Sarween applies.&rdquo;</li>
         </ul></li>

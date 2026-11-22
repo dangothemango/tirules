@@ -20,7 +20,7 @@
     <ol class="note">
     <li>A player may have a maximum of one space dock on each planet.<sup>1,2,3</sup></li>
     <li>A player may have a maximum of two PDS units on each planet.<sup>1,2,3</sup></li>
-    <li>Structures cannot be placed on the planet with the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone"><i>Demilitarized Zone</i></a> exploration card attached.<sup>*</sup></li>
+    <li>Structures cannot be placed on the planet with the <i>Demilitarized Zone</i> exploration card attached.<sup>*</sup></li>
     <li>Placing structures with the Construction strategy card is not producing units; the structures have no cost, and production rules do not apply.<sup>2</sup></li>
     <li>Resolving the secondary ability of the <i>Construction</i> strategy card does not activate a system, and it does not matter whether the system has already been activated.<sup>2</sup></li>
     </ol>

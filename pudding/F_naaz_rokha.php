@@ -33,7 +33,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can you purge a relic fragment to gain a command token if you have no command tokens in your reinforcements? A: Yes, you can purge the fragment and not gain a command token if there are none in reinforcements.&rdquo;</li>
         </ul></li>
-    <li>Either or both of the relic fragments may be <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment"><i>Unknown Relic Fragments</i></a>.<sup>*</sup>
+    <li>Either or both of the relic fragments may be <i>Unknown Relic Fragments</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -46,7 +46,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 73.2a: &ldquo;If there are no cards in the relic deck, they do not gain a relic.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, &ldquo;Can a player &ldquo;gain&rdquo; a relic by purging fragments if there are no relics left?&rdquo;: &ldquo;Yes you can purge relic fragments and not gain a relic if there are none left in the deck.&rdquo;</li>
         </ul></li>
-    <li>Either or both of the relic fragments may be <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment"><i>Unknown Relic Fragments</i></a>.<sup>*</sup>
+    <li>Either or both of the relic fragments may be <i>Unknown Relic Fragments</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -58,7 +58,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does exploration work?&rdquo;: exploring &ldquo;happens before &lsquo;after you gain control&rsquo; effects like Integrated Economy or Pre-Fab Arcologies.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Cultural_Exploration_Cards:~:text=Freelancers"><i>Freelancers</i></a> exploration card is revealed, then:<sup>*</sup>
+    <li>If the <i>Freelancers</i> exploration card is revealed, then:<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -132,7 +132,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling, Naaz-Rokha hero Hesh and Prit with no tokens in reinforcements: &ldquo;The LRR will be updated to be more general towards taking off sheet if none are in reinforcements.&rdquo; general rule for taking tokens from sheet.</li>
         </ul></li>
-    <li>If the Naaz&ndash;Rokha player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use their <i>Perfect Synthesis</i> ability.<sup>*</sup>
+    <li>If the Naaz&ndash;Rokha player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <i>Alliance</i> promissory note, they will not gain a trade good from it when they use their <i>Perfect Synthesis</i> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -152,7 +152,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is flipping Naaz-Rokha mechs to ships mandatory &hellip;?&rdquo;: &ldquo;Flipping is mandatory, as nothing says &lsquo;may&rsquo;, but only for mechs already in the space area when combat starts.&rdquo;</li>
         </ul></li>
-    <ol><li>If the Naaz&ndash;Rokha player owns the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology, they may count their Z&ndash;Grav Eidolon toward the three non&ndash;fighter ships, once they resolve its ability. However, if another player then resolves an ability that reduces the number of non&ndash;fighter ships the Naaz&ndash;Rokha player has in the active system to less than three, the Naaz&ndash;Rokha player will no longer be able to resolve the <i>Assault Cannon</i> technology ability.<sup>6</sup>
+    <ol><li>If the Naaz&ndash;Rokha player owns the <i>Assault Cannon</i> technology, they may count their Z&ndash;Grav Eidolon toward the three non&ndash;fighter ships, once they resolve its ability. However, if another player then resolves an ability that reduces the number of non&ndash;fighter ships the Naaz&ndash;Rokha player has in the active system to less than three, the Naaz&ndash;Rokha player will no longer be able to resolve the <i>Assault Cannon</i> technology ability.<sup>6</sup>
         <ul>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus, &ldquo;Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability &hellip;?&rdquo;: &ldquo;Mech Flips at start of Space Combat in player order timing.&rdquo; The question concerns Assault Cannon: the flip is an ability resolved in player order at the start of space combat, so the attacker may resolve first.</li>
         </ul></li></ol>
@@ -164,7 +164,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A Z&ndash;Grav Eidolon participating in a space combat may count toward scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power"><i>Demonstrate Your Power</i></a> secret objective.<sup>*</sup>
+    <li>A Z&ndash;Grav Eidolon participating in a space combat may count toward scoring the <i>Demonstrate Your Power</i> secret objective.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -201,7 +201,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;In general, is the Eidelon Maximum treated as a ship when on a planet? Does it block other player&rsquo;s ship movement through the system? Can it count towards ship objectives? Can it blockade space docks? A: Yes, it is a ship in that system.&rdquo;</li>
         </ul></li>
-        <li>The Eidolon Maximum may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card whenever it uses its <sc>Sustain Damage</sc> ability, including if it does so during a ground combat.<sup>*</sup>
+        <li>The Eidolon Maximum may be destroyed by a <i>Direct Hit</i> action card whenever it uses its <sc>Sustain Damage</sc> ability, including if it does so during a ground combat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -218,7 +218,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Additional Eidolon Maximums may be placed while the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Articles%20of%20War"><i>Articles of War</i></a> law is in play.<sup>6</sup>
+    <li>Additional Eidolon Maximums may be placed while the <i>Articles of War</i> law is in play.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can additional Eidelons Maximums be placed when the Articles of War law is in play? A: Yes&rdquo;</li>
         </ul></li>

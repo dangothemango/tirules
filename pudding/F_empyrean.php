@@ -58,7 +58,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 92.3a: &ldquo;A player cannot have more commodities than the commodity value printed on their faction sheet.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;A player cannot&rdquo; have more commodities than the value on their faction sheet.</li>
         </ul></li>
-    <li>If the Empyrean player plays a player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, this will count for that player giving the Empyrean player all their commodities.<sup>*</sup>
+    <li>If the Empyrean player plays a player&rsquo;s <i>Trade Agreement</i> promissory note, this will count for that player giving the Empyrean player all their commodities.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -119,7 +119,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A player may play a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card during the same timing window as this ability. If they do so, the ship is destroyed.<sup>2</sup>
+    <li>A player may play a <i>Direct Hit</i> action card during the same timing window as this ability. If they do so, the ship is destroyed.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Direct Hit destroy a mech that uses Sustain Damage?&rdquo;: &ldquo;A ship repaired by the Empyrean flagship after sustaining can still be Direct Hit, since it did use Sustain Damage.&rdquo;</li>
         </ul></li>
@@ -136,7 +136,7 @@
 
 <h2 id="acamar"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Acamar">Acamar</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
+    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.&rdquo;</li>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus, on Thunder&rsquo;s Edge: &ldquo;so long as it contains no other planets it meets the requirements.&rdquo;</li>
@@ -173,7 +173,7 @@
 
 <h2 id="conservator-procyon"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Conservator%20Procyon">Conservator Procyon</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Multiverse%20Shift">Multiverse Shift</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>A system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
+    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.&rdquo;</li>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus, on Thunder&rsquo;s Edge: &ldquo;so long as it contains no other planets it meets the requirements.&rdquo;</li>
@@ -187,7 +187,7 @@
 
 <h2 id="watcher"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Mech:~:text=Watcher">Watcher</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>This effect may cancel a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup>
+    <li>This effect may cancel a <i>Sabotage</i> action card.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Sabotage cancel another Sabotage or a promissory note?&rdquo;: &ldquo;Other cancel effects that lack that restriction can still cancel a Sabotage.&rdquo;</li>
         </ul></li>
@@ -235,7 +235,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If my component action card is cancelled by Sabotage &hellip;?&rdquo;: &ldquo;a cancelled card counts as not played, so you still take an action (or pass, if allowed).&rdquo;</li>
         </ul></li>
-    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup>
+    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <i>Fleet Logistics</i> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If my component action card is cancelled by Sabotage, have I used my action for the turn?&rdquo;: &ldquo;If it was the optional extra action from Fleet Logistics, you can just end your turn.&rdquo;</li>
         </ul></li></ol>

@@ -3,16 +3,16 @@
 <article>
 <h2 id="quantum-entanglement"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement">Quantum Entanglement</a></h2>
     <ol class="note">
-    <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law does not affect the Creuss player.<sup>2</sup></li>
+    <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the Creuss player.<sup>2</sup></li>
     <li>If the Creuss player has units or controls planets in a system with an alpha wormhole, and another player has units or controls planets in a system with a beta wormhole, or vice versa, then the Creuss player and that player are neighbors.<sup>1,2</sup></li>
     <ol><li>The <a href="/F_mentak">Mentak</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability against the Creuss player in this manner.<sup>1</sup></li></ol>
-    <li>If Mecatol Rex contains an alpha wormhole, then the &ldquo;For&rdquo; effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda will not affect the Creuss player&rsquo;s units in a system with a beta wormhole (and no alpha wormhole), and vice versa.<sup>1,5</sup></li>
-    <li>Other players cannot use <sc>Quantum Entanglement</sc> to produce hits from a unit with the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability against the Creuss player&rsquo;s units.<sup>2</sup></li>
+    <li>If Mecatol Rex contains an alpha wormhole, then the &ldquo;For&rdquo; effect of the <i>Ixthian Artifact</i> agenda will not affect the Creuss player&rsquo;s units in a system with a beta wormhole (and no alpha wormhole), and vice versa.<sup>1,5</sup></li>
+    <li>Other players cannot use <sc>Quantum Entanglement</sc> to produce hits from a unit with the <sc>Deep Space Cannon</sc> ability against the Creuss player&rsquo;s units.<sup>2</sup></li>
     </ol>
 
 <h2 id="slipstream"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream">Slipstream</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law has no effect on <sc>Slipstream</sc>.<sup>2,5</sup></li>
+    <li>The <i>Enforced Travel Ban</i> law has no effect on <sc>Slipstream</sc>.<sup>2,5</sup></li>
     <li><sc>Slipstream</sc> does not apply to the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a> or to the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>, or to gamma wormholes.<sup>*</sup></li>
     </ol>
 
@@ -37,9 +37,9 @@
     <li>Any wormhole may trigger <i>Dimensional Splicer</i>, including the one produced by the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>.<sup>2</sup></li>
     <li>One hit will be produced even if the system contains multiple wormholes.<sup>*</sup></li>
     <li>The Creuss player chooses which ship the hit is assigned to.<sup>2</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2</sup></li>
+    <li>The <i>Shields Holding</i> action card may be used to cancel the hit.<sup>1,2</sup></li>
     <li>The chosen ship may cancel the hit by using its <sc>Sustain Damage</sc> ability, if present. A different ship with the <sc>Sustain Damage</sc> ability cannot do so.<sup>2</sup></li>
-    <li>If the chosen ship cancels the hit by using its <sc>Sustain Damage</sc> ability, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be used.<sup>1,2,5</sup></li>
+    <li>If the chosen ship cancels the hit by using its <sc>Sustain Damage</sc> ability, the <i>Direct Hit</i> action card may be used.<sup>1,2,5</sup></li>
     </ol>
 
 <h2 id="wormhole-generator" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
@@ -67,13 +67,13 @@
     <li>If the <i>Hil Colish</i> moves last, then it may move itself into (or through, if its move value is increased) the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a> or Creuss home system. Before it does so, the Creuss player&rsquo;s other ships may move through the wormhole created by the <i>Hil Colish</i>.<sup>2</sup></li>
     <ol><li>The delta wormhole moves with the <i>Hil Colish</i>.<sup>2</sup></li></ol>
     <li>If the <i>Hil Colish</i> moves before or after other ships, it does not generate a second <b>Space Cannon Offense</b> step.<sup>*</sup></li>
-    <li>If another player uses the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology to move through a system that contains the Creuss player&rsquo;s ships, that player may move through the delta wormhole in the <i>Hil Colish</i>&rsquo;s system.<sup>1,2</sup></li>
+    <li>If another player uses the <i>Light/Wave Deflector</i> technology to move through a system that contains the Creuss player&rsquo;s ships, that player may move through the delta wormhole in the <i>Hil Colish</i>&rsquo;s system.<sup>1,2</sup></li>
     <li>During space combat involving the <i>Hil Colish</i>, either player may retreat to another system containing a delta wormhole, if that system meets the other requirements for retreating.<sup>*</sup></li>
     <ol><li>If the <i>Hil Colish</i> is destroyed between the <b>Announce Retreats</b> step and the <b>Retreat</b> step, then the retreating player must retreat to a different eligible system. If no such system exists, then their retreat is canceled.<sup>*</sup></li></ol>
     <li>When the <i>Hil Colish</i> retreats, it may retreat before or after the Creuss player&rsquo;s other ships, but cannot retreat in such a way that would prevent the other ships from retreating to the same system.<sup>*</sup></li>
     <li>If the <i>Hil Colish</i> is returned to the reinforcements by a gravity rift, its delta wormhole ceases to exist; other ships cannot use it to reach the active system.<sup>1,2</sup></li>
     <li>The <i>Hil Colish</i> is not a wormhole token. If it is in an entropic scar, its delta wormhole is unaffected by that entropic scar.<sup>6</sup></li>
-    <li>The delta wormhole of the <i>Hil Colish</i> creates adjacency for the range of <sc>Space Cannon</sc> abilities, such as <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a>.<sup>*</sup></li>
+    <li>The delta wormhole of the <i>Hil Colish</i> creates adjacency for the range of <sc>Space Cannon</sc> abilities, such as <sc>Deep Space Cannon</sc>.<sup>*</sup></li>
     </ol>
 
 <h2 id="emissary-taivra"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a> <sub>(Agent)</sub></h2>
@@ -81,7 +81,7 @@
     <li>The Creuss player may use this ability to access the inactive wormhole nexus without a gamma wormhole. Moving ships into the wormhole nexus this way will cause it to flip.<sup>2</sup></li>
     <li>A delta wormhole in the system (such as from the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>) does not prevent this ability from being usable.<sup>8</sup></li>
     <li>If this ability is used, the active system will be adjacent to systems with delta and epsilon wormholes.<sup>8,9</sup></li>
-    <li>If a ship moves from the system containing the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a>, it will not flip, unless the active player may move ships through the Ion Storm wormhole and chooses to do so.<sup>2</sup></li>
+    <li>If a ship moves from the system containing the Ion Storm, it will not flip, unless the active player may move ships through the Ion Storm wormhole and chooses to do so.<sup>2</sup></li>
     <li>The system must have a non&ndash;delta wormhole in it at the moment of activation.<sup>8</sup></li>
     <ol><li>If a wormhole is placed at the start of a player&rsquo;s turn in the system using the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF">Creuss IFF</a>, then Emissary Taivra may be used for the activation immediately following.<sup>*</sup></li></ol>
     </ol>
@@ -119,7 +119,7 @@
     <ol class="note">
     <li>Each wormhole in the system provides the <sc>Production</sc> value and discount, even those of the same type.<sup>6</sup></li>
     <li>If the Creuss player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> into a system, the Creuss player may use the <sc>Production</sc> ability of the associated delta wormhole during the production step of the same tactical action.<sup>*</sup></li>
-    <li><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> applies when producing with a wormhole, as each wormhole has <sc>Production</sc> &ldquo;as if it were a unit you control&rdquo;.<sup>*</sup></li>
+    <li><i>Sarween Tools</i> applies when producing with a wormhole, as each wormhole has <sc>Production</sc> &ldquo;as if it were a unit you control&rdquo;.<sup>*</sup></li>
     <li>Ground forces produced this way may be placed in the space area or on any planet the Creuss player controls in that system.<sup>*</sup></li>
     </ol>
 </article>

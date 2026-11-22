@@ -32,7 +32,7 @@
 
 <h2 id="quash"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash">Quash</a></h2>
     <ol class="note">
-    <li><sc>Quash</sc>, <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a>, the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card are all played in the same timing window, before the rider timing window.<sup>2</sup>
+    <li><sc>Quash</sc>, <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a>, the <i>Political Secret</i> promissory note, and the <i>Veto</i> action card are all played in the same timing window, before the rider timing window.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do &lsquo;when an agenda is revealed&rsquo; effects like Veto and Quash come before Riders?&rdquo;: &ldquo;Yes &mdash; &lsquo;when&rsquo; effects (Quash, Veto, Political Favor, Political Secret) resolve first, then &lsquo;after&rsquo; effects (Riders &hellip;).&rdquo;</li>
         </ul></li>
@@ -46,7 +46,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Xxcha Quash more than once, including the replacement agenda?&rdquo;: &ldquo;Yes &mdash; Quash can be used on any newly revealed agenda as long as Xxcha pays a strategy token each time.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Yes, the other Agenda can be Quashed.&rdquo;</li>
         </ul></li>
-    <li><sc>Quash</sc> may be used on a law elected by <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> when that law is treated as revealed for the revote.<sup>2,5</sup>
+    <li><sc>Quash</sc> may be used on a law elected by <i>Miscount Disclosed</i> when that law is treated as revealed for the revote.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the revote from Miscount Disclosed work?&rdquo;: &ldquo;Then vote on that law as if it had just been revealed, so Veto, Quash and a fresh round of riders can be played on it.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Jun 19, 2018): &ldquo;If &lsquo;Miscount Disclosed&rsquo; causes a law to come up to be voted on again: Can Xxcha &lsquo;Quash&rsquo; it (or someone &lsquo;Veto&rsquo;) it? &hellip; Dane: &hellip; Yes to both questions regarding Miscount disclosed&rdquo;</li>
@@ -63,7 +63,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the Xxcha promissory note &lsquo;Political Favor&rsquo; should read as follows: &lsquo;When an agenda is revealed: Remove 1 token from the Xxcha player&rsquo;s strategy pool and return it to their reinforcements. Then, discard the revealed agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.&rsquo;&rdquo;</li>
         </ul></li>
-    <li><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a>, <i>Political Favor</i>, the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card are all played in the same timing window, before the rider timing window.<sup>2</sup>
+    <li><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a>, <i>Political Favor</i>, the <i>Political Secret</i> promissory note, and the <i>Veto</i> action card are all played in the same timing window, before the rider timing window.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;&rsquo;when&rsquo; effects (Quash, Veto, Political Favor, Political Secret) resolve first.&rdquo;</li>
         </ul></li>
@@ -76,7 +76,7 @@
 
 <h2 id="instinct-training"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Technologies:~:text=Instinct%20Training">Instinct Training</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li><i>Instinct Training</i> may cancel a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card.<sup>2</sup>
+    <li><i>Instinct Training</i> may cancel a <i>Sabotage</i> action card.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Xxcha&rsquo;s Instinct Training cancel any action card, even outside their own combats?&rdquo;: &ldquo;it cancels any other player&rsquo;s action card, Sabotage included.&rdquo;</li>
         </ul></li>
@@ -121,7 +121,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;If my component action card is cancelled by Sabotage &hellip;?&rdquo;: &ldquo;a cancelled card counts as not played, so you still take an action (or pass, if allowed).&rdquo;</li>
         </ul></li>
-    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup>
+    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <i>Fleet Logistics</i> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> Same entry: &ldquo;If it was the optional extra action from Fleet Logistics, you can just end your turn.&rdquo;</li>
         </ul></li></ol>
@@ -182,12 +182,12 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What does the Xxcha commander allow, and does it beat Political Secret or a rider?&rdquo;: &ldquo;Xxcha can vote despite a rider or Political Secret.&rdquo;</li>
         </ul></li>
-    <li>The Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note will not prevent them from voting.<sup>2,14</sup>
+    <li>The Xxcha player&rsquo;s <i>Political Secret</i> promissory note will not prevent them from voting.<sup>2,14</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What does the Xxcha commander allow, and does it beat Political Secret or a rider?&rdquo;: &ldquo;Xxcha can vote despite a rider or Political Secret.&rdquo;</li>
         <li><b>Implicit</b>: <sup>14</sup> Codex II, Xxcha alliance: &ldquo;Each planet you exhaust to cast votes provides 1 additional vote.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_nekro">Nekro</a> player has the Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the Nekro player may vote.<sup>2,14</sup>
+    <li>If the <a href="/F_nekro">Nekro</a> player has the Xxcha player&rsquo;s <i>Alliance</i> promissory note, the Nekro player may vote.<sup>2,14</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What does the Xxcha commander allow, and does it beat Political Secret or a rider?&rdquo;: &ldquo;Through the Xxcha alliance even the Nekro can vote.&rdquo;</li>
         <li><b>Implicit</b>: <sup>14</sup> Codex II, Xxcha Alliance: &ldquo;Game effects cannot prevent you from voting on an agenda.&rdquo; Xxcha Alliance card text.</li>
@@ -200,15 +200,15 @@
         <ul>
         <li><b>Explicit</b>: <sup>12</sup> Codex III p. 13, &ldquo;The Omega Initiative&rdquo;: &ldquo;These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Xxekir Grom (Political Data Nexus)&rdquo;.</li>
         </ul></li>
-    <li>If the Xxcha player draws the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda, they will only draw a hidden agenda if they choose to reveal it. If the Xxcha player is not the speaker, the speaker will view the hidden agenda.<sup>4</sup>
+    <li>If the Xxcha player draws the <i>Covert Legislation</i> agenda, they will only draw a hidden agenda if they choose to reveal it. If the Xxcha player is not the speaker, the speaker will view the hidden agenda.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Xxcha would only get to see the agenda tied to Covert Legislation if it was one of the 2 agendas selected to resolve and they are the speaker, otherwise the speaker would see the agenda.&rdquo;</li>
         </ul></li>
-    <li>If the Xxcha player draws, reveals and resolves the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> agenda, they cast one vote for an outcome of the elected law, and resolve it.<sup>*</sup>
+    <li>If the Xxcha player draws, reveals and resolves the <i>Miscount Disclosed</i> agenda, they cast one vote for an outcome of the elected law, and resolve it.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Xxcha player draws, reveals and resolves the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Public%20Execution"><i>Public Execution</i></a> agenda, the elected player may still vote in the agenda phase following the current action phase.<sup>2</sup>
+    <li>If the Xxcha player draws, reveals and resolves the <i>Public Execution</i> agenda, the elected player may still vote in the agenda phase following the current action phase.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;After the Xxcha hero resolves agendas in the action phase &hellip;?&rdquo;: &ldquo;A player elected for Public Execution can still vote in the next agenda phase.&rdquo;</li>
         </ul></li>
@@ -245,19 +245,19 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;After the Xxcha hero resolves agendas in the action phase &hellip;?&rdquo;: &ldquo;Transactions during the hero&rsquo;s action still need neighbors, since it isn&rsquo;t the agenda phase.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government"><i>Representative Government</i></a> law is in play, it will have no effect on the Xxcha player as they resolve <i>Political Data Nexus</i>.<sup>*</sup>
+    <li>If the <i>Representative Government</i> law is in play, it will have no effect on the Xxcha player as they resolve <i>Political Data Nexus</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a third law is put into play, the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Dictate%20Policy"><i>Dictate Policy</i></a> objective cannot be scored until the agenda phase.<sup>2</sup>
+    <li>If a third law is put into play, the <i>Dictate Policy</i> objective cannot be scored until the agenda phase.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;After the Xxcha hero resolves agendas in the action phase, do exhausted planets stay exhausted, and does Public Execution carry over?&rdquo;: &ldquo;Agenda-phase secret objectives such as Drive the Debate can&rsquo;t be scored from it, since it isn&rsquo;t the agenda phase.&rdquo; Dictate Policy is an agenda-phase secret objective.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> objective cannot be scored while resolving <i>Political Data Nexus</i>.<sup>2</sup>
+    <li>The <i>Drive the Debate</i> objective cannot be scored while resolving <i>Political Data Nexus</i>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;After the Xxcha hero resolves agendas in the action phase &hellip;?&rdquo;: &ldquo;Agenda-phase secret objectives such as Drive the Debate can&rsquo;t be scored from it, since it isn&rsquo;t the agenda phase.&rdquo;</li>
         </ul></li>
-    <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Checks%20and%20Balances"><i>Checks and Balances</i></a> agenda that occurs &ldquo;at the end of this agenda phase&rdquo; is ignored.<sup>4</sup>
+    <li>The effect of the <i>Checks and Balances</i> agenda that occurs &ldquo;at the end of this agenda phase&rdquo; is ignored.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Checks and balances against reads &lsquo;Each player readies only 3 of their planets at the end of this agenda phase.&rsquo; Does this trigger at the end of Xxchas hero? &hellip; A: This effect does not trigger if it happens during the Xxcha Hero.&rdquo;</li>
         </ul></li>
@@ -291,7 +291,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a planet&rsquo;s resources and influence both be spent, or spent twice?&rdquo;: &ldquo;No &mdash; exhausting a planet spends either its resources or its influence, never both.&rdquo;</li>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;When using an ability that references &lsquo;resource value&rsquo;, the printed resource value of the planet is used.&rdquo;</li>
         </ul></li>
-    <ol><li>If the Xxcha player owns a planet with three influence and three resources, they cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Amass%20Wealth"><i>Amass Wealth</i></a> objective by exhausting just it and spending three trade goods.<sup>*</sup>
+    <ol><li>If the Xxcha player owns a planet with three influence and three resources, they cannot score the <i>Amass Wealth</i> objective by exhausting just it and spending three trade goods.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -309,7 +309,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li><i>Political Data Nexus &Omega;</i> does not apply when scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony"><i>Establish Hegemony</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials"><i>Hoard Raw Materials</i></a> objectives.<sup>*</sup>
+        <li><i>Political Data Nexus &Omega;</i> does not apply when scoring the <i>Establish Hegemony</i> or <i>Hoard Raw Materials</i> objectives.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -355,7 +355,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a planet&rsquo;s resources and influence both be spent, or spent twice?&rdquo;: &ldquo;No &mdash; exhausting a planet spends either its resources or its influence, never both.&rdquo;</li>
         </ul></li>
-        <li>For example, if the Xxcha player wishes to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Amass%20Wealth"><i>Amass Wealth</i></a> objective, each planet they exhaust will contribute to either the resource requirement or the influence requirement, but cannot partially contribute to both.<sup>2</sup>
+        <li>For example, if the Xxcha player wishes to score the <i>Amass Wealth</i> objective, each planet they exhaust will contribute to either the resource requirement or the influence requirement, but cannot partially contribute to both.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a planet&rsquo;s resources and influence both be spent, or spent twice?&rdquo;: &ldquo;No &mdash; exhausting a planet spends either its resources or its influence, never both.&rdquo;</li>
         </ul></li>
@@ -369,7 +369,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The influence value of a planet will not increase the number of units the Xxcha player may produce when using the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology.<sup>*</sup>
+        <li>The influence value of a planet will not increase the number of units the Xxcha player may produce when using the <i>Integrated Economy</i> technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -377,11 +377,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li><i>Archon&rsquo;s Gift</i> does not apply when scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony"><i>Establish Hegemony</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials"><i>Hoard Raw Materials</i></a> objectives.<sup>*</sup>
+        <li><i>Archon&rsquo;s Gift</i> does not apply when scoring the <i>Establish Hegemony</i> or <i>Hoard Raw Materials</i> objectives.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The Xxcha player cannot use the influence value of a planet when they gain trade goods with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Mining%20Initiative"><i>Mining Initiative</i></a> action card. Other players cannot use the influence value when they gain trade goods from the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a> action card if they choose to exhaust one of the Xxcha player&rsquo;s planets.<sup>*</sup>
+        <li>The Xxcha player cannot use the influence value of a planet when they gain trade goods with the <i>Mining Initiative</i> action card. Other players cannot use the influence value when they gain trade goods from the <i>Uprising</i> action card if they choose to exhaust one of the Xxcha player&rsquo;s planets.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

@@ -5,9 +5,9 @@
     <ol class="note">
     <li>Game effects that reroll, modify, or otherwise affect combat rolls do not affect dice rolls made when resolving the <sc>Ambush</sc> ability.<sup>2</sup></li>
     <li>If a cruiser or destroyer is removed before the Mentak player can resolve their <sc>Ambush</sc> ability, that ship cannot be one of the ships used when they do resolve their <sc>Ambush</sc> ability.<sup>2</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2</sup></li>
+    <li>The <i>Shields Holding</i> action card may be used to cancel the hit.<sup>1,2</sup></li>
     <li>A ship may cancel the hit by using its <sc>Sustain Damage</sc> ability, if present.<sup>1</sup></li>
-    <ol><li>If the chosen ship does so, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be played.<sup>1</sup></li></ol>
+    <ol><li>If the chosen ship does so, the <i>Direct Hit</i> action card may be played.<sup>1</sup></li></ol>
     <li>Ships that roll dice for <sc>Ambush</sc> still make combat rolls as normal, starting in the first round of combat.<sup>2</sup></li>
     </ol>
 
@@ -21,7 +21,7 @@
     <li>If the Mentak player resolves a transaction with another player, they may then use their <sc>Pillage</sc> ability against that player.<sup>2</sup></li>
     <ol><li>The Mentak player does not decide to use their <sc>Pillage</sc> ability until after the transaction has been resolved. Any deal made to not use their <sc>Pillage</sc> ability before the transaction has been resolved is non&ndash;binding.<sup>*</sup></li></ol>
     <li>Effects that force players to give objects to other players are not transactions.<sup>*</sup></li>
-    <ol><li>If Alice plays Bob&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, then the Mentak player may use <sc>Pillage</sc> on Alice, but not Bob.<sup>*</sup></li></ol>
+    <ol><li>If Alice plays Bob&rsquo;s <i>Trade Agreement</i> promissory note, then the Mentak player may use <sc>Pillage</sc> on Alice, but not Bob.<sup>*</sup></li></ol>
     <li>If a player would gain multiple trade goods one at a time, the Mentak player can use their <sc>Pillage</sc> ability for each trade good.<sup>2,5</sup></li>
     <li>The Mentak player may use their <sc>Pillage</sc> ability each time the <a href="/F_saar">Saar</a> player gains a trade good from their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability during a single turn, if all of the conditions of <sc>Pillage</sc> are met.<sup>1</sup></li>
     <li>If a game effect instructs a player to convert their commodities to trade goods, that player does not gain any trade goods from that effect. The Mentak player cannot use their <sc>Pillage</sc> ability for those trade goods.<sup>4</sup></li>
@@ -39,7 +39,7 @@
 
 <h2 id="mirror-computing"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Mirror%20Computing">Mirror Computing</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>If an effect specifically requires that trade goods are spent (for example, the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Negotiate%20Trade%20Routes"><i>Negotiate Trade Routes</i></a> objective), <i>Mirror Computing</i> does not increase the value of those trade goods.<sup>2</sup></li>
+    <li>If an effect specifically requires that trade goods are spent (for example, the <i>Negotiate Trade Routes</i> objective), <i>Mirror Computing</i> does not increase the value of those trade goods.<sup>2</sup></li>
     </ol>
 
 <h2 id="salvage-operations"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations">Salvage Operations</a> <sub>(Technology)</sub></h2>
@@ -79,9 +79,9 @@
     <li>If all of the Mentak player&rsquo;s ships are destroyed, they may still place ships with this ability. If they do, combat will continue.<sup>2,4</sup></li>
     <li>No costs are paid for the placed units.<sup>*</sup></li>
     <li>Both players will choose and destroy one of their own ships in the active system for each hit their opponent produced during each round of combat, before the Mentak player places their ships for the <i>Sleeper Cell</i> ability.<sup>4</sup></li>
-    <ol><li>When players would use their ships&rsquo; <sc>Sustain Damage</sc> abilities, they do so in alternating order, starting with the attacker. If the Mentak player uses a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy one of their opponent&rsquo;s ships, they must then make the choice immediately if they will replace it using the <i>Sleeper Cell</i> ability, before any other ships may use their <sc>Sustain Damage</sc> ability. Should the Mentak version of the newly placed ship type have a <sc>Sustain Damage</sc> ability, it may then use it during the same combat round.<sup>*</sup></li></ol>
+    <ol><li>When players would use their ships&rsquo; <sc>Sustain Damage</sc> abilities, they do so in alternating order, starting with the attacker. If the Mentak player uses a <i>Direct Hit</i> action card to destroy one of their opponent&rsquo;s ships, they must then make the choice immediately if they will replace it using the <i>Sleeper Cell</i> ability, before any other ships may use their <sc>Sustain Damage</sc> ability. Should the Mentak version of the newly placed ship type have a <sc>Sustain Damage</sc> ability, it may then use it during the same combat round.<sup>*</sup></li></ol>
     <li>If the Mentak player wishes to place a unit with this ability, but there are none of that type left in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that instead. This unit will be placed undamaged.<sup>1,4</sup></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is destroyed during combat, but the Mentak player then destroys their opponent&rsquo;s flagship and places the <i>Fourth Moon</i> back into the combat, they cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective.<sup>4</sup></li>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is destroyed during combat, but the Mentak player then destroys their opponent&rsquo;s flagship and places the <i>Fourth Moon</i> back into the combat, they cannot score the <i>Unveil Flagship</i> objective.<sup>4</sup></li>
     <ol><li>If the Mentak player starts the combat without the <i>Fourth Moon</i>, and places it during the combat, they may score the <i>Unveil Flagship</i> objective if the <i>Fourth Moon</i> is not destroyed.<sup>*</sup></li></ol>
     <li>If a destroyed unit is a ground force or structure, that the other player is treating as a ship due to some effect, the Mentak player cannot place that unit.<sup>*</sup></li>
     <li>The Mentak player cannot place a war sun unless they have their war sun technology.<sup>4</sup></li>

@@ -20,7 +20,7 @@
         <li>The Creuss player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> technology to place or move one of their wormhole tokens into an entropic scar; that token is discarded.<sup>6</sup></li>
         <li>The delta wormhole of the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> is not affected by an entropic scar, as the <i>Hil Colish</i> is a ship, not a wormhole token.<sup>6</sup></li>
         <li>If an exploration card would place a gamma wormhole token in an entropic scar, the card is still purged as part of its resolution, and the token is discarded.<sup>6</sup></li>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm"><i>Ion Storm</i></a> exploration card would place its token in an entropic scar, the card is still placed in the common play area, and the token is discarded.<sup>6</sup></li>
+        <li>If the <i>Ion Storm</i> exploration card would place its token in an entropic scar, the card is still placed in the common play area, and the token is discarded.<sup>6</sup></li>
     </ol>
     <li>At the start of the status phase, a player with ships in an entropic scar may spend a command token from their strategy pool to gain one of their faction&ndash;specific technologies.<sup>7</sup></li>
     <ol>

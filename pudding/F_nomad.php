@@ -17,11 +17,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the Nomad player predicts an outcome and votes for another outcome (via the <a href="/F_xxcha">Xxcha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note), and one of those outcomes is resolved, they will gain the trade good.<sup>*</sup>
+    <ol><li>If the Nomad player predicts an outcome and votes for another outcome (via the <a href="/F_xxcha">Xxcha</a> player&rsquo;s <i>Alliance</i> promissory note), and one of those outcomes is resolved, they will gain the trade good.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card is played, the Nomad will not gain a trade good from <sc>Future Sight</sc>.<sup>4</sup>
+    <li>If the <i>Deadly Plot</i> action card is played, the Nomad will not gain a trade good from <sc>Future Sight</sc>.<sup>4</sup>
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;What is the interaction between Deadly Plot and prediction abilities, given that Deadly Plot specifically says &lsquo;resolved with no effect&rsquo;. A: &lsquo;Resolved with no effect&rsquo; is not an outcome that could have been predicted, so no prediction abilities can trigger.&rdquo;</li>
         </ul></li>
@@ -46,11 +46,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>In a future combat, the damaged ship may be repaired by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> technology. It will be unable to be damaged again unless it has regained the <sc>Sustain Damage</sc> ability.<sup>*</sup>
+        <li>In a future combat, the damaged ship may be repaired by the <i>Duranium Armor</i> technology. It will be unable to be damaged again unless it has regained the <sc>Sustain Damage</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Emergency%20Repairs"><i>Emergency Repairs</i></a> action card is played, the damaged ship will not be repaired unless it currently has the <sc>Sustain Damage</sc> ability.<sup>*</sup>
+        <li>If the <i>Emergency Repairs</i> action card is played, the damaged ship will not be repaired unless it currently has the <sc>Sustain Damage</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -83,7 +83,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Other players cannot use the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability of units in the same system as a Quantum Manipulator against the <i>Memoria</i>, unless those units are adjacent using another adjacency method.<sup>*</sup>
+    <li>Other players cannot use the <sc>Deep Space Cannon</sc> ability of units in the same system as a Quantum Manipulator against the <i>Memoria</i>, unless those units are adjacent using another adjacency method.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -91,7 +91,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 78.7b: &ldquo;To retreat, a player takes all of their ships with a move value in the combat and moves them to a single system that is adjacent to the active system.&rdquo; The retreat destination must be a system adjacent to the active system; the Memoria&rsquo;s ability makes only the ship adjacent to mech systems, not its system.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Intimidate%20Council"><i>Intimidate Council</i></a> objective requires the system to be adjacent to Mecatol Rex. As such, the Nomad player cannot use the <i>Memoria</i>&rsquo;s ability to score this objective. A similar prohibition applies to the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Learn%20the%20Secrets%20of%20the%20Cosmos"><i>Learn the Secrets of the Cosmos</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Threaten%20Enemies"><i>Threaten Enemies</i></a> objectives.<sup>2</sup>
+    <li>The <i>Intimidate Council</i> objective requires the system to be adjacent to Mecatol Rex. As such, the Nomad player cannot use the <i>Memoria</i>&rsquo;s ability to score this objective. A similar prohibition applies to the <i>Learn the Secrets of the Cosmos</i> and <i>Threaten Enemies</i> objectives.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships in Mecatol Rex&rsquo;s system, or in an anomaly, count as adjacent to it for objectives?&rdquo;: &ldquo;Intimidate Council needs ships in two different systems next to Mecatol Rex.&rdquo; The objective needs the systems to be adjacent, not the ships; the Memoria&rsquo;s ability makes only the ship adjacent to mech systems.</li>
         </ul></li>
@@ -107,7 +107,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>For example, if the Nomad player successfully predicts the outcome of an agenda via the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Trade%20Rider"><i>Trade Rider</i></a> action card, they could put either the trade goods gained from the <i>Trade Rider</i>, or from <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=Future%20Sight"><sc>Future Sight</sc></a>, but not both.<sup>*</sup>
+    <ol><li>For example, if the Nomad player successfully predicts the outcome of an agenda via the <i>Trade Rider</i> action card, they could put either the trade goods gained from the <i>Trade Rider</i>, or from <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=Future%20Sight"><sc>Future Sight</sc></a>, but not both.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -159,7 +159,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>This includes the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Fighter%20Prototype"><i>Fighter Prototype</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Morale%20Boost"><i>Morale Boost</i></a> action cards, the <a href="/F_letnev">Letnev</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Abilities:~:text=Munitions%20Reserves"><sc>Munitions Reserves</sc></a> faction ability, the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Technologies:~:text=Supercharge"><i>Supercharge</i></a> faction technology, the Letnev <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding"><i>War Funding</i></a> promissory note, the Letnev agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a>, and the <a href="/F_sol">Sol</a> agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Evelyn%20DeLouis">Evelyn DeLouis</a>.<sup>*</sup>
+    <ol><li>This includes the <i>Magen Defense Grid</i> technology, the <i>Fighter Prototype</i> and <i>Morale Boost</i> action cards, the <a href="/F_letnev">Letnev</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Abilities:~:text=Munitions%20Reserves"><sc>Munitions Reserves</sc></a> faction ability, the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Technologies:~:text=Supercharge"><i>Supercharge</i></a> faction technology, the Letnev <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding"><i>War Funding</i></a> promissory note, the Letnev agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a>, and the <a href="/F_sol">Sol</a> agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Evelyn%20DeLouis">Evelyn DeLouis</a>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -167,7 +167,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>This includes the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> or <i>Magen Defense Grid</i> technologies, the <i>Fighter Prototype</i> or <i>Morale Boost</i> action cards, the <a href="/F_lizix">L1Z1X</a> <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> or the Letnev <sc>Munitions Reserves</sc> faction abilities, the Naaz&ndash;Rokha <i>Supercharge</i> faction technology, the Letnev <i>War Funding</i> promissory note, the Letnev flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Flagship:~:text=Arc%20Secundus"><i>Arc Secundus</i></a>, the Letnev mech, a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper"><i>Dunlain Reaper</i></a>, the <a href="/F_norr">N&rsquo;orr</a> <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a> dreadnought ability, the <a href="/F_keleres">Keleres</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Overwing%20Zeta"><i>Overwing Zeta</i></a> hero ability, the Letnev agent, Viscount Unlenn, or the Sol agent, Evelyn DeLouis.<sup>*</sup>
+    <ol><li>This includes the ability of the <i>Duranium Armor</i> or <i>Magen Defense Grid</i> technologies, the <i>Fighter Prototype</i> or <i>Morale Boost</i> action cards, the <a href="/F_lizix">L1Z1X</a> <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> or the Letnev <sc>Munitions Reserves</sc> faction abilities, the Naaz&ndash;Rokha <i>Supercharge</i> faction technology, the Letnev <i>War Funding</i> promissory note, the Letnev flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Flagship:~:text=Arc%20Secundus"><i>Arc Secundus</i></a>, the Letnev mech, a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper"><i>Dunlain Reaper</i></a>, the <a href="/F_norr">N&rsquo;orr</a> <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a> dreadnought ability, the <a href="/F_keleres">Keleres</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Overwing%20Zeta"><i>Overwing Zeta</i></a> hero ability, the Letnev agent, Viscount Unlenn, or the Sol agent, Evelyn DeLouis.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -180,11 +180,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If The Thundarian is used after a player has used the ability of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> relic, any units that did not produce hits and so were destroyed remain destroyed, but the +1 to combat rolls will not be applied for the subsequent dice rolls. That player may use the ability of <i>The Crown of Thalnos</i> on the subsequent dice roll.<sup>*</sup>
+        <li>If The Thundarian is used after a player has used the ability of <i>The Crown of Thalnos</i> relic, any units that did not produce hits and so were destroyed remain destroyed, but the +1 to combat rolls will not be applied for the subsequent dice rolls. That player may use the ability of <i>The Crown of Thalnos</i> on the subsequent dice roll.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If The Thundarian is used after a player has played the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Fire%20Team"><i>Fire Team</i></a> action card, it will be discarded without effect on the subsequent roll.<sup>*</sup>
+        <li>If The Thundarian is used after a player has played the <i>Fire Team</i> action card, it will be discarded without effect on the subsequent roll.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -210,16 +210,16 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>The flagship cannot be produced with abilities that are limited by the cost of units, such as the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology or the <a href="/F_muaat">Muaat</a> player&rsquo;s agent, Umbat.<sup>*</sup>
+        <li>The flagship cannot be produced with abilities that are limited by the cost of units, such as the <i>Integrated Economy</i> technology or the <a href="/F_muaat">Muaat</a> player&rsquo;s agent, Umbat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If the flagship is chosen for the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Scuttle"><i>Scuttle</i></a> action card, the player gains 8 trade goods.<sup>*</sup>
+        <li>If the flagship is chosen for the <i>Scuttle</i> action card, the player gains 8 trade goods.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>The objective elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda is a public objective, not a secret objective. Navarch Feng cannot be unlocked by scoring it.<sup>*</sup>
+    <li>The objective elected by the <i>Classified Document Leaks</i> agenda is a public objective, not a secret objective. Navarch Feng cannot be unlocked by scoring it.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -264,7 +264,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>When a Quantum Manipulator uses its <sc>Sustain Damage</sc> ability to cancel a hit produced against a ship, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action cards cannot be played, as the Quantum Manipulator is not a ship.<sup>*</sup>
+    <li>When a Quantum Manipulator uses its <sc>Sustain Damage</sc> ability to cancel a hit produced against a ship, the <i>Direct Hit</i> and <i>Reflective Shielding</i> action cards cannot be played, as the Quantum Manipulator is not a ship.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -272,7 +272,7 @@
         <ul>
         <li><b>Unverified</b>: No numbered source. RulesPal, &ldquo;Can Nomad mechs cancel hits with Quantum Manipulator when the Mentak flagship is present?&rdquo; (graded Best reading, unconfirmed; not used): &ldquo;Yes &mdash; the Mentak flagship stops other players&rsquo; ships using Sustain Damage, and a mech isn&rsquo;t a ship.&rdquo;</li>
         </ul></li></ol>
-    <li>During a space combat, a Quantum Manipulator cannot be repaired by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> technology, as it is not participating in the combat.<sup>4</sup>
+    <li>During a space combat, a Quantum Manipulator cannot be repaired by the <i>Duranium Armor</i> technology, as it is not participating in the combat.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does the Duranium Armor technology allow you to repair Nomad Mechs that have used their ability to cancel a hit during space combat? A: No, Duranium Armor only affects units participating (rolling dice) in a combat.&rdquo;</li>
         </ul></li>

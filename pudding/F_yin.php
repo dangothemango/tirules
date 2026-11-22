@@ -51,12 +51,12 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Only that ship can use its own Sustain Damage to cancel it; you can&rsquo;t move the hit elsewhere.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2</sup>
+    <li>The <i>Shields Holding</i> action card may be used to cancel the hit.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Shields Holding&rsquo; may be used to cancel hits that are produced by these abilities,&rdquo; including &ldquo;Devotion.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?&rdquo;: &ldquo;Yes to both.&rdquo;</li>
         </ul></li>
-    <li>If the targeted ship cancels the hit with its <sc>Sustain Damage</sc> ability, the Yin player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy that ship.<sup>2,5</sup>
+    <li>If the targeted ship cancels the hit with its <sc>Sustain Damage</sc> ability, the Yin player may play the <i>Direct Hit</i> action card to destroy that ship.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?&rdquo;: &ldquo;Yes to both. Direct Hit was errata&rsquo;d to cover hits produced by your units or abilities&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, May 17, 2018): &ldquo;does the Devotion ability count as that? &hellip; Dane wrote: You can use direct hit off of a Devotion use.&rdquo;</li>
@@ -136,7 +136,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?&rdquo;: &ldquo;The original gives one infantry per use of Production, however many units produced.&rdquo;</li>
         </ul></li>
-    <li><i>Yin Spinner</i> is not triggered by the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, as no unit uses its <sc>Production</sc> ability.<sup>2</sup>
+    <li><i>Yin Spinner</i> is not triggered by the <i>Integrated Economy</i> technology, as no unit uses its <sc>Production</sc> ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;it doesn&rsquo;t trigger from Integrated Economy, which uses no Production ability.&rdquo;</li>
         </ul></li>
@@ -187,11 +187,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If a ship uses its <sc>Sustain Damage</sc> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
+    <ol><li>If a ship uses its <sc>Sustain Damage</sc> ability, and is then destroyed by a <i>Direct Hit</i> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust"><i>Turn Their Fleets to Dust</i></a> secret objective before the new fighters are placed.<sup>4</sup>
+    <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <i>Turn Their Fleets to Dust</i> secret objective before the new fighters are placed.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger.&rdquo;</li>
         </ul></li>
@@ -219,15 +219,15 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If a ship uses its <sc>Sustain Damage</sc> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
+    <ol><li>If a ship uses its <sc>Sustain Damage</sc> ability, and is then destroyed by a <i>Direct Hit</i> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Turn%20Their%20Fleets%20to%20Dust"><i>Turn Their Fleets to Dust</i></a> secret objective before the new fighters are placed.<sup>4</sup>
+    <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <i>Turn Their Fleets to Dust</i> secret objective before the new fighters are placed.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If the last ship in a system is destroyed, TTFTD could be scored for destroying the last ship, then after the Yin agent would trigger.&rdquo;</li>
         </ul></li>
-    <li>If all ground forces on a planet are destroyed by hits produced from a bombardment roll, the player that produced those hits may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Make%20an%20Example%20of%20Their%20World"><i>Make an Example of Their World</i></a> secret objective before the new infantry are placed.<sup>*</sup>
+    <li>If all ground forces on a planet are destroyed by hits produced from a bombardment roll, the player that produced those hits may score the <i>Make an Example of Their World</i> secret objective before the new infantry are placed.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -259,7 +259,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If a ship uses its <sc>Sustain Damage</sc> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
+    <ol><li>If a ship uses its <sc>Sustain Damage</sc> ability, and is then destroyed by a <i>Direct Hit</i> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -279,7 +279,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>12</sup> Codex III p. 13, &ldquo;The Omega Initiative&rdquo;: &ldquo;These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Brother Omar&rdquo;.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Yin player may produce two infantry for one resource. This will count as one toward their <sc>Production</sc> limit.<sup>*</sup>
+    <li>If the <i>Regulated Conscription</i> law is in play, the Yin player may produce two infantry for one resource. This will count as one toward their <sc>Production</sc> limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -309,7 +309,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If another player has the Yin player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they cannot use it to research a faction specific unit upgrade.<sup>*</sup>
+    <ol><li>If another player has the Yin player&rsquo;s <i>Alliance</i> promissory note, they cannot use it to research a faction specific unit upgrade.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -358,7 +358,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i>.<sup>4</sup>
+    <li>The <i>Parley</i> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i>.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets.&rdquo;</li>
         </ul></li>

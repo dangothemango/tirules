@@ -18,7 +18,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies. This includes units being moved by Mahact&rsquo;s Benediction or moving ground forces with G&rsquo;hom Sek&rsquo;kus.&rdquo;</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Mirage">Mirage</a> planet can be placed in a supernova, as nothing prevents a planet from being in a supernova.<sup>2</sup>
+    <li>The Mirage planet can be placed in a supernova, as nothing prevents a planet from being in a supernova.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Mirage sit in a supernova, and can I activate a supernova, build there and leave?&rdquo;: &ldquo;Yes to all. Nothing stops a planet being in a supernova, and an exploration card can give you the Mirage there.&rdquo;</li>
         </ul></li>

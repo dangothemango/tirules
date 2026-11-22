@@ -6,7 +6,7 @@
 
 <h2 id="plots-within-plots"><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Plots%20Within%20Plots">&#x26AA; Plots Within Plots</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Specific_Components:~:text=Enervate"><i>Enervate</i></a> plot may be resolved whenever the Obsidian player resolves the secondary ability of a strategy card in the puppeted player&rsquo;s play area, including via the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize"><i>Strategize</i></a> action card.<sup>6</sup>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Specific_Components:~:text=Enervate"><i>Enervate</i></a> plot may be resolved whenever the Obsidian player resolves the secondary ability of a strategy card in the puppeted player&rsquo;s play area, including via the <i>Strategize</i> action card.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the Enervate plot card work on any secondary usage &hellip;? A: The puppeted player must have the strategy card in their play area, if you then play Strategize or otherwise resolve the secondary you may resolve Enervate.&rdquo;</li>
         </ul></li>
@@ -15,7 +15,7 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to a plot card if the player whose command token on it is eliminated? A: Remove that players token and draw it if it has no players&rsquo; tokens on it.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If there are no other player tokens on the Plot, it returns to hand.&rdquo;</li>
         </ul></li>
-    <li>If the Firmament player has their control token on a secret objective that is elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda, they do not gain a victory point, and they cannot score it again.<sup>6</sup>
+    <li>If the Firmament player has their control token on a secret objective that is elected by the <i>Classified Document Leaks</i> agenda, they do not gain a victory point, and they cannot score it again.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens if a secret objective is elected as a public objective, but the Firmament has control token on it? Do they immediately get VP? Can they score it again for VP? A: They do not gain a VP and they are unable to score it again.&rdquo;</li>
         </ul></li>
@@ -43,7 +43,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Purging the Firmament player&rsquo;s home planet cards does not allow them to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Become%20a%20Martyr"><i>Become a Martyr</i></a> objective.<sup>6</sup>
+    <li>Purging the Firmament player&rsquo;s home planet cards does not allow them to score the <i>Become a Martyr</i> objective.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, Puppets of the Blade and Become a Martyr: &ldquo;do they qualify for BecomeA Martyr? A: No.&rdquo;</li>
         </ul></li>
@@ -112,7 +112,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus, on the Vuil&rsquo;raith breakthrough: &ldquo;Can the Vuil&rsquo;raith player move an ingress token into the Fracture &hellip;? A: No, ingress tokens cannot be placed in the Fracture.&rdquo; The answer is stated generally, so it covers Planesplitter too.</li>
         </ul></li>
-    <li><i>Planesplitter</i> resolves before the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat"><i>Coup D&rsquo;etat</i></a> action card can be played and resolved.<sup>6</sup>
+    <li><i>Planesplitter</i> resolves before the <i>Coup D&rsquo;etat</i> action card can be played and resolved.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the interaction between Coup D&rsquo;etat and the Obsidian&rsquo;s Planesplitter technology? A: Planesplitter would resolve before Coup D&rsquo;etat is played and resolved.&rdquo;</li>
         </ul></li>
@@ -144,11 +144,11 @@
 
 <h2 id="captain-aroz"><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders:~:text=Captain%20Aroz">&#x26AA; Captain Aroz</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>Captain Aroz does not assist in scoring secret objectives that do not require controlling planets, such as the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Mechanize%20the%20Military"><i>Mechanize the Military</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Occupy%20the%20Fringe"><i>Occupy the Fringe</i></a> secret objectives.<sup>*</sup>
+    <li>Captain Aroz does not assist in scoring secret objectives that do not require controlling planets, such as the <i>Mechanize the Military</i> or <i>Occupy the Fringe</i> secret objectives.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The Firmament player may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Stake%20Your%20Claim"><i>Stake Your Claim</i></a> objective using Captain Aroz with ships in a single&ndash;planet system where the planet is controlled by another player.<sup>6</sup>
+    <li>The Firmament player may score the <i>Stake Your Claim</i> objective using Captain Aroz with ships in a single&ndash;planet system where the planet is controlled by another player.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can you score Stake Your Claim via commander with ships in a single planet system controlled by another player? A: Yes.&rdquo;</li>
         </ul></li>

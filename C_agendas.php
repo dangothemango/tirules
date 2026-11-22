@@ -77,7 +77,7 @@
 <h2 id="archived-secret"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Archived%20Secret">Archived Secret</a></h2>
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>1,4</sup></li>
-    <li>If a player draws the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective while resolving <i>Archived Secret</i>, they cannot score it immediately, as the timing window to score it has already passed.<sup>*</sup></li>
+    <li>If a player draws the <i>Drive the Debate</i> secret objective while resolving <i>Archived Secret</i>, they cannot score it immediately, as the timing window to score it has already passed.<sup>*</sup></li>
     </ol>
 
 <h2 id="armed-forces-standardization"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Armed%20Forces%20Standardization">Armed Forces Standardization</a></h2>
@@ -100,7 +100,7 @@
     <li>Players choose strategy cards in the normal order, but each player gives the card they choose to another player who does not yet have their full number of strategy cards. A player keeps the card they chose only if no other player can receive it.<sup>2</sup></li>
     <li>If the &ldquo;For&rdquo; outcome is resolved, a player who has been given a strategy card still chooses a strategy card on their turn and gives it to an eligible player.<sup>2</sup></li>
     <li>If the &ldquo;Against&rdquo; outcome is resolved, it applies to every player, regardless of how they voted; each player readies only three of their exhausted planets, and any planets that were not exhausted remain readied.<sup>2</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Public%20Disgrace"><i>Public Disgrace</i></a> action card may be played after a player has chosen a strategy card and announced which player will be receiving it. The player must choose a different strategy card, and then choose the same or a different player to receive it.<sup>*</sup></li>
+    <li>The <i>Public Disgrace</i> action card may be played after a player has chosen a strategy card and announced which player will be receiving it. The player must choose a different strategy card, and then choose the same or a different player to receive it.<sup>*</sup></li>
     </ol>
 
 <h2 id="clandestine-operations"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Clandestine%20Operations">Clandestine Operations</a></h2>
@@ -113,7 +113,7 @@
     <li>If <i>Classified Document Leaks</i> is revealed when only one secret objective is in play, players may only vote for that secret objective or abstain. If no votes are cast, the speaker must decide for that secret objective to be elected.<sup>*</sup></li>
     <ol><li>Players may still play riders if only one secret objective has been scored.<sup>*</sup></li></ol>
     <li>The elected objective becomes a public objective and stops being a secret objective.<sup>2,5</sup></li>
-    <ol><li>If there are no other secret objectives eligible to be elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> revote, <i>Classified Document Leaks</i> will be discarded, and another agenda will be revealed and voted on.<sup>*</sup></li></ol>
+    <ol><li>If there are no other secret objectives eligible to be elected by the <i>Miscount Disclosed</i> revote, <i>Classified Document Leaks</i> will be discarded, and another agenda will be revealed and voted on.<sup>*</sup></li></ol>
     <li>The player that originally owned the secret objective elected by <i>Classified Document Leaks</i> cannot score it again after it becomes a public objective.<sup>2,5</sup></li>
     <li>The elected secret objective no longer counts toward the original player&rsquo;s limit of three secret objectives.<sup>2,5</sup></li>
     <li>If <i>Classified Document Leaks</i> is discarded, the elected secret objective does not count toward the secret objective total of the player who originally owned it.<sup>1</sup></li>
@@ -125,7 +125,7 @@
 <h2 id="colonial-redistribution"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution">Colonial Redistribution</a></h2>
     <ol class="note">
     <li>If the player that originally controlled the elected planet has the fewest victory points, they may choose themselves to place an infantry on that planet.<sup>*</sup></li>
-    <li>If the elected planet has the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone"><i>Demilitarized Zone</i></a> exploration card attached, no infantry will be placed on it. Control of the planet will remain with the original player.<sup>1</sup></li>
+    <li>If the elected planet has the <i>Demilitarized Zone</i> exploration card attached, no infantry will be placed on it. Control of the planet will remain with the original player.<sup>1</sup></li>
     <li>A planet that contains neutral infantry cannot be elected, as players must cast votes for a planet that is controlled by a player.<sup>1</sup></li>
     </ol>
 
@@ -133,8 +133,8 @@
     <ol class="note">
     <li><i>Committee Formation</i> is resolved after any riders have been played, if the owner so chooses. Riders will resolve if the predicted outcome matches the player elected by the effect of <i>Committee Formation</i>.<sup>2</sup></li>
     <ol><li>The owner of <i>Committee Formation</i> may play riders before they resolve <i>Committee Formation</i>.<sup>2</sup></li></ol>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text"><i>Confusing Legal Text</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Confounding%20Legal%20Text"><i>Confounding Legal Text</i></a> action cards may be played after <i>Committee Formation</i> has been discarded to change who the elected player is, which will negate the effects of <i>Committee Formation</i>.<sup>*</sup></li>
-    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card may be played after <i>Committee Formation</i> has been discarded to discard the agenda without resolving it, but only if that player predicted a different outcome from some other game effect.<sup>*</sup></li></ol>
+    <li>The <i>Confusing Legal Text</i> and <i>Confounding Legal Text</i> action cards may be played after <i>Committee Formation</i> has been discarded to change who the elected player is, which will negate the effects of <i>Committee Formation</i>.<sup>*</sup></li>
+    <ol><li>The <i>Deadly Plot</i> action card may be played after <i>Committee Formation</i> has been discarded to discard the agenda without resolving it, but only if that player predicted a different outcome from some other game effect.<sup>*</sup></li></ol>
     <li>The <a href="/F_nekro">Nekro</a> player may own and resolve Committee Formation, even though they cannot vote.<sup>2</sup></li>
     </ol>
 
@@ -150,7 +150,7 @@
 
 <h2 id="conventions-of-war"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Conventions%20of%20War">Conventions of War</a></h2>
     <ol class="note">
-    <li><i>Conventions of War</i> does not prevent the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Tactical%20Bombardment"><i>Tactical Bombardment</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic from being used on cultural planets, as neither uses the <sc>Bombardment</sc> ability.<sup>*</sup></li>
+    <li><i>Conventions of War</i> does not prevent the <i>Tactical Bombardment</i> action card or the <i>Stellar Converter</i> relic from being used on cultural planets, as neither uses the <sc>Bombardment</sc> ability.<sup>*</sup></li>
     </ol>
 
 <h2 id="core-mining" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Core%20Mining">Core Mining</a> (removed in Prophecy of Kings)</h2>
@@ -161,10 +161,10 @@
 
 <h2 id="covert-legislation"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation">Covert Legislation</a></h2>
     <ol class="note">
-    <li>If the speaker draws an agenda that would be replaced when it is revealed, such as <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a>, they follow the text of that agenda and draw a new agenda.<sup>4</sup></li>
+    <li>If the speaker draws an agenda that would be replaced when it is revealed, such as <i>Miscount Disclosed</i>, they follow the text of that agenda and draw a new agenda.<sup>4</sup></li>
     <li>Any effects that take place when or after an agenda is revealed instead take place when or after the speaker has drawn and announced the possible outcomes for the hidden agenda.<sup>*</sup></li>
-    <li>If an effect, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card, would discard <i>Covert Legislation</i>, both it and the hidden agenda are discarded.<sup>*</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Confounding%20Legal%20Text"><i>Confounding Legal Text</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text"><i>Confusing Legal Text</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action cards must be played before the hidden agenda is revealed.<sup>4</sup></li>
+    <li>If an effect, such as the <i>Veto</i> action card, would discard <i>Covert Legislation</i>, both it and the hidden agenda are discarded.<sup>*</sup></li>
+    <li>The <i>Confounding Legal Text</i>, <i>Confusing Legal Text</i> and <i>Deadly Plot</i> action cards must be played before the hidden agenda is revealed.<sup>4</sup></li>
     <li>The speaker may still vote on <i>Covert Legislation</i>.<sup>4</sup></li>
     </ol>
 
@@ -185,7 +185,7 @@
 <h2 id="demilitarized-zone" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone">Demilitarized Zone</a> (removed in Prophecy of Kings)</h2>
     <ol class="note">
     <li>This agenda is removed from the game when playing with Prophecy of Kings.<sup>8</sup></li>
-    <li>If the planet elected by Demilitarized Zone is given to another player by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution">Colonial Redistribution</a> agenda, no units are placed on it.<sup>2</sup></li>
+    <li>If the planet elected by Demilitarized Zone is given to another player by the Colonial Redistribution agenda, no units are placed on it.<sup>2</sup></li>
     </ol>
 
 <h2 id="economic-equality"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Economic%20Equality">Economic Equality</a></h2>
@@ -196,7 +196,7 @@
 <h2 id="enforced-travel-ban"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban">Enforced Travel Ban</a></h2>
     <ol class="note">
     <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the <a href="/F_creuss">Creuss</a> player.<sup>2</sup></li>
-    <li><i>Enforced Travel Ban</i> only prevents movement using the normal adjacency provided by wormholes. Other effects that create adjacency, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lost%20Star%20Chart"><i>Lost Star Chart</i></a> action card, may be used to allow movement between systems containing wormholes.<sup>2,5</sup></li>
+    <li><i>Enforced Travel Ban</i> only prevents movement using the normal adjacency provided by wormholes. Other effects that create adjacency, such as the <i>Lost Star Chart</i> action card, may be used to allow movement between systems containing wormholes.<sup>2,5</sup></li>
     <li>When the <i>Enforced Travel Ban</i> law is in play, units cannot move through wormholes, even by effects that move ships outside of the <b>Movement</b> step of a tactical action, such as while retreating.<sup>2</sup></li>
     <li>When the <i>Enforced Travel Ban</i> law is in play, the <sc>Space Cannon</sc> ability may still be used through wormholes.<sup>1,2</sup></li>
     <li>Players may still be neighbors via systems that are adjacent via wormholes.<sup>2</sup></li>
@@ -212,7 +212,7 @@
     <ol class="note">
     <li>When Fleet Regulations becomes a law, any command tokens in excess of four in a player&rsquo;s fleet pool are returned to their reinforcements; they cannot be moved to other pools. Any ships in excess of the new fleet pool limit are removed immediately.<sup>2</sup></li>
     <li>The effect of the <i>Fleet Regulations</i> law does not prevent the <a href="/F_letnev">Letnev</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Armada"><sc>Armada</sc></a> faction ability. They may have up to six non&ndash;fighter ships in a system if they have four command tokens in their fleet pool.<sup>2</sup></li>
-    <li>If the <i>Fleet Regulations</i> law is in play and the <a href="/F_mahact">Mahact</a> player already has four command tokens in their fleet pool, they may add a fifth with their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Edict"><sc>Edict</sc></a> faction ability, and then choose one command token to return from their fleet pool to their reinforcements.<sup>4</sup></li>
+    <li>If the <i>Fleet Regulations</i> law is in play and the <a href="/F_mahact">Mahact</a> player already has four command tokens in their fleet pool, they may add a fifth with their <sc>Edict</sc> faction ability, and then choose one command token to return from their fleet pool to their reinforcements.<sup>4</sup></li>
     </ol>
 
 <h2 id="galactic-crisis-pact"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Galactic%20Crisis%20Pact">Galactic Crisis Pact</a></h2>
@@ -221,8 +221,8 @@
     <li>The secondary ability is resolved immediately, during the agenda phase.<sup>*</sup></li>
     <li>Players must pay the influence or resource costs to resolve the abilities of the <i>Leadership</i>, <i>Warfare</i> or <i>Technology</i> strategy cards if they are elected. Any planets used to pay these costs will ready at the end of the agenda phase.<sup>3</sup></li>
     <li>If the <i>Technology</i> strategy card is elected, a player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>3</sup></li>
-    <ol><li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.<sup>*</sup></li></ol>
-    <li>If a player has a strategy card in their play area due to the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability"><i>Political Stability</i></a> action card, that strategy card is eligible to be elected.<sup>*</sup></li>
+    <ol><li>A player may exhaust the <i>AI Development Algorithm</i> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.<sup>*</sup></li></ol>
+    <li>If a player has a strategy card in their play area due to the effect of the <i>Political Stability</i> action card, that strategy card is eligible to be elected.<sup>*</sup></li>
     </ol>
 
 <h2 id="holy-planet-of-ixth" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth">Holy Planet of Ixth</a> (removed in Prophecy of Kings)</h2>
@@ -251,7 +251,7 @@
     <ol>
         <li>A player may use the first technology they research to meet the prerequisites of the second technology they research.<sup>2</sup></li>
         <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>1,3</sup></li>
-        <li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.<sup>*</sup></li>
+        <li>A player may exhaust the <i>AI Development Algorithm</i> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.<sup>*</sup></li>
     </ol>
     <li>A player with three or fewer units in a system adjacent to the Mecatol Rex system destroys all of their units in that system.<sup>2</sup></li>
     <li>All units are destroyed simultaneously.<sup>1,5</sup></li>
@@ -289,7 +289,7 @@
     <li>The produced units must be paid for.<sup>1,2</sup></li>
     <li>A space dock cannot be placed on a planet already containing a space dock.<sup>1</sup></li>
     <ol><li>If a player has no space docks in their reinforcements when they may place a space dock on the game board, they may first remove a space dock from a system that does not contain their command token.<sup>1</sup></li></ol>
-    <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate"><i>Infiltrate</i></a> action card, will trigger <i>Minister of Industry</i>.<sup>4</sup></li>
+    <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <i>Infiltrate</i> action card, will trigger <i>Minister of Industry</i>.<sup>4</sup></li>
     <li>Moving the <a href="/F_saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> into a system is not placing a space dock, and does not trigger Minister of Industry.<sup>2</sup></li>
     </ol>
 
@@ -305,7 +305,7 @@
     <ol class="note">
     <li>The owner of <i>Minister of Policy</i> will draw action cards during the <b>Draw Action Cards</b> step of the status phase, and again at the end of the status phase.<sup>*</sup></li>
     <ol><li>If the <a href="/F_yssaril">Yssaril</a> player owns <i>Minister of Policy</i>, they will use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Abilities:~:text=Scheming"><sc>Scheming</sc></a> ability for both the <b>Draw Action Cards</b> step and for <i>Minister of Policy</i>.<sup>1</sup></li></ol>
-    <li><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Neural_Motivator"><i>Neural Motivator</i></a> does not apply when the owner of <i>Minister of Policy</i> draws action cards from its effect.<sup>1,5</sup></li>
+    <li><i>Neural Motivator</i> does not apply when the owner of <i>Minister of Policy</i> draws action cards from its effect.<sup>1,5</sup></li>
     </ol>
 
 <h2 id="minister-of-sciences"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Sciences">Minister of Sciences</a></h2>
@@ -315,7 +315,7 @@
 <h2 id="minister-of-war"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20War">Minister of War</a></h2>
     <ol class="note">
     <li>Performing any action is the trigger for the remainder of the ability of <i>Minister of War</i>.<sup>1,2,5</sup></li>
-    <li>Resolving Minister of War is not an action. As such, a player with the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology may perform three actions in one turn.<sup>2</sup></li>
+    <li>Resolving Minister of War is not an action. As such, a player with the <i>Fleet Logistics</i> technology may perform three actions in one turn.<sup>2</sup></li>
     <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.<sup>*</sup></li>
     </ol>
 
@@ -325,21 +325,21 @@
     <ol><li>Players may still play riders if only one law is in play.<sup>*</sup></li></ol>
     <li>The elected law remains in play while it is being voted on.<sup>1,2</sup></li>
     <ol>
-        <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Committee%20Formation"><i>Committee Formation</i></a> is elected by <i>Miscount Disclosed</i>, the owner may use its ability. The elected player will receive <i>Committee Formation</i> from the discard pile.<sup>*</sup></li>
-        <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Political%20Censure"><i>Political Censure</i></a> is elected by <i>Miscount Disclosed</i>, the current owner cannot play action cards, including <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Confounding%20Legal%20Text"><i>Confounding Legal Text</i></a>, if another player is elected. If another player is elected, that player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text"><i>Confusing Legal Text</i></a> action card.<sup>*</sup></li>
-        <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government"><i>Representative Government</i></a> is elected by <i>Miscount Disclosed</i>, each player will cast only one vote during the revote.<sup>2</sup></li>
+        <li>If <i>Committee Formation</i> is elected by <i>Miscount Disclosed</i>, the owner may use its ability. The elected player will receive <i>Committee Formation</i> from the discard pile.<sup>*</sup></li>
+        <li>If <i>Political Censure</i> is elected by <i>Miscount Disclosed</i>, the current owner cannot play action cards, including <i>Confounding Legal Text</i>, if another player is elected. If another player is elected, that player may play the <i>Confusing Legal Text</i> action card.<sup>*</sup></li>
+        <li>If <i>Representative Government</i> is elected by <i>Miscount Disclosed</i>, each player will cast only one vote during the revote.<sup>2</sup></li>
     </ol>
     <li>Once the law is elected, any riders on <i>Miscount Disclosed</i> will resolve. Following that, the elected law is then treated as being revealed.<sup>2</sup></li>
     <ol>
-        <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> is elected by <i>Miscount Disclosed</i>, and there are no other secret objectives eligible to be elected by the <i>Miscount Disclosed</i> revote, <i>Classified Document Leaks</i> will be discarded and replaced.<sup>*</sup></li>
-        <li>When the elected law is treated as revealed, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card or the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability may be played. If so, the law will be discarded and replaced.<sup>2,5</sup></li>
+        <li>If <i>Classified Document Leaks</i> is elected by <i>Miscount Disclosed</i>, and there are no other secret objectives eligible to be elected by the <i>Miscount Disclosed</i> revote, <i>Classified Document Leaks</i> will be discarded and replaced.<sup>*</sup></li>
+        <li>When the elected law is treated as revealed, the <i>Veto</i> action card or the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability may be played. If so, the law will be discarded and replaced.<sup>2,5</sup></li>
         <li>After the elected law is treated as revealed, riders may be played to predict the outcome of the elected law.<sup>2</sup></li>
     <li>Planets are not readied between the vote on Miscount Disclosed and the vote on the elected law. The vote on the elected law does not replace the second agenda of the agenda phase, so three agendas may be voted on during that agenda phase.<sup>2</sup></li>
     </ol>
-    <li>After all players have voted for <i>Miscount Disclosed</i>, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card may be played. If so, the elected law is not voted on and remains in play.<sup>*</sup></li>
+    <li>After all players have voted for <i>Miscount Disclosed</i>, the <i>Deadly Plot</i> action card may be played. If so, the elected law is not voted on and remains in play.<sup>*</sup></li>
     <li>After all players have voted for the elected law, the <i>Deadly Plot</i> action card may be played. If so, the elected law is discarded.<sup>*</sup></li>
     <li>Players who resolved a transaction while voting on and resolving <i>Miscount Disclosed</i> may resolve an additional transaction voting on and resolving the elected law.<sup>5</sup></li>
-    <li class="removed">If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Holy%20Planet%20of%20Ixth"><i>Holy Planet of Ixth</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Emphidia"><i>The Crown of Emphidia</i></a> is elected by <i>Miscount Disclosed</i>, the previous owner keeps their victory point, and the newly elected owner gains a victory point, even if they were also the previous owner.<sup>2,5</sup></li>
+    <li class="removed">If <i>Holy Planet of Ixth</i>, <i>Shard of the Throne</i> or <i>The Crown of Emphidia</i> is elected by <i>Miscount Disclosed</i>, the previous owner keeps their victory point, and the newly elected owner gains a victory point, even if they were also the previous owner.<sup>2,5</sup></li>
     </ol>
 
 <h2 id="mutiny"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mutiny">Mutiny</a></h2>
@@ -356,14 +356,14 @@
     <ol class="note">
     <li>The effect of the <i>Nexus Sovereignty</i> law does not affect the <a href="/F_creuss">Creuss</a> player.<sup>*</sup></li>
     <li>When the <i>Nexus Sovereignty</i> law is in play, units cannot move through the alpha and beta wormholes in the wormhole nexus, even by effects that move ships outside of the movement step of a tactical action, such as while retreating.<sup>*</sup></li>
-    <li>When the <i>Nexus Sovereignty</i> law is in play, hits may still be produced against ships in the active system by units with the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability in systems that are adjacent via a wormhole during the <b>Space Cannon Offense</b> step of a tactical action.<sup>*</sup></li>
+    <li>When the <i>Nexus Sovereignty</i> law is in play, hits may still be produced against ships in the active system by units with the <sc>Deep Space Cannon</sc> ability in systems that are adjacent via a wormhole during the <b>Space Cannon Offense</b> step of a tactical action.<sup>*</sup></li>
     <li>Players may still be neighbors via systems that are adjacent via wormholes.<sup>2</sup></li>
     </ol>
 
 <h2 id="political-censure"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Political%20Censure">Political Censure</a></h2>
     <ol class="note">
-    <li>When a player is elected for <i>Political Censure</i>, they may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text"><i>Confusing Legal Text</i></a> action card before it resolves.<sup>2</sup></li>
-    <li>If <i>Political Censure</i> is elected by <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a>, the previous owner loses one victory point when they lose the card, and the newly elected player gains one victory point. If the same player is elected again, they lose and then regain the victory point.<sup>2</sup></li>
+    <li>When a player is elected for <i>Political Censure</i>, they may play the <i>Confusing Legal Text</i> action card before it resolves.<sup>2</sup></li>
+    <li>If <i>Political Censure</i> is elected by <i>Miscount Disclosed</i>, the previous owner loses one victory point when they lose the card, and the newly elected player gains one victory point. If the same player is elected again, they lose and then regain the victory point.<sup>2</sup></li>
     <ol><li>While <i>Political Censure</i> is being voted on again, it remains in play, so its current owner still cannot play action cards until the vote has resolved.<sup>1,2</sup></li></ol>
     <li><i>Political Censure</i> only prevents the elected player from playing action cards; it does not affect strategy cards. The elected player cannot discard <i>Political Censure</i> themselves.<sup>2</sup></li>
     </ol>
@@ -382,7 +382,7 @@
 <h2 id="publicize-weapon-schematics"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Publicize%20Weapon%20Schematics">Publicize Weapon Schematics</a></h2>
     <ol class="note">
     <li>If the <i>Publicize Weapon Schematics</i> law is in play, and a player is the first to gain the war sun unit upgrade technology, from then on, prerequisites for the war sun unit upgrade technology will be ignored.<sup>*</sup></li>
-    <li>If the <a href="/F_muaat">Muaat</a> player does not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology, they do not own a war sun technology.<sup>5</sup></li>
+    <li>If the <a href="/F_muaat">Muaat</a> player does not own their Prototype War Sun II faction unit upgrade technology, they do not own a war sun technology.<sup>5</sup></li>
     <ol>
         <li>If the <i>Publicize Weapon Schematics</i> law is in play, the Muaat player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their Prototype War Sun II faction unit upgrade technology.<sup>5</sup></li>
         <li>If the &ldquo;Against&rdquo; outcome of <i>Publicize Weapon Schematics</i> is resolved, the Muaat player will not discard their action cards if they do not own their Prototype War Sun II faction unit upgrade technology.<sup>5</sup></li>
@@ -446,7 +446,7 @@
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.<sup>1,4</sup></li>
     <li>If the elected player has three secret objective cards, and they would draw another, the drawn secret objective card is revealed before that player chooses which card to discard. This applies both when the elected player initially draws the secret objective cards from the effect of <i>Search Warrant</i> when they are elected, and if they later draw secret objective cards from another effect.<sup>*</sup></li>
-    <li>If a player draws the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective while resolving <i>Search Warrant</i>, they cannot score it immediately, as the timing window to score it has already passed.<sup>*</sup></li>
+    <li>If a player draws the <i>Drive the Debate</i> secret objective while resolving <i>Search Warrant</i>, they cannot score it immediately, as the timing window to score it has already passed.<sup>*</sup></li>
     </ol>
 
 <h2 id="seed-of-an-empire"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Seed%20of%20an%20Empire">Seed of an Empire</a></h2>
@@ -490,7 +490,7 @@
 
 <h2 id="wormhole-reconstruction"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Wormhole%20Reconstruction">Wormhole Reconstruction</a></h2>
     <ol class="note">
-    <li>While <i>Wormhole Reconstruction</i> is in play, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> will have no effect.<sup>*</sup></li>
+    <li>While <i>Wormhole Reconstruction</i> is in play, <i>Enforced Travel Ban</i> will have no effect.<sup>*</sup></li>
     <li>The &ldquo;Against&rdquo; effect of <i>Wormhole Reconstruction</i> will cause each player to place command tokens in each system that contains an alpha, beta, gamma, delta or epsilon wormhole and one or more of that player&rsquo;s ships.<sup>2,5,9</sup></li>
     <ol><li class="ixth">(Sorry, <a href="/F_creuss">Creuss</a>.)</li></ol>
     </ol>
@@ -504,9 +504,9 @@
     <li>A player must still meet the prerequisites for the technology they research.<sup>4</sup></li>
     <ol>
         <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>1,3</sup></li>
-        <li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.<sup>*</sup></li>
+        <li>A player may exhaust the <i>AI Development Algorithm</i> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.<sup>*</sup></li>
     </ol>
-    <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a> is in play as a law, players who research a technology will destroy a ship due to <i>Anti&ndash;Intellectual Revolution</i> before they destroy ships in systems containing alpha or beta wormholes. As such, they may choose a ship in a system containing an alpha or beta wormhole to destroy for <i>Anti&ndash;Intellectual Revolution</i>.<sup>*</sup></li>
+    <li>If <i>Anti&ndash;Intellectual Revolution</i> is in play as a law, players who research a technology will destroy a ship due to <i>Anti&ndash;Intellectual Revolution</i> before they destroy ships in systems containing alpha or beta wormholes. As such, they may choose a ship in a system containing an alpha or beta wormhole to destroy for <i>Anti&ndash;Intellectual Revolution</i>.<sup>*</sup></li>
     <ol>
         <li>If the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player has their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, in a system containing an alpha or beta wormhole, and they choose to destroy it for <i>Anti&ndash;Intellectual Revolution</i>, then they will not capture the other ships in that system that are destroyed by <i>Wormhole Research</i>.<sup>*</sup></li>
         <li>If the Vuil&rsquo;raith player has their flagship, <i>The Terror Between</i>, in a system containing an alpha or beta wormhole, and they choose to destroy another ship with capacity, they must resolve capacity before <i>Wormhole Research</i> destroys any ships. Any fighters they remove due to capacity will not be captured when ships are destroyed for <i>Wormhole Research</i>.<sup>*</sup></li>

@@ -22,7 +22,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?&rdquo;: &ldquo;Right after activating a system that already held your sleeper token.&rdquo;</li>
         </ul></li>
-    <li>A sleeper token that is placed during the <b>Activation</b> step, most commonly by using the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Scanlink_Drone_Network"><i>Scanlink Drone Network</i></a> technology and the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Terragenesis"><sc>Terragenesis</sc></a> ability, cannot be replaced via the <sc>Awaken</sc> ability during the same tactical action.<sup>2</sup>
+    <li>A sleeper token that is placed during the <b>Activation</b> step, most commonly by using the <i>Scanlink Drone Network</i> technology and the <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Terragenesis"><sc>Terragenesis</sc></a> ability, cannot be replaced via the <sc>Awaken</sc> ability during the same tactical action.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?&rdquo;: &ldquo;a sleeper placed later in that activation, say by Scanlink exploration, can&rsquo;t be awakened then.&rdquo;</li>
         </ul></li>
@@ -46,7 +46,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If the Titans retreat into a system with a sleeper, does it awaken?&rdquo;: &ldquo;No &mdash; a retreat places a command token but doesn&rsquo;t activate the system.&rdquo;</li>
         </ul></li>
-    <li>If another player plays the Ul player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, the Ul player may still place units into the active system using their <sc>Awaken</sc> ability.<sup>2</sup>
+    <li>If another player plays the Ul player&rsquo;s <i>Ceasefire</i> promissory note, the Ul player may still place units into the active system using their <sc>Awaken</sc> ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?&rdquo;: &ldquo;Ceasefire only stops movement, so Awaken still works.&rdquo;</li>
         </ul></li>
@@ -120,11 +120,11 @@
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;When producing multiple units at a time, the cost values of those units are added together.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Production limit the number of units or their total cost?&rdquo;: &ldquo;The number of units.&rdquo;</li>
         </ul></li>
-    <li>Effects that remove ground forces, and then place them on the game board without transporting them, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Decoy%20Operation"><i>Decoy Operation</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Transit_Diodes"><i>Transit Diodes</i></a> technology, may be used on a Hel&ndash;Titan.<sup>2</sup>
+    <li>Effects that remove ground forces, and then place them on the game board without transporting them, such as the <i>Decoy Operation</i> action card or the <i>Transit Diodes</i> technology, may be used on a Hel&ndash;Titan.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Transit Diodes move Titans Hel-Titans or ordinary PDS?&rdquo;: &ldquo;Hel-Titans yes: they are ground forces, and Transit Diodes removes and places units rather than transporting them.&rdquo;</li>
         </ul></li>
-    <li>Effects that move ground forces, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Ghost%20Squad"><i>Ghost Squad</i></a> action card or the ability of the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=G%27hom%20Sek%27kus">G&rsquo;hom Sek&rsquo;kus</a>, (via the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note), cannot be used to move a Hel&ndash;Titan to another planet.<sup>4</sup>
+    <li>Effects that move ground forces, such as the <i>Ghost Squad</i> action card or the ability of the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=G%27hom%20Sek%27kus">G&rsquo;hom Sek&rsquo;kus</a>, (via the <i>Alliance</i> promissory note), cannot be used to move a Hel&ndash;Titan to another planet.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Titans Hel-Titan move via abilities like the action card Ghost Squad or via the Sardakk N&rsquo;Orr Alliance? A: No, structures cannot move.&rdquo;</li>
         </ul></li>
@@ -156,7 +156,7 @@
 
 <h2 id="tellurian"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tellurian">Tellurian</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <sc>Sustain Damage</sc> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <i>Valkyrie Particle Weave</i> still triggers before the hit is canceled.<sup>4</sup>
+    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <i>Shields Holding</i> action card and the <sc>Sustain Damage</sc> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <i>Valkyrie Particle Weave</i> still triggers before the hit is canceled.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Titan&rsquo;s Agent will receive an errata to have the same timing as Shields Holding or Sustain Damage. &lsquo;Before you assign a hit&rsquo;. The hit is still produced, VPW triggers, then the hit is canceled.&rdquo;</li>
         </ul></li>
@@ -190,7 +190,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Elysium counts as a planet with an attachment for objectives such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_2:~:text=Reclaim%20Ancient%20Monuments"><i>Reclaim Ancient Monuments</i></a>.<sup>*</sup>
+    <li>Elysium counts as a planet with an attachment for objectives such as <i>Reclaim Ancient Monuments</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Titans of Ul: &ldquo;Does the Geoform ability of Ul the progenitor count as an attachment for the purpose of the objective &lsquo;Reclaim ancient monuments&rsquo;? A: Yes&rdquo;</li>
         </ul></li>
@@ -252,7 +252,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does the agreement to place a Sleeper token require agreeing to a specific planet &hellip;? A: Agreement includes which planet.&rdquo;</li>
         </ul></li>
-    <li>The additional action cards are only drawn during the <b>Draw Action Cards</b> step of the status phase. Other effects that draw action cards during the status phase, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> agenda or the <a href="/F_mentak">Mentak</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, do not draw additional action cards.<sup>6</sup>
+    <li>The additional action cards are only drawn during the <b>Draw Action Cards</b> step of the status phase. Other effects that draw action cards during the status phase, such as the <i>Minister of Policy</i> agenda or the <a href="/F_mentak">Mentak</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, do not draw additional action cards.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does that mean that you&rsquo;ll be receiving additional AC for the Minister of Policy &hellip;? A: No, the ability is specifically Status Phase Step 3 Draw Action Cards.&rdquo;</li>
         </ul></li>

@@ -47,7 +47,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Thunder&rsquo;s Edge is placed, then you place the final Ingress in the Thunder&rsquo;s Edge system.&rdquo;</li>
         </ul></li>
-    <li>Attachments, such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note, may be attached to planets in The Fracture.<sup>6</sup>
+    <li>Attachments, such as the <i>Nano&ndash;Forge</i> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note, may be attached to planets in The Fracture.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, &ldquo;Can Nano-Forge and/or Terraform be attached to planets in The Fracture?&rdquo;: &ldquo;Can Nano-Forge and/or Terraform be attached to planets in The Fracture? A: Yes&rdquo;</li>
         </ul></li>

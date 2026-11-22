@@ -17,7 +17,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction units like the Muaat Prototype War Sun count as their base unit type?&rdquo;: &ldquo;the Prototype War Sun is a war sun.&rdquo;</li>
         </ul></li></ol>
-    <li class="removed">If a war sun&rsquo;s ability results in no units on a planet having the <sc>Planetary Shield</sc> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>2</sup>
+    <li class="removed">If a war sun&rsquo;s ability results in no units on a planet having the <sc>Planetary Shield</sc> ability, then the ability of the <i>Magen Defense Grid</i> technology cannot be used during ground combat on that planet.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a war sun shut off Magen Defense Grid?&rdquo;: &ldquo;Only the original version, which needs a unit with Planetary Shield: a war sun makes other players&rsquo; units lose Planetary Shield.&rdquo;</li>
         </ul></li>
@@ -68,7 +68,7 @@
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: ships move only through systems without other players&rsquo; ships.</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What blocks my ships from moving through a system?&rdquo;: &ldquo;Any other player&rsquo;s ships in it, fighters included.&rdquo;</li>
         </ul></li>
-    <ol><li>Some effects allow ships to move through such systems, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=In%20The%20Silence%20Of%20Space"><i>In The Silence Of Space</i></a> action card and the <a href="/F_firmament">Firmament</a> player&rsquo;s agent, Myru Vos.<sup>2,6</sup>
+    <ol><li>Some effects allow ships to move through such systems, such as the <i>Light/Wave Deflector</i> technology, the <i>In The Silence Of Space</i> action card and the <a href="/F_firmament">Firmament</a> player&rsquo;s agent, Myru Vos.<sup>2,6</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;With Light/Wave Deflector, can I pick up my ground forces from a system that has enemy ships?&rdquo;: &ldquo;Yes &mdash; moving through such a system is allowed, and ships can pick up units in any system they pass through.&rdquo;</li>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;No space cannon against any ships moving. Only ships not transporting may move through other player&rsquo;s ships.&rdquo;</li>
@@ -99,7 +99,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to infantry on the Infantry II card if I don&rsquo;t control my home system?&rdquo;: &ldquo;If you control none there, they are lost (returned to reinforcements), per a relayed developer email.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;The units would be lost, in this case.&rdquo;</li>
         </ul></li>
-    <li>The Infantry II resurrection roll applies however the infantry is destroyed, including outside of combat, such as by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Plague"><i>Plague</i></a> action card.<sup>*</sup>
+    <li>The Infantry II resurrection roll applies however the infantry is destroyed, including outside of combat, such as by the <i>Plague</i> action card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Infantry: &ldquo;Yes. Infantry II may use their reroll-to-resurrect ability when they are destroyed regardless of the manner.&rdquo;</li>
         </ul></li>

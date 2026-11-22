@@ -9,7 +9,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I produce at my home space dock during a tactical action elsewhere &hellip;?&rdquo;: &ldquo;the production step only uses units in the system you just activated.&rdquo;</li>
         </ul></li>
-    <li>If the L1Z1X player resolves their <sc>Assimilate</sc> ability, and then plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Infiltrate"><i>Infiltrate</i></a> action card, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.<sup>*</sup>
+    <li>If the L1Z1X player resolves their <sc>Assimilate</sc> ability, and then plays the <i>Infiltrate</i> action card, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -53,7 +53,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can L1Z1X mechs bombard through Harrow?&rdquo;: &ldquo;Only when not in that ground combat: a mech fighting on a planet can&rsquo;t bombard it, but one on another planet in the system can.&rdquo;</li>
         </ul></li></ol>
-    <li>The L1Z1X player may use the ability of the <span class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a></span> or <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> technologies whenever they bombard.<sup>10,15</sup>
+    <li>The L1Z1X player may use the ability of the <span class="removed"><i>X&ndash;89 Bacterial Weapon &Omega;</i></span> or <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> technologies whenever they bombard.<sup>10,15</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Are there common clarifications for specific objectives &hellip;?&rdquo;: &ldquo;Harrow is Bombardment.&rdquo;</li>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, X-89 Bacterial Weapon: &ldquo;After 1 or more of your units use BOMBARDMENT against a planet, if at least 1 of your opponent&rsquo;s infantry was destroyed, you may destroy all of your opponent&rsquo;s infantry on that planet.&rdquo; triggers whenever units use BOMBARDMENT.</li>
@@ -89,7 +89,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The owner of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Sciences"><i>Minister of Sciences</i></a> law must still spend the two resources for <i>Inheritance Systems</i>, as they pay to ignore prerequisites, not to research the technology.<sup>*</sup>
+        <li>The owner of the <i>Minister of Sciences</i> law must still spend the two resources for <i>Inheritance Systems</i>, as they pay to ignore prerequisites, not to research the technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No numbered source. RulesPal, &ldquo;Does Minister of Sciences waive the 2 resources for L1Z1X&rsquo;s Inheritance Systems?&rdquo; (graded Best reading, unconfirmed; not used): &ldquo;No &mdash; those 2 resources pay to ignore prerequisites, not to research the technology.&rdquo;</li>
         </ul></li>
@@ -98,7 +98,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can L1Z1X&rsquo;s Inheritance Systems be used for?&rdquo;: &ldquo;It ignores all prerequisites for one research, unit upgrades and your own faction technologies like Super Dreadnought included.&rdquo;</li>
         </ul></li>
-    <li>If <i>Inheritance Systems</i> is researched as the first of two technologies researched back to back, such as with the primary ability of the <i>Technology</i> strategy card or the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda, it may be used immediately to ignore the prerequisites of the second technology.<sup>2</sup>
+    <li>If <i>Inheritance Systems</i> is researched as the first of two technologies researched back to back, such as with the primary ability of the <i>Technology</i> strategy card or the <i>Ixthian Artifact</i> agenda, it may be used immediately to ignore the prerequisites of the second technology.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can L1Z1X&rsquo;s Inheritance Systems be used for?&rdquo;: &ldquo;Researched as the first tech of the Technology primary, it can pay for the second.&rdquo; Ixthian Artifact and other back-to-back research follow the same timing; no source names them.</li>
         </ul></li>
@@ -131,7 +131,7 @@
         <ul>
         <li><b>Unverified</b>: No source found. LRR 65.3a covers war suns: &ldquo;Units treated as if they do not have a &lsquo;Planetary Shield&rsquo; ability cannot use the &lsquo;Magen Defense Grid&rsquo;&rdquo; technology.</li>
         </ul></li>
-    <ol><li class="removed">The player that owns those units may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology.<sup>*</sup>
+    <ol><li class="removed">The player that owns those units may still use the ability of the <i>Magen Defense Grid</i> technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. LRR 65.3a covers war suns: &ldquo;Units treated as if they do not have a &lsquo;Planetary Shield&rsquo; ability cannot use the &lsquo;Magen Defense Grid&rsquo;&rdquo; technology.</li>
         </ul></li></ol>
@@ -158,7 +158,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR quick reference: &ldquo;Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die.&rdquo;</li>
         </ul></li>
-    <ol><li>Ships do not roll for removal if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic.<sup>11</sup>
+    <ol><li>Ships do not roll for removal if the L1Z1X player owns the <i>Circlet of the Void</i> relic.<sup>11</sup>
         <ul>
         <li><b>Explicit</b>: <sup>11</sup> Codex IV, Circlet of the Void: &ldquo;Your units do not roll for gravity rifts, and you ignore the movement effects of other anomalies.&rdquo;</li>
         </ul></li></ol>
@@ -173,7 +173,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>11</sup> Codex IV, Circlet of the Void: &ldquo;Your units do not roll for gravity rifts, and you ignore the movement effects of other anomalies.&rdquo; That includes the supernova&rsquo;s restriction on moving into it.</li>
         </ul></li>
-        <li>Ships may travel into an asteroid field only if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>2</sup>
+        <li>Ships may travel into an asteroid field only if the L1Z1X player owns the <i>Antimass Deflectors</i> technology.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;Anomaly rules still apply.&rdquo;</li>
         </ul></li>

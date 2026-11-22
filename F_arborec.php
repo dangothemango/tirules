@@ -42,14 +42,14 @@
 <h2 id="duha-menaimon"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Flagship:~:text=Duha%20Menaimon">Duha Menaimon</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>The produced units must be paid for.<sup>1,2</sup></li>
-    <li>The <i>Duha Menaimon</i> does not have <sc>Production</sc>. As such, the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar such effects do not apply to the <i>Duha Menaimon</i>.<sup>1</sup></li>
+    <li>The <i>Duha Menaimon</i> does not have <sc>Production</sc>. As such, the <i>Sarween Tools</i> technology and similar such effects do not apply to the <i>Duha Menaimon</i>.<sup>1</sup></li>
     <li>The <i>Duha Menaimon</i> must be in the system when it is activated for its effect to trigger. It will not trigger if it is moved into the active system later in the turn.<sup>1,2</sup></li>
     </ol>
 
 <h2 id="letani-ospha"><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Leaders:~:text=Letani%20Ospha">Letani Ospha</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The replaced ship is not destroyed. The replacing ship is not produced.<sup>*</sup></li>
-    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not allow a more expensive ship to be placed.<sup>*</sup></li></ol>
+    <ol><li>The <i>Sarween Tools</i> technology and similar effects will not allow a more expensive ship to be placed.<sup>*</sup></li></ol>
     <li>If the player wishes to place a ship, but there are none of that type left in their reinforcements, they may remove a ship of that type from any system that does not contain one of their command tokens and place that instead. This ship will be placed undamaged.<sup>1,4</sup></li>
     <li>A fighter may be placed with Letani Ospha.<sup>*</sup></li>
     </ol>
@@ -58,7 +58,7 @@
     <ol class="note">
     <li>The produced unit must be paid for.<sup>1,2</sup></li>
     <li>A ship may be produced only if no other player currently has ships in that system.<sup>*</sup></li>
-    <li>No unit is using its <sc>Production</sc> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup></li>
+    <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not apply.<sup>1,2</sup></li>
     <li>The Arborec player may produce an infantry, even if the only unit with the <sc>Production</sc> ability in the active system is their space dock.<sup>*</sup></li>
     <li>If the Arborec player wishes to place a unit, but there are none of that type left in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that instead. This unit will be placed undamaged.<sup>1,3,4</sup></li>
     <li>A unit with <sc>Production</sc> in an entropic scar still has <sc>Production</sc>, even though it cannot use it. As such, Dirzuga Rophal may still be used in that system.<sup>2</sup></li>
@@ -68,7 +68,7 @@
     <ol class="note">
     <li>The produced units must all be paid for.<sup>1</sup></li>
     <li>A ship may be produced in the system only if no other player currently has ships in that system.<sup>*</sup></li>
-    <li>No unit is using its <sc>Production</sc> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup></li>
+    <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not apply.<sup>1,2</sup></li>
     <li>If a ground force is produced in a system, it may be placed on any planet the Arborec player controls in that system, regardless of what units, if any, the Arborec player has on that planet. The produced ground force may also be placed in the space area of that system.<sup>*</sup></li>
     </ol>
 

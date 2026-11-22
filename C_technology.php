@@ -52,7 +52,7 @@
 
 <h2 id="gravity-drive"><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive">Gravity Drive</a></h2>
     <ol class="note">
-    <li>The +1 from <i>Gravity Drive</i> may be combined with the +1 from the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card, applying +2 to the move value of that ship.<sup>2</sup></li>
+    <li>The +1 from <i>Gravity Drive</i> may be combined with the +1 from the <i>Flank Speed</i> action card, applying +2 to the move value of that ship.<sup>2</sup></li>
     </ol>
 
 <h2 id="sling-relay"><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Sling_Relay">Sling Relay</a></h2>
@@ -82,15 +82,15 @@
     <li><i>Neural Motivator</i> only applies to the <b>Draw Action Card</b> step of the status phase. It does not apply to other effects that draw action cards, including but not limited to:<sup>1,5</sup></li>
     <ol>
         <li>The <i>Politics</i> strategy card.<sup>1,5</sup></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> law.<sup>1,5</sup></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Functioning%20Base"><i>Functioning Base</i></a> exploration card.<sup>1,5</sup></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Prophet%27s%20Tears"><i>Prophet&rsquo;s Tears</i></a> relic.<sup>1,5</sup></li>
+        <li>The <i>Minister of Policy</i> law.<sup>1,5</sup></li>
+        <li>The <i>Functioning Base</i> exploration card.<sup>1,5</sup></li>
+        <li>The <i>Prophet&rsquo;s Tears</i> relic.<sup>1,5</sup></li>
     </ol>
     </ol>
 
 <h2 id="psychoarchaeology"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Psychoarchaeology">Psychoarchaeology</a></h2>
     <ol class="note">
-    <li>Exhausting planets to gain trade goods can be done at any time during action phase, except when another ability is being resolved. For example, if a player has one of their planets with a technology specialty targeted with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a> action card, they cannot use <i>Psychoarchaeology</i> in response to gain a trade good.<sup>2,4</sup></li>
+    <li>Exhausting planets to gain trade goods can be done at any time during action phase, except when another ability is being resolved. For example, if a player has one of their planets with a technology specialty targeted with the <i>Uprising</i> action card, they cannot use <i>Psychoarchaeology</i> in response to gain a trade good.<sup>2,4</sup></li>
     <li>If multiple planets are exhausted, the trade goods are gained one at a time.<sup>2,4</sup></li>
     </ol>
 
@@ -130,7 +130,7 @@
     <li>A player with <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> must mandatorily exhaust each planet they make a <sc>bombardment</sc> roll against, even if they produce no hits.<sup>15</sup></li>
     <li>A player who bombards another player&rsquo;s coexisting units on a planet they control must still exhaust that planet.<sup>6</sup></li>
     <li>A war sun must target the same planet with all three of its <sc>bombardment</sc> dice.<sup>2</sup></li>
-    <ol><li>If a unit may roll additional <sc>bombardment</sc> dice, such as by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, that additional die must target the same planet.<sup>2</sup></li></ol>
+    <ol><li>If a unit may roll additional <sc>bombardment</sc> dice, such as by the <i>Plasma Scoring</i> technology, that additional die must target the same planet.<sup>2</sup></li></ol>
     <li>A player may roll for <sc>bombardment</sc> against a planet that contains no ground forces.<sup>2</sup></li>
     </ol>
 
@@ -142,7 +142,7 @@
         <li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional die to the space cannon rolls for each planet during the <b>Space Cannon Defense</b> step.<sup>1</sup></li>
     </ol>
     <li>If a player makes separate <sc>Bombardment</sc> rolls against multiple coexisting players on the same planet, <i>Plasma Scoring</i> adds one additional die to only one of those rolls.<sup>6</sup></li>
-    <li>A space dock using the <sc>Space Cannon</sc> ability due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card may roll an additional die from <i>Plasma Scoring</i>.<sup>2</sup></li>
+    <li>A space dock using the <sc>Space Cannon</sc> ability due to the <i>Experimental Battlestation</i> action card may roll an additional die from <i>Plasma Scoring</i>.<sup>2</sup></li>
     </ol>
 
 <h2 id="ai-development-algorithm"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm">AI Development Algorithm</a></h2>
@@ -200,7 +200,7 @@
     <li>If a player loses ships before they can resolve the <i>Assault Cannon</i> ability, they will be unable to resolve it if they no longer have three or more non&ndash;fighter ships.<sup>2,5</sup></li>
     <ol>
         <li>This will most commonly happen when both players in a combat have <i>Assault Cannon</i>, and the defender has exactly three non&ndash;fighter ships.<sup>2,5</sup></li>
-        <li>Examples of other abilities that may remove units at the start of a space combat include the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Dimensional%20Splicer"><i>Dimensional Splicer</i></a> faction technology ability, the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, the <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Impulse%20Core"><i>Impulse Core</i></a> faction technology ability, as well as abilities such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End"><i>Courageous to the End</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card that may trigger off of any of the previous abilities.<sup>*</sup></li>
+        <li>Examples of other abilities that may remove units at the start of a space combat include the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Dimensional%20Splicer"><i>Dimensional Splicer</i></a> faction technology ability, the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, the <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Impulse%20Core"><i>Impulse Core</i></a> faction technology ability, as well as abilities such as the <i>Courageous to the End</i> action card or the <i>Reflective Shielding</i> action card that may trigger off of any of the previous abilities.<sup>*</sup></li>
     </ol>
     <li>A player may use an ability to add ships at the start of combat. If this brings the number of non&ndash;fighter ships to three or more, the player may then use the ability of <i>Assault Cannon</i>.<sup>*</sup></li>
     <ol>
@@ -247,7 +247,7 @@
     <li>There is no limit on the number of units produced, so long as the combined cost does not exceed the planet&rsquo;s resource value.<sup>2</sup></li>
     <li>A player explores a newly controlled planet before resolving <i>Integrated Economy</i>, so any attachment gained from that exploration affects the planet&rsquo;s resource value.<sup>2</sup></li>
     <li>A player may produce ships with <i>Integrated Economy</i>, unless another player has ships in the space area of that planet&rsquo;s system.<sup>2,5</sup></li>
-    <li>No unit is using its <sc>Production</sc> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup></li>
+    <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not apply.<sup>1,2</sup></li>
     <li>Effects that let a player produce a unit for less than its cost, such as the <a href="/F_nomad">Nomad</a> player&rsquo;s commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=Navarch%20Feng">Navarch Feng</a>, do not change that unit&rsquo;s cost.<sup>*</sup></li>
     </ol>
 </article>

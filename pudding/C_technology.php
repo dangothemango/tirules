@@ -52,7 +52,7 @@
 
 <h2 id="gravity-drive"><a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive">Gravity Drive</a></h2>
     <ol class="note">
-    <li>The +1 from <i>Gravity Drive</i> may be combined with the +1 from the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card, applying +2 to the move value of that ship.<sup>2</sup>
+    <li>The +1 from <i>Gravity Drive</i> may be combined with the +1 from the <i>Flank Speed</i> action card, applying +2 to the move value of that ship.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do movement effects like Gravity Drive and gravity rifts apply to Saar Floating Factories?&rdquo;: &ldquo;they get Gravity Drive, Flank Speed and rift bonuses.&rdquo;</li>
         </ul></li>
@@ -125,17 +125,17 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Neural Motivator&rsquo; gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities.&rdquo; Politics draws outside the status phase.</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Mar 2019): &ldquo;NM is intended to refer to the specific step of the status phase, not a blanket rule.&rdquo;</li>
         </ul></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Policy"><i>Minister of Policy</i></a> law.<sup>1,5</sup>
+        <li>The <i>Minister of Policy</i> law.<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does the &lsquo;Neural Motivator&rsquo; technology give an additional action card for both the standard status phase draw as well as the &lsquo;Minister of Policy&rsquo; agenda? &hellip; A: No.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Mar 2019), on Neural Motivator and Minister of Policy: &ldquo;NM is intended to refer to the specific step of the status phase, not a blanket rule. I can see the reasoning there, but no.&rdquo;</li>
         </ul></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Industrial_Exploration_Cards:~:text=Functioning%20Base"><i>Functioning Base</i></a> exploration card.<sup>1,5</sup>
+        <li>The <i>Functioning Base</i> exploration card.<sup>1,5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Neural Motivator&rsquo; gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities.&rdquo; Functioning Base draws outside the status phase.</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Mar 2019): &ldquo;NM is intended to refer to the specific step of the status phase, not a blanket rule.&rdquo;</li>
         </ul></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Prophet%27s%20Tears"><i>Prophet&rsquo;s Tears</i></a> relic.<sup>1,5</sup>
+        <li>The <i>Prophet&rsquo;s Tears</i> relic.<sup>1,5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Neural Motivator&rsquo; gives only one action card in addition to the standard status phase draw. It is not triggered additional times by other abilities.&rdquo; The Prophet&rsquo;s Tears draws when researching, outside the status phase.</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Mar 2019): &ldquo;NM is intended to refer to the specific step of the status phase, not a blanket rule.&rdquo;</li>
@@ -145,7 +145,7 @@
 
 <h2 id="psychoarchaeology"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Psychoarchaeology">Psychoarchaeology</a></h2>
     <ol class="note">
-    <li>Exhausting planets to gain trade goods can be done at any time during action phase, except when another ability is being resolved. For example, if a player has one of their planets with a technology specialty targeted with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a> action card, they cannot use <i>Psychoarchaeology</i> in response to gain a trade good.<sup>2,4</sup>
+    <li>Exhausting planets to gain trade goods can be done at any time during action phase, except when another ability is being resolved. For example, if a player has one of their planets with a technology specialty targeted with the <i>Uprising</i> action card, they cannot use <i>Psychoarchaeology</i> in response to gain a trade good.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can Psychoarchaeology be used?&rdquo;: &ldquo;At any point in the action phase, not only on your turn, but never in the middle of resolving another player&rsquo;s ability&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling, Nekro agent / Psychoarchaeology / Hacan agent timing: &ldquo;any ability that is used &ldquo;during the action phase&rdquo; cannot be resolved unless there are no other abilities currently being resolved.&rdquo;</li>
@@ -236,7 +236,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can one ship bombard several planets, or split its dice between them?&rdquo;: &ldquo;a unit bombards a single planet with all its dice.&rdquo;</li>
         </ul></li>
-    <ol><li>If a unit may roll additional <sc>bombardment</sc> dice, such as by the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, that additional die must target the same planet.<sup>2</sup>
+    <ol><li>If a unit may roll additional <sc>bombardment</sc> dice, such as by the <i>Plasma Scoring</i> technology, that additional die must target the same planet.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;a unit bombards a single planet with all its dice.&rdquo;</li>
         </ul></li></ol>
@@ -270,7 +270,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;BOMBARDMENT rolls are made against each player coexisting individually. Does this allow Plasma Scoring etc. to trigger multiple times? A: Plasma Scoring is applied to one unit during the bombard step. Plasma will not trigger multiple times.&rdquo;</li>
         </ul></li>
-    <li>A space dock using the <sc>Space Cannon</sc> ability due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card may roll an additional die from <i>Plasma Scoring</i>.<sup>2</sup>
+    <li>A space dock using the <sc>Space Cannon</sc> ability due to the <i>Experimental Battlestation</i> action card may roll an additional die from <i>Plasma Scoring</i>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is Plasma Scoring&rsquo;s extra die optional, and does it work with Experimental Battlestation?&rdquo;: &ldquo;It is a &lsquo;may&rsquo;, so you can decline it. It adds a die whenever your units use Space Cannon or Bombardment, including a space dock firing through Experimental Battlestation.&rdquo;</li>
         </ul></li>
@@ -421,7 +421,7 @@
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;the attacker&rsquo;s Assault Cannon can push the defender below 3 non-fighter ships and deny the defender&rsquo;s own Assault Cannon.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (livestrongbelwas, Feb 08, 2018): &ldquo;The second player doesn&rsquo;t get to use his Assault Cannons&rdquo;</li>
         </ul></li>
-        <li>Examples of other abilities that may remove units at the start of a space combat include the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Dimensional%20Splicer"><i>Dimensional Splicer</i></a> faction technology ability, the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, the <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Impulse%20Core"><i>Impulse Core</i></a> faction technology ability, as well as abilities such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End"><i>Courageous to the End</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card that may trigger off of any of the previous abilities.<sup>*</sup>
+        <li>Examples of other abilities that may remove units at the start of a space combat include the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Dimensional%20Splicer"><i>Dimensional Splicer</i></a> faction technology ability, the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, the <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Technology#Faction_Technology:~:text=Impulse%20Core"><i>Impulse Core</i></a> faction technology ability, as well as abilities such as the <i>Courageous to the End</i> action card or the <i>Reflective Shielding</i> action card that may trigger off of any of the previous abilities.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -534,7 +534,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can Integrated Economy produce?&rdquo;: &ldquo;ships appear in that system, unless enemy ships are there.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> FFG ruling (eumaies, Feb 21, 2018): &ldquo;You can build ships normally, but if enemy ships are present, you cannot.&rdquo;</li>
         </ul></li>
-    <li>No unit is using its <sc>Production</sc> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup>
+    <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not apply.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Sarween Tools work?&rdquo;: &ldquo;It needs a unit&rsquo;s Production ability, so it doesn&rsquo;t apply to effects that just let you produce.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can Integrated Economy produce?&rdquo;: &ldquo;It isn&rsquo;t a Production ability, so Sarween Tools &hellip; don&rsquo;t apply.&rdquo;</li>

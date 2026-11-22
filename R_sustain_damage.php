@@ -19,9 +19,9 @@
     <li>A ship in the active system may use its <sc>Sustain Damage</sc> ability to cancel a hit produced by a space cannon roll during the <b>Space Cannon Offense</b> step.<sup>1,2</sup></li>
     <li>A mech committed to a planet may use its <sc>Sustain Damage</sc> ability to cancel a hit produced during the <b>Space Cannon Defense</b> step by a unit on that planet.<sup>1</sup></li>
     <li>Mechs may use their <sc>Sustain Damage</sc> ability to cancel a hit produced by a bombardment roll.<sup>2</sup></li>
-    <li>A non&ndash;fighter ship cannot use its <sc>Sustain Damage</sc> ability to cancel a hit produced by an anti&ndash;fighter barrage roll, unless an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a> action card makes it eligible to be hit.<sup>1,2</sup></li>
+    <li>A non&ndash;fighter ship cannot use its <sc>Sustain Damage</sc> ability to cancel a hit produced by an anti&ndash;fighter barrage roll, unless an effect such as the <i>Waylay</i> action card makes it eligible to be hit.<sup>1,2</sup></li>
     <li>A unit may only use its <sc>Sustain Damage</sc> ability once in each timing window, even if it is repaired.<sup>2,4</sup></li>
-    <li>If multiple ships use their <sc>Sustain Damage</sc> ability, a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be played for each.<sup>1,2,5</sup></li>
+    <li>If multiple ships use their <sc>Sustain Damage</sc> ability, a <i>Direct Hit</i> action card may be played for each.<sup>1,2,5</sup></li>
     <ol>
         <li>When a player uses the <sc>Sustain Damage</sc> ability of one of their ships, they do not have to decide if another of their ships in the same combat will use its <sc>Sustain Damage</sc> ability until after their opponent has used or declined to use a <i>Direct Hit</i>.<sup>2</sup></li>
         <li>A mech cannot be destroyed by <i>Direct Hit</i>, as it is not a ship.<sup>2</sup></li>

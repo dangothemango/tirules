@@ -62,7 +62,7 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Linkship (Unit): If the Ral Nel player has the PDS II unit upgrade, can their Linkships&rsquo; SPACE CANNON be used to target ships in adjacent systems? A: No, Link Ship 1 only allows use of Space Canon unit ability.&rdquo;</li>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A: &ldquo;RalNel Linkships and PDS 2&rdquo;: &ldquo;range probably shouldn&rsquo;t be transitive.&rdquo; designer ruling, hedged.</li>
         </ul></li>
-    <li>If a space dock gains <sc>Space Cannon</sc> from the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card, each Linkship II in the system may use that <sc>Space Cannon</sc> ability.<sup>6</sup>
+    <li>If a space dock gains <sc>Space Cannon</sc> from the <i>Experimental Battlestation</i> action card, each Linkship II in the system may use that <sc>Space Cannon</sc> ability.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the interaction between Experimental Battlestation and Linkship II? &hellip; A: Yes, previous rulings on EBS have clarified that the dock gains the ability during the movement step, thus it can be used by Linkship&rsquo;s ability.&rdquo;</li>
         </ul></li>
@@ -82,7 +82,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Last Dispatch: &ldquo;you may destroy 1 ship in the active system that does not have SUSTAIN DAMAGE.&rdquo;</li>
         </ul></li>
-    <ol><li>If a unit loses the <sc>Sustain Damage</sc> ability, such as a war sun by the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Publicize%20Weapon%20Schematics"><i>Publicize Weapon Schematics</i></a> agenda, then that unit may be destroyed with the ability of the <i>Last Dispatch</i>.<sup>7</sup>
+    <ol><li>If a unit loses the <sc>Sustain Damage</sc> ability, such as a war sun by the effect of the <i>Publicize Weapon Schematics</i> agenda, then that unit may be destroyed with the ability of the <i>Last Dispatch</i>.<sup>7</sup>
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Same text: the target must be a ship &ldquo;that does not have SUSTAIN DAMAGE.&rdquo;</li>
         </ul></li></ol>
@@ -90,7 +90,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens if the flagship ability destroys the last player&rsquo;s ship in the system? Do you still retreat? A: Yes, the ships retreat and the ability resolves.&rdquo;</li>
         </ul></li>
-    <li>If the Ral Nel player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, they cannot resolve the ability of the <i>Last Dispatch</i>.<sup>2</sup>
+    <li>If the Ral Nel player plays the <i>Skilled Retreat</i> action card, they cannot resolve the ability of the <i>Last Dispatch</i>.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Skilled Retreat differ from a normal retreat?&rdquo;: &ldquo;It isn&rsquo;t a retreat in rules terms but a move.&rdquo; The Last Dispatch triggers &ldquo;When this unit retreats.&rdquo;</li>
         </ul></li>
@@ -126,7 +126,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Watchful Ojz is a &ldquo;when&rdquo; ability. It resolves before the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card is played and resolved.<sup>6</sup>
+    <li>Watchful Ojz is a &ldquo;when&rdquo; ability. It resolves before the <i>Intercept</i> action card is played and resolved.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Watchful Ojz (Commander): How does Watchful Ojz interact with the Intercept action card &hellip;? A: Commander is a When, resolve Watchful Ojz, then Intercept is played and resolved.&rdquo;</li>
         </ul></li>
@@ -142,7 +142,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>When the Ral Nel player passes again, they may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> secret objective.<sup>*</sup>
+    <li>When the Ral Nel player passes again, they may score the <i>Prove Endurance</i> secret objective.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

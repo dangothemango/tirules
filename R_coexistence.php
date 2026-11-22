@@ -39,7 +39,7 @@
     <li>When scoring an objective, a coexisting player considers both themselves and the controlling player to control that planet. The player that controls the planet does not count a coexisting player as also controlling it.<sup>2,6,7,9</sup></li>
     <ol><li>A player may score public objectives even if they coexist on, but do not control, each planet in their home system.<sup>6,9</sup></li></ol>
     <li>A player must control a planet, not merely coexist on it, to explore it.<sup>6,9</sup></li>
-    <li>A player cannot spend another player&rsquo;s coexisting units to pay the cost of an exploration card, such as <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Volatile%20Fuel%20Source"><i>Volatile Fuel Source</i></a>.<sup>9</sup></li>
+    <li>A player cannot spend another player&rsquo;s coexisting units to pay the cost of an exploration card, such as <i>Volatile Fuel Source</i>.<sup>9</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

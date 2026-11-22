@@ -19,7 +19,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a ship use Sustain Damage against Space Cannon hits?&rdquo;: &ldquo;Yes &mdash; Sustain Damage can cancel any hit produced against the unit.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 87.4: &ldquo;A unit can use its &lsquo;Sustain Damage&rsquo; ability any time a hit is produced against it.&rdquo;</li>
         </ul></li>
-    <li>A non&ndash;fighter ship cannot use its <sc>Sustain Damage</sc> ability to cancel a hit produced by an anti&ndash;fighter barrage roll, unless an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a> action card makes it eligible to be hit.<sup>1,2</sup>
+    <li>A non&ndash;fighter ship cannot use its <sc>Sustain Damage</sc> ability to cancel a hit produced by an anti&ndash;fighter barrage roll, unless an effect such as the <i>Waylay</i> action card makes it eligible to be hit.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 87.4a: &ldquo;A unit can only use the &lsquo;Sustain Damage&rsquo; ability if it is eligible to be hit. For example, a player cannot use a dreadnought&rsquo;s &lsquo;Sustain Damage&rsquo; ability to cancel a hit from &lsquo;Anti-Fighter Barrage.&rsquo;&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Raid Formation and Waylay interact?&rdquo;: &ldquo;With Waylay, those hits still hit ships and the opponent assigns them normally, using Sustain Damage on undamaged ships if they like.&rdquo;</li>
@@ -29,7 +29,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a ship repaired by the Empyrean flagship use Sustain Damage again in the same round?&rdquo;: &ldquo;No &mdash; a unit can sustain only once per instance of the timing window.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;the same unit could not use its Sustain Damage ability multiple times during the same timing window.&rdquo;</li>
         </ul></li>
-    <li>If multiple ships use their <sc>Sustain Damage</sc> ability, a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be played for each.<sup>1,2,5</sup>
+    <li>If multiple ships use their <sc>Sustain Damage</sc> ability, a <i>Direct Hit</i> action card may be played for each.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Direct Hit&rsquo; can be used to follow up hits that are assigned by &lsquo;Ambush,&rsquo; &lsquo;Dimensional Splicer,&rsquo; &lsquo;Devotion,&rsquo; and other similar abilities.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can several Direct Hits or Shields Holdings be played in the same combat round?&rdquo;: &ldquo;Several Direct Hits, yes: each Sustain Damage use is its own trigger, so you can answer each with a Direct Hit on that ship.&rdquo;</li>

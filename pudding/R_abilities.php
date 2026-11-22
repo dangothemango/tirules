@@ -18,7 +18,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken &hellip;?&rdquo;: &ldquo;Right after activating a system that already held your sleeper token; a sleeper placed later in that activation, say by Scanlink exploration, can&rsquo;t be awakened then.&rdquo;</li>
         </ul></li>
-            <li>The <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology is an example of an ability that checks its condition when it would resolve; a player without three or more non&ndash;fighter ships in the system cannot use <i>Assault Cannon</i>, even if they previously had more ships.<sup>2,5</sup>
+            <li>The <i>Assault Cannon</i> technology is an example of an ability that checks its condition when it would resolve; a player without three or more non&ndash;fighter ships in the system cannot use <i>Assault Cannon</i>, even if they previously had more ships.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If both players have start-of-combat abilities like Assault Cannon &hellip;?&rdquo;: &ldquo;with each trigger re-checked when its turn comes. So the attacker&rsquo;s Assault Cannon can push the defender below 3 non-fighter ships and deny the defender&rsquo;s own Assault Cannon.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (livestrongbelwas, Feb 08, 2018): &ldquo;The second player doesn&rsquo;t get to use his Assault Cannons&rdquo; Condition is checked when the ability would resolve.</li>

@@ -22,7 +22,7 @@
     <li>A player who controls one or more space stations may resolve transactions with other players who control one or more space stations.<sup>7</sup></li>
     <ol><li>Players who resolve transactions in this manner need not be neighbors.<sup>7</sup></li></ol>
     <li>A player can exhaust space stations to cast votes. However, space stations are not planets, so they cannot be elected.<sup>6,7,9</sup></li>
-    <li>Space stations are not planets, so attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to them.<sup>6</sup></li>
+    <li>Space stations are not planets, so attachments such as the <i>Nano&ndash;Forge</i> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to them.<sup>6</sup></li>
     <li>A space station is not a planet; controlling one does not prevent a player from being eliminated.<sup>2</sup></li>
     <li>Structures and ground forces cannot be committed to or placed on a space station.<sup>7</sup></li>
     <li>Space Stations do not count as planets for the purpose of scoring objectives, and a player may still score public objectives even if another player controls a space station in their home system.<sup>7</sup></li>

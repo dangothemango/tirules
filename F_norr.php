@@ -47,13 +47,13 @@
     <li>The N&rsquo;orr player may commit up to one ground force from each eligible planet during each <b>Invasion</b> step, regardless of the number of planets they are committing ground forces to.<sup>*</sup></li>
     <li>The N&rsquo;orr player must legally be able to move into the destination system in order to commit ground forces with G&rsquo;hom Sek&rsquo;kus.<sup>4</sup></li>
     <ol>
-        <li>If another player plays the N&rsquo;orr player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, they cannot commit any ground forces to planets in the active system during this action, other than ground forces already in the active system.<sup>4</sup></li>
-        <li>The N&rsquo;orr player cannot commit ground forces to planets in an asteroid field, unless the N&rsquo;orr player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>4</sup></li>
+        <li>If another player plays the N&rsquo;orr player&rsquo;s <i>Ceasefire</i> promissory note, they cannot commit any ground forces to planets in the active system during this action, other than ground forces already in the active system.<sup>4</sup></li>
+        <li>The N&rsquo;orr player cannot commit ground forces to planets in an asteroid field, unless the N&rsquo;orr player owns the <i>Antimass Deflectors</i> technology.<sup>4</sup></li>
         <li>If the N&rsquo;orr player commits any ground forces from a gravity rift system, those ground forces must roll for removal.<sup>*</sup></li>
         <li>The N&rsquo;orr player cannot commit ground forces through a wormhole if the <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law is in play.<sup>4</sup></li>
     </ol>
-    <li>Purging the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Dominus%20Orb"><i>Dominus Orb</i></a> relic does not allow the N&rsquo;orr player to use G&rsquo;hom Sek&rsquo;kus to commit ground forces from systems that contain their command tokens.<sup>4</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card will place the committed ground forces in the space area of the active system. If the N&rsquo;orr player does not have enough capacity in the space area for the extra ground forces, including zero capacity, they will have to remove fighters and ground forces to meet capacity limits.<sup>2</sup></li>
+    <li>Purging the <i>Dominus Orb</i> relic does not allow the N&rsquo;orr player to use G&rsquo;hom Sek&rsquo;kus to commit ground forces from systems that contain their command tokens.<sup>4</sup></li>
+    <li>The <i>Parley</i> action card will place the committed ground forces in the space area of the active system. If the N&rsquo;orr player does not have enough capacity in the space area for the extra ground forces, including zero capacity, they will have to remove fighters and ground forces to meet capacity limits.<sup>2</sup></li>
     <li>Only the active player may use the <sc>Bombardment</sc> ability of their units during an invasion.<sup>3,4</sup></li>
     <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability, unless they are the active player.<sup>4</sup></li></ol>
     </ol>
@@ -63,7 +63,7 @@
     <li>The <b>Space Cannon Offense</b>, <b>Space Combat</b> and <b>Bombardment</b> steps are skipped.<sup>*</sup></li>
     <li>The N&rsquo;orr player&rsquo;s ships in the active system are returned to their reinforcements; they are not destroyed. Abilities that trigger when ships are destroyed cannot be used.<sup>*</sup></li>
     <li>Any abilities that trigger &ldquo;after a player moves ships&hellip;&rdquo; or similar cannot be used following <i>Tekklar Conditioning</i>.<sup>*</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card will place the committed ground forces in the space area of the active system. As the N&rsquo;orr player will not have enough capacity in the space area for their ground forces, they will have to remove all ground forces from that planet, that are now in the space area of that system.<sup>2</sup></li>
+    <li>The <i>Parley</i> action card will place the committed ground forces in the space area of the active system. As the N&rsquo;orr player will not have enough capacity in the space area for their ground forces, they will have to remove all ground forces from that planet, that are now in the space area of that system.<sup>2</sup></li>
     </ol>
 
 <h2 id="valkyrie-exoskeleton"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Exoskeleton">Valkyrie Exoskeleton</a> <sub>(Mech)</sub></h2>

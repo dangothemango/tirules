@@ -30,7 +30,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I build space docks or PDS with Production?&rdquo;: &ldquo;A planet holds at most one space dock and two PDS, Mecatol Rex included.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;Players are limited to two PDS units and one space dock on each planet.&rdquo;</li>
         </ul></li>
-    <li>Structures cannot be placed on the planet with the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone"><i>Demilitarized Zone</i></a> exploration card attached.<sup>*</sup>
+    <li>Structures cannot be placed on the planet with the <i>Demilitarized Zone</i> exploration card attached.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: on a Demilitarized Zone planet, &ldquo;infantry cannot be placed on the elected planet.&rdquo; Structures are not addressed.</li>
         </ul></li>

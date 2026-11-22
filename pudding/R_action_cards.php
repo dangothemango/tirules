@@ -28,7 +28,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;In what order are action cards drawn in the status phase?&rdquo;: &ldquo;In initiative order, though it rarely matters in practice.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>If a player has the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Neural_Motivator"><i>Neural Motivator</i></a> technology, they will draw both their action cards before the next player in order draws an action card.<sup>*</sup>
+        <li>If a player has the <i>Neural Motivator</i> technology, they will draw both their action cards before the next player in order draws an action card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -37,12 +37,12 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If a player&rsquo;s action card is canceled, usually via a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a> action card, then if that player has a second copy of that action card, they may play it.<sup>2,5</sup>
+    <li>If a player&rsquo;s action card is canceled, usually via a <i>Sabotage</i> action card, then if that player has a second copy of that action card, they may play it.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If my action card is cancelled by Sabotage, can I play another copy &hellip;?&rdquo;: &ldquo;Yes &mdash; a cancelled card is treated as never having been played.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Because the card was cancelled, yes, you can play another copy of the same action card.&rdquo;</li>
         </ul></li>
-    <li>A player cannot use action cards that destroy units, such as <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lucky%20Shot"><i>Lucky Shot</i></a>, against their own units.<sup>1,2,5</sup>
+    <li>A player cannot use action cards that destroy units, such as <i>Lucky Shot</i>, against their own units.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Lucky Shot&rsquo; and other similar effects can only be used against other player&rsquo;s units and planets.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;abilities that destroy units can only be used against other players&rsquo; units and planets.&rdquo;</li>
@@ -52,7 +52,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I play an action card whose effect would amount to nothing &hellip;?&rdquo;: &ldquo;Yes &mdash; doing the card&rsquo;s text with a result of zero still counts as resolving it.&rdquo;</li>
         </ul></li>
-    <li>If an action card targets a specific number of a particular type of object, that action card cannot be played if those objects do not currently exist. For example, <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Repeal%20Law"><i>Repeal Law</i></a> cannot be played if there are no laws in play.<sup>5</sup>
+    <li>If an action card targets a specific number of a particular type of object, that action card cannot be played if those objects do not currently exist. For example, <i>Repeal Law</i> cannot be played if there are no laws in play.<sup>5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (x3n d0g, 1/25/2019): &ldquo;think Repeal Law when there are no laws in play&rdquo; Repeal Law is the cited example of a card with no legal target that cannot be played.</li>
         </ul></li>

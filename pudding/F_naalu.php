@@ -5,7 +5,7 @@
 
 <h2 id="telepathic"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Telepathic">Telepathic</a></h2>
     <ol class="note">
-    <li>The Naalu player retains the Naalu 0 token, even if an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Imperial%20Arbiter"><i>Imperial Arbiter</i></a> law causes them to lose the strategy card it was on. The Naalu player will place the Naalu 0 token on another strategy card in this scenario.<sup>1</sup>
+    <li>The Naalu player retains the Naalu 0 token, even if an effect such as the <i>Imperial Arbiter</i> law causes them to lose the strategy card it was on. The Naalu player will place the Naalu 0 token on another strategy card in this scenario.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does the Naalu &lsquo;0&rsquo; token move with the strategy card it is placed on if the card is exchanged with or taken by another player? A: No. The Naalu &lsquo;0&rsquo; token stays with the Naalu or the faction that gained the token through the &lsquo;Gift of Prescience&rsquo; promissory note and is placed on any of that player&rsquo;s strategy cards.&rdquo;</li>
         </ul></li>
@@ -17,11 +17,11 @@
 
 <h2 id="foresight"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Abilities:~:text=Foresight">Foresight</a></h2>
     <ol class="note">
-    <li>Using <sc>Foresight</sc> is not a retreat. As such, it cannot be canceled with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card.<sup>2</sup>
+    <li>Using <sc>Foresight</sc> is not a retreat. As such, it cannot be canceled with the <i>Intercept</i> action card.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does Naalu Foresight happen, and where can the ships go?&rdquo;: &ldquo;Intercept doesn&rsquo;t stop it, as it isn&rsquo;t a combat retreat.&rdquo;</li>
         </ul></li>
-    <li>The command token is not spent. The Naalu player cannot use the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Scepter%20of%20Emelpar"><i>Scepter of Emelpar</i></a>, nor will they gain a trade good if they have the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note.<sup>*</sup>
+    <li>The command token is not spent. The Naalu player cannot use the <i>Scepter of Emelpar</i>, nor will they gain a trade good if they have the <a href="/F_muaat">Muaat</a> player&rsquo;s <i>Alliance</i> promissory note.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -39,7 +39,7 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR quick reference: &ldquo;Each Ship Moving Through or Out of Applies +1 Move and Rolls 1 die.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>Ships do not roll for removal if the Naalu player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic.<sup>11</sup>
+        <li>Ships do not roll for removal if the Naalu player owns the <i>Circlet of the Void</i> relic.<sup>11</sup>
         <ul>
         <li><b>Explicit</b>: <sup>11</sup> Codex IV, Circlet of the Void: &ldquo;Your units do not roll for gravity rifts, and you ignore the movement effects of other anomalies.&rdquo;</li>
         </ul></li>
@@ -74,7 +74,7 @@
 
 <h2 id="gift-of-prescience"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Promissory_Note:~:text=Gift%20of%20Prescience">Gift of Prescience</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>The player with <i>Gift of Prescience</i> retains the Naalu 0 token, even if an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Imperial%20Arbiter"><i>Imperial Arbiter</i></a> law causes them to lose the strategy card it was on. That player will place the Naalu 0 token on another strategy card in this scenario.<sup>1</sup>
+    <li>The player with <i>Gift of Prescience</i> retains the Naalu 0 token, even if an effect such as the <i>Imperial Arbiter</i> law causes them to lose the strategy card it was on. That player will place the Naalu 0 token on another strategy card in this scenario.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does the Naalu &lsquo;0&rsquo; token move with the strategy card it is placed on if the card is exchanged with or taken by another player? A: No. The Naalu &lsquo;0&rsquo; token stays with the Naalu or the faction that gained the token through the &lsquo;Gift of Prescience&rsquo; promissory note and is placed on any of that player&rsquo;s strategy cards.&rdquo;</li>
         </ul></li>
@@ -115,7 +115,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to space docks and PDS when an enemy takes the planet?&rdquo;: &ldquo;Fighters fighting via the Naalu flagship don&rsquo;t destroy them, since they aren&rsquo;t on the planet afterwards.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Sep 17, 2018): &ldquo;The Space dock would not be destroyed, in this instance, for the reason you have stated.&rdquo; Fighters-only invaders are never contained by the planet.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies"><i>Dacxive Animators</i></a> technology will not allow the Naalu player to gain control of a planet without committing a ground force.<sup>1,2,5</sup>
+    <li>The <i>Dacxive Animators</i> technology will not allow the Naalu player to gain control of a planet without committing a ground force.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Using &lsquo;The Matriarch&rsquo; flagship in combination with the &lsquo;Dacxive Animators&rsquo; technology, can the Naalu gain control of a planet using only fighters? A: No. Because the combat ends in a draw, the &lsquo;Dacxive Animators&rsquo; ability is not triggered.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Naalu fighters fighting with the Matriarch win a ground combat or take control of a planet?&rdquo;: &ldquo;If only fighters remain, the combat is a draw, Dacxive Animators doesn&rsquo;t trigger.&rdquo;</li>
@@ -154,7 +154,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 5.2: &ldquo;A player cannot activate a system that already contains one of their command tokens.&rdquo;</li>
         </ul></li>
-        <li>A player may play a <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note or discard the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> law for their effects.<sup>*</sup>
+        <li>A player may play a <i>Ceasefire</i> promissory note or discard the <i>Minister of Peace</i> law for their effects.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -180,12 +180,12 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the chosen player is not the Naalu player, they cannot use the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology to perform an additional action.<sup>4</sup>
+    <li>If the chosen player is not the Naalu player, they cannot use the <i>Fleet Logistics</i> technology to perform an additional action.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
         </ul></li>
     <ol>
-        <li>The chosen player may use the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Master%20Plan"><i>Master Plan</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20War"><i>Minister of War</i></a> agenda to perform an additional action.<sup>4</sup>
+        <li>The chosen player may use the <i>Master Plan</i> action card or the <i>Minister of War</i> agenda to perform an additional action.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
         </ul></li>
@@ -199,7 +199,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>The chosen player cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> secret objective at the end of their action.<sup>*</sup>
+        <li>The chosen player cannot score the <i>Prove Endurance</i> secret objective at the end of their action.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -220,7 +220,7 @@
 
 <h2 id="zeu-omega-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;&Omega;</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>Z&rsquo;eu &Omega;&Omega; may be used whenever a command token is placed in a system. For example, it may be used when a player activates a system, when a player resolves the primary ability of the <i>Diplomacy</i> strategy card, or when a player resolves the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming"><i>Signal Jamming</i></a> action card.<sup>*</sup>
+    <li>Z&rsquo;eu &Omega;&Omega; may be used whenever a command token is placed in a system. For example, it may be used when a player activates a system, when a player resolves the primary ability of the <i>Diplomacy</i> strategy card, or when a player resolves the <i>Signal Jamming</i> action card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -240,7 +240,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I unlock the Naalu commander partway through a production and use it for the rest?&rdquo;: &ldquo;production is one step, so the unlock condition is only met after it finishes&rdquo; the example follows directly from this rule.</li>
         </ul></li></ol>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Naalu player may produce two fighters for one resource. This will count as one toward their <sc>Production</sc> limit.<sup>*</sup>
+    <li>If the <i>Regulated Conscription</i> law is in play, the Naalu player may produce two fighters for one resource. This will count as one toward their <sc>Production</sc> limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -262,7 +262,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;It also cannot be used to interrupt the primary ability of the Politics strategy card.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;A FAQ answer quoted by a player says it can&rsquo;t &hellip; interrupt the Politics primary.&rdquo;</li>
         </ul></li>
-    <li>When the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda.<sup>2,4</sup>
+    <li>When the <i>Covert Legislation</i> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective Commander, M&rsquo;aban Omega, cannot look at the next card when Covert Legislation is revealed before the speaker draws the top card of the agenda deck.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;it can&rsquo;t peek at the card Covert Legislation draws.&rdquo;</li>

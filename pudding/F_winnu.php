@@ -69,7 +69,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Mentak may use Pillage &ldquo;when they are neighbors with another faction as a result of the &lsquo;Lazax Gate Folding&rsquo; faction technology.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;rules as written, the Mentak would be able to pillage the transaction.&rdquo;</li>
         </ul></li>
-        <li>Other players may use the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability of their units in systems containing alpha or beta wormholes during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the Mecatol Rex system is the active system.<sup>5</sup>
+        <li>Other players may use the <sc>Deep Space Cannon</sc> ability of their units in systems containing alpha or beta wormholes during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the Mecatol Rex system is the active system.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Xxcha can also fire.&rdquo;</li>
         </ul></li>
@@ -138,7 +138,7 @@
 
 <h2 id="reclaimer"><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Mech:~:text=Reclaimer">Reclaimer</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>If the Winnu player places a Reclaimer with the <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Imperial%20Arms%20Vault"><i>Imperial Arms Vault</i></a> ability of <a href="https://twilight-imperium.fandom.com/wiki/Hope&#x27;s_End">Hope&rsquo;s End</a>, it cannot use its ability to place a structure that turn, as that happens at the end of the turn, after the tactical action has been resolved.<sup>2</sup>
+    <li>If the Winnu player places a Reclaimer with the <i>Imperial Arms Vault</i> ability of <a href="https://twilight-imperium.fandom.com/wiki/Hope&#x27;s_End">Hope&rsquo;s End</a>, it cannot use its ability to place a structure that turn, as that happens at the end of the turn, after the tactical action has been resolved.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If Winnu place a mech with Hope&rsquo;s End, can the Winnu mech ability then place a space dock?&rdquo;: &ldquo;No &mdash; Hope&rsquo;s End resolves at the end of your turn, after the window where the mech&rsquo;s ability triggers.&rdquo;</li>
         </ul></li>
@@ -150,7 +150,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The Reclaimer need only be on the planet at the end of the tactical action the Winnu player gained it, not when the Winnu player gains control of it. This can occur from effects such as the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, or some exploration cards.<sup>*</sup>
+    <li>The Reclaimer need only be on the planet at the end of the tactical action the Winnu player gained it, not when the Winnu player gains control of it. This can occur from effects such as the <i>Integrated Economy</i> technology, or some exploration cards.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -158,7 +158,7 @@
 
 <h2 id="imperator"><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Breakthrough:~:text=Imperator">Imperator</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>The Winnu player applies the +1 to their combat rolls even if it is the Winnu player&rsquo;s own <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne"><i>Support for the Throne</i></a> in their opponent&rsquo;s play area.<sup>*</sup>
+    <li>The Winnu player applies the +1 to their combat rolls even if it is the Winnu player&rsquo;s own <i>Support for the Throne</i> in their opponent&rsquo;s play area.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

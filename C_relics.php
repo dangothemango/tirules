@@ -104,27 +104,27 @@
 
 <h2 id="metali-void-shielding"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Metali%20Void%20Shielding">Metali Void Shielding</a></h2>
     <ol class="note">
-    <li>The affected ship may be destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card after it uses the <sc>Sustain Damage</sc> ability.<sup>*</sup></li>
-    <li>A player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card after it uses the <sc>Sustain Damage</sc> ability via <i>Metali Void Shielding</i>.<sup>*</sup></li>
-    <li>If a player owns <i>Metali Void Shielding</i>, and their opponent plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a> action card, they may use <i>Metali Void Shielding</i> for both the <sc>Anti&ndash;Fighter Barrage</sc> and combat rolls in that round of space combat.<sup>*</sup></li>
+    <li>The affected ship may be destroyed by the <i>Direct Hit</i> action card after it uses the <sc>Sustain Damage</sc> ability.<sup>*</sup></li>
+    <li>A player may play the <i>Reflective Shielding</i> action card after it uses the <sc>Sustain Damage</sc> ability via <i>Metali Void Shielding</i>.<sup>*</sup></li>
+    <li>If a player owns <i>Metali Void Shielding</i>, and their opponent plays the <i>Waylay</i> action card, they may use <i>Metali Void Shielding</i> for both the <sc>Anti&ndash;Fighter Barrage</sc> and combat rolls in that round of space combat.<sup>*</sup></li>
     <li><i>Metali Void Shielding</i> has no effect when the <a href="/F_argent">Argent</a> player resolves their <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation"><sc>Raid Formation</sc></a> faction ability.<sup>*</sup></li>
     <li>If the <a href="/F_nekro">Nekro</a> player owns <i>Metali Void Shielding</i>, their ground forces participating in space combat due to their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, may be damaged.<sup>6</sup></li>
     </ol>
 
 <h2 id="nanoforge"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge">Nano&ndash;Forge</a></h2>
     <ol class="note">
-    <li>The attached planet will be legendary for effects such as scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History"><i>Make History</i></a> public objective and similar objectives, transferring the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> relic, and the <a href="/F_winnu">Winnu</a> player's commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Rickar%20Rickani">Rickar Rickani</a>. The attached planet also can no longer be chosen by effects that require a non&ndash;legendary planet, such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic.<sup>14</sup></li>
+    <li>The attached planet will be legendary for effects such as scoring the <i>Make History</i> public objective and similar objectives, transferring the <i>Shard of the Throne</i> relic, and the <a href="/F_winnu">Winnu</a> player's commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Rickar%20Rickani">Rickar Rickani</a>. The attached planet also can no longer be chosen by effects that require a non&ndash;legendary planet, such as the <i>Stellar Converter</i> relic.<sup>14</sup></li>
     </ol>
 
 <h2 id="neuraloop"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Neuraloop">Neuraloop</a></h2>
     <ol class="note">
     <li>A player may use <i>Neuraloop</i> to purge <i>Neuraloop</i> itself, resolving its ability.<sup>11</sup></li>
-    <li>A player may use <i>Neuraloop</i> to purge <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a>, even if it is attached to a planet, if they control that planet. That planet loses the increase to its resources and influence values, and is no longer legendary.<sup>*</sup></li>
+    <li>A player may use <i>Neuraloop</i> to purge <i>Nano&ndash;Forge</i>, even if it is attached to a planet, if they control that planet. That planet loses the increase to its resources and influence values, and is no longer legendary.<sup>*</sup></li>
     <li>If a player uses <i>Neuraloop</i> to purge another relic that has a purge ability, that purge ability is not resolved.<sup>*</sup></li>
-    <li>If a player uses <i>Neuraloop</i> to purge the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a>, that player&rsquo;s units may remain in and move out of any supernovae and/or asteroid fields they are currently in, but cannot move additional units into or through, unless they have another ability that would allow them to do so, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>*</sup></li>
-    <li>If a player uses <i>Neuraloop</i> to purge the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Dynamis%20Core"><i>Dynamis Core</i></a>, and they have more commodities than their faction&rsquo;s printed commodity value, they return any extras to the supply.<sup>4</sup></li>
-    <li>If a player uses <i>Neuraloop</i> to purge the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Obsidian"><i>The Obsidian</i></a> relic, that player must discard one unscored secret objective if they have a total of four scored or unscored secret objectives. There is no effect if they have four scored secret objectives.<sup>*</sup></li>
-    <li>If a player uses <i>Neuraloop</i> to purge the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a>, that player loses a victory point.<sup>*</sup></li>
+    <li>If a player uses <i>Neuraloop</i> to purge the <i>Circlet of the Void</i>, that player&rsquo;s units may remain in and move out of any supernovae and/or asteroid fields they are currently in, but cannot move additional units into or through, unless they have another ability that would allow them to do so, such as the <i>Antimass Deflectors</i> technology.<sup>*</sup></li>
+    <li>If a player uses <i>Neuraloop</i> to purge the <i>Dynamis Core</i>, and they have more commodities than their faction&rsquo;s printed commodity value, they return any extras to the supply.<sup>4</sup></li>
+    <li>If a player uses <i>Neuraloop</i> to purge the <i>The Obsidian</i> relic, that player must discard one unscored secret objective if they have a total of four scored or unscored secret objectives. There is no effect if they have four scored secret objectives.<sup>*</sup></li>
+    <li>If a player uses <i>Neuraloop</i> to purge the <i>Shard of the Throne</i>, that player loses a victory point.<sup>*</sup></li>
     <li>A secret objective revealed by <i>Neuraloop</i> becomes a public objective.<sup>11</sup></li>
     <li>If a player uses <i>Neuraloop</i> to reveal a secret objective as a public objective, that objective does not count toward the limit of three scored or unscored secret objectives for any player that scores it.<sup>*</sup></li>
     <li>A player can score a maximum of one objective of any type during or after each combat. A player cannot score the secret objective revealed by <i>Neuraloop</i> and one of their own secret objectives from the same combat.<sup>1</sup></li>
@@ -151,7 +151,7 @@
     <ol class="note">
     <li>The <i>Scepter of Emelpar</i> may be used whenever a command token would be spent from a player&rsquo;s strategy pool. This includes when spending to perform the secondary ability of a strategy card, for faction abilities, and when scoring objectives.<sup>*</sup></li>
     <li>If a player has no command tokens in their reinforcements, they must use a command token from their command sheet instead when they use the ability of the <i>Scepter of Emelpar</i>.<sup>*</sup></li>
-    <li>A command token spent from reinforcements using <i>Scepter of Emelpar</i> instead of from the strategy pool counts toward objectives that require spending command tokens, such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Galvanize%20the%20People"><i>Galvanize the People</i></a>.<sup>2</sup></li>
+    <li>A command token spent from reinforcements using <i>Scepter of Emelpar</i> instead of from the strategy pool counts toward objectives that require spending command tokens, such as <i>Galvanize the People</i>.<sup>2</sup></li>
     <li>If the <a href="/F_muaat">Muaat</a> player uses the ability of the <i>Scepter of Emelpar</i>, they will not gain a trade good from the ability of their commander, Magmus.<sup>*</sup></li>
     </ol>
 
@@ -179,17 +179,17 @@
     <li><i>The Triad</i> is not considered a planet for other game effects.<sup>6</sup></li>
     <ol>
         <li>Units cannot be placed on <i>The Triad</i>.<sup>*</sup></li>
-        <li><i>The Triad</i> cannot be exhausted by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a> action card.<sup>6</sup></li>
-        <li><i>The Triad</i> cannot be elected by an &ldquo;elect planet&rdquo; agenda, nor can it be exhausted by agenda effects such as the &ldquo;For&rdquo; effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=New%20Constitution"><i>New Constitution</i></a> agenda.<sup>*</sup></li>
-        <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic or the <a href="/F_ul">Ul</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to <i>The Triad</i>.<sup>6</sup></li>
-        <li><i>The Triad</i> does not count toward the planets required to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries"><i>Push Boundaries</i></a> public objective, nor the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony"><i>Establish Hegemony</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials"><i>Hoard Raw Materials</i></a> secret objectives. In addition, it does not count toward any objectives that require a planet in a specific type of system.<sup>6</sup></li>
+        <li><i>The Triad</i> cannot be exhausted by the <i>Uprising</i> action card.<sup>6</sup></li>
+        <li><i>The Triad</i> cannot be elected by an &ldquo;elect planet&rdquo; agenda, nor can it be exhausted by agenda effects such as the &ldquo;For&rdquo; effect of the <i>New Constitution</i> agenda.<sup>*</sup></li>
+        <li>Attachments such as the <i>Nano&ndash;Forge</i> relic or the <a href="/F_ul">Ul</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to <i>The Triad</i>.<sup>6</sup></li>
+        <li><i>The Triad</i> does not count toward the planets required to score the <i>Push Boundaries</i> public objective, nor the <i>Establish Hegemony</i> or <i>Hoard Raw Materials</i> secret objectives. In addition, it does not count toward any objectives that require a planet in a specific type of system.<sup>6</sup></li>
         <li><i>The Triad</i> does not have a planet trait; it cannot be explored.<sup>*</sup></li>
     </ol>
     <li><i>The Triad</i> may be readied by effects that ready planets, such as the <i>Diplomacy</i> strategy card.<sup>*</sup></li>
     <ol><li><i>The Triad</i> is also readied at the end of the agenda phase.<sup>3</sup></li></ol>
     <li><i>The Triad</i> may be exhausted to cast votes.<sup>6,9</sup></li>
-    <li>For <i>The Triad</i>, an <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment">Unknown Relic Fragment</a> counts as a fourth type of relic fragment, in addition to Hazardous, Cultural, and Industrial.<sup>6</sup></li>
-    <li><i>The Triad</i> is not exhausted by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Maw%20of%20Worlds"><i>Maw of Worlds</i></a> relic.<sup>6</sup></li>
+    <li>For <i>The Triad</i>, an Unknown Relic Fragment counts as a fourth type of relic fragment, in addition to Hazardous, Cultural, and Industrial.<sup>6</sup></li>
+    <li><i>The Triad</i> is not exhausted by the <i>Maw of Worlds</i> relic.<sup>6</sup></li>
     <li>The <a href="/F_saar">Saar</a> player does not gain a trade good from their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> faction ability when they gain <i>The Triad</i>.<sup>6</sup></li>
     </ol>
 </article>

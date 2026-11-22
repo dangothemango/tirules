@@ -36,11 +36,11 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>&ldquo;<a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a>&rdquo; is not a term with meaning within the rules. It is, however, used within the notes on this website as a shorthand for <sc>Space Cannon</sc> abilities that can be used against ships in an adjacent system.<sup>*</sup></li>
+    <li>&ldquo;<sc>Deep Space Cannon</sc>&rdquo; is not a term with meaning within the rules. It is, however, used within the notes on this website as a shorthand for <sc>Space Cannon</sc> abilities that can be used against ships in an adjacent system.<sup>*</sup></li>
     <li>The <b>Space Cannon Offense</b> step happens before combat. Any secret objectives that require winning a combat or similar cannot be scored if all of one player&rsquo;s ships in a system are destroyed during this step.<sup>2</sup></li>
     <li>Each unit with the Space Cannon ability may use it once during the Space Cannon Offense step, regardless of how many ships moved into the active system, and again during the Space Cannon Defense step if ground forces are committed to its planet. A PDS does not need ground forces on its planet to use its Space Cannon ability, and may do so even if its system contains its owner&rsquo;s command token.<sup>2</sup></li>
     <li>If a player chooses to use the <sc>Space Cannon</sc> ability of their units, they must do so for all of their eligible units with the <sc>Space Cannon</sc> ability. This includes units in adjacent systems, if applicable.<sup>*</sup></li>
-    <ol><li>A player that chooses to use the <sc>Space Cannon</sc> ability of their units may choose whether or not they use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, if they own it.<sup>2</sup></li></ol>
+    <ol><li>A player that chooses to use the <sc>Space Cannon</sc> ability of their units may choose whether or not they use the ability of the <i>Plasma Scoring</i> technology, if they own it.<sup>2</sup></li></ol>
     <li>If multiple players are resolving the <sc>Space Cannon</sc> ability of their units against the active player, the active player must resolve capacity limits after assigning one player&rsquo;s hits and before the next player makes their space cannon roll.<sup>2</sup></li>
     <li>A player cannot assign hits produced by a space cannon roll to their own units.<sup>2,5</sup></li>
     <li>A player may use the <sc>Sustain Damage</sc> ability of a ship in the active system to cancel a hit produced during the <b>Space Cannon Offense</b> step.<sup>1,2</sup></li>

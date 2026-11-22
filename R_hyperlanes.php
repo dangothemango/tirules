@@ -18,7 +18,7 @@
     </ol>
     <li>&ldquo;Adjacent for all purposes&rdquo; includes:<sup>1</sup></li>
     <ol>
-        <li><a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a>.<sup>1</sup></li>
+        <li><sc>Deep Space Cannon</sc>.<sup>1</sup></li>
         <li>Movement.<sup>1</sup></li>
         <li>Neighbors.<sup>1</sup></li>
         <li>Any other game effect that specifies adjacent systems.<sup>1</sup></li>

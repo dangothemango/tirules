@@ -13,7 +13,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> Same entry: &ldquo;roll one die for each of up to 2 cruisers or destroyers.&rdquo; A removed ship cannot roll.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2</sup>
+    <li>The <i>Shields Holding</i> action card may be used to cancel the hit.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Shields Holding&rsquo; may be used to cancel hits that are produced by these abilities,&rdquo; including &ldquo;Ambush.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?&rdquo;: &ldquo;Yes to both.&rdquo;</li>
@@ -22,7 +22,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 87.4: a unit &ldquo;can use its &lsquo;Sustain Damage&rsquo; ability any time a hit is produced against it.&rdquo;</li>
         </ul></li>
-    <ol><li>If the chosen ship does so, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be played.<sup>1</sup>
+    <ol><li>If the chosen ship does so, the <i>Direct Hit</i> action card may be played.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Direct Hit&rsquo; can be used to follow up hits that are assigned by &lsquo;Ambush,&rsquo; &lsquo;Dimensional Splicer,&rsquo; &lsquo;Devotion,&rsquo; and other similar abilities.&rdquo;</li>
         </ul></li></ol>
@@ -69,7 +69,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If Alice plays Bob&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, then the Mentak player may use <sc>Pillage</sc> on Alice, but not Bob.<sup>*</sup>
+    <ol><li>If Alice plays Bob&rsquo;s <i>Trade Agreement</i> promissory note, then the Mentak player may use <sc>Pillage</sc> on Alice, but not Bob.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -118,7 +118,7 @@
 
 <h2 id="mirror-computing"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Mirror%20Computing">Mirror Computing</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>If an effect specifically requires that trade goods are spent (for example, the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Negotiate%20Trade%20Routes"><i>Negotiate Trade Routes</i></a> objective), <i>Mirror Computing</i> does not increase the value of those trade goods.<sup>2</sup>
+    <li>If an effect specifically requires that trade goods are spent (for example, the <i>Negotiate Trade Routes</i> objective), <i>Mirror Computing</i> does not increase the value of those trade goods.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Mentak&rsquo;s Mirror Computing interact with Bribery or spend-trade-goods objectives?&rdquo;: &ldquo;still 1 when spent as trade goods, so Bribery and objectives that spend trade goods get no bonus.&rdquo;</li>
         </ul></li>
@@ -225,7 +225,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;after both players assign hits the Mentak player then places a ship from their reinforcements in the active system and combat continues.&rdquo;</li>
         </ul></li>
-    <ol><li>When players would use their ships&rsquo; <sc>Sustain Damage</sc> abilities, they do so in alternating order, starting with the attacker. If the Mentak player uses a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy one of their opponent&rsquo;s ships, they must then make the choice immediately if they will replace it using the <i>Sleeper Cell</i> ability, before any other ships may use their <sc>Sustain Damage</sc> ability. Should the Mentak version of the newly placed ship type have a <sc>Sustain Damage</sc> ability, it may then use it during the same combat round.<sup>*</sup>
+    <ol><li>When players would use their ships&rsquo; <sc>Sustain Damage</sc> abilities, they do so in alternating order, starting with the attacker. If the Mentak player uses a <i>Direct Hit</i> action card to destroy one of their opponent&rsquo;s ships, they must then make the choice immediately if they will replace it using the <i>Sleeper Cell</i> ability, before any other ships may use their <sc>Sustain Damage</sc> ability. Should the Mentak version of the newly placed ship type have a <sc>Sustain Damage</sc> ability, it may then use it during the same combat round.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -234,7 +234,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is destroyed during combat, but the Mentak player then destroys their opponent&rsquo;s flagship and places the <i>Fourth Moon</i> back into the combat, they cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective.<sup>4</sup>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is destroyed during combat, but the Mentak player then destroys their opponent&rsquo;s flagship and places the <i>Fourth Moon</i> back into the combat, they cannot score the <i>Unveil Flagship</i> objective.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you use the Mentak Coalition&rsquo;s Hero &hellip; and lose your flagship in a combat, but destroy the other player&rsquo;s flagship and rebuild your own, can you score Unveil Flagship? A: No.&rdquo;</li>
         </ul></li>

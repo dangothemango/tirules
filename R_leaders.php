@@ -23,7 +23,7 @@
         <li data-src="1">A commander cannot flip to its locked side after it is unlocked, even if its owner no longer meets the unlock conditions.</li>
     </ol>
     <li data-src="1">A commander cannot be exhausted.</li>
-    <li data-src="1,8">The <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note allows a player to share their commander&rsquo;s ability with another player.</li>
+    <li data-src="1,8">The <i>Alliance</i> promissory note allows a player to share their commander&rsquo;s ability with another player.</li>
     <ol><li data-src="1">A commander&rsquo;s owner can still use their commander&rsquo;s ability, even if another player has their <i>Alliance</i> promissory note.</li></ol>
     <h2><li>Heroes</li></h2>
     <li data-src="1,8">A hero needs to be unlocked to use their abilities. A player unlocks their hero if they fulfill the conditions listed after the &ldquo;Unlock&rdquo; header.</li>

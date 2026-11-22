@@ -66,7 +66,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can play Bribery, and when?&rdquo;: &ldquo;If an Argent speaker votes first with Zeal, Bribery comes right after that vote.&rdquo;</li>
         </ul></li></ol>
-    <li>Casting additional votes with <i>Bribery</i> does not allow a player to play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor"><i>Distinguished Councilor</i></a>; it can only be played after their normal vote.<sup>1</sup>
+    <li>Casting additional votes with <i>Bribery</i> does not allow a player to play <i>Distinguished Councilor</i>; it can only be played after their normal vote.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does an effect that casts &lsquo;additional votes,&rsquo; such as the &lsquo;Bribery&rsquo; action card, create a timing window for playing the &lsquo;Distinguished Councilor&rsquo; action card? A: No. The &lsquo;Distinguished Councilor&rsquo; action card can only be played after you vote during the &lsquo;Vote&rsquo; step of resolving an agenda.&rdquo;</li>
         </ul></li>
@@ -110,11 +110,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Confounding Legal Text</i> is played before revealing the hidden agenda for the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda, and before the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> objective may be scored.<sup>4</sup>
+    <li><i>Confounding Legal Text</i> is played before revealing the hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> objective may be scored.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;&rsquo;Legal Text&rsquo; ACs would be played before Drive the Debate can be scored.&rdquo; And: &ldquo;The &lsquo;Legal Text&rsquo; action cards and Deadly Plot must be played before the agenda that was voted on is revealed.&rdquo;</li>
         </ul></li>
-    <li><i>Confounding Legal Text</i> may be played after <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text"><i>Confusing Legal Text</i></a> is played.<sup>*</sup>
+    <li><i>Confounding Legal Text</i> may be played after <i>Confusing Legal Text</i> is played.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -130,11 +130,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Confusing Legal Text</i> is played before revealing the hidden agenda for the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda, and before the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> objective may be scored.<sup>4</sup>
+    <li><i>Confusing Legal Text</i> is played before revealing the hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> objective may be scored.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;&rsquo;Legal Text&rsquo; ACs would be played before Drive the Debate can be scored.&rdquo; And: &ldquo;The &lsquo;Legal Text&rsquo; action cards and Deadly Plot must be played before the agenda that was voted on is revealed.&rdquo;</li>
         </ul></li>
-    <li><i>Confusing Legal Text</i> may be played after <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Confounding%20Legal%20Text"><i>Confounding Legal Text</i></a> is played.<sup>*</sup>
+    <li><i>Confusing Legal Text</i> may be played after <i>Confounding Legal Text</i> is played.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -171,7 +171,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player successfully resolves a <i>Construction Rider</i> while they own the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry"><i>Minister of Industry</i></a> law, they use the <sc>Production</sc> ability of their units in the system where they place their space dock. They may exhaust planets for resources, but those planets cannot be used to cast votes for the remainder of the agenda phase.<sup>2</sup>
+    <li>If a player successfully resolves a <i>Construction Rider</i> while they own the <i>Minister of Industry</i> law, they use the <sc>Production</sc> ability of their units in the system where they place their space dock. They may exhaust planets for resources, but those planets cannot be used to cast votes for the remainder of the agenda phase.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What triggers Minister of Industry?&rdquo;: &ldquo;a dock placed by a Construction Rider in the agenda phase does, payable only with planets you haven&rsquo;t exhausted.&rdquo;</li>
         </ul></li>
@@ -250,11 +250,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;&rsquo;Resolved with no effect&rsquo; is not an outcome that could have been predicted, so no prediction abilities can trigger.&rdquo;</li>
         </ul></li>
-    <li><i>Deadly Plot</i> is played after any effects that allow a player to cast additional votes, and after any effects that change the outcome of an agenda, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Confusing%20Legal%20Text"><i>Confusing Legal Text</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Confounding%20Legal%20Text"><i>Confounding Legal Text</i></a> action cards.<sup>*</sup>
+    <li><i>Deadly Plot</i> is played after any effects that allow a player to cast additional votes, and after any effects that change the outcome of an agenda, such as the <i>Confusing Legal Text</i> and <i>Confounding Legal Text</i> action cards.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Deadly Plot</i> is played before revealing the hidden agenda for the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda.<sup>4</sup>
+    <li><i>Deadly Plot</i> is played before revealing the hidden agenda for the <i>Covert Legislation</i> agenda.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The &lsquo;Legal Text&rsquo; action cards and Deadly Plot must be played before the agenda that was voted on is revealed.&rdquo;</li>
         </ul></li>
@@ -364,7 +364,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li class="removed"><i>Disable</i> has no effect on the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a> technology.<sup>2</sup>
+    <li class="removed"><i>Disable</i> has no effect on the <i>Magen Defense Grid &Omega;</i> technology.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Codex (Omega) Magen Defense Grid still work if the PDS on the planet has been hit by Disable?&rdquo;: &ldquo;Yes &mdash; Disable only strips the PDS&rsquo;s Planetary Shield and Space Cannon; it is still a structure, so Magen Defense Grid still produces its hit.&rdquo;</li>
         </ul></li>
@@ -386,7 +386,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does an effect that casts &lsquo;additional votes,&rsquo; such as the &lsquo;Bribery&rsquo; action card, create a timing window for playing the &lsquo;Distinguished Councilor&rsquo; action card? A: No.&rdquo;</li>
         </ul></li>
-    <ol><li>The speaker may play <i>Distinguished Councilor</i> after they or another player play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a>, as both are played in the timing window after the speaker votes.<sup>5</sup>
+    <ol><li>The speaker may play <i>Distinguished Councilor</i> after they or another player play <i>Bribery</i>, as both are played in the timing window after the speaker votes.<sup>5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (0 hr, Jul 19, 2018), on resolving abilities in the same agenda-phase timing window: &ldquo;Once someone has played an ability, every other player will have exactly one chance to continue.&rdquo; Bribery (&ldquo;After the speaker votes&rdquo;) and the speaker&rsquo;s Distinguished Councilor (&ldquo;After you cast votes&rdquo;) share the window opened by the speaker&rsquo;s vote, so the speaker gets another chance after a Bribery. The LRR FAQ (&ldquo;Bribery&rdquo; does not &ldquo;create a timing window for playing the &lsquo;Distinguished Councilor&rsquo; action card&rdquo;) is about the Bribery player&rsquo;s own extra votes, not this case.</li>
         </ul></li></ol>
@@ -418,7 +418,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the player returns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>*</sup>
+    <li>If the player returns the <i>Antimass Deflectors</i> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -446,7 +446,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Emergency Repairs</i> cannot prevent a ship from being destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, as <i>Emergency Repairs</i> is played at the end of the combat round.<sup>2</sup>
+    <li><i>Emergency Repairs</i> cannot prevent a ship from being destroyed by the <i>Direct Hit</i> action card, as <i>Emergency Repairs</i> is played at the end of the combat round.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Emergency Repairs save a ship from Direct Hit?&rdquo;: &ldquo;No &mdash; Direct Hit is played as Sustain Damage is used, while hits are being assigned; Emergency Repairs comes at the end of the round, too late.&rdquo;</li>
         </ul></li>
@@ -499,7 +499,7 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;can only be resolved if ships actually move into the active system.&rdquo;</li>
         </ul></li>
     </ol>
-    <li><i>Experimental Battlestation</i> cannot be played if ships are moved outside of the <b>Move Ships</b> step, such as during a retreat, or while resolving the <a href="/F_mahact">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability.<sup>2,5</sup>
+    <li><i>Experimental Battlestation</i> cannot be played if ships are moved outside of the <b>Move Ships</b> step, such as during a retreat, or while resolving the <a href="/F_mahact">Mahact</a> player&rsquo;s <i>Benediction</i> hero ability.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can Experimental Battlestation be used, and what can it shoot?&rdquo;: &ldquo;Only when another player&rsquo;s ships actually move during the movement step of a tactical action: not on retreats.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;I think the cleanest way to handle this is just to say that it is only triggered by the move step.&rdquo;</li>
@@ -524,7 +524,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>If <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat"><i>Coup D&rsquo;etat</i></a> cancels the strategic action the affected player performs, that player has not yet performed their next action. <i>Extreme Duress</i> remains in play until that player&rsquo;s next turn, when they must still resolve a strategic action or suffer its effect.<sup>6</sup>
+    <li>If <i>Coup D&rsquo;etat</i> cancels the strategic action the affected player performs, that player has not yet performed their next action. <i>Extreme Duress</i> remains in play until that player&rsquo;s next turn, when they must still resolve a strategic action or suffer its effect.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Coup D&rsquo;etat cancels the action, so the active player has still not performed their &lsquo;next action.&rsquo;&rdquo;</li>
         </ul></li>
@@ -572,7 +572,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If an ability instructs you to &lsquo;research&rsquo; a technology, you require the prerequisites on that technology to do so.&rdquo;</li>
         </ul></li>
-    <li>Other players must decide whether to play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a>, or otherwise cancel the action card, before the player playing <i>Focused Research</i> announces which technology they are researching.<sup>2,5</sup>
+    <li>Other players must decide whether to play <i>Sabotage</i>, or otherwise cancel the action card, before the player playing <i>Focused Research</i> announces which technology they are researching.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;You would not have to decide which technology you are researching when &lsquo;Focused Research&rsquo; is played before the sabotage window.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly is Sabotage played&rdquo;: &ldquo;Focused Research is the exception: its technology is chosen during resolution, after the Sabotage window.&rdquo;</li>
@@ -605,7 +605,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;When a player would place a unit, if there are none of that type left in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         </ul></li>
-    <li>The destroyer may be placed in an asteroid field that contains a wormhole, even without <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a>, as it is placed, not moved.<sup>*</sup>
+    <li>The destroyer may be placed in an asteroid field that contains a wormhole, even without <i>Antimass Deflectors</i>, as it is placed, not moved.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Action Cards: &ldquo;Can &lsquo;Ghost Ship&rsquo; be used to place a Destroyer in the Asteroid/Alpha system if the player lacks the Antimass Deflectors technology? A: Yes. You are placing the destroyer in that system, not moving it.&rdquo;</li>
         </ul></li>
@@ -621,7 +621,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, Ghost Squad triggers &ldquo;After a player commits units to land on a planet you control,&rdquo; whatever the source of the commitment.</li>
         </ul></li>
-    <ol><li><i>Ghost Squad</i> cannot be played in response to abilities that place ground forces on a planet without committing them, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution"><i>Colonial Redistribution</i></a> agenda.<sup>10</sup>
+    <ol><li><i>Ghost Squad</i> cannot be played in response to abilities that place ground forces on a planet without committing them, such as the <i>Colonial Redistribution</i> agenda.<sup>10</sup>
         <ul>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, Ghost Squad triggers only &ldquo;After a player commits units to land.&rdquo;</li>
         </ul></li></ol>
@@ -658,7 +658,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>Players will play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> after the speaker votes. The player that played <i>Hack Election &Omega;</i> cannot play <i>Bribery</i>.<sup>1</sup>
+    <ol><li>Players will play <i>Bribery</i> after the speaker votes. The player that played <i>Hack Election &Omega;</i> cannot play <i>Bribery</i>.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: Bribery and &ldquo;any effect with the timing window of &lsquo;after the speaker votes&rsquo;&rdquo; are played after the speaker&rsquo;s voting window.</li>
         </ul></li></ol>
@@ -670,7 +670,7 @@
 
 <h2 id="harness-energy"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Harness%20Energy">Harness Energy</a></h2>
     <ol class="note">
-    <li>If a player has their maximum number of commodities, they may still play <i>Harness Energy</i>. If they do, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note.<sup>1</sup>
+    <li>If a player has their maximum number of commodities, they may still play <i>Harness Energy</i>. If they do, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <i>Trade Agreement</i> promissory note.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If a player would refresh their commodities but already has the maximum amount, can another player still play that player&rsquo;s &lsquo;Trade Agreement&rsquo; promissory note against them? A: Yes. Even if that player gains zero commodities when their commodities are refreshed, their &lsquo;Trade Agreement&rsquo; may still be played against them.&rdquo;</li>
         </ul></li>
@@ -752,7 +752,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, integrating the codex cards: &ldquo;If you do have a previous version of the Twilight Codex, simply replace all of its components with the updated versions included in Thunder&rsquo;s Edge.&rdquo; The Thunder&rsquo;s Edge codex card is Insider Information Ω.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Covert%20Legislation"><i>Covert Legislation</i></a> agenda is revealed, it resolves before <i>Insider Information</i>; the player looks at the agenda after the one drawn by the speaker.<sup>2</sup>
+    <li>If the <i>Covert Legislation</i> agenda is revealed, it resolves before <i>Insider Information</i>; the player looks at the agenda after the one drawn by the speaker.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Insider Information interact with Covert Legislation?&rdquo;: &ldquo;Covert Legislation is a &lsquo;when&rsquo; effect that takes the next agenda first, so Insider Information, an &lsquo;after&rsquo; effect, sees the card after that.&rdquo;</li>
         </ul></li>
@@ -772,7 +772,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><i>Intercept</i> cannot be played to prevent <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a>.<sup>1,2</sup>
+    <li><i>Intercept</i> cannot be played to prevent <i>Skilled Retreat</i>.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Is the &lsquo;Skilled Retreat&rsquo; action card considered to be a retreat, and can it be canceled by the action card &lsquo;Intercept?&rsquo; A: No, &lsquo;Skilled Retreat&rsquo; is not a retreat and cannot be canceled in this way.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Skilled Retreat differ from a normal retreat?&rdquo;: &ldquo;It isn&rsquo;t a retreat in rules terms but a move, so Intercept can&rsquo;t cancel it.&rdquo;</li>
@@ -813,7 +813,7 @@
 
 <h2 id="lost-star-chart"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lost%20Star%20Chart">Lost Star Chart</a></h2>
     <ol class="note">
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law is in play, <i>Lost Star Chart</i> will allow a player to move through wormholes during this action.<sup>2,5</sup>
+    <li>If the <i>Enforced Travel Ban</i> law is in play, <i>Lost Star Chart</i> will allow a player to move through wormholes during this action.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Feb 2018): &ldquo;Lost Star Charts during Enforced Travel Ban would more or less nullify Enforced Travel Ban.&rdquo;</li>
         <li><b>Unverified</b>: <sup>2</sup> Conflicts: RulesPal, &ldquo;What does Enforced Travel Ban do&rdquo;: &ldquo;It also cancels the adjacency from Lost Star Chart for movement.&rdquo;</li>
@@ -823,7 +823,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;All are connected to all&mdash;alpha to alpha, alpha to beta, beta to beta.&rdquo;</li>
         </ul></li></ol>
-    <li>If the active system contains a beta wormhole, a player that has a unit with the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability in an alpha wormhole may produce hits against ships in the active system during the <b>Space Cannon Offense</b> step of the tactical action, and vice versa.<sup>2</sup>
+    <li>If the active system contains a beta wormhole, a player that has a unit with the <sc>Deep Space Cannon</sc> ability in an alpha wormhole may produce hits against ships in the active system during the <b>Space Cannon Offense</b> step of the tactical action, and vice versa.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Space Cannon fire at ships outside the active system&rdquo;: &ldquo;PDS II&rsquo;s Deep Space Cannon and the Xxcha flagship let a unit in an adjacent system fire into the active system.&rdquo; Lost Star Chart makes alpha and beta systems adjacent.</li>
         </ul></li>
@@ -874,11 +874,11 @@
 
 <h2 id="manipulate-investments"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Manipulate%20Investments">Manipulate Investments</a></h2>
     <ol class="note">
-    <li>If a player still has a strategy card because of <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability"><i>Political Stability</i></a>, trade goods may be placed on that strategy card. However, those trade goods will remain on that strategy card until it is chosen from the common area.<sup>*</sup>
+    <li>If a player still has a strategy card because of <i>Political Stability</i>, trade goods may be placed on that strategy card. However, those trade goods will remain on that strategy card until it is chosen from the common area.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If a player takes the strategy card with trade goods on it from the player who played <i>Political Stability</i>, using the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Imperial%20Arbiter"><i>Imperial Arbiter</i></a> law or similar, they will not gain the trade goods, which will remain on the strategy card.<sup>*</sup>
+    <ol><li>If a player takes the strategy card with trade goods on it from the player who played <i>Political Stability</i>, using the ability of the <i>Imperial Arbiter</i> law or similar, they will not gain the trade goods, which will remain on the strategy card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -979,7 +979,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A player may move ships through or into an asteroid field without the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology. After moving into, those ships may remain there and move out during a later action without harm.<sup>*</sup>
+    <li>A player may move ships through or into an asteroid field without the <i>Antimass Deflectors</i> technology. After moving into, those ships may remain there and move out during a later action without harm.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -1039,7 +1039,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you are instructed to &lsquo;gain&rsquo; or &lsquo;replace&rsquo; a technology, you do not require prerequisites.&rdquo;</li>
         </ul></li>
-    <li>The active player must announce which technology they are gaining before other players decide whether to play a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Sabotage"><i>Sabotage</i></a>, or otherwise cancel the action card.<sup>2</sup>
+    <li>The active player must announce which technology they are gaining before other players decide whether to play a <i>Sabotage</i>, or otherwise cancel the action card.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: Sabotage &ldquo;can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on.&rdquo; The technology is the card&rsquo;s target.</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly is Sabotage played: before or after the card&rsquo;s target is chosen?&rdquo;: &ldquo;After the player announces the card&rsquo;s choices (target planet, ship or player, rider prediction, retreat destination and so on), but before anything changes the game state&rdquo; general rule that card choices are announced before Sabotage; only Focused Research is an exception.</li>
@@ -1117,7 +1117,7 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Public Disgrace is intended to replace that effect and force them to choose a different card instead. The trade good should go to the person who actually ends up with the card.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Whoever ends up choosing that card.&rdquo;</li>
         </ul></li>
-    <li><i>Public Disgrace</i> may only be played during the regular choosing of a strategy card during the strategy phase. It cannot be played when other effects cause a player to take a strategy card, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Imperial%20Arbiter"><i>Imperial Arbiter</i></a> agenda.<sup>2</sup>
+    <li><i>Public Disgrace</i> may only be played during the regular choosing of a strategy card during the strategy phase. It cannot be played when other effects cause a player to take a strategy card, such as the <i>Imperial Arbiter</i> agenda.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Public Disgrace be played against a strategy card swap from Quantum Datahub Node or Imperial Arbiter?&rdquo;: &ldquo;No &mdash; Public Disgrace triggers when a player chooses a strategy card, and those swaps at the end of the strategy phase aren&rsquo;t choices.&rdquo;</li>
         </ul></li>
@@ -1147,7 +1147,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Puppets on a String: Can you perform transactions or &lsquo;Start/end of your turn&rsquo; abilities? A: No, it is not your turn.&rdquo;</li>
         </ul></li>
-    <li>Abilities that end a player&rsquo;s turn, such as <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a>, do not prevent the action from being performed, and cannot fully resolve, as there is no turn to end.<sup>6</sup>
+    <li>Abilities that end a player&rsquo;s turn, such as <i>Minister of Peace</i>, do not prevent the action from being performed, and cannot fully resolve, as there is no turn to end.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Puppets on a String: Since it is not your turn, how does that interact with Minister of Peace/Starlancer/other &lsquo;end that players&rsquo; turn&rsquo; abilities? A: Those abilities do not prevent the action being taken, and cannot fully resolve as there is no turn to end.&rdquo;</li>
         </ul></li>
@@ -1155,12 +1155,12 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The active player cannot use the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics">Fleet Logistics</a> technology to perform an additional action.<sup>6</sup>
+    <li>The active player cannot use the Fleet Logistics technology to perform an additional action.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Puppets on a String: Can you use Fleet Logistics, Master Plan and Keleres Commander? A: Fleet Logistics = no, it is not a turn, only an action.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>The active player may use the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Master%20Plan"><i>Master Plan</i></a> action card to perform an additional action.<sup>6</sup>
+        <li>The active player may use the <i>Master Plan</i> action card to perform an additional action.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Same ruling: &ldquo;Master Plan = yes.&rdquo;</li>
         </ul></li>
@@ -1173,7 +1173,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>The active player cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> secret objective at the end of their action.<sup>*</sup>
+    <ol><li>The active player cannot score the <i>Prove Endurance</i> secret objective at the end of their action.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -1299,7 +1299,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 78.4c: &ldquo;A player cannot announce a retreat if there is not at least one eligible system to retreat to.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Who can retreat from a space combat &hellip;?&rdquo;: &ldquo;You can only announce one if you have a legal system to retreat to (so Rout needs one too).&rdquo;</li>
         </ul></li>
-    <li>A player cannot announce a retreat from the space combat initiated by the <a href="/F_mahact">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability.<sup>2</sup>
+    <li>A player cannot announce a retreat from the space combat initiated by the <a href="/F_mahact">Mahact</a> player&rsquo;s <i>Benediction</i> hero ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Mahact hero&rsquo;s Benediction work?&rdquo;: &ldquo;Neither side may retreat or use abilities that move ships, Skilled Retreat included.&rdquo;</li>
         </ul></li>
@@ -1353,7 +1353,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If my component action card is cancelled by Sabotage, have I used my action for the turn?&rdquo;: &ldquo;No &mdash; a cancelled card counts as not played, so you still take an action (or pass, if allowed).&rdquo;</li>
         </ul></li>
-    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup>
+    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <i>Fleet Logistics</i> technology, the active player may end their turn without performing a second action and without passing.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;If it was the optional extra action from Fleet Logistics, you can just end your turn.&rdquo;</li>
         </ul></li></ol>
@@ -1442,7 +1442,7 @@
 
 <h2 id="skilled-retreat"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat">Skilled Retreat</a></h2>
     <ol class="note">
-    <li>Using <i>Skilled Retreat</i> is not a retreat. As such, it cannot be canceled with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card.<sup>1,2</sup>
+    <li>Using <i>Skilled Retreat</i> is not a retreat. As such, it cannot be canceled with the <i>Intercept</i> action card.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Skilled Retreat&rsquo; is not a retreat and cannot be canceled in this way.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Skilled Retreat differ from a normal retreat?&rdquo;: &ldquo;It isn&rsquo;t a retreat in rules terms but a move, so Intercept can&rsquo;t cancel it.&rdquo;</li>
@@ -1496,7 +1496,7 @@
 
 <h2 id="spy"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Spy">Spy</a></h2>
     <ol class="note">
-    <li>If the targeted player has <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> in their hand, they must first give a random action card to the player who played <i>Spy</i>. Only if the card they gave was not <i>Reverse Engineer</i> may they then play it to take <i>Spy</i> into their hand from the discard pile.<sup>*</sup>
+    <li>If the targeted player has <i>Reverse Engineer</i> in their hand, they must first give a random action card to the player who played <i>Spy</i>. Only if the card they gave was not <i>Reverse Engineer</i> may they then play it to take <i>Spy</i> into their hand from the discard pile.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -1647,7 +1647,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the &lsquo;Veto&rsquo; action card should read as follows: &lsquo;When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.&rsquo;&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;Veto and Political Favor were errata&rsquo;d to &lsquo;when&rsquo; timing to match Quash.&rdquo;</li>
         </ul></li>
-    <li><i>Veto</i>, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability, the Xxcha <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note are all played in the same timing window, before the rider timing window.<sup>2</sup>
+    <li><i>Veto</i>, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability, the Xxcha <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a> promissory note, and the <i>Political Secret</i> promissory note are all played in the same timing window, before the rider timing window.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do &lsquo;when an agenda is revealed&rsquo; effects like Veto and Quash come before Riders?&rdquo;: &ldquo;Yes &mdash; &lsquo;when&rsquo; effects (Quash, Veto, Political Favor, Political Secret) resolve first, then &lsquo;after&rsquo; effects (Riders &hellip;).&rdquo;</li>
         </ul></li>

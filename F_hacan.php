@@ -3,7 +3,7 @@
 <article>
 <h2 id="masters-of-trade"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Masters%20of%20Trade">Masters of Trade</a></h2>
     <ol class="note">
-    <li>If the Hacan player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they will not gain a trade good from it when they use their Masters of Trade ability.<sup>*</sup></li>
+    <li>If the Hacan player has the <a href="/F_muaat">Muaat</a> player&rsquo;s <i>Alliance</i> promissory note, they will not gain a trade good from it when they use their Masters of Trade ability.<sup>*</sup></li>
     </ol>
 
 <h2 id="guild-ships"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Guild%20Ships">Guild Ships</a></h2>
@@ -17,7 +17,7 @@
     <ol class="note">
     <li>Any number of action cards may be traded.<sup>2</sup></li>
     <li>If the Hacan player has more than seven action cards, they must immediately discard down to seven action cards.<sup>1,3</sup></li>
-    <li>If the Hacan player has their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> played during an agenda, they may still trade action cards, as <sc>Arbiters</sc> is a passive ability.<sup>1,2,4</sup></li>
+    <li>If the Hacan player has their <i>Political Secret</i> played during an agenda, they may still trade action cards, as <sc>Arbiters</sc> is a passive ability.<sup>1,2,4</sup></li>
     </ol>
 
 <h2 id="trade-convoys"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Promissory_Note:~:text=Trade%20Convoys">Trade Convoys</a> <sub>(Promissory Note)</sub></h2>
@@ -35,8 +35,8 @@
     <ol class="note">
     <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.<sup>2,5</sup></li>
     <li>In a three&ndash; or four&ndash;player game, the Hacan player chooses which strategy cards are swapped.<sup>2</sup></li>
-    <li>The Hacan player must have three trade goods before they spend the command token; they cannot use the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note to gain the third trade good.<sup>*</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Public%20Disgrace"><i>Public Disgrace</i></a> action card cannot be played against a strategy card the Hacan player takes with <i>Quantum Datahub Node</i>, as <i>Quantum Datahub Node</i> is resolved at the end of the strategy phase and is not a player &ldquo;choosing a strategy card.&rdquo;<sup>2</sup></li>
+    <li>The Hacan player must have three trade goods before they spend the command token; they cannot use the <a href="/F_muaat">Muaat</a> player&rsquo;s <i>Alliance</i> promissory note to gain the third trade good.<sup>*</sup></li>
+    <li>The <i>Public Disgrace</i> action card cannot be played against a strategy card the Hacan player takes with <i>Quantum Datahub Node</i>, as <i>Quantum Datahub Node</i> is resolved at the end of the strategy phase and is not a player &ldquo;choosing a strategy card.&rdquo;<sup>2</sup></li>
     </ol>
 
 <h2 id="wrath-of-kenara"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Flagship:~:text=Wrath%20of%20Kenara">Wrath of Kenara</a> <sub>(Flagship)</sub></h2>
@@ -47,7 +47,7 @@
 
 <h2 id="carth-of-golden-sands"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Leaders:~:text=Carth%20of%20Golden%20Sands">Carth of Golden Sands</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>A player that has their maximum number of commodities may have their commodities replenished. If this happens, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note.<sup>1</sup></li>
+    <li>A player that has their maximum number of commodities may have their commodities replenished. If this happens, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <i>Trade Agreement</i> promissory note.<sup>1</sup></li>
     <li>The ability of Carth of Golden Sands cannot be resolved while another ability is resolving. For example, if the Hacan player is exploring an industrial planet and has revealed the card, they cannot use the ability of Carth of Golden Sands until after they resolve the card&rsquo;s effect.<sup>4</sup></li>
     </ol>
 
@@ -66,7 +66,7 @@
     <li>Structures are also moved.<sup>*</sup></li>
     <li>The planet cannot be traded during combat.<sup>4</sup></li>
     <li>If the Pride of Kenara is on a planet in a gravity rift, any units moved must roll for removal if the planet is transacted.<sup>*</sup></li>
-    <li>If the planet traded contains coexisting units, those units remain coexisting. Because the mech is moved after control of the planet is exchanged, the player gaining the planet may use their <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, or a similar ability, before coexistence would end.<sup>6</sup></li>
+    <li>If the planet traded contains coexisting units, those units remain coexisting. Because the mech is moved after control of the planet is exchanged, the player gaining the planet may use their <i>Integrated Economy</i> technology, or a similar ability, before coexistence would end.<sup>6</sup></li>
     </ol>
 
 <h2 id="autofactories"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Breakthrough:~:text=Auto-Factories">Auto&ndash;Factories</a> <sub>(Breakthrough)</sub></h2>

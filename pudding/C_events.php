@@ -25,11 +25,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the giving player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Dynamis%20Core"><i>Dynamis Core</i></a> relic, they must give two commodities above their faction&rsquo;s printed commodity value to trigger the effect of <i>Dark Pact</i>.<sup>*</sup>
+    <ol><li>If the giving player owns the <i>Dynamis Core</i> relic, they must give two commodities above their faction&rsquo;s printed commodity value to trigger the effect of <i>Dark Pact</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>When a player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note is played, they give only the number of commodities that they just gained due to replenishing commodities.<sup>*</sup>
+    <li>When a player&rsquo;s <i>Trade Agreement</i> promissory note is played, they give only the number of commodities that they just gained due to replenishing commodities.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. LRR FAQ covers only the zero-commodity case: &ldquo;Even if that player gains zero commodities when their commodities are refreshed, their &lsquo;Trade Agreement&rsquo; may still be played against them.&rdquo;</li>
         </ul></li>
@@ -117,7 +117,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>11</sup> Codex IV p. 15: &ldquo;that player places 3 neutral infantry on that system&rsquo;s planets, split as evenly as possible.&rdquo; The placing player&rsquo;s choice is not stated.</li>
         </ul></li>
-    <li>During setup, if a player is dealt the <a href="/F_creuss">Creuss</a> reference card, they place the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Creuss%20Gate">Creuss Gate</a> (tile 17) where a minor faction home system would go, and place the Creuss home system (tile 51) in the common play area.<sup>7</sup>
+    <li>During setup, if a player is dealt the <a href="/F_creuss">Creuss</a> reference card, they place the Creuss Gate (tile 17) where a minor faction home system would go, and place the Creuss home system (tile 51) in the common play area.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16, Minor Factions: &ldquo;When the Ghosts of Creuss or Crimson Rebellion faction is chosen as a minor faction, the Creuss Gate or the Sorrow, respectively, is placed in a minor faction spot, while the home system is placed near the game board.&rdquo;</li>
         </ul></li>
@@ -172,19 +172,19 @@
         <li><b>Explicit</b>: <sup>11</sup> Codex IV p. 15: &ldquo;These systems are minor faction systems and do not count as home systems.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>The minor faction systems cannot be used to score objectives such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Conquer%20the%20Weak"><i>Conquer the Weak</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Darken%20the%20Skies"><i>Darken the Skies</i></a>, but may be used to score objectives such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Expand%20Borders"><i>Expand Borders</i></a>.<sup>*</sup>
+        <li>The minor faction systems cannot be used to score objectives such as <i>Conquer the Weak</i> or <i>Darken the Skies</i>, but may be used to score objectives such as <i>Expand Borders</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The minor faction systems may be targeted by action cards such as <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Reactor%20Meltdown"><i>Reactor Meltdown</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming"><i>Signal Jamming</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a>.<sup>*</sup>
+        <li>The minor faction systems may be targeted by action cards such as <i>Reactor Meltdown</i>, <i>Signal Jamming</i> or <i>Uprising</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The minor faction systems may be elected for agendas such as <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Colonial%20Redistribution"><i>Colonial Redistribution</i></a>. They will be unaffected by agendas such as <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=New%20Constitution"><i>New Constitution</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shared%20Research"><i>Shared Research</i></a>.<sup>*</sup>
+        <li>The minor faction systems may be elected for agendas such as <i>Colonial Redistribution</i>. They will be unaffected by agendas such as <i>New Constitution</i> or <i>Shared Research</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The minor faction systems may be targeted with the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic or with the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability. These will not cause a player to lose an alliance card.<sup>*</sup>
+        <li>The minor faction systems may be targeted with the <i>Stellar Converter</i> relic or with the <a href="/F_muaat">Muaat</a> player&rsquo;s <i>Nova Seed</i> hero ability. These will not cause a player to lose an alliance card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -227,7 +227,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Salvage"><i>Salvage</i></a> action card cannot be used to target the commodities on planets.<sup>*</sup>
+        <li>The <i>Salvage</i> action card cannot be used to target the commodities on planets.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -266,7 +266,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16, Wild, Wild Galaxy: &ldquo;if there are no planets in a player&rsquo;s home system, they still control every planet in their home system and can score public objectives.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability replaces a player&rsquo;s home system with a supernova, then that supernova becomes that player&rsquo;s home system.<sup>7</sup>
+    <li>If the <a href="/F_muaat">Muaat</a> player&rsquo;s <i>Nova Seed</i> hero ability replaces a player&rsquo;s home system with a supernova, then that supernova becomes that player&rsquo;s home system.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Same passage: &ldquo;If a player&rsquo;s home system is replaced by a supernova, it is still that player&rsquo;s home system.&rdquo;</li>
         </ul></li>

@@ -34,7 +34,7 @@
     <li><i>Lazax Gate Folding</i> may cause the Mecatol Rex system to be adjacent to other systems containing an alpha or beta wormhole for all players during the Winnu player&rsquo;s tactical actions.<sup>5</sup></li>
     <ol>
         <li>The Winnu player may become neighbors with other players via <i>Lazax Gate Folding</i>.<sup>1,5</sup></li>
-        <li>Other players may use the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability of their units in systems containing alpha or beta wormholes during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the Mecatol Rex system is the active system.<sup>5</sup></li>
+        <li>Other players may use the <sc>Deep Space Cannon</sc> ability of their units in systems containing alpha or beta wormholes during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the Mecatol Rex system is the active system.<sup>5</sup></li>
         <li>A player may retreat to a system containing an alpha or beta wormhole from the Mecatol Rex system during the Winnu player&rsquo;s tactical action.<sup>5</sup></li>
         <li>The <a href="/F_creuss">Creuss</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> faction technology ability in the Mecatol Rex System during the Winnu player&rsquo;s tactical action.<sup>*</sup></li>
     </ol>
@@ -66,15 +66,15 @@
 
 <h2 id="reclaimer"><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Mech:~:text=Reclaimer">Reclaimer</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>If the Winnu player places a Reclaimer with the <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#List_of_Legendary_Planets:~:text=Imperial%20Arms%20Vault"><i>Imperial Arms Vault</i></a> ability of <a href="https://twilight-imperium.fandom.com/wiki/Hope&#x27;s_End">Hope&rsquo;s End</a>, it cannot use its ability to place a structure that turn, as that happens at the end of the turn, after the tactical action has been resolved.<sup>2</sup></li>
+    <li>If the Winnu player places a Reclaimer with the <i>Imperial Arms Vault</i> ability of <a href="https://twilight-imperium.fandom.com/wiki/Hope&#x27;s_End">Hope&rsquo;s End</a>, it cannot use its ability to place a structure that turn, as that happens at the end of the turn, after the tactical action has been resolved.<sup>2</sup></li>
     <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a Space Dock, they cannot produce out of it during the same action.<sup>2</sup></li>
     <li>If the Winnu player gains control of a planet with multiple Reclaimers, they may place a structure for each one, if they may do so without exceeding the maximum number of that structure allowed on a planet.<sup>*</sup></li>
-    <li>The Reclaimer need only be on the planet at the end of the tactical action the Winnu player gained it, not when the Winnu player gains control of it. This can occur from effects such as the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, or some exploration cards.<sup>*</sup></li>
+    <li>The Reclaimer need only be on the planet at the end of the tactical action the Winnu player gained it, not when the Winnu player gains control of it. This can occur from effects such as the <i>Integrated Economy</i> technology, or some exploration cards.<sup>*</sup></li>
     </ol>
 
 <h2 id="imperator"><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Breakthrough:~:text=Imperator">Imperator</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>The Winnu player applies the +1 to their combat rolls even if it is the Winnu player&rsquo;s own <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne"><i>Support for the Throne</i></a> in their opponent&rsquo;s play area.<sup>*</sup></li>
+    <li>The Winnu player applies the +1 to their combat rolls even if it is the Winnu player&rsquo;s own <i>Support for the Throne</i> in their opponent&rsquo;s play area.<sup>*</sup></li>
     <li>If their opponent receives a <i>Support for the Throne</i> during a combat, the Winnu player will apply +1 to the remaining combat rolls during that combat.<sup>*</sup></li>
     </ol>
 </article>

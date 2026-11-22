@@ -40,21 +40,21 @@
 <h2 id="umbat"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Umbat">Umbat</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The produced units must be paid for.<sup>1,2</sup></li>
-    <li>No unit is using its <sc>Production</sc> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not allow a more expensive ship to be produced.<sup>1</sup></li>
+    <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not allow a more expensive ship to be produced.<sup>1</sup></li>
     <li>If ground forces are produced, they may be placed in the space area or on a planet the player controls in the system with their war sun or flagship.<sup>*</sup></li>
     <li>If the <a href="/F_naalu">Naalu</a> or <a href="/F_yin">Yin</a> players are chosen, and choose to produce fighters or infantry, they will only be able to produce two of those units; their commander will have no effect.<sup>*</sup></li>
-    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, then that player may use their commander to produce two units for one resource when resolving Umbat.<sup>*</sup></li></ol>
+    <ol><li>If the <i>Regulated Conscription</i> law is in play, then that player may use their commander to produce two units for one resource when resolving Umbat.<sup>*</sup></li></ol>
     </ol>
 
 <h2 id="magmus"><a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus">Magmus</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>When a command token is spent to resolve the secondary ability of a strategy card, the trade good is gained after resolving the secondary ability. As such, it cannot be spent to pay for costs of the secondary ability.<sup>*</sup></li>
-    <li>If the Muaat player spends multiple tokens from their strategy pool (e.g. for the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Lead%20From%20the%20Front"><i>Lead From the Front</i></a> objective), they gain that many trade goods, one at a time.<sup>*</sup></li>
+    <li>If the Muaat player spends multiple tokens from their strategy pool (e.g. for the <i>Lead From the Front</i> objective), they gain that many trade goods, one at a time.<sup>*</sup></li>
     <ol>
         <li>Each trade good gained may trigger the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> faction ability.<sup>1,2</sup></li>
-        <li>If the Muaat player wishes to score <i>Lead From the Front</i> and <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Form%20a%20Spy%20Network"><i>Form a Spy Network</i></a> during the one status phase, they must do so simultaneously, and both happen before the Mentak player may use their <sc>Pillage</sc> faction ability. If the Mentak player subsequently uses their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, when they use their <sc>Pillage</sc> faction ability on the trade goods the Muaat player gained from Magmus when spending the tokens for <i>Lead From the Front</i>, then the Muaat player cannot discard the drawn action card for <i>Form a Spy Network</i>.<sup>*</sup></li>
+        <li>If the Muaat player wishes to score <i>Lead From the Front</i> and <i>Form a Spy Network</i> during the one status phase, they must do so simultaneously, and both happen before the Mentak player may use their <sc>Pillage</sc> faction ability. If the Mentak player subsequently uses their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, when they use their <sc>Pillage</sc> faction ability on the trade goods the Muaat player gained from Magmus when spending the tokens for <i>Lead From the Front</i>, then the Muaat player cannot discard the drawn action card for <i>Form a Spy Network</i>.<sup>*</sup></li>
     </ol>
-    <li>If the Muaat player uses the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Scepter%20of%20Emelpar"><i>Scepter of Emelpar</i></a> relic, they will be unable to benefit from the ability of Magmus.<sup>*</sup></li>
+    <li>If the Muaat player uses the ability of the <i>Scepter of Emelpar</i> relic, they will be unable to benefit from the ability of Magmus.<sup>*</sup></li>
     <li>The Muaat player must have Magmus unlocked before spending the strategy token in order to gain the trade good.<sup>*</sup></li>
     <ol><li>For example, if the Muaat player spends a strategy token to follow the secondary ability of the <i>Warfare</i> strategy card, and in doing so produces the war sun that unlocks Magmus, they will not gain the trade good from spending that strategy token.<sup>*</sup></li></ol>
     </ol>

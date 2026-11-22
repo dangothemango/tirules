@@ -70,7 +70,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;a unit that is produced must always be paid for.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;What can Integrated Economy produce?&rdquo;: &ldquo;up to the new planet&rsquo;s resource value in cost, paid normally.&rdquo;</li>
         </ul></li>
-    <li>No unit is using its <sc>Production</sc> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not allow a more expensive ship to be produced.<sup>1</sup>
+    <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not allow a more expensive ship to be produced.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When producing a unit with an ability other than &lsquo;Production,&rsquo; does the price reduction from the &lsquo;Sarween Tools&rsquo; technology apply? A: No.&rdquo;</li>
         </ul></li>
@@ -82,7 +82,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, then that player may use their commander to produce two units for one resource when resolving Umbat.<sup>*</sup>
+    <ol><li>If the <i>Regulated Conscription</i> law is in play, then that player may use their commander to produce two units for one resource when resolving Umbat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -94,7 +94,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Muaat player spends multiple tokens from their strategy pool (e.g. for the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Lead%20From%20the%20Front"><i>Lead From the Front</i></a> objective), they gain that many trade goods, one at a time.<sup>*</sup>
+    <li>If the Muaat player spends multiple tokens from their strategy pool (e.g. for the <i>Lead From the Front</i> objective), they gain that many trade goods, one at a time.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -104,12 +104,12 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: Mentak &ldquo;can trigger &lsquo;Pillage&rsquo; each time the Saar gain&rdquo; a trade good from Scavenge. Each separate gain triggers Pillage.</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly can Mentak use Pillage?&rdquo;: &ldquo;After each instance of a neighbor gaining trade goods.&rdquo;</li>
         </ul></li>
-        <li>If the Muaat player wishes to score <i>Lead From the Front</i> and <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Form%20a%20Spy%20Network"><i>Form a Spy Network</i></a> during the one status phase, they must do so simultaneously, and both happen before the Mentak player may use their <sc>Pillage</sc> faction ability. If the Mentak player subsequently uses their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, when they use their <sc>Pillage</sc> faction ability on the trade goods the Muaat player gained from Magmus when spending the tokens for <i>Lead From the Front</i>, then the Muaat player cannot discard the drawn action card for <i>Form a Spy Network</i>.<sup>*</sup>
+        <li>If the Muaat player wishes to score <i>Lead From the Front</i> and <i>Form a Spy Network</i> during the one status phase, they must do so simultaneously, and both happen before the Mentak player may use their <sc>Pillage</sc> faction ability. If the Mentak player subsequently uses their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, when they use their <sc>Pillage</sc> faction ability on the trade goods the Muaat player gained from Magmus when spending the tokens for <i>Lead From the Front</i>, then the Muaat player cannot discard the drawn action card for <i>Form a Spy Network</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If the Muaat player uses the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Scepter%20of%20Emelpar"><i>Scepter of Emelpar</i></a> relic, they will be unable to benefit from the ability of Magmus.<sup>*</sup>
+    <li>If the Muaat player uses the ability of the <i>Scepter of Emelpar</i> relic, they will be unable to benefit from the ability of Magmus.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

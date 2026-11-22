@@ -4,9 +4,9 @@
 <article>
 <h2 id="plots-within-plots"><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Plots%20Within%20Plots">&#x26AA; Plots Within Plots</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Specific_Components:~:text=Enervate"><i>Enervate</i></a> plot may be resolved whenever the Obsidian player resolves the secondary ability of a strategy card in the puppeted player&rsquo;s play area, including via the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize"><i>Strategize</i></a> action card.<sup>6</sup></li>
+    <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Specific_Components:~:text=Enervate"><i>Enervate</i></a> plot may be resolved whenever the Obsidian player resolves the secondary ability of a strategy card in the puppeted player&rsquo;s play area, including via the <i>Strategize</i> action card.<sup>6</sup></li>
     <li>If a player is eliminated, their control tokens are removed from any plot cards. If a plot card then has no control tokens on it, that plot card returns to the Firmament player&rsquo;s hand.<sup>6</sup></li>
-    <li>If the Firmament player has their control token on a secret objective that is elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda, they do not gain a victory point, and they cannot score it again.<sup>6</sup></li>
+    <li>If the Firmament player has their control token on a secret objective that is elected by the <i>Classified Document Leaks</i> agenda, they do not gain a victory point, and they cannot score it again.<sup>6</sup></li>
     <li>Once the game starts, the Firmament player&rsquo;s plot cards are hidden information. Players may look at the plot cards before the game begins.<sup>7</sup></li>
     <li>The Firmament player cannot place their own control token on one of their plot cards.<sup>*</sup></li>
     <li>A plot card may have more than one player&rsquo;s control token on it, but not two of the same player&rsquo;s control tokens.<sup>*</sup></li>
@@ -16,7 +16,7 @@
     <ol class="note">
     <li>When the Firmament player flips their home system, the Obsidian player places any units that were on Cronos onto Cronos Hollow, and places any units on Tallin onto Tallin Hollow. Any units that were in the space area pre&ndash;flip are placed in the space area post&ndash;flip.<sup>7</sup></li>
     <li><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#The_Obsidian">The Obsidian</a> player will always gain <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders_2:~:text=Sharsiss%20Hollow">Sharsiss Hollow</a>, regardless of whether or not they purged Sharsiss as the Firmament.<sup>*</sup></li>
-    <li>Purging the Firmament player&rsquo;s home planet cards does not allow them to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Become%20a%20Martyr"><i>Become a Martyr</i></a> objective.<sup>6</sup></li>
+    <li>Purging the Firmament player&rsquo;s home planet cards does not allow them to score the <i>Become a Martyr</i> objective.<sup>6</sup></li>
     </ol>
 
 <h2 id="nocturne"><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities_2:~:text=Nocturne">&#x2716; Nocturne</a></h2>
@@ -60,7 +60,7 @@
     <li>The ingress token must be moved when the Obsidian player performs the primary ability of their strategy card, before any other players decide if they wish to perform the secondary ability.<sup>*</sup></li>
     <li>The Obsidian player cannot move an ingress token into a system that already contains an ingress token.<sup>6,7</sup></li>
     <li>The Obsidian player cannot move an ingress token into a system in The Fracture.<sup>6</sup></li>
-    <li><i>Planesplitter</i> resolves before the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Coup%20D%27etat"><i>Coup D&rsquo;etat</i></a> action card can be played and resolved.<sup>6</sup></li>
+    <li><i>Planesplitter</i> resolves before the <i>Coup D&rsquo;etat</i> action card can be played and resolved.<sup>6</sup></li>
     <li>This technology cannot be researched, but it can be gained by game effects that specify &ldquo;gain&rdquo;.<sup>7</sup></li>
     </ol>
 
@@ -83,8 +83,8 @@
 
 <h2 id="captain-aroz"><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders:~:text=Captain%20Aroz">&#x26AA; Captain Aroz</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>Captain Aroz does not assist in scoring secret objectives that do not require controlling planets, such as the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Mechanize%20the%20Military"><i>Mechanize the Military</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Occupy%20the%20Fringe"><i>Occupy the Fringe</i></a> secret objectives.<sup>*</sup></li>
-    <li>The Firmament player may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Stake%20Your%20Claim"><i>Stake Your Claim</i></a> objective using Captain Aroz with ships in a single&ndash;planet system where the planet is controlled by another player.<sup>6</sup></li>
+    <li>Captain Aroz does not assist in scoring secret objectives that do not require controlling planets, such as the <i>Mechanize the Military</i> or <i>Occupy the Fringe</i> secret objectives.<sup>*</sup></li>
+    <li>The Firmament player may score the <i>Stake Your Claim</i> objective using Captain Aroz with ships in a single&ndash;planet system where the planet is controlled by another player.<sup>6</sup></li>
     <li>If Captain Aroz causes the Firmament player to treat a planet as controlled by them, the Firmament player may use it only to score secret objectives, while the planet&rsquo;s actual controller may still use it to score any objective.<sup>6</sup></li>
     </ol>
 

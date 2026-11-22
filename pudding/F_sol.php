@@ -13,7 +13,7 @@
 
 <h2 id="versatile"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Faction_Abilities:~:text=Versatile">Versatile</a></h2>
     <ol class="note">
-    <li>If the Sol player owns the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Hyper_Metabolism"><i>Hyper Metabolism</i></a> technology, they gain four command tokens during the status phase.<sup>2</sup>
+    <li>If the Sol player owns the <i>Hyper Metabolism</i> technology, they gain four command tokens during the status phase.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is Hyper Metabolism misprinted?&rdquo;: &ldquo;It stacks with Sol&rsquo;s extra token, so Sol with it gains 4.&rdquo;</li>
         </ul></li>

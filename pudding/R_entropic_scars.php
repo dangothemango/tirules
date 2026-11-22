@@ -54,7 +54,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If they would place a gamma wormhole in an entropic scar, are these cards still purged? A: The exploration card is still purged as part of its resolution. The token though is discarded.&rdquo;</li>
         </ul></li>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm"><i>Ion Storm</i></a> exploration card would place its token in an entropic scar, the card is still placed in the common play area, and the token is discarded.<sup>6</sup>
+        <li>If the <i>Ion Storm</i> exploration card would place its token in an entropic scar, the card is still placed in the common play area, and the token is discarded.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded.&rdquo;</li>
         </ul></li>

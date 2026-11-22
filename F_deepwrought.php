@@ -10,16 +10,16 @@
 
 <h2 id="oceanbound"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Abilities:~:text=Oceanbound">Oceanbound</a></h2>
     <ol class="note">
-    <li>Ocean cards are spent as though they were planet cards. However, oceans are not planets, and do not count as planets for the purpose of scoring objectives, such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries"><i>Push Boundaries</i></a>.<sup>6</sup></li>
+    <li>Ocean cards are spent as though they were planet cards. However, oceans are not planets, and do not count as planets for the purpose of scoring objectives, such as <i>Push Boundaries</i>.<sup>6</sup></li>
     <ol><li>When the Deepwrought player scores objectives, planets they are coexisting on do count as planets they control. This is a function of coexistence, not of oceans, and other players do not count those planets as controlled by the Deepwrought player.<sup>6</sup></li></ol>
     <li>If all of the Deepwrought player&rsquo;s ocean cards are already in play, they cannot resolve <sc>Oceanbound</sc> to ready one of their oceans.<sup>6</sup></li>
     <li>Ocean cards are readied at the end of the agenda phase, like planets.<sup>3,6</sup></li>
-    <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to an ocean card.<sup>6</sup></li>
+    <li>Attachments such as the <i>Nano&ndash;Forge</i> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to an ocean card.<sup>6</sup></li>
     </ol>
 
 <h2 id="share-knowledge"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Promissory_Note:~:text=Share%20Knowledge">Share Knowledge</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
-    <li>If a player gains the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology through <i>Share Knowledge</i> and later loses it, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup></li>
+    <li>If a player gains the <i>Antimass Deflectors</i> technology through <i>Share Knowledge</i> and later loses it, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup></li>
     <li>If the Deepwrought player is eliminated, <i>Share Knowledge</i> and its technology remain in play until the status phase, when the promissory note is returned to the game box.<sup>6</sup></li>
     </ol>
 
@@ -29,9 +29,9 @@
 
 <h2 id="radical-advancement"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Technologies:~:text=Radical%20Advancement">Radical Advancement</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>If the Deepwrought player replaces the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup></li>
+    <li>If the Deepwrought player replaces the <i>Antimass Deflectors</i> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.<sup>2</sup></li>
     <li>The Deepwrought player may replace <i>Radical Advancement</i> itself for a biotic technology with two prerequisites.<sup>*</sup></li>
-    <li>If the Deepwrought player has the <a href="/F_nekro">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note in their play area, they will not draw an action card from the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> commander when they resolve <i>Radical Advancement</i>.<sup>*</sup></li>
+    <li>If the Deepwrought player has the <a href="/F_nekro">Nekro</a> player&rsquo;s <i>Alliance</i> promissory note in their play area, they will not draw an action card from the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> commander when they resolve <i>Radical Advancement</i>.<sup>*</sup></li>
     </ol>
 
 <h2 id="d-w-s-luminous"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Flagship:~:text=D.W.S.%20Luminous">D.W.S. Luminous</a> <sub>(Flagship)</sub></h2>
@@ -51,7 +51,7 @@
     <ol class="note">
     <li>The Deepwrought player does not have the capability to prevent other players from using the ability of Aello.<sup>2,7</sup></li>
     <li>Aello can only reduce a cost paid with resources, including trade goods spent in place of resources. It cannot reduce a cost paid with influence, trade goods spent in place of influence, or any other currency.<sup>*</sup></li>
-    <li>If a player has the Deepwrought player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then other players may use the ability of either or both (or neither):<sup>2</sup></li>
+    <li>If a player has the Deepwrought player&rsquo;s <i>Alliance</i> promissory note, then other players may use the ability of either or both (or neither):<sup>2</sup></li>
     <ol>
         <li>Another player may use the ability from both for a two resource discount, triggering the commodity ability for both the Deepwrought player and the player with their <i>Alliance</i> promissory note.<sup>2</sup></li>
         <li>Another player may use the ability from only the Deepwrought player for a one resource discount, triggering the commodity ability for just the Deepwrought player.<sup>2</sup></li>

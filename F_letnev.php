@@ -39,13 +39,13 @@
     <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <sc>Sustain Damage</sc> ability.<sup>*</sup></li>
     <li><i>Non&ndash;Euclidean Shielding</i> applies whenever hits are produced. This includes hits produced by <sc>Bombardment</sc> and <sc>Space Cannon</sc> abilities.<sup>*</sup></li>
     <li>If there are multiple hits that can be canceled, then the Letnev player must cancel two hits whenever one of their units uses its <sc>Sustain Damage</sc> ability; they cannot cancel just one.<sup>2</sup></li>
-    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <sc>Sustain Damage</sc> ability to cancel it. If additional hits are produced against the Letnev player&rsquo;s units, such as with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card, the Letnev player cannot retroactively use the previous use of <sc>Sustain Damage</sc> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.<sup>2</sup></li>
+    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <sc>Sustain Damage</sc> ability to cancel it. If additional hits are produced against the Letnev player&rsquo;s units, such as with the <i>Reflective Shielding</i> action card, the Letnev player cannot retroactively use the previous use of <sc>Sustain Damage</sc> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.<sup>2</sup></li>
     </ol>
 
 <h2 id="arc-secundus"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Flagship:~:text=Arc%20Secundus">Arc Secundus</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>The <i>Arc Secundus</i> only uses its repair ability during combats it is participating in.<sup>*</sup></li>
-    <li class="removed">If the ability of the <i>Arc Secundus</i> results in no units on a planet having the <sc>Planetary Shield</sc> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>*</sup></li>
+    <li class="removed">If the ability of the <i>Arc Secundus</i> results in no units on a planet having the <sc>Planetary Shield</sc> ability, then the ability of the <i>Magen Defense Grid</i> technology cannot be used during ground combat on that planet.<sup>*</sup></li>
     <ol><li>The <i>Arc Secundus</i> has no effect on the <span class="removed"><i>Magen Defense Grid &Omega;</i></span> or <i>Magen Defense Grid &Omega;&Omega;</i> technologies.<sup>*</sup></li></ol>
     </ol>
 
@@ -59,7 +59,7 @@
     <ol class="note">
     <li>If the Letnev player has more ships in a system than allowed for by their fleet pool plus <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Armada"><sc>Armada</sc></a>, they must first remove ships to meet this limit before they can unlock Rear Admiral Farran.<sup>*</sup></li>
     <li>This effect may be applied when a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper">Dunlain Reaper</a> uses its <sc>Sustain Damage</sc> ability.<sup>*</sup></li>
-    <ol><li>If the <a href="/F_ul">Ul</a> player has the Letnev player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <sc>Sustain Damage</sc> ability.<sup>*</sup></li></ol>
+    <ol><li>If the <a href="/F_ul">Ul</a> player has the Letnev player&rsquo;s <i>Alliance</i> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <sc>Sustain Damage</sc> ability.<sup>*</sup></li></ol>
     <li>A unit that becomes damaged without using its <sc>Sustain Damage</sc> ability will not trigger this effect.<sup>*</sup></li>
     <li>If multiple units use their <sc>Sustain Damage</sc> ability within a single step, the trade goods are gained one at a time.<sup>2</sup></li>
     </ol>
@@ -76,7 +76,7 @@
 
 <h2 id="gravleash-maneuvers"><a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Breakthrough:~:text=Gravleash%20Maneuvers">Gravleash Maneuvers</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>If a ship has its movement value increased by an ability such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology, then other ships will have their movement values increased to match the modified value.<sup>6</sup></li>
+    <li>If a ship has its movement value increased by an ability such as the <i>Gravity Drive</i> technology, then other ships will have their movement values increased to match the modified value.<sup>6</sup></li>
     <li>If the Letnev player owns the Fighter II unit upgrade technology, another ship may have its move value increased to match that of a Fighter II in that system.<sup>*</sup></li>
     <li>All effects that modify a ship&rsquo;s move value, such as the <i>Gravity Drive</i> technology and the <a href="/F_saar">Saar</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a>, are applied before <i>Gravleash Maneuvers</i>, and so are included in the copied value. The <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Crucible"><i>Crucible</i></a> promissory note is the exception.<sup>6</sup></li>
     <li>The value is copied after the <i>Gravity Drive</i> technology is applied. A ship that copies another ship&rsquo;s move value cannot then apply +1 from <i>Gravity Drive</i>.<sup>6</sup></li>

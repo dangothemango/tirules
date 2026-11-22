@@ -140,7 +140,7 @@
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexist and Exploration&rdquo;: &ldquo;You must control a planet outright to explore it.&rdquo;</li>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;You cannot explore a planet owned by another player&rdquo;</li>
         </ul></li>
-    <li>A player cannot spend another player&rsquo;s coexisting units to pay the cost of an exploration card, such as <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Volatile%20Fuel%20Source"><i>Volatile Fuel Source</i></a>.<sup>9</sup>
+    <li>A player cannot spend another player&rsquo;s coexisting units to pay the cost of an exploration card, such as <i>Volatile Fuel Source</i>.<sup>9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Same answer: &ldquo;You cannot spend other player&rsquo;s units to pay for explore cards&rsquo; costs.&rdquo;</li>
         </ul></li>

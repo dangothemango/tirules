@@ -8,7 +8,7 @@
 
 <h2 id="versatile"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Faction_Abilities:~:text=Versatile">Versatile</a></h2>
     <ol class="note">
-    <li>If the Sol player owns the <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#Hyper_Metabolism"><i>Hyper Metabolism</i></a> technology, they gain four command tokens during the status phase.<sup>2</sup></li>
+    <li>If the Sol player owns the <i>Hyper Metabolism</i> technology, they gain four command tokens during the status phase.<sup>2</sup></li>
     </ol>
 
 <h2 id="military-support"><a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Faction_Promissory_Note:~:text=Military%20Support">Military Support</a> <sub>(Promissory Note)</sub></h2>

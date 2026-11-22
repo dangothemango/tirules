@@ -44,11 +44,11 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;How does the Council Keleres faction ability Law&rsquo;s Order interact &hellip;? A: All agendas are treated as blank for all players for the duration of that Council Keleres player&rsquo;s turn.&rdquo;</li>
         <li><b>Explicit</b>: <sup>12</sup> Codex III, Law&rsquo;s Order: &ldquo;treat all laws as blank until the end of&rdquo; your turn.</li>
         </ul></li>
-    <li>If the Keleres player owns the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Political%20Censure"><i>Political Censure</i></a> law, they will not lose a victory point when it is blanked, and they may use action cards during this turn.<sup>*</sup>
+    <li>If the Keleres player owns the <i>Political Censure</i> law, they will not lose a victory point when it is blanked, and they may use action cards during this turn.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the Keleres player then uses the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Repeal%20Law"><i>Repeal Law</i></a> action card, targeting the <i>Political Censure</i> law, then it will be discarded without the Keleres player losing the victory point.<sup>*</sup>
+    <ol><li>If the Keleres player then uses the <i>Repeal Law</i> action card, targeting the <i>Political Censure</i> law, then it will be discarded without the Keleres player losing the victory point.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -81,7 +81,7 @@
 
 <h2 id="agency-supply-network"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Thunder's_Edge_2:~:text=Agency%20Supply%20Network">Agency Supply Network</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>Any abilities that trigger &ldquo;when/after a unit uses <sc>Production</sc>&rdquo; will trigger an additional time, for example, the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology.<sup>4</sup>
+    <li>Any abilities that trigger &ldquo;when/after a unit uses <sc>Production</sc>&rdquo; will trigger an additional time, for example, the <i>Sarween Tools</i> technology.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Yes, Sarween Tools would trigger with each instance of PRODUCTION (twice).&rdquo;</li>
         </ul></li>
@@ -115,7 +115,7 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can the &lsquo;when/after agenda is revealed&rsquo; effects be played on agenda revealed by the Keleres breakthrough, Executive Order? &hellip; A: Yes, the agenda is drawn and revealed.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does an agenda voted through Keleres&rsquo;s Executive Order count as the agenda phase?&rdquo;: &ldquo;&rsquo;when/after an agenda is revealed&rsquo; effects still work.&rdquo;</li>
         </ul></li>
-    <li>If the Keleres player draws one of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Judicial%20Abolishment"><i>Judicial Abolishment</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=New%20Constitution"><i>New Constitution</i></a> agendas, they will discard it if required and reveal a new agenda from the deck.<sup>*</sup>
+    <li>If the Keleres player draws one of the <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i> agendas, they will discard it if required and reveal a new agenda from the deck.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -127,15 +127,15 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Players exhaust planets to cast votes when resolving <i>Executive Order</i>, even if the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government"><i>Representative Government</i></a> law is in play, which only affects voting during the agenda phase.<sup>6</sup>
+    <li>Players exhaust planets to cast votes when resolving <i>Executive Order</i>, even if the <i>Representative Government</i> law is in play, which only affects voting during the agenda phase.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Representative Government says players get one vote during the agenda phase. Would this apply to Executive Order &hellip;? A: No, Representative Government only affects voting during the Agenda Phase.&rdquo;</li>
         </ul></li>
-    <li>If a third law is put into play, the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Dictate%20Policy"><i>Dictate Policy</i></a> secret objective cannot be scored until the agenda phase.<sup>2</sup>
+    <li>If a third law is put into play, the <i>Dictate Policy</i> secret objective cannot be scored until the agenda phase.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does an agenda voted through Keleres&rsquo;s Executive Order count as the agenda phase?&rdquo;: &ldquo;No &mdash; phase steps like readying don&rsquo;t happen and agenda-phase secrets, Drive the Debate included, can&rsquo;t be scored.&rdquo; Dictate Policy is an agenda-phase secret objective.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Drive%20the%20Debate"><i>Drive the Debate</i></a> secret objective cannot be scored while resolving <i>Executive Order</i>.<sup>2</sup>
+    <li>The <i>Drive the Debate</i> secret objective cannot be scored while resolving <i>Executive Order</i>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;agenda-phase secrets, Drive the Debate included, can&rsquo;t be scored.&rdquo;</li>
         </ul></li>
@@ -190,7 +190,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It counts as a planet for objectives and agendas if it meets the specific criteria of those objectives and agendas.&rdquo;</li>
         </ul></li>
-    <ol><li>The <sc>Production</sc> value that the Custodia Vigilia legendary planet ability gives Mecatol Rex counts toward the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Produce%20en%20Masse"><i>Produce en Masse</i></a> objective.<sup>4,9</sup>
+    <ol><li>The <sc>Production</sc> value that the Custodia Vigilia legendary planet ability gives Mecatol Rex counts toward the <i>Produce en Masse</i> objective.<sup>4,9</sup>
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Unofficially Official FAQ: &ldquo;Does Custodia Vigilia&rsquo;s PRODUCTION count as a unit for sarween tools, etc.? A: Yes, Custodia Vigilia should include &ldquo;as if it were a unit&rdquo;.&rdquo; The legendary ability reads: &ldquo;While you control Mecatol Rex, it gains SPACE CANNON 5 and PRODUCTION 3.&rdquo; Produce en Masse counts the combined PRODUCTION value of units in a single system, so Mecatol Rex&rsquo;s PRODUCTION 3 counts.</li>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Unit Abilities imply Units?&rdquo;: things that use unit abilities but are not units should be &ldquo;treated as if they were units while using those unit abilities&rdquo; &mdash; &ldquo;A: Yes I&rsquo;d say let them combo and be shut down.&rdquo;</li>
@@ -211,7 +211,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia&rsquo;s PRODUCTION count as a unit for sarween tools, etc.? A: Yes, Custodia Vigilia should include &lsquo;as if it were a unit&rsquo;.&rdquo;</li>
         </ul></li>
-    <ol><li>This may trigger the abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology, and other similar abilities.<sup>4</sup>
+    <ol><li>This may trigger the abilities of the <i>Sarween Tools</i> technology, and other similar abilities.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Same ruling: &ldquo;Yes.&rdquo;</li>
         </ul></li></ol>
@@ -255,7 +255,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the Keleres player can perform a second action through some other game effect (such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Fleet_Logistics"><i>Fleet Logistics</i></a> technology), they may unlock Suffi An by playing an action card with a component action for their first action, then perform a second component action, which will then allow them to perform a third action because of Suffi An.<sup>*</sup>
+    <ol><li>If the Keleres player can perform a second action through some other game effect (such as the <i>Fleet Logistics</i> technology), they may unlock Suffi An by playing an action card with a component action for their first action, then perform a second component action, which will then allow them to perform a third action because of Suffi An.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -311,7 +311,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The Keleres player will still receive the trade goods and command tokens if the agenda is discarded and resolved with no effect by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card.<sup>*</sup>
+    <li>The Keleres player will still receive the trade goods and command tokens if the agenda is discarded and resolved with no effect by the <i>Deadly Plot</i> action card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

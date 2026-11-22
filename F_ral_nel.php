@@ -29,7 +29,7 @@
 <h2 id="linkship"><a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium#Destroyer:~:text=Linkship">Linkship</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>Linkships cannot fire <sc>Space Cannon</sc> against adjacent units, even if the Ral Nel player has PDS II.<sup>6,9</sup></li>
-    <li>If a space dock gains <sc>Space Cannon</sc> from the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card, each Linkship II in the system may use that <sc>Space Cannon</sc> ability.<sup>6</sup></li>
+    <li>If a space dock gains <sc>Space Cannon</sc> from the <i>Experimental Battlestation</i> action card, each Linkship II in the system may use that <sc>Space Cannon</sc> ability.<sup>6</sup></li>
     <li>Each Linkship II rolls one space cannon die, regardless of how many PDS are in its system.<sup>2</sup></li>
     </ol>
 
@@ -37,9 +37,9 @@
     <ol class="note">
     <li>The Ral Nel player chooses which ship is destroyed.<sup>7</sup></li>
     <li>A unit with <sc>Sustain Damage</sc> cannot be destroyed, even if it is damaged.<sup>7</sup></li>
-    <ol><li>If a unit loses the <sc>Sustain Damage</sc> ability, such as a war sun by the effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Publicize%20Weapon%20Schematics"><i>Publicize Weapon Schematics</i></a> agenda, then that unit may be destroyed with the ability of the <i>Last Dispatch</i>.<sup>7</sup></li></ol>
+    <ol><li>If a unit loses the <sc>Sustain Damage</sc> ability, such as a war sun by the effect of the <i>Publicize Weapon Schematics</i> agenda, then that unit may be destroyed with the ability of the <i>Last Dispatch</i>.<sup>7</sup></li></ol>
     <li>If this ability destroys the last of the other player&rsquo;s ships in the system, the Ral Nel player&rsquo;s ships still retreat and the ability resolves.<sup>6</sup></li>
-    <li>If the Ral Nel player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, they cannot resolve the ability of the <i>Last Dispatch</i>.<sup>2</sup></li>
+    <li>If the Ral Nel player plays the <i>Skilled Retreat</i> action card, they cannot resolve the ability of the <i>Last Dispatch</i>.<sup>2</sup></li>
     <ol><li><i>Skilled Retreat</i> is not a retreat.<sup>2</sup></li></ol>
     </ol>
 
@@ -54,14 +54,14 @@
     <ol class="note">
     <li>Watchful Ojz can only be used if the Ral Nel player has a valid retreat path for the moved ships (separate from the system the commander allows them to retreat to).<sup>9</sup></li>
     <li>The destination system may contain a planet controlled by another player, which may also have that player&rsquo;s ground forces on it.<sup>*</sup></li>
-    <li>Watchful Ojz is a &ldquo;when&rdquo; ability. It resolves before the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Intercept"><i>Intercept</i></a> action card is played and resolved.<sup>6</sup></li>
+    <li>Watchful Ojz is a &ldquo;when&rdquo; ability. It resolves before the <i>Intercept</i> action card is played and resolved.<sup>6</sup></li>
     </ol>
 
 <h2 id="director-nel"><a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium#Leaders:~:text=Director%20Nel">Director Nel</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium#Leaders:~:text=Signal%20Intrusion">Signal Intrusion</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li><i>Signal Intrusion</i> may be triggered by the Ral Nel player themself passing.<sup>*</sup></li>
     <li>The Ral Nel player may take any number of turns after unpassing, before they pass again, which will end the action phase.<sup>*</sup></li>
-    <li>When the Ral Nel player passes again, they may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> secret objective.<sup>*</sup></li>
+    <li>When the Ral Nel player passes again, they may score the <i>Prove Endurance</i> secret objective.<sup>*</sup></li>
     <li>Purging Director Nel does not prevent the active player from scoring the <i>Prove Endurance</i> objective. The active player scores <i>Prove Endurance</i> when they pass, then the Ral Nel player purges their hero.<sup>6</sup></li>
     </ol>
 

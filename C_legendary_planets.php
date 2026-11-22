@@ -35,7 +35,7 @@
     <li>The player chooses which discarded action card to take.<sup>2</sup></li>
     <li><i>Dok &rsquo;N Pic&rsquo;s Salvage Yard</i> need not be readied for a player to play the action cards on it.<sup>*</sup></li>
     <li>Cards on <i>Dok &rsquo;N Pic&rsquo;s Salvage Yard</i> do not count toward a player&rsquo;s action card hand limit.<sup>*</sup></li>
-    <li>The player with <a href="https://twilight-imperium.fandom.com/wiki/Legendary_Planets#Codex_II:_Affinity:~:text=The%20Codex"><i>The Codex</i></a> cannot take cards that are on <i>Dok &rsquo;N Pic&rsquo;s Salvage Yard</i>.<sup>*</sup></li>
+    <li>The player with <i>The Codex</i> cannot take cards that are on <i>Dok &rsquo;N Pic&rsquo;s Salvage Yard</i>.<sup>*</sup></li>
     <li>If another player gains control of Garbozia, any action cards on <i>Dok &rsquo;N Pic&rsquo;s Salvage Yard</i> will remain there when the legendary planet ability card is transferred; the new controller of Garbozia may play those action cards in the future.<sup>*</sup></li>
     </ol>
 

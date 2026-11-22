@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>When a player gains control of a planet that is not controlled by another player, they explore it before resolving any &ldquo;after you gain control of a planet&rdquo; abilities, such as the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology.<sup>2</sup>
+    <li>When a player gains control of a planet that is not controlled by another player, they explore it before resolving any &ldquo;after you gain control of a planet&rdquo; abilities, such as the <i>Integrated Economy</i> technology.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does exploration work?&rdquo;: &ldquo;When you gain control of a planet nobody controlled, draw a card from the exploration deck matching its trait; this happens before &lsquo;after you gain control&rsquo; effects like Integrated Economy or Pre-Fab Arcologies.&rdquo;</li>
         </ul></li>
@@ -23,7 +23,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;you choose an order to gain and explore planets. The sequence would be &gt; gain control of planet A &gt; explore planet A &gt; gain control of planet B.&rdquo;</li>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 11: &ldquo;If a player gains control of multiple planets at the same time, they choose the order in which they explore those planets, drawing and resolving each planet&rsquo;s exploration card before exploring the next planet.&rdquo;</li>
         </ul></li>
-    <li><a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm"><i>Ion Storm</i></a> is placed into play, not into the frontier discard pile.<sup>6</sup>
+    <li><i>Ion Storm</i> is placed into play, not into the frontier discard pile.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded.&rdquo;</li>
         </ul></li>

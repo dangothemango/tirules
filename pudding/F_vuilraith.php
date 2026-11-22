@@ -33,7 +33,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What are captured units good for, and how do Amalgamation and Riftmeld use them?&rdquo;: &ldquo;its printed cost still counts toward limits like Integrated Economy&rsquo;s.&rdquo;</li>
         </ul></li>
-    <ol><li>If the Vuil&rsquo;raith player uses the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, <sc>Amalgamation</sc> will have no effect on the limit to the units they may build.<sup>2</sup>
+    <ol><li>If the Vuil&rsquo;raith player uses the ability of the <i>Integrated Economy</i> technology, <sc>Amalgamation</sc> will have no effect on the limit to the units they may build.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What are captured units good for, and how do Amalgamation and Riftmeld use them?&rdquo;: &ldquo;its printed cost still counts toward limits like Integrated Economy&rsquo;s.&rdquo;</li>
         </ul></li></ol>
@@ -41,7 +41,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What are captured units good for, and how do Amalgamation and Riftmeld use them?&rdquo;: &ldquo;Each captured unit or token gives one unit, even fighters or infantry.&rdquo;</li>
         </ul></li>
-    <li>If the Vuil&rsquo;raith player has the <a href="/F_naalu">Naalu</a> or <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they may spend one resource for one fighter or infantry, but spend a captured unit instead of that resource, then get one additional fighter or infantry for no cost, which will not count toward their production limit.<sup>*</sup>
+    <li>If the Vuil&rsquo;raith player has the <a href="/F_naalu">Naalu</a> or <a href="/F_yin">Yin</a> player&rsquo;s <i>Alliance</i> promissory note, they may spend one resource for one fighter or infantry, but spend a captured unit instead of that resource, then get one additional fighter or infantry for no cost, which will not count toward their production limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -100,7 +100,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Same ruling: &ldquo;the bonus would apply to all ships that can make it to the active system.&rdquo;</li>
         </ul></li></ol>
-    <li>If a player plays both <i>Crucible</i> and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card during the same tactical action, they will still apply +1 to the move value of their ships that move through or out of a gravity rift.<sup>*</sup>
+    <li>If a player plays both <i>Crucible</i> and the <i>Nav Suite</i> action card during the same tactical action, they will still apply +1 to the move value of their ships that move through or out of a gravity rift.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -137,7 +137,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Vuil&rsquo;raith ships roll for Cormund&rsquo;s gravity rift if their Dimensional Tear dock is there, and do two tears stack?&rdquo;: &ldquo;it is simply a gravity rift, and counts as an anomaly for objectives.&rdquo;</li>
         </ul></li>
-    <ol><li>This system qualifies for the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History"><i>Make History</i></a> and similar such objectives.<sup>2</sup>
+    <ol><li>This system qualifies for the <i>Make History</i> and similar such objectives.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
         </ul></li></ol>
@@ -175,7 +175,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does the Cabal Flagship capture other units that are destroyed in the same timing window in which it is destroyed? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What does the Vuil&rsquo;raith flagship capture?&rdquo;: &ldquo;the Cabal flagship is destroyed too but still captures everything else destroyed there.&rdquo;</li>
         </ul></li>
-    <ol><li>Using the <sc>Sustain Damage</sc> ability of units is done before remaining hits are assigned. As such, if <i>The Terror Between</i> is destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, units destroyed by being assigned hits in the same round of combat, or from the same pool of <sc>Space Cannon</sc> hits, will not be captured.<sup>*</sup>
+    <ol><li>Using the <sc>Sustain Damage</sc> ability of units is done before remaining hits are assigned. As such, if <i>The Terror Between</i> is destroyed by a <i>Direct Hit</i> action card, units destroyed by being assigned hits in the same round of combat, or from the same pool of <sc>Space Cannon</sc> hits, will not be captured.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -187,7 +187,7 @@
 
 <h2 id="the-stillness-of-stars"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Stillness%20of%20Stars">The Stillness of Stars</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>If a player loses their commodities immediately after replenishing them, most commonly via that player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, the Vuil&rsquo;raith player may still target them. If they do, they still use that player&rsquo;s full commodity value to determine which units may be captured.<sup>4</sup>
+    <li>If a player loses their commodities immediately after replenishing them, most commonly via that player&rsquo;s <i>Trade Agreement</i> promissory note, the Vuil&rsquo;raith player may still target them. If they do, they still use that player&rsquo;s full commodity value to determine which units may be captured.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Vuil&rsquo;raith Cabal use their agent on someone who has their Trade Agreement used to take their commodities? A: Yes, the commodities would not be there but the agent could still be used to capture a ship up to the player&rsquo;s commodity value.&rdquo;</li>
         </ul></li>
@@ -251,7 +251,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling, &ldquo;What is the interaction between Infantry 2 and Capture?&rdquo;: &ldquo;What is the interaction between Infantry 2 and Capture? A: Both happen&rdquo; both capture and resurrection apply.</li>
         </ul></li>
-    <li>If the Vuil&rsquo;raith player&rsquo;s infantry on a planet with a Reanimator are destroyed outside of combat, such as with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Plague"><i>Plague</i></a> action card, those infantry will be captured.<sup>*</sup>
+    <li>If the Vuil&rsquo;raith player&rsquo;s infantry on a planet with a Reanimator are destroyed outside of combat, such as with the <i>Plague</i> action card, those infantry will be captured.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
