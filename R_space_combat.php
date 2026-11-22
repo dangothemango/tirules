@@ -3,19 +3,19 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '78.' counter(item, decimal);} </style>
-<p data-src="1,2,3">After resolving the <b><a href="/R_space_cannon">Space Cannon Offense</a></b> step of a tactical action, if two players have ships in the active system, those players must resolve a space combat.</p>
+<p data-src="1,2,3">After resolving the <b>Space Cannon Offense</b> step of a tactical action, if two players have ships in the active system, those players must resolve a space combat.</p>
     <ol class="lrr">
-    <li data-src="1">If the active player is the only player with ships in the system, they skip the <b>Space Combat</b> step of the tactical action and proceeds to the <b><a href="/R_invasion">Invasion</a></b> step.</li>
-    <li data-src="1">If an ability occurs &ldquo;before combat&rdquo;, it occurs immediately before the <b><a href="/R_anti_fighter_barrage">Anti&ndash;Fighter Barrage</a></b> step.</li>
+    <li data-src="1">If the active player is the only player with ships in the system, they skip the <b>Space Combat</b> step of the tactical action and proceeds to the <b>Invasion</b> step.</li>
+    <li data-src="1">If an ability occurs &ldquo;before combat&rdquo;, it occurs immediately before the <b>Anti&ndash;Fighter Barrage</b> step.</li>
     <ol>
         <li data-src="1,2">During the first round of a combat, &ldquo;start of combat&rdquo; and &ldquo;start of combat round&rdquo; effects occur during the same timing window.</li>
         <li data-src="1">During the last round of a combat, &ldquo;end of combat&rdquo; and &ldquo;end of combat round&rdquo; effects occur during the same timing window.</li>
     </ol>
     <p data-src="1">To resolve a space combat, players perform the following steps:</p>
-    <li data-src="1,3"><b>Step 1 &ndash; Anti&ndash;Fighter Barrage</b>: If this is the first round of a space combat, the players may simultaneously use the <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability of any of their units in the active system.</li>
+    <li data-src="1,3"><b>Step 1 &ndash; Anti&ndash;Fighter Barrage</b>: If this is the first round of a space combat, the players may simultaneously use the <sc>Anti&ndash;Fighter Barrage</sc> ability of any of their units in the active system.</li>
     <ol>
         <li data-src="1">If one or both players no longer have ships in the active system after resolving this step, the space combat ends immediately.</li>
-        <li data-src="1,2">Players cannot resolve <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> abilities during any rounds of space combat other than the first round.</li>
+        <li data-src="1,2">Players cannot resolve <sc>Anti&ndash;Fighter Barrage</sc> abilities during any rounds of space combat other than the first round.</li>
         <li data-src="1,2,8">This step still occurs if no fighters are present.</li>
     </ol>
     <li data-src="1,2"><b>Step 2 &ndash; Announce Retreats</b>: Each player may announce a retreat, beginning with the defender.</li>
@@ -35,7 +35,7 @@
     </ol>
     <li data-src="1,3"><b>Step 4 &ndash; Assign Hits</b>: Each player in the combat must choose and destroy one of their own ships in the active system for each hit their opponent produced.</li>
     <ol>
-        <li data-src="1,2">Before assigning hits, players may use their units&rsquo; <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> abilities to cancel hits.</li>
+        <li data-src="1,2">Before assigning hits, players may use their units&rsquo; <sc>Sustain Damage</sc> abilities to cancel hits.</li>
         <li data-src="1,3">When a unit is destroyed, the player who controls that unit removes it from the board and places it in their reinforcements.</li>
     </ol>
     <li data-src="1,3"><b>Step 5 &ndash; Retreat</b>: If a player announced a retreat during <b>step 2</b>, and there is still an eligible system for their units to retreat to, they must retreat.</li>
@@ -65,8 +65,8 @@
         <li>If a space combat reaches a state where neither player can win, the attacker must retreat. If the attacker cannot retreat, their units in that combat are destroyed.<sup>2</sup></li>
         <li>Modifying the move value of a ship will have no effect when retreating. Retreats are limited to adjacent systems.<sup>2</sup></li>
         <li>The <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap"><i>Dark Energy Tap</i></a> technology allows a player to retreat into a system that does not contain their ships or a planet they control.<sup>2,8</sup></li>
-        <li>Ships can retreat into a <a href="/R_nebula">nebula</a>, as a nebula is intended to no longer need to be the active system for units to move into it.<sup>4</sup></li>
-        <li>A player can retreat into an <a href="/R_asteroid_field">asteroid field</a> or <a href="/R_supernova">supernova</a> only if an effect allows their ships to move into it, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology or the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology.<sup>*</sup></li>
+        <li>Ships can retreat into a nebula, as a nebula is intended to no longer need to be the active system for units to move into it.<sup>4</sup></li>
+        <li>A player can retreat into an asteroid field or supernova only if an effect allows their ships to move into it, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology or the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology.<sup>*</sup></li>
         <li>Ships retreating out of a gravity rift are affected by it; see <a href="/R_gravity_rift">Gravity Rift</a>.<sup>1</sup></li>
         <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card will not allow a player to ignore an anomaly while retreating, as a retreat does not happen during the <b>Movement</b> step.<sup>*</sup></li>
         <li>Ships can retreat out of the active system, and transport units out of it, even if it contains the retreating player&rsquo;s command token.<sup>1,2</sup></li>

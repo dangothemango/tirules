@@ -10,7 +10,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Mecatol Rex on tile 18 is not a legendary planet. Mecatol Rex on tile 112 is a <a href="/R_legendary_planets">legendary planet</a>; its legendary planet ability card is <a href="/C_legendary_planets"><i>The Galactic Council</i></a>.<sup>7</sup></li>
+    <li>Mecatol Rex on tile 18 is not a legendary planet. Mecatol Rex on tile 112 is a legendary planet; its legendary planet ability card is <a href="/C_legendary_planets"><i>The Galactic Council</i></a>.<sup>7</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

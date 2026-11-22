@@ -39,7 +39,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10, Neutral Units: &ldquo;Neutral units count as other player&rsquo;s units for the purpose of resolving players&rsquo; abilities and other game effects. There is, however, no &lsquo;neutral player.&rsquo;&rdquo;</li>
         </ul></li>
-    <li>Neutral units with <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> use it to cancel hits before any remaining hits are assigned. For example, if a neutral destroyer and a neutral dreadnought take one hit, the dreadnought uses <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> to cancel it.<sup>6</sup>
+    <li>Neutral units with <sc>Sustain Damage</sc> use it to cancel hits before any remaining hits are assigned. For example, if a neutral destroyer and a neutral dreadnought take one hit, the dreadnought uses <sc>Sustain Damage</sc> to cancel it.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Sustain window occurs before assign hits and all units with SUSTAIN will use this to cancel hits before then assigning hits to neutral units.&rdquo;</li>
         </ul></li>
@@ -47,7 +47,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10, Neutral Units: &ldquo;neutral units are incapable of making decisions; in the unlikely event that a decision needs to be made for a neutral unit, the speaker makes that decision instead.&rdquo;</li>
         </ul></li>
-    <ol><li>During combat, hits against neutral units are always assigned in the order on the neutral unit reference card, so the speaker does not choose. The speaker does choose which neutral units are hit outside of combat, such as by <a href="/R_space_cannon"><sc>Space Cannon</sc></a>.<sup>6</sup>
+    <ol><li>During combat, hits against neutral units are always assigned in the order on the neutral unit reference card, so the speaker does not choose. The speaker does choose which neutral units are hit outside of combat, such as by <sc>Space Cannon</sc>.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;How are hits assigned to neutral units outside of combat (for example, SPACE CANNON)? A: Speaker decides any decisions for the neutral units that are not hits during combat.&rdquo;</li>
         </ul></li></ol>

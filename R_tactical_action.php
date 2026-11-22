@@ -9,18 +9,18 @@
     <ol>
         <li data-src="1,2,3">To activate a system, the active player places a command token from their tactic pool in that system. That system is the active system.</li>
         <li data-src="1,3">Other players&rsquo; command tokens do not prevent a player from activating a system.</li>
-        <li>(Thunder&rsquo;s Edge) The primary ability of the <a href="/R_warfare"><i>Warfare</i></a> strategy card allows a player to perform a tactical action in a system that already contains one of their command tokens, without placing a command token.<sup>13</sup></li>
+        <li>(Thunder&rsquo;s Edge) The primary ability of the <i>Warfare</i> strategy card allows a player to perform a tactical action in a system that already contains one of their command tokens, without placing a command token.<sup>13</sup></li>
     </ol>
     <li data-src="1,3"><b>Step 2 &ndash; Movement</b>: The active player may move any number of ships that have a sufficient move value from any number of systems that do not contain one of their command tokens into the active system, following the rules for movement.</li>
     <ol>
         <li data-src="1,3">Ships that have capacity values can transport ground forces and fighters when moving.</li>
         <li data-src="1,2">The player may choose to not move any ships.</li>
-        <li data-src="1,2,3">After the <b><a href="/R_movement">Move Ships</a></b> step, all players can use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units in the active system.</li>
+        <li data-src="1,2,3">After the <b>Move Ships</b> step, all players can use the <sc>Space Cannon</sc> abilities of their units in the active system.</li>
     </ol>
     <li data-src="1,2,3"><b>Step 3 &ndash; Space Combat</b>: If two players have ships in the active system, those players must resolve a space combat.</li>
     <ol><li data-src="1">If the active player is the only player with ships in the system, they skip this step.</li></ol>
-    <li data-src="1,3"><b>Step 4 &ndash; Invasion</b>: The active player may use their <a href="/R_bombardment"><sc>Bombardment</sc></a> abilities, commit units to land on planets, and resolve ground combat against other players&rsquo; units.</li>
-    <li data-src="1,2,3"><b>Step 5 &ndash; Production</b>: The active player may resolve each of their unit&rsquo;s <a href="/R_production"><sc>Production</sc></a> abilities in the active system.</li>
+    <li data-src="1,3"><b>Step 4 &ndash; Invasion</b>: The active player may use their <sc>Bombardment</sc> abilities, commit units to land on planets, and resolve ground combat against other players&rsquo; units.</li>
+    <li data-src="1,2,3"><b>Step 5 &ndash; Production</b>: The active player may resolve each of their unit&rsquo;s <sc>Production</sc> abilities in the active system.</li>
     <ol><li data-src="1,3">The active player may do this even if they did not move units or land ground forces during this tactical action.</li></ol>
     </ol>
 

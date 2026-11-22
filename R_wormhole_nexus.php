@@ -12,7 +12,7 @@
         <li data-src="1,2,8">The wormhole nexus is on the edge of the game board.</li>
     </ol>
     <li data-src="1,2,8">After a player moves or places a unit into the wormhole nexus, or gains control of the planet Mallice, that player flips the wormhole nexus to its active side.</li>
-    <ol><li data-src="1,2,8">When a ship moves into the wormhole nexus, the nexus becomes active at the end of the <b><a href="/R_movement">Movement</a></b> step.</li></ol>
+    <ol><li data-src="1,2,8">When a ship moves into the wormhole nexus, the nexus becomes active at the end of the <b>Movement</b> step.</li></ol>
     </ol>
 
 <h2>Notes</h2>

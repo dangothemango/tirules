@@ -23,10 +23,10 @@
     <ol class="note">
     <li>When resolving the ability of an Exotrireme II, the N&rsquo;orr player chooses which ships are destroyed.<sup>2,5</sup></li>
     <ol><li>The N&rsquo;orr player cannot choose their own ships as targets.<sup>1</sup></li></ol>
-    <li>Effects that cancel hits, such as the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup></li>
+    <li>Effects that cancel hits, such as the <sc>Sustain Damage</sc> ability, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup></li>
     <li>If a player retreats, the N&rsquo;orr player will be unable to use the ability of an Exotrireme II to destroy an opponent&rsquo;s ship.<sup>2</sup></li>
     <li>If the N&rsquo;orr player is in a combat with the <a href="/F_yin">Yin</a> player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.<sup>2</sup></li>
-    <li>An Exotrireme II that used its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability during a combat round may still be destroyed to resolve its ability at the end of that round.<sup>2</sup></li>
+    <li>An Exotrireme II that used its <sc>Sustain Damage</sc> ability during a combat round may still be destroyed to resolve its ability at the end of that round.<sup>2</sup></li>
     </ol>
 
 <h2 id="cmorran-norr"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=C%27morran%20N%27orr">C&rsquo;morran N&rsquo;orr</a> <sub>(Flagship)</sub></h2>
@@ -54,7 +54,7 @@
     </ol>
     <li>Purging the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Dominus%20Orb"><i>Dominus Orb</i></a> relic does not allow the N&rsquo;orr player to use G&rsquo;hom Sek&rsquo;kus to commit ground forces from systems that contain their command tokens.<sup>4</sup></li>
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Parley"><i>Parley</i></a> action card will place the committed ground forces in the space area of the active system. If the N&rsquo;orr player does not have enough capacity in the space area for the extra ground forces, including zero capacity, they will have to remove fighters and ground forces to meet capacity limits.<sup>2</sup></li>
-    <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>3,4</sup></li>
+    <li>Only the active player may use the <sc>Bombardment</sc> ability of their units during an invasion.<sup>3,4</sup></li>
     <ol><li>This prevents the <a href="/F_lizix">L1Z1X</a> player from using their <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> faction ability, unless they are the active player.<sup>4</sup></li></ol>
     </ol>
 
@@ -69,7 +69,7 @@
 <h2 id="valkyrie-exoskeleton"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Exoskeleton">Valkyrie Exoskeleton</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The hit produced by the Valkyrie Exoskeleton is added to any other hits produced in the immediately preceding <b>Roll Dice</b> step.<sup>*</sup></li>
-    <li>If a Valkyrie Exoskeleton uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability during a ground combat, it mandatorily produces a hit.<sup>*</sup></li>
+    <li>If a Valkyrie Exoskeleton uses its <sc>Sustain Damage</sc> ability during a ground combat, it mandatorily produces a hit.<sup>*</sup></li>
     </ol>
 
 <h2 id="norr-supremacy"><a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=N%27orr%20Supremacy">N&rsquo;orr Supremacy</a> <sub>(Breakthrough)</sub></h2>

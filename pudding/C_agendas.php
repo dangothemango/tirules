@@ -59,7 +59,7 @@
 
 <h2 id="articles-of-war"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Articles%20of%20War">Articles of War</a></h2>
     <ol class="note">
-    <li>Mechs lose all of their printed abilities other than <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, including <a href="/R_bombardment"><sc>Bombardment</sc></a>, <a href="/R_space_cannon"><sc>Space Cannon</sc></a> and <a href="/R_production"><sc>Production</sc></a>. Their cost and combat values are unchanged, including any additional dice they roll, such as for the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s mechs.<sup>2</sup>
+    <li>Mechs lose all of their printed abilities other than <sc>Sustain Damage</sc>, including <sc>Bombardment</sc>, <sc>Space Cannon</sc> and <sc>Production</sc>. Their cost and combat values are unchanged, including any additional dice they roll, such as for the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s mechs.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Under Articles of War, do mechs lose Bombardment, Space Cannon and Production too?&rdquo;: &ldquo;Yes &mdash; mechs lose all their printed abilities except Sustain Damage. Their cost and combat stats stay, so they still fight, and a mech that rolls 2 dice still does.&rdquo;</li>
         </ul></li>
@@ -211,7 +211,7 @@
 
 <h2 id="conventions-of-war"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Conventions%20of%20War">Conventions of War</a></h2>
     <ol class="note">
-    <li><i>Conventions of War</i> does not prevent the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Tactical%20Bombardment"><i>Tactical Bombardment</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic from being used on cultural planets, as neither uses the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability.<sup>*</sup>
+    <li><i>Conventions of War</i> does not prevent the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Tactical%20Bombardment"><i>Tactical Bombardment</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic from being used on cultural planets, as neither uses the <sc>Bombardment</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. Restored from the original rebuild without the X-89 part; X-89 ΩΩ only doubles Bombardment hits. RulesPal, &ldquo;Why vote against Conventions of War&hellip;?&rdquo;: &ldquo;For makes it a law that nobody may bombard cultural planets&rdquo;, which these cards do not do.</li>
         </ul></li>
@@ -323,7 +323,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where can my ships retreat to?&rdquo;: &ldquo;Under Enforced Travel Ban, alpha and beta wormholes give no adjacency for a retreat.&rdquo;</li>
         </ul></li>
-    <li>When the <i>Enforced Travel Ban</i> law is in play, the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability may still be used through wormholes.<sup>1,2</sup>
+    <li>When the <i>Enforced Travel Ban</i> law is in play, the <sc>Space Cannon</sc> ability may still be used through wormholes.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does the &lsquo;Enforced Travel Ban&rsquo; agenda prevent &lsquo;Space Cannon&rsquo; usage through wormholes? A: No.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;the systems stay adjacent for everything else, so Space Cannon still fires through them.&rdquo;</li>
@@ -364,7 +364,7 @@
 
 <h2 id="galactic-crisis-pact"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Galactic%20Crisis%20Pact">Galactic Crisis Pact</a></h2>
     <ol class="note">
-    <li>If <a href="/R_leadership"><i>Leadership</i></a> is elected, players may still spend influence to gain additional command tokens when resolving its secondary ability.<sup>2</sup>
+    <li>If <i>Leadership</i> is elected, players may still spend influence to gain additional command tokens when resolving its secondary ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Galactic Crisis Pact work when Leadership is elected?&rdquo;: &ldquo;there&rsquo;s no token cost to waive, but spending influence for tokens still applies.&rdquo;</li>
         </ul></li>
@@ -372,11 +372,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Players must pay the influence or resource costs to resolve the abilities of the <a href="/R_leadership"><i>Leadership</i></a>, <a href="/R_warfare"><i>Warfare</i></a> or <a href="/R_technology_sc"><i>Technology</i></a> strategy cards if they are elected. Any planets used to pay these costs will ready at the end of the agenda phase.<sup>3</sup>
+    <li>Players must pay the influence or resource costs to resolve the abilities of the <i>Leadership</i>, <i>Warfare</i> or <i>Technology</i> strategy cards if they are elected. Any planets used to pay these costs will ready at the end of the agenda phase.<sup>3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Agenda Phase: &ldquo;3. READY PLANETS Each player readies all of their planet cards.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/R_technology_sc"><i>Technology</i></a> strategy card is elected, a player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>3</sup>
+    <li>If the <i>Technology</i> strategy card is elected, a player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.<sup>3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Agenda Phase: &ldquo;3. READY PLANETS Each player readies all of their planet cards.&rdquo;</li>
         </ul></li>
@@ -444,7 +444,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>A player with three or fewer units in a system adjacent to the <a href="/R_mecatol_rex">Mecatol Rex</a> system destroys all of their units in that system.<sup>2</sup>
+    <li>A player with three or fewer units in a system adjacent to the Mecatol Rex system destroys all of their units in that system.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which units does The Ixthian Artifact destroy?&rdquo;: &ldquo;3 units of each player in every adjacent system (all of them if a player has fewer).&rdquo;</li>
         </ul></li>
@@ -514,7 +514,7 @@
 
 <h2 id="minister-of-industry"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry">Minister of Industry</a></h2>
     <ol class="note">
-    <li>All units in that system may use their <a href="/R_production"><sc>Production</sc></a> ability, not just the placed space dock.<sup>2</sup>
+    <li>All units in that system may use their <sc>Production</sc> ability, not just the placed space dock.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;Minister of Industry lets you produce in that system right after placing the dock.&rdquo;</li>
         </ul></li>
@@ -733,7 +733,7 @@
 
 <h2 id="prophecy-of-ixth"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Prophecy%20of%20Ixth">Prophecy of Ixth</a></h2>
     <ol class="note">
-    <li>Other effects that produce units without a unit using its <a href="/R_production"><sc>Production</sc></a> ability will not cause <i>Prophecy of Ixth</i> to be discarded.<sup>2</sup>
+    <li>Other effects that produce units without a unit using its <sc>Production</sc> ability will not cause <i>Prophecy of Ixth</i> to be discarded.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does producing with Sling Relay trigger the Prophecy of Ixth drawback?&rdquo;: &ldquo;No &mdash; it only applies when you use a unit&rsquo;s Production ability, which Sling Relay doesn&rsquo;t.&rdquo;</li>
         </ul></li>
@@ -772,7 +772,7 @@
         <li><b>Explicit</b>: <sup>5</sup> Same ruling, which asked whether it &ldquo;count[s] against the &lsquo;Against&rsquo; effects of Publicize Weapons Schematics&rdquo;: &ldquo;They do not.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>The <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> will lose its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, regardless of if the <a href="/F_muaat">Muaat</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup>
+    <li>The <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> will lose its <sc>Sustain Damage</sc> ability, regardless of if the <a href="/F_muaat">Muaat</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

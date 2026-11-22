@@ -5,7 +5,7 @@
 
 <h2>Rules Reference</h2>
     <ul>
-    <li>(Thunder&rsquo;s Edge) Units that are <a href="/R_coexistence">coexisting</a> on a planet can produce ground forces there, but cannot produce ships.<sup>9</sup>
+    <li>(Thunder&rsquo;s Edge) Units that are coexisting on a planet can produce ground forces there, but cannot produce ships.<sup>9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and PRODUCTION&rdquo;: &ldquo;Coexisting units can produce ground forces but are always blockaded and cannot produce ships.&rdquo;</li>
         </ul></li>

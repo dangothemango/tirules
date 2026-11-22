@@ -33,7 +33,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a technology I just researched, or one that is exhausted, count as a prerequisite?&rdquo;: &ldquo;Yes to both. Owned technologies always count, exhausted or not.&rdquo;</li>
         </ul></li>
-    <li>The first technology researched with the primary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card may satisfy a prerequisite of the second technology researched with that ability.<sup>2</sup>
+    <li>The first technology researched with the primary ability of the <i>Technology</i> strategy card may satisfy a prerequisite of the second technology researched with that ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;the first technology from the Technology primary counts for the second.&rdquo;</li>
         </ul></li>

@@ -19,11 +19,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling, on a deal to trade the Creuss IFF and have it used: &ldquo;This would be non-binding, because when the deal is made, the non-Ghost player does not technically qualify to even be able to perform his side of the deal (he doesn&rsquo;t have the IFF).&rdquo;</li>
         </ul></li>
-        <li>Making a deal to not make use of a unit&rsquo;s <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability during a tactical action, before ships have been moved.<sup>2</sup>
+        <li>Making a deal to not make use of a unit&rsquo;s <sc>Space Cannon</sc> ability during a tactical action, before ships have been moved.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is a deal binding?&rdquo;: &ldquo;Only when its terms resolve immediately &hellip; Promises about future actions, and if-then conditions, are non-binding and can be broken.&rdquo; &ldquo;taking a trade good not to fire Space Cannon at the moment you decide whether to fire binds you.&rdquo; A deal made earlier does not.</li>
         </ul></li>
-        <li>Making a deal to trade commodities in exchange for the active player to replenish another player&rsquo;s commodities during the resolution of the primary ability of the <a href="/R_trade"><i>Trade</i></a> strategic action.<sup>5</sup>
+        <li>Making a deal to trade commodities in exchange for the active player to replenish another player&rsquo;s commodities during the resolution of the primary ability of the <i>Trade</i> strategic action.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;The &lsquo;immediate&rsquo; requirement for binding deals is satisfied only when all aspects of the deal can be acted upon during the same game effect.&rdquo; &ldquo;(in the case of the &lsquo;Trade&rsquo; SC scenario, each of those bullets is an effect).&rdquo;</li>
         </ul></li>
@@ -46,11 +46,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling, on a deal to trade the Creuss IFF and have it used: &ldquo;If he already had the IFF, it could be a binding transaction.&rdquo;</li>
         </ul></li>
-        <li>Making a deal to not make use of a unit&rsquo;s <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability, at the moment that player decides whether to use it.<sup>2</sup>
+        <li>Making a deal to not make use of a unit&rsquo;s <sc>Space Cannon</sc> ability, at the moment that player decides whether to use it.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When is a deal binding?&rdquo;: &ldquo;taking a trade good not to fire Space Cannon at the moment you decide whether to fire binds you not to fire.&rdquo;</li>
         </ul></li>
-        <li>Making a deal to give trade goods to the active player in exchange for the active player choosing that player to replenish their commodities without spending a command token, during the resolution of the primary ability of the <a href="/R_trade"><i>Trade</i></a> strategic action.<sup>5</sup>
+        <li>Making a deal to give trade goods to the active player in exchange for the active player choosing that player to replenish their commodities without spending a command token, during the resolution of the primary ability of the <i>Trade</i> strategic action.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dane, via Skootur, Oct 19, 2017): &ldquo;&mdash;Binding: Give me two trade goods and I&rsquo;ll let you refresh your commodities without spending a command token.&rdquo;</li>
         </ul></li>

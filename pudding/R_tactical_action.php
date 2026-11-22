@@ -5,7 +5,7 @@
 
 <h2>Rules Reference</h2>
     <ul>
-    <li>(Thunder&rsquo;s Edge) The primary ability of the <a href="/R_warfare"><i>Warfare</i></a> strategy card allows a player to perform a tactical action in a system that already contains one of their command tokens, without placing a command token.<sup>13</sup>
+    <li>(Thunder&rsquo;s Edge) The primary ability of the <i>Warfare</i> strategy card allows a player to perform a tactical action in a system that already contains one of their command tokens, without placing a command token.<sup>13</sup>
         <ul>
         <li><b>Explicit</b>: <sup>13</sup> Warfare (Thunder&rsquo;s Edge), primary: &ldquo;Perform a tactical action in any system without placing a command token, even if the system already has your command token in it; that system still counts as being activated.&rdquo;</li>
         </ul></li>

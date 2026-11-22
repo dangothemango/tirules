@@ -5,7 +5,7 @@
 
 <h2>Rules Reference</h2>
     <ul>
-    <li>To resolve the primary ability on the <i>Construction</i> strategy card, the active player may either place one structure on a planet they control, or use the <a href="/R_production"><sc>Production</sc></a> ability of one of their space docks. Then, that player may place one structure on a planet they control.<sup>13</sup>
+    <li>To resolve the primary ability on the <i>Construction</i> strategy card, the active player may either place one structure on a planet they control, or use the <sc>Production</sc> ability of one of their space docks. Then, that player may place one structure on a planet they control.<sup>13</sup>
         <ul>
         <li><b>Explicit</b>: <sup>13</sup> Construction (Thunder&rsquo;s Edge), primary: &ldquo;Either place 1 structure on a planet you control, or use the PRODUCTION ability of 1 of your space docks. Place 1 structure on a planet you control.&rdquo;</li>
         </ul></li>

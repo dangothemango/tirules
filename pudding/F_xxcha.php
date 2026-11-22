@@ -147,7 +147,7 @@
 
 <h2 id="loncara-ssodu"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Flagship:~:text=Loncara%20Ssodu">Loncara Ssodu</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>During the <b>Space Cannon Offense</b> substep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and the <i>Loncara Ssodu</i> is destroyed by another player&rsquo;s space cannon roll, it will not resolve its own <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup>
+    <li>During the <b>Space Cannon Offense</b> substep of a tactical action, the active player resolves the <sc>Space Cannon</sc> abilities of their units first. If the Xxcha player is not the active player, and the <i>Loncara Ssodu</i> is destroyed by another player&rsquo;s space cannon roll, it will not resolve its own <sc>Space Cannon</sc> ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When several players fire Space Cannon Offense, are they resolved together?&rdquo;: &ldquo;a unit destroyed earlier, such as an Xxcha flagship, never gets to shoot.&rdquo;</li>
         </ul></li>
@@ -301,7 +301,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Xxcha hero&rsquo;s ability to combine a planet&rsquo;s resources and influence work?&rdquo;: &ldquo;It doesn&rsquo;t change printed values, so it doesn&rsquo;t raise a space dock&rsquo;s Production.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>A space dock will not add the influence value of the planet it is on to its <a href="/R_production"><sc>Production</sc></a> value.<sup>2</sup>
+        <li>A space dock will not add the influence value of the planet it is on to its <sc>Production</sc> value.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Xxcha hero&rsquo;s ability to combine &hellip;?&rdquo;: &ldquo;it doesn&rsquo;t raise a space dock&rsquo;s Production.&rdquo;</li>
         </ul></li>
@@ -334,11 +334,11 @@
 
 <h2 id="indomitus"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Mech:~:text=Indomitus">Indomitus</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>During the <b>Space Cannon Offense</b> substep of a tactical action, the active player resolves the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities of any of their removed mechs.<sup>2</sup>
+    <li>During the <b>Space Cannon Offense</b> substep of a tactical action, the active player resolves the <sc>Space Cannon</sc> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <sc>Space Cannon</sc> abilities of any of their removed mechs.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;When several players fire Space Cannon Offense &hellip;?&rdquo;: &ldquo;one player at a time &hellip; Each player&rsquo;s roll, hit assignment &hellip; finish before the next fires.&rdquo;</li>
         </ul></li>
-    <li>An Indomitus being transported in the space area of a system may still use its <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability.<sup>2</sup>
+    <li>An Indomitus being transported in the space area of a system may still use its <sc>Space Cannon</sc> ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can mechs carried in the space area use Space Cannon?&rdquo;: &ldquo;Yes &mdash; nothing limits Space Cannon to units on planets, so carried mechs, such as Xxcha mechs, can fire in the active system under the normal targeting rules.&rdquo;</li>
         </ul></li>
@@ -365,7 +365,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>A space dock cannot use the influence value of the planet it is on to calculate its <a href="/R_production"><sc>Production</sc></a> value.<sup>*</sup>
+        <li>A space dock cannot use the influence value of the planet it is on to calculate its <sc>Production</sc> value.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

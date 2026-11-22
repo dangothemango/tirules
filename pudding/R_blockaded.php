@@ -5,7 +5,7 @@
 
 <h2>Rules Reference</h2>
     <ul>
-    <li>(Thunder&rsquo;s Edge) <a href="/R_coexistence">Coexisting</a> units are always blockaded, so they can produce ground forces but cannot produce ships.<sup>7,9</sup>
+    <li>(Thunder&rsquo;s Edge) Coexisting units are always blockaded, so they can produce ground forces but cannot produce ships.<sup>7,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;Coexisting structures are always blockaded.&rdquo;</li>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and PRODUCTION&rdquo;: &ldquo;Coexisting units can produce ground forces but are always blockaded and cannot produce ships.&rdquo;</li>

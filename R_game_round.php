@@ -5,13 +5,13 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '40.' counter(item, decimal);} </style>
 <p data-src="1,3">A game round consists of the following four phases:</p>
 <ol style="padding-bottom: 2ex;">
-    <li><a href="/R_strategy_phase">Strategy Phase</a></li>
-    <li><a href="/R_action_phase">Action Phase</a></li>
-    <li><a href="/R_status_phase">Status Phase</a></li>
-    <li><a href="/R_agenda_phase">Agenda Phase</a></li>
+    <li>Strategy Phase</li>
+    <li>Action Phase</li>
+    <li>Status Phase</li>
+    <li>Agenda Phase</li>
 </ol>
     <ol class="lrr">
-    <li data-src="1,3">Players skip the agenda phase during the early portion of each game. After the custodians token is removed from <a href="/R_mecatol_rex">Mecatol Rex</a>, the agenda phase is added to each game round.</li>
+    <li data-src="1,3">Players skip the agenda phase during the early portion of each game. After the custodians token is removed from Mecatol Rex, the agenda phase is added to each game round.</li>
     <li data-src="1,2,3">Player turns occur during the action phase.</li>
     <li data-src="1">Abilities that last until the end of a player&rsquo;s turn do not persist for the duration of a game round or into the other phases of that game round. Those effects end at the end of that player&rsquo;s turn, before the next player&rsquo;s turn begins.</li>
     </ol>

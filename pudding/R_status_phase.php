@@ -12,7 +12,7 @@
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;Important: A player cannot score a public objective if they do&rdquo; not control each planet in their home system.</li>
         </ul></li>
     <ol>
-        <li>A player <a href="/R_coexistence">coexisting</a> on, but not controlling, planets in their home system may still score public objectives.<sup>6,9</sup>
+        <li>A player coexisting on, but not controlling, planets in their home system may still score public objectives.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Scoring Public Objectives Coexisting At Home&rdquo;: &ldquo;Yes, you may score public objectives even if you coexist on but do not outright control each planet in your home system.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can a player score public objectives if they coexist in their own home system? A: Yes.&rdquo;</li>
@@ -31,7 +31,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>All damaged units will be repaired, even if a game effect has caused those units to no longer have the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>1</sup>
+    <li>All damaged units will be repaired, even if a game effect has caused those units to no longer have the <sc>Sustain Damage</sc> ability.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 87.3: &ldquo;A damaged unit cannot use the &lsquo;Sustain Damage&rsquo; ability until it is repaired during the status phase.&rdquo; Status phase repairs all damaged units.</li>
         </ul></li>

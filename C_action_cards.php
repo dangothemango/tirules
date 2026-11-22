@@ -184,7 +184,7 @@
     <li>A player who cannot vote may still play a <i>Construction Rider</i>.<sup>1</sup></li>
     <li>If a player wishes to place a space dock, but there are none left in their reinforcements, they may remove a space dock from any system that does not contain one of their command tokens and place that instead.<sup>1,2</sup></li>
     <li>The <a href="/F_saar">Saar</a> player may play a <i>Construction Rider</i>, and may place a space dock in a system containing a planet they control if successful.<sup>*</sup></li>
-    <li>If a player successfully resolves a <i>Construction Rider</i> while they own the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry"><i>Minister of Industry</i></a> law, they use the <a href="/R_production"><sc>Production</sc></a> ability of their units in the system where they place their space dock. They may exhaust planets for resources, but those planets cannot be used to cast votes for the remainder of the agenda phase.<sup>2</sup></li>
+    <li>If a player successfully resolves a <i>Construction Rider</i> while they own the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Industry"><i>Minister of Industry</i></a> law, they use the <sc>Production</sc> ability of their units in the system where they place their space dock. They may exhaust planets for resources, but those planets cannot be used to cast votes for the remainder of the agenda phase.<sup>2</sup></li>
     <ol><li>All planets will be readied at the end of the agenda phase.<sup>3</sup></li></ol>
     </ol>
 
@@ -206,7 +206,7 @@
 <h2 id="courageous-to-the-end"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End">Courageous to the End</a></h2>
     <ol class="note">
     <li>Any combat roll modifiers will not apply to the dice roll for <i>Courageous to the End</i>.<sup>2</sup></li>
-    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup></li>
+    <li>Effects that cancel hits, such as <sc>Sustain Damage</sc>, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup></li>
     </ol>
 
 <h2 id="crash-landing"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Crash%20Landing">Crash Landing</a></h2>
@@ -244,7 +244,7 @@
     <ol><li>Any other riders may be played to predict the same or a different outcome.<sup>1,2</sup></li></ol>
     <li>The effect of a successful <i>Diplomacy Rider</i> will be resolved after the effect of the agenda.<sup>2</sup></li>
     <li>A player who cannot vote may still play a <i>Diplomacy Rider</i>.<sup>1</sup></li>
-    <li>The <a href="/R_mecatol_rex">Mecatol Rex</a> system may be chosen.<sup>*</sup></li>
+    <li>The Mecatol Rex system may be chosen.<sup>*</sup></li>
     </ol>
 
 <h2 id="diplomatic-pressure"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Diplomatic%20Pressure">Diplomatic Pressure</a></h2>
@@ -260,9 +260,9 @@
 
 <h2 id="direct-hit"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit">Direct Hit</a></h2>
     <ol class="note">
-    <li>If multiple ships use their <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, a <i>Direct Hit</i> may be played for each.<sup>1,2,5</sup></li>
-    <li>A <i>Direct Hit</i> may be used whenever hits produced by a player&rsquo;s units or abilities are canceled by a ship using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>1,2,5</sup></li>
-    <li>When a player uses the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of one of their ships, they do not have to decide if another of their ships in the same combat will use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability until after their opponent has used or declined to use a <i>Direct Hit</i>.<sup>2</sup></li>
+    <li>If multiple ships use their <sc>Sustain Damage</sc> ability, a <i>Direct Hit</i> may be played for each.<sup>1,2,5</sup></li>
+    <li>A <i>Direct Hit</i> may be used whenever hits produced by a player&rsquo;s units or abilities are canceled by a ship using its <sc>Sustain Damage</sc> ability.<sup>1,2,5</sup></li>
+    <li>When a player uses the <sc>Sustain Damage</sc> ability of one of their ships, they do not have to decide if another of their ships in the same combat will use its <sc>Sustain Damage</sc> ability until after their opponent has used or declined to use a <i>Direct Hit</i>.<sup>2</sup></li>
     <li>When <i>Direct Hit</i> is used outside of combat, if used on a ship with capacity, then fighters and/or ground forces must immediately be removed from the space area to meet the capacity limit.<sup>5</sup></li>
     <li>A mech cannot be destroyed by <i>Direct Hit</i>, as it is not a ship.<sup>2</sup></li>
     </ol>
@@ -313,7 +313,7 @@
 
 <h2 id="experimental-battlestation"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation">Experimental Battlestation</a></h2>
     <ol class="note">
-    <li>The selected space dock will use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability during the <b>Space Cannon Offense</b> step of the current tactical action.<sup>1,2,5</sup></li>
+    <li>The selected space dock will use the <sc>Space Cannon</sc> ability during the <b>Space Cannon Offense</b> step of the current tactical action.<sup>1,2,5</sup></li>
     <li>Hits may only be assigned to the active player&rsquo;s ships.<sup>1,2,5</sup></li>
     <li><i>Experimental Battlestation</i> cannot be played if no ships are moved into the active system, even if the active player already has ships in that system.<sup>1,2,5</sup></li>
     <ol>
@@ -377,7 +377,7 @@
     <li>A player may place the destroyer in the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20gate">Creuss gate</a> (tile 17), the wormhole nexus, or any system with a printed wormhole or wormhole token.<sup>*</sup></li>
     <li>The destroyer cannot be placed in the home system of an eliminated player.<sup>6</sup></li>
     <li>If a player wishes to place a destroyer, but there are none left in their reinforcements, they may remove a destroyer from any system that does not contain one of their command tokens and place that instead.<sup>1</sup></li>
-    <li>The destroyer may be placed in an <a href="/R_asteroid_field">asteroid field</a> that contains a wormhole, even without <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a>, as it is placed, not moved.<sup>*</sup></li>
+    <li>The destroyer may be placed in an asteroid field that contains a wormhole, even without <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a>, as it is placed, not moved.<sup>*</sup></li>
     </ol>
 
 <h2 id="ghost-squad"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Ghost%20Squad">Ghost Squad</a></h2>
@@ -482,7 +482,7 @@
 <h2 id="lucky-shot"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lucky%20Shot">Lucky Shot</a></h2>
     <ol class="note">
     <li>A player cannot use <i>Lucky Shot</i> against their own units.<sup>1,2,5</sup></li>
-    <li>Effects that cancel hits, such as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a>, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup></li>
+    <li>Effects that cancel hits, such as <sc>Sustain Damage</sc>, cannot be used to prevent ships from being destroyed.<sup>1,2,5</sup></li>
     </ol>
 
 <h2 id="maneuvering-jets"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Maneuvering%20Jets">Maneuvering Jets</a></h2>
@@ -516,7 +516,7 @@
     <li>When a planet card is returned to the planet card deck, the player that previously controlled it will no longer do so. They remove their control token from the planet.<sup>6</sup></li>
     <li>If the planet card is returned to the planet card deck, then when a player later gains control of that planet, they will explore it.<sup>6</sup></li>
     <ol><li>The planet will not be explored if it does not have a trait. If the planet is in The Fracture, however, the gaining player will draw a relic.<sup>6</sup></li></ol>
-    <li>If the <a href="/R_mecatol_rex">Mecatol Rex</a> planet card is returned to the planet card deck, the custodians token is not replaced. A player will be able to later commit ground forces without paying influence, and without gaining a victory point.<sup>*</sup></li>
+    <li>If the Mecatol Rex planet card is returned to the planet card deck, the custodians token is not replaced. A player will be able to later commit ground forces without paying influence, and without gaining a victory point.<sup>*</sup></li>
     <ol><li>The agenda phase still occurs each round, as the custodians token is no longer on Mecatol Rex.<sup>3</sup></li></ol>
     <li>If a legendary planet card is returned to the planet card deck, the player that controlled it also loses the associated legendary planet ability card.<sup>6</sup></li>
     <ol><li>When a player later gains control of that planet, they gain the legendary planet ability card readied.<sup>6</sup></li></ol>
@@ -640,9 +640,9 @@
 
 <h2 id="reflective-shielding"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding">Reflective Shielding</a></h2>
     <ol class="note">
-    <li>If <i>Reflective Shielding</i> is played after a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability during an <b>Assign Hits</b> step, then the hits produced by <i>Reflective Shielding</i> are added to any other hits produced in the immediately preceding <b>Roll Dice</b> step.<sup>4</sup></li>
-    <ol><li>A unit that used its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel some of those other hits, and has been repaired, cannot use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability again to cancel the hits produced by <i>Reflective Shielding</i>. This most often occurs when the unit is repaired by the <a href="/F_empyrean">Empyrean</a> flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Flagship:~:text=Dynamo"><i>Dynamo</i></a>.<sup>*</sup></li></ol>
-    <li>If <i>Reflective Shielding</i> is played after a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability at any other time during combat, the hits are assigned immediately.<sup>4</sup></li>
+    <li>If <i>Reflective Shielding</i> is played after a ship uses its <sc>Sustain Damage</sc> ability during an <b>Assign Hits</b> step, then the hits produced by <i>Reflective Shielding</i> are added to any other hits produced in the immediately preceding <b>Roll Dice</b> step.<sup>4</sup></li>
+    <ol><li>A unit that used its <sc>Sustain Damage</sc> ability to cancel some of those other hits, and has been repaired, cannot use its <sc>Sustain Damage</sc> ability again to cancel the hits produced by <i>Reflective Shielding</i>. This most often occurs when the unit is repaired by the <a href="/F_empyrean">Empyrean</a> flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Flagship:~:text=Dynamo"><i>Dynamo</i></a>.<sup>*</sup></li></ol>
+    <li>If <i>Reflective Shielding</i> is played after a ship uses its <sc>Sustain Damage</sc> ability at any other time during combat, the hits are assigned immediately.<sup>4</sup></li>
     </ol>
 
 <h2 id="reparations"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Reparations">Reparations</a></h2>
@@ -730,14 +730,14 @@
     <ol><li><i>Shields Holding</i> may be used to cancel hits produced by an anti&ndash;fighter barrage roll.<sup>2</sup></li></ol>
     <li>During a space combat, each player may play a <i>Shields Holding</i> during the same timing window, as each card cancels a different set of hits.<sup>1,2,5</sup></li>
     <li>A player cannot play a second <i>Shields Holding</i> to cancel a second pair of hits produced by the same dice roll or other source.<sup>2,5</sup></li>
-    <li><i>Shields Holding</i> cannot be used to cancel hits produced by <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities.<sup>2</sup></li>
+    <li><i>Shields Holding</i> cannot be used to cancel hits produced by <sc>Space Cannon</sc> abilities.<sup>2</sup></li>
     <li><i>Shields Holding</i> cannot be used to prevent an effect that directly destroys a unit.<sup>2</sup></li>
     <li><i>Shields Holding</i> cannot be used during ground combat.<sup>2</sup></li>
     </ol>
 
 <h2 id="signal-jamming"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming">Signal Jamming</a></h2>
     <ol class="note">
-    <li>The <a href="/R_mecatol_rex">Mecatol Rex</a> system may be chosen.<sup>*</sup></li>
+    <li>The Mecatol Rex system may be chosen.<sup>*</sup></li>
     <li>A command token cannot be placed in an eliminated player&rsquo;s home system.<sup>6</sup></li>
     <li>The command token is placed from a single chosen player&rsquo;s reinforcements. <i>Signal Jamming</i> cannot be played choosing a player who has no command tokens in their reinforcements.<sup>2</sup></li>
     </ol>
@@ -756,8 +756,8 @@
 
 <h2 id="solar-flare"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Solar%20Flare">Solar Flare</a></h2>
     <ol class="note">
-    <li>The active player may still use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units.<sup>10</sup></li>
-    <li>During the <b>Space Cannon Defense</b> step of an invasion during the same tactical action, other players may use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units.<sup>10</sup></li>
+    <li>The active player may still use the <sc>Space Cannon</sc> ability of their units.<sup>10</sup></li>
+    <li>During the <b>Space Cannon Defense</b> step of an invasion during the same tactical action, other players may use the <sc>Space Cannon</sc> ability of their units.<sup>10</sup></li>
     </ol>
 
 <h2 id="spy"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Spy">Spy</a></h2>
@@ -767,7 +767,7 @@
 
 <h2 id="strategize"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize">Strategize</a></h2>
     <ol class="note">
-    <li>The active player must still spend a command token to perform the secondary ability, other than for <a href="/R_leadership"><i>Leadership</i></a>.<sup>2</sup></li>
+    <li>The active player must still spend a command token to perform the secondary ability, other than for <i>Leadership</i>.<sup>2</sup></li>
     </ol>
 
 <h2 id="summit"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Summit">Summit</a></h2>
@@ -776,7 +776,7 @@
 
 <h2 id="tactical-bombardment"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Tactical%20Bombardment">Tactical Bombardment</a></h2>
     <ol class="note">
-    <li>A player must have at least one unit with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability to play and resolve <i>Tactical Bombardment</i>.<sup>2</sup></li>
+    <li>A player must have at least one unit with the <sc>Bombardment</sc> ability to play and resolve <i>Tactical Bombardment</i>.<sup>2</sup></li>
     <li>A player may select a system that contains zero readied planets controlled by other players.<sup>2</sup></li>
     </ol>
 
@@ -839,7 +839,7 @@
 
 <h2 id="war-machine"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=War%20Machine">War Machine</a></h2>
     <ol class="note">
-    <li><i>War Machine</i> may only be used by effects that cause a unit to use its <a href="/R_production"><sc>Production</sc></a> ability. It cannot be used for other effects that produce units.<sup>10</sup></li>
+    <li><i>War Machine</i> may only be used by effects that cause a unit to use its <sc>Production</sc> ability. It cannot be used for other effects that produce units.<sup>10</sup></li>
     </ol>
 
 <h2 id="warfare-rider"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Warfare%20Rider">Warfare Rider</a></h2>
@@ -853,7 +853,7 @@
 
 <h2 id="waylay"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay">Waylay</a></h2>
     <ol class="note">
-    <li>A ship with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability may cancel a hit produced by an anti&ndash;fighter barrage roll if <i>Waylay</i> causes that ship to be eligible to be hit.<sup>2</sup></li>
+    <li>A ship with the <sc>Sustain Damage</sc> ability may cancel a hit produced by an anti&ndash;fighter barrage roll if <i>Waylay</i> causes that ship to be eligible to be hit.<sup>2</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

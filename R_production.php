@@ -3,7 +3,7 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '68.' counter(item, decimal);} </style>
-<p data-src="1,2,3">During the <b><a href="/R_tactical_action">Production</a></b> step of a tactical action, the active player can resolve the <sc>Production</sc> ability of each of their units that are in the active system to produce units.</p>
+<p data-src="1,2,3">During the <b>Production</b> step of a tactical action, the active player can resolve the <sc>Production</sc> ability of each of their units that are in the active system to produce units.</p>
     <ol class="lrr">
     <li data-src="1,2,3">A unit&rsquo;s <sc>Production</sc> ability, which is presented on a faction sheet or unit upgrade technology card, is always followed by a value. This value is the maximum number of units that this unit can produce.</li>
     <ol>
@@ -21,10 +21,10 @@
     <ol class="note">
     <li>A unit&rsquo;s <sc>Production</sc> value is the maximum number of units that may be produced by that unit, regardless of cost. For example, a space dock with &ldquo;<sc>Production</sc> 6&rdquo; could produce six dreadnoughts or six fighters.<sup>1,2</sup></li>
     <li>Placement of produced units is not limited by a unit&rsquo;s <sc>Production</sc> value, only by the location of the producing units.<sup>1,2,5</sup></li>
-    <ol><li>For example, say a player is performing a tactical action on tile 75. They have one <a href="/R_space_dock">Space Dock</a> I each on Abaddon and Ashtroth, but not on Loki. They combine their production to place seven infantry. They could place all seven on Abaddon, all seven on Ashtroth, or split them. They cannot place any on Loki.<sup>1,2</sup></li></ol>
+    <ol><li>For example, say a player is performing a tactical action on tile 75. They have one Space Dock I each on Abaddon and Ashtroth, but not on Loki. They combine their production to place seven infantry. They could place all seven on Abaddon, all seven on Ashtroth, or split them. They cannot place any on Loki.<sup>1,2</sup></li></ol>
     <li>If an effect allows a player to produce a ship of a specific type, then factional variations do not prevent that player from producing that type of ship.<sup>2</sup></li>
     <li>A player cannot produce ground forces on a planet that contains another player&rsquo;s ground forces.<sup>4</sup></li>
-    <ol><li>A player whose units are <a href="/R_coexistence">coexisting</a> on a planet can produce ground forces on that planet; those ground forces also coexist.<sup>7,9</sup></li></ol>
+    <ol><li>A player whose units are coexisting on a planet can produce ground forces on that planet; those ground forces also coexist.<sup>7,9</sup></li></ol>
     <li>Ground forces produced during the <b>Production</b> step of a tactical action cannot be committed to land on a planet during that tactical action, as the <b>Invasion</b> step has already been resolved.<sup>2</sup></li>
     </ol>
 

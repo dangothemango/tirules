@@ -51,7 +51,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count toward the requirements of <i>Become a Legend</i>.<sup>*</sup>
+        <li>A player may have ships in the system containing a legendary planet or Mecatol Rex without controlling the planet for that system to count toward the requirements of <i>Become a Legend</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -65,7 +65,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
         </ul></li>
-    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup>
+    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -600,7 +600,7 @@
 
 <h2 id="intimidate-council"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Intimidate%20Council">Intimidate Council</a></h2>
     <ol class="note">
-    <li>Any ships in the <a href="/R_mecatol_rex">Mecatol Rex</a> system are irrelevant.<sup>2</sup>
+    <li>Any ships in the Mecatol Rex system are irrelevant.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships in Mecatol Rex&rsquo;s system, or in an anomaly, count as adjacent to it for objectives?&rdquo;: &ldquo;a system isn&rsquo;t adjacent to itself. Intimidate Council needs ships in two different systems next to Mecatol Rex&rdquo; ships in the Mecatol system itself do not count toward Intimidate Council.</li>
         </ul></li>
@@ -708,7 +708,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>A player may have ships in the system containing a legendary planet or <a href="/R_mecatol_rex">Mecatol Rex</a> without controlling the planet for that system to count toward the requirements of <i>Make History</i>.<sup>*</sup>
+        <li>A player may have ships in the system containing a legendary planet or Mecatol Rex without controlling the planet for that system to count toward the requirements of <i>Make History</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -722,7 +722,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
         </ul></li>
-    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or <a href="/R_mecatol_rex">Mecatol Rex</a>, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup>
+    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>

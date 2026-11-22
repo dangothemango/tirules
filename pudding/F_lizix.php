@@ -28,7 +28,7 @@
 
 <h2 id="harrow"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow">Harrow</a></h2>
     <ol class="note">
-    <li>The <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability will prevent the use of the <sc>Harrow</sc> ability on a planet.<sup>1,2,3</sup>
+    <li>The <sc>Planetary Shield</sc> ability will prevent the use of the <sc>Harrow</sc> ability on a planet.<sup>1,2,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 65.2: &ldquo;The &lsquo;Planetary Shield&rsquo; ability prevents an L1Z1X player from using their &lsquo;Harrow&rsquo; faction ability.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the L1Z1X Harrow ability work?&rdquo;: &ldquo;Planetary Shield stops it.&rdquo;</li>
@@ -43,7 +43,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the L1Z1X Harrow ability work?&rdquo;: &ldquo;It still resolves after the round in which L1Z1X lose their last ground force; if it then kills the last defender, the combat is a draw.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;The combat ending doesn&rsquo;t nullify the end of a round of combat trigger. Harrow, in this case, would still resolve.&rdquo;</li>
         </ul></li>
-    <li>Every unit in the active system with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability may use it against the planet the ground combat is taking place on, regardless of whether that unit bombarded that planet during the <b>Bombardment</b> step of the invasion.<sup>1,2,5</sup>
+    <li>Every unit in the active system with the <sc>Bombardment</sc> ability may use it against the planet the ground combat is taking place on, regardless of whether that unit bombarded that planet during the <b>Bombardment</b> step of the invasion.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the L1Z1X Harrow ability work?&rdquo;: &ldquo;Every ship with Bombardment there can join in, not just those that bombarded that planet.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dane, Feb 16, 2018), &ldquo;&hellip;can they use EVERY ship in the system, or only those that originally bombarded the planet before the combat?&rdquo;: &ldquo;Each ship in the system can be part of Harrow.&rdquo;</li>
@@ -85,7 +85,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>For example, if the L1Z1X player is performing the secondary of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <a href="/R_technology_sc"><i>Technology</i></a> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <a href="/R_technology_sc"><i>Technology</i></a>, wasting the fifth resource, then spend two additional resources to pay for the cost of <i>Inheritance Systems</i>.<sup>*</sup>
+        <li>For example, if the L1Z1X player is performing the secondary of the <i>Technology</i> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <i>Technology</i> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <i>Technology</i>, wasting the fifth resource, then spend two additional resources to pay for the cost of <i>Inheritance Systems</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -98,7 +98,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can L1Z1X&rsquo;s Inheritance Systems be used for?&rdquo;: &ldquo;It ignores all prerequisites for one research, unit upgrades and your own faction technologies like Super Dreadnought included.&rdquo;</li>
         </ul></li>
-    <li>If <i>Inheritance Systems</i> is researched as the first of two technologies researched back to back, such as with the primary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card or the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda, it may be used immediately to ignore the prerequisites of the second technology.<sup>2</sup>
+    <li>If <i>Inheritance Systems</i> is researched as the first of two technologies researched back to back, such as with the primary ability of the <i>Technology</i> strategy card or the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda, it may be used immediately to ignore the prerequisites of the second technology.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can L1Z1X&rsquo;s Inheritance Systems be used for?&rdquo;: &ldquo;Researched as the first tech of the Technology primary, it can pay for the second.&rdquo; Ixthian Artifact and other back-to-back research follow the same timing; no source names them.</li>
         </ul></li>
@@ -127,7 +127,7 @@
 
 <h2 id="2ram"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=2RAM">2RAM</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>Those units still have <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a>.<sup>*</sup>
+    <li>Those units still have <sc>Planetary Shield</sc>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. LRR 65.3a covers war suns: &ldquo;Units treated as if they do not have a &lsquo;Planetary Shield&rsquo; ability cannot use the &lsquo;Magen Defense Grid&rsquo;&rdquo; technology.</li>
         </ul></li>

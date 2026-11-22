@@ -19,11 +19,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Entropic Scar: &ldquo;All unit abilities ... cannot be used by or against units inside of an entropic scar. Text abilities are unaffected.&rdquo;</li>
         </ul></li>
-        <li>A unit in an entropic scar still has its unit abilities, even though it cannot use them. As such, a text ability that only requires a unit with a unit ability may still be used, such as the <a href="/F_arborec">Arborec</a> player&rsquo;s Dirzuga Rophal commander with a unit that has <a href="/R_production"><sc>Production</sc></a>.<sup>2</sup>
+        <li>A unit in an entropic scar still has its unit abilities, even though it cannot use them. As such, a text ability that only requires a unit with a unit ability may still be used, such as the <a href="/F_arborec">Arborec</a> player&rsquo;s Dirzuga Rophal commander with a unit that has <sc>Production</sc>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Arborec commander work with a Letani in an Entropic Scar?&rdquo;: &ldquo;Yes &mdash; the scar stops unit abilities being used but doesn&rsquo;t remove them, and the commander is a text ability that only needs a unit with Production.&rdquo;</li>
         </ul></li>
-        <li>If a unit loses its <a href="/R_deploy"><sc>Deploy</sc></a> ability, then the text that describes how that unit&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability is used will have no effect.<sup>*</sup>
+        <li>If a unit loses its <sc>Deploy</sc> ability, then the text that describes how that unit&rsquo;s <sc>Deploy</sc> ability is used will have no effect.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

@@ -45,7 +45,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Blood Pact</i> to be returned.<sup>*</sup>
+    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Blood Pact</i> to be returned.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -78,7 +78,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Dark Pact</i> to be returned.<sup>*</sup>
+    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Dark Pact</i> to be returned.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -110,12 +110,12 @@
 
 <h2 id="dynamo"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Flagship:~:text=Dynamo">Dynamo</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>A unit may only use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability once in each timing window, even if it is repaired.<sup>2,4</sup>
+    <li>A unit may only use its <sc>Sustain Damage</sc> ability once in each timing window, even if it is repaired.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a ship repaired by the Empyrean flagship use Sustain Damage again in the same round?&rdquo;: &ldquo;No &mdash; a unit can sustain only once per instance of the timing window.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;the same unit could not use its Sustain Damage ability multiple times during the same timing window.&rdquo;</li>
         </ul></li>
-    <li>A unit that becomes damaged without using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability will not trigger this effect.<sup>*</sup>
+    <li>A unit that becomes damaged without using its <sc>Sustain Damage</sc> ability will not trigger this effect.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -243,7 +243,7 @@
 
 <h2 id="void-tether"><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Breakthrough:~:text=Void%20Tether">Void Tether</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>Other players treat the systems that share the border with the Void Tether token as not being adjacent for all game effects, even if both systems contain matching <a href="/R_wormholes">wormholes</a>. The Empyrean player continues to treat them as adjacent.<sup>6</sup>
+    <li>Other players treat the systems that share the border with the Void Tether token as not being adjacent for all game effects, even if both systems contain matching wormholes. The Empyrean player continues to treat them as adjacent.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Void Tether (Breakthrough): If the Void Tether token is between two systems that both contain a wormhole, do other players consider those systems adjacent? A: No, RAW the systems are not adjacent via any means.&rdquo;</li>
         </ul></li>

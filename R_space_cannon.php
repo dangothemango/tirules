@@ -3,11 +3,11 @@
 <article>
 <h2>Rules Reference</h2>
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '77.' counter(item, decimal);} </style>
-<p data-src="1,2,3">A unit that has the <sc>Space Cannon</sc> ability can use it during two different steps of a player&rsquo;s tactical action: after the <b><a href="/R_movement">Move Ships</a></b> substep (<b>Space Cannon Offense</b>) and during an invasion (<b>Space Cannon Defense</b>).</p>
+<p data-src="1,2,3">A unit that has the <sc>Space Cannon</sc> ability can use it during two different steps of a player&rsquo;s tactical action: after the <b>Move Ships</b> substep (<b>Space Cannon Offense</b>) and during an invasion (<b>Space Cannon Defense</b>).</p>
     <ol class="lrr">
     <li data-src="1,2,3">A player is <b>not</b> required to be the active player to use their <sc>Space Cannon</sc> ability of their units.</li>
     <h2><li>Space Cannon Offense</li></h2>
-    <p>During a tactical action, after the <b><a href="/R_movement">Move Ships</a></b> substep of the <b><a href="/R_movement">Movement</a></b> step, beginning with the active player and proceeding clockwise, each player may use the <sc>Space Cannon</sc> ability of each of their units in the active system by performing the following steps:</p>
+    <p>During a tactical action, after the <b>Move Ships</b> substep of the <b>Movement</b> step, beginning with the active player and proceeding clockwise, each player may use the <sc>Space Cannon</sc> ability of each of their units in the active system by performing the following steps:</p>
     <li data-src="1,3"><b>Step 1 &ndash; Roll  Dice</b>: The player rolls dice for each of their units in the active system that has the <sc>Space Cannon</sc> ability; this is a space cannon roll. One hit is produced for each result that is equal to or greater than the unit&rsquo;s <sc>Space Cannon</sc> value.</li>
     <ol>
         <li data-src="1,3">A unit&rsquo;s <sc>Space Cannon</sc> ability is presented along with a unit&rsquo;s attributes on faction sheets and unit upgrade technology cards.</li>
@@ -15,7 +15,7 @@
         <li data-src="1,2">If a player has a PDS unit upgrade technology, they can use the <sc>Space Cannon</sc> ability of their PDS units that are in systems that are adjacent to the active system. The hits are still assigned to units in the active system.</li>
         <li data-src="1">Game effects that reroll, modify, or otherwise affect combat rolls do not affect space cannon rolls.</li>
     </ol>
-    <li data-src="1,2">This ability can be used even if no ships were moved during the <b><a href="/R_movement">Move Ships</a></b> step.</li>
+    <li data-src="1,2">This ability can be used even if no ships were moved during the <b>Move Ships</b> step.</li>
     <li data-src="1,3"><b>Step 2 &ndash; Assign  Hits</b>: The player whose units have been targeted by <sc>Space Cannon</sc> must choose and destroy one of their ships in the active system for each hit result produced against their units.</li>
     <ol>
         <li data-src="1,2,3">Players other than the active player must target the active player&rsquo;s units.</li>
@@ -43,8 +43,8 @@
     <ol><li>A player that chooses to use the <sc>Space Cannon</sc> ability of their units may choose whether or not they use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, if they own it.<sup>2</sup></li></ol>
     <li>If multiple players are resolving the <sc>Space Cannon</sc> ability of their units against the active player, the active player must resolve capacity limits after assigning one player&rsquo;s hits and before the next player makes their space cannon roll.<sup>2</sup></li>
     <li>A player cannot assign hits produced by a space cannon roll to their own units.<sup>2,5</sup></li>
-    <li>A player may use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of a ship in the active system to cancel a hit produced during the <b>Space Cannon Offense</b> step.<sup>1,2</sup></li>
-    <li>A player may use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of a mech committed to a planet to cancel a hit produced during the <b>Space Cannon Defense</b> step by a unit on that planet.<sup>1</sup></li>
+    <li>A player may use the <sc>Sustain Damage</sc> ability of a ship in the active system to cancel a hit produced during the <b>Space Cannon Offense</b> step.<sup>1,2</sup></li>
+    <li>A player may use the <sc>Sustain Damage</sc> ability of a mech committed to a planet to cancel a hit produced during the <b>Space Cannon Defense</b> step by a unit on that planet.<sup>1</sup></li>
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup></li>
     </ol>
 

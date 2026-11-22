@@ -12,7 +12,7 @@
     <li data-src="1">Each objective card describes the requirement a player must fulfill to score that objective.</li>
     <li data-src="1,3">If a player fulfills the requirement described on an objective card, they can score that objective following the timing indicated on the card, either during the action phase or the status phase.</li>
     <ol>
-        <li data-src="1,2,3">When a player scores an objective during the status phase, they must fulfill the requirement on the card during the <b><a href="/R_status_phase">Score Objectives</a></b> step of the status phase to score that objective.</li>
+        <li data-src="1,2,3">When a player scores an objective during the status phase, they must fulfill the requirement on the card during the <b>Score Objectives</b> step of the status phase to score that objective.</li>
         <li data-src="1">When a player scores an objective during the action phase, they can do so at any time during that phase.</li>
         <li data-src="1">When a player scores an objective during the agenda phase, they can do so at any time during that phase.</li>
     </ol>
@@ -40,7 +40,7 @@
     <li data-src="1,3">Each player begins the game with one secret objective.</li>
     <li data-src="1,2,3">Each player can have up to <b>three total</b> scored and unscored secret objectives.</li>
     <ol><li data-src="1,2,3">If a player draws a secret objective and has more than three, that player must choose one of their unscored secret objectives and return it to the deck. Then, that player shuffles the secret objective deck.</li></ol>
-    <li data-src="1,2">A player can gain secret objectives by resolving either the primary or secondary ability of the <a href="/R_imperial"><i>Imperial</i></a> strategy card.</li>
+    <li data-src="1,2">A player can gain secret objectives by resolving either the primary or secondary ability of the <i>Imperial</i> strategy card.</li>
     </ol>
 
 <h2>Notes</h2>

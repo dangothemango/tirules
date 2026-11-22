@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A <a href="/R_space_stations">space station</a> is not a planet; controlling one does not prevent a player from being eliminated.<sup>2</sup>
+    <li>A space station is not a planet; controlling one does not prevent a player from being eliminated.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;A space station isn&rsquo;t a planet, so controlling one doesn&rsquo;t stop you being eliminated.&rdquo;</li>
         </ul></li>

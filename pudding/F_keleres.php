@@ -81,27 +81,27 @@
 
 <h2 id="agency-supply-network"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Thunder's_Edge_2:~:text=Agency%20Supply%20Network">Agency Supply Network</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>Any abilities that trigger &ldquo;when/after a unit uses <a href="/R_production"><sc>Production</sc></a>&rdquo; will trigger an additional time, for example, the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology.<sup>4</sup>
+    <li>Any abilities that trigger &ldquo;when/after a unit uses <sc>Production</sc>&rdquo; will trigger an additional time, for example, the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Yes, Sarween Tools would trigger with each instance of PRODUCTION (twice).&rdquo;</li>
         </ul></li>
-    <li>The additional <a href="/R_production"><sc>Production</sc></a> ability cannot belong to the same unit as the original <a href="/R_production"><sc>Production</sc></a> ability.<sup>4</sup>
+    <li>The additional <sc>Production</sc> ability cannot belong to the same unit as the original <sc>Production</sc> ability.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;No, the second PRODUCTION instance must be different than one of the units that used the ability to trigger Agency Supply Network.&rdquo;</li>
         </ul></li>
-    <ol><li>During a tactical action, the active player must use every <a href="/R_production"><sc>Production</sc></a> ability of their units in the active system, or none of them. As such, the additional <a href="/R_production"><sc>Production</sc></a> ability must belong to a unit in a different system.<sup>4</sup>
+    <ol><li>During a tactical action, the active player must use every <sc>Production</sc> ability of their units in the active system, or none of them. As such, the additional <sc>Production</sc> ability must belong to a unit in a different system.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;PRODUCTION is all or nothing during tactical actions, so you couldn&rsquo;t choose to only use one ability in a system to then use another one in the same system.&rdquo;</li>
         </ul></li></ol>
-    <li>The Keleres player may use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the additional <a href="/R_production"><sc>Production</sc></a> ability, and when they use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the original <a href="/R_production"><sc>Production</sc></a> ability, they may use an additional <a href="/R_production"><sc>Production</sc></a> ability.<sup>*</sup>
+    <li>The Keleres player may use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the additional <sc>Production</sc> ability, and when they use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the original <sc>Production</sc> ability, they may use an additional <sc>Production</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The original <a href="/R_production"><sc>Production</sc></a> ability must be fully resolved, before the Keleres player may use an additional <a href="/R_production"><sc>Production</sc></a> ability.<sup>*</sup>
+    <li>The original <sc>Production</sc> ability must be fully resolved, before the Keleres player may use an additional <sc>Production</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>The Keleres player cannot pay one resource for two fighters or infantry, then place one with a unit using the original <a href="/R_production"><sc>Production</sc></a> ability and one with the unit using the additional <a href="/R_production"><sc>Production</sc></a> ability.<sup>*</sup>
+    <ol><li>The Keleres player cannot pay one resource for two fighters or infantry, then place one with a unit using the original <sc>Production</sc> ability and one with the unit using the additional <sc>Production</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -123,7 +123,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, starting with the player with the <a href="/R_leadership"><i>Leadership</i></a> strategy card (or next lowest initiative value should no player have the <a href="/R_leadership"><i>Leadership</i></a> strategy card), regardless of the Keleres player&rsquo;s initiative.<sup>*</sup>
+    <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, starting with the player with the <i>Leadership</i> strategy card (or next lowest initiative value should no player have the <i>Leadership</i> strategy card), regardless of the Keleres player&rsquo;s initiative.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -190,7 +190,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It counts as a planet for objectives and agendas if it meets the specific criteria of those objectives and agendas.&rdquo;</li>
         </ul></li>
-    <ol><li>The <a href="/R_production"><sc>Production</sc></a> value that the Custodia Vigilia legendary planet ability gives <a href="/R_mecatol_rex">Mecatol Rex</a> counts toward the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Produce%20en%20Masse"><i>Produce en Masse</i></a> objective.<sup>4,9</sup>
+    <ol><li>The <sc>Production</sc> value that the Custodia Vigilia legendary planet ability gives Mecatol Rex counts toward the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Produce%20en%20Masse"><i>Produce en Masse</i></a> objective.<sup>4,9</sup>
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Unofficially Official FAQ: &ldquo;Does Custodia Vigilia&rsquo;s PRODUCTION count as a unit for sarween tools, etc.? A: Yes, Custodia Vigilia should include &ldquo;as if it were a unit&rdquo;.&rdquo; The legendary ability reads: &ldquo;While you control Mecatol Rex, it gains SPACE CANNON 5 and PRODUCTION 3.&rdquo; Produce en Masse counts the combined PRODUCTION value of units in a single system, so Mecatol Rex&rsquo;s PRODUCTION 3 counts.</li>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Unit Abilities imply Units?&rdquo;: things that use unit abilities but are not units should be &ldquo;treated as if they were units while using those unit abilities&rdquo; &mdash; &ldquo;A: Yes I&rsquo;d say let them combo and be shut down.&rdquo;</li>
@@ -199,7 +199,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It counts as a planet for objectives and agendas if it meets the specific criteria.&rdquo;</li>
         </ul></li>
-    <li>Custodia Vigilia only gives command tokens when the Imperial strategy card is used to gain a victory point for controlling <a href="/R_mecatol_rex">Mecatol Rex</a>, not when it is used to score a public objective.<sup>4</sup>
+    <li>Custodia Vigilia only gives command tokens when the Imperial strategy card is used to gain a victory point for controlling Mecatol Rex, not when it is used to score a public objective.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia give command tokens when a player scores public objectives off Imperial? A: No, the intent is that the tokens are only gained off of using Imperial&rsquo;s ability to gain a Victory Point because you control Mecatol Rex.&rdquo;</li>
         </ul></li>
@@ -207,7 +207,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>When the Keleres player uses the <a href="/R_production"><sc>Production</sc></a> ability of Custodia Vigilia, it is treated as though it were a unit.<sup>4</sup>
+    <li>When the Keleres player uses the <sc>Production</sc> ability of Custodia Vigilia, it is treated as though it were a unit.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia&rsquo;s PRODUCTION count as a unit for sarween tools, etc.? A: Yes, Custodia Vigilia should include &lsquo;as if it were a unit&rsquo;.&rdquo;</li>
         </ul></li>

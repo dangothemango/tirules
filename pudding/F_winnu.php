@@ -9,7 +9,7 @@
 
 <h2 id="reclamation"><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Abilities:~:text=Reclamation">Reclamation</a></h2>
     <ol class="note">
-    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="/R_space_dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>2</sup>
+    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a Space Dock, they cannot produce out of it during the same action.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If Winnu place a mech with Hope&rsquo;s End &hellip;?&rdquo;: &ldquo;a dock placed by Winnu&rsquo;s Reclamation comes after the tactical action, too late to produce in it.&rdquo;</li>
         </ul></li>
@@ -42,11 +42,11 @@
 
 <h2 id="hegemonic-trade-policy"><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Hegemonic%20Trade%20Policy">Hegemonic Trade Policy</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The text of <i>Hegemonic Trade Policy</i> is changed to: &ldquo;Exhaust this card when 1 or more of your units use <a href="/R_production"><sc>Production</sc></a>; swap the resource and influence values of 1 planet you control during that use of <a href="/R_production"><sc>Production</sc></a>.&rdquo;<sup>1</sup>
+    <li>The text of <i>Hegemonic Trade Policy</i> is changed to: &ldquo;Exhaust this card when 1 or more of your units use <sc>Production</sc>; swap the resource and influence values of 1 planet you control during that use of <sc>Production</sc>.&rdquo;<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the Winnu faction technology &lsquo;Hegemonic Trade Policy&rsquo; should read as follows: &lsquo;Exhaust this card when 1 or more of your units use &lsquo;Production;&rsquo; swap the resource and influence values of 1 planet you control during that use of &lsquo;Production.&rsquo;&rsquo;&rdquo;</li>
         </ul></li>
-    <li>Changing a planet&rsquo;s resource value will affect the <a href="/R_production"><sc>Production</sc></a> value of a <a href="/R_space_dock">Space Dock</a> on that planet.<sup>2</sup>
+    <li>Changing a planet&rsquo;s resource value will affect the <sc>Production</sc> value of a Space Dock on that planet.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How many units can a space dock produce?&rdquo;: &ldquo;A Space Dock I has Production equal to its planet&rsquo;s resource value plus 2.&rdquo;</li>
         </ul></li>
@@ -59,7 +59,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Winnu use Lazax Gate Folding&rsquo;s action without Mecatol Rex, and does the wormhole part work while exhausted?&rdquo;: &ldquo;The passive part &hellip; doesn&rsquo;t need the card ready, so it works while exhausted.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Since the passive portion of LGF doesn&rsquo;t require exhausting the card as part of a cost, you can still use it.&rdquo;</li>
         </ul></li>
-    <li><i>Lazax Gate Folding</i> may cause the <a href="/R_mecatol_rex">Mecatol Rex</a> system to be adjacent to other systems containing an alpha or beta wormhole for all players during the Winnu player&rsquo;s tactical actions.<sup>5</sup>
+    <li><i>Lazax Gate Folding</i> may cause the Mecatol Rex system to be adjacent to other systems containing an alpha or beta wormhole for all players during the Winnu player&rsquo;s tactical actions.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Dec 2018), on Lazax Gate Folding during Winnu&rsquo;s tactical action: &ldquo;Xxcha can also fire. Same idea as above.&rdquo; Other players&rsquo; units use the adjacency too.</li>
         </ul></li>
@@ -69,20 +69,20 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Mentak may use Pillage &ldquo;when they are neighbors with another faction as a result of the &lsquo;Lazax Gate Folding&rsquo; faction technology.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;rules as written, the Mentak would be able to pillage the transaction.&rdquo;</li>
         </ul></li>
-        <li>Other players may use the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability of their units in systems containing alpha or beta wormholes during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the <a href="/R_mecatol_rex">Mecatol Rex</a> system is the active system.<sup>5</sup>
+        <li>Other players may use the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability of their units in systems containing alpha or beta wormholes during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the Mecatol Rex system is the active system.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Xxcha can also fire.&rdquo;</li>
         </ul></li>
-        <li>A player may retreat to a system containing an alpha or beta wormhole from the <a href="/R_mecatol_rex">Mecatol Rex</a> system during the Winnu player&rsquo;s tactical action.<sup>5</sup>
+        <li>A player may retreat to a system containing an alpha or beta wormhole from the Mecatol Rex system during the Winnu player&rsquo;s tactical action.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;they can also retreat to Lodor.&rdquo;</li>
         </ul></li>
-        <li>The <a href="/F_creuss">Creuss</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> faction technology ability in the <a href="/R_mecatol_rex">Mecatol Rex</a> System during the Winnu player&rsquo;s tactical action.<sup>*</sup>
+        <li>The <a href="/F_creuss">Creuss</a> player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> faction technology ability in the Mecatol Rex System during the Winnu player&rsquo;s tactical action.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. The designer ruling says Creuss &ldquo;can use dimensional splicer regardless &hellip; because their flagship was in the system.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>The action ability of <i>Lazax Gate Folding</i> cannot be used if the Winnu player does not control <a href="/R_mecatol_rex">Mecatol Rex</a>.<sup>2,3,5</sup>
+    <li>The action ability of <i>Lazax Gate Folding</i> cannot be used if the Winnu player does not control Mecatol Rex.<sup>2,3,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;The action needs you to control Mecatol Rex, so it can&rsquo;t be used as a stall.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Lazax Gate Folding: &ldquo;exhaust this card to place 1 infantry from your reinforcements on Mecatol Rex.&rdquo;</li>
@@ -109,7 +109,7 @@
 
 <h2 id="rickar-rickani"><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Rickar%20Rickani">Rickar Rickani</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>If Rickar Rickani is unlocked via a combat in the <a href="/R_mecatol_rex">Mecatol Rex</a> system, then the +2 will apply to combat rolls during that combat.<sup>*</sup>
+    <li>If Rickar Rickani is unlocked via a combat in the Mecatol Rex system, then the +2 will apply to combat rolls during that combat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -121,11 +121,11 @@
 
 <h2 id="mathis-mathinus"><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Mathis%20Mathinus">Mathis Mathinus</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Imperial%20Seal">Imperial Seal</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>A player chosen to perform the secondary ability must still spend a command token from their strategy pool to do so, except for the <a href="/R_leadership"><i>Leadership</i></a> strategy card.<sup>2</sup>
+    <li>A player chosen to perform the secondary ability must still spend a command token from their strategy pool to do so, except for the <i>Leadership</i> strategy card.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a strategy card&rsquo;s primary ability cost a command token, and does the Leadership secondary?&rdquo;: &ldquo;Secondaries cost a strategy pool token, except Leadership&rsquo;s.&rdquo;</li>
         </ul></li>
-    <ol><li>If the Winnu player resolves the <a href="/R_trade"><i>Trade</i></a> strategy card, the players they choose with its primary ability must resolve the secondary ability without spending a command token. Other players chosen with <i>Imperial Seal</i> may choose whether to resolve the secondary ability, but must spend a command token to do so.<sup>1</sup>
+    <ol><li>If the Winnu player resolves the <i>Trade</i> strategy card, the players they choose with its primary ability must resolve the secondary ability without spending a command token. Other players chosen with <i>Imperial Seal</i> may choose whether to resolve the secondary ability, but must spend a command token to do so.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 92 (Trade), Step 3: &ldquo;The active player chooses any number of other players. Those players use the secondary ability of this card without spending a command token.&rdquo; Players chosen only with Imperial Seal use the normal secondary rules.</li>
         </ul></li></ol>
@@ -142,7 +142,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If Winnu place a mech with Hope&rsquo;s End, can the Winnu mech ability then place a space dock?&rdquo;: &ldquo;No &mdash; Hope&rsquo;s End resolves at the end of your turn, after the window where the mech&rsquo;s ability triggers.&rdquo;</li>
         </ul></li>
-    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a <a href="/R_space_dock">Space Dock</a>, they cannot produce out of it during the same action.<sup>2</sup>
+    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a Space Dock, they cannot produce out of it during the same action.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;a dock placed by Winnu&rsquo;s Reclamation comes after the tactical action, too late to produce in it.&rdquo;</li>
         </ul></li>

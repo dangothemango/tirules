@@ -48,11 +48,11 @@
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook, Dark Energy Tap: &ldquo;Your ships can retreat into adjacent systems that do not contain other players&rsquo; units, even if you do not have units or control planets in that system.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where can my ships retreat to?&rdquo;: &ldquo;Dark Energy Tap drops the second requirement.&rdquo;</li>
         </ul></li>
-        <li>Ships can retreat into a <a href="/R_nebula">nebula</a>, as a nebula is intended to no longer need to be the active system for units to move into it.<sup>4</sup>
+        <li>Ships can retreat into a nebula, as a nebula is intended to no longer need to be the active system for units to move into it.<sup>4</sup>
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it.&rdquo; A retreat moves ships into an adjacent system that is not the active system.</li>
         </ul></li>
-        <li>A player can retreat into an <a href="/R_asteroid_field">asteroid field</a> or <a href="/R_supernova">supernova</a> only if an effect allows their ships to move into it, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology or the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology.<sup>*</sup>
+        <li>A player can retreat into an asteroid field or supernova only if an effect allows their ships to move into it, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology or the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. LRR 78.7 retreat movement combined with the asteroid field and supernova movement rules and the card text.</li>
         </ul></li>

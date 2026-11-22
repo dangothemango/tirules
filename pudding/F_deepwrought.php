@@ -25,7 +25,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What are the Ocean cards exactly? Do they count as planets for scoring purposes (i.e. Push Boundaries)? &hellip; A: Oceans do not count as planets for scoring. They may be spent as planet cards.&rdquo;</li>
         </ul></li>
-    <ol><li>When the Deepwrought player scores objectives, planets they are <a href="/R_coexistence">coexisting</a> on do count as planets they control. This is a function of coexistence, not of oceans, and other players do not count those planets as controlled by the Deepwrought player.<sup>6</sup>
+    <ol><li>When the Deepwrought player scores objectives, planets they are coexisting on do count as planets they control. This is a function of coexistence, not of oceans, and other players do not count those planets as controlled by the Deepwrought player.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If DWS is coexisting on 3 planets and has 3 they control, they count as 6 when scoring Push Boundaries. How many do they control when other players want to score Push Boundaries? A: Control via coexistence is only seen by the player coexisting, so the other players see 3 planets controlled.&rdquo;</li>
         </ul></li></ol>
@@ -111,7 +111,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a researching player use both the Deepwrought commander and alliance for -2?&rdquo;: &ldquo;Yes &mdash; each is a separate optional trigger, and the Deepwrought and their ally can&rsquo;t refuse.&rdquo;</li>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Aello (Deepwrought Commander): &ldquo;The Deepwrought player cannot choose to disallow Aello from being used by other players.&rdquo;</li>
         </ul></li>
-    <li>Aello can only reduce a cost paid with <a href="/R_resources">resources</a>, including <a href="/R_trade_goods">trade goods</a> spent in place of resources. It cannot reduce a cost paid with influence, trade goods spent in place of influence, or any other currency.<sup>*</sup>
+    <li>Aello can only reduce a cost paid with resources, including trade goods spent in place of resources. It cannot reduce a cost paid with influence, trade goods spent in place of influence, or any other currency.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

@@ -24,7 +24,7 @@
     <ol class="note">
     <li><i>Trade Convoys</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Hacan player this turn.<sup>*</sup></li>
     <li>Activating a system containing only the Hacan player&rsquo;s structures will still cause <i>Trade Convoys</i> to be returned.<sup>*</sup></li>
-    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Hacan player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Trade Convoys</i> to be returned.<sup>*</sup></li>
+    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Hacan player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Trade Convoys</i> to be returned.<sup>*</sup></li>
     </ol>
 
 <h2 id="production-biomes"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Technologies:~:text=Production%20Biomes">Production Biomes</a> <sub>(Technology)</sub></h2>
@@ -42,7 +42,7 @@
 <h2 id="wrath-of-kenara"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Flagship:~:text=Wrath%20of%20Kenara">Wrath of Kenara</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>This ability may be triggered only once for each die rolled. The Hacan player cannot spend two (or more) trade goods to apply +2 (or more) to a single die, but they may spend two (or more) trade goods to apply +1 to each of two (or more) dice.<sup>1,2</sup></li>
-    <li>This ability only affects combat rolls. It cannot modify rolls for <a href="/R_space_cannon"><sc>Space Cannon</sc></a>, <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, or other unit abilities.<sup>2</sup></li>
+    <li>This ability only affects combat rolls. It cannot modify rolls for <sc>Space Cannon</sc>, <sc>Anti&ndash;Fighter Barrage</sc>, or other unit abilities.<sup>2</sup></li>
     </ol>
 
 <h2 id="carth-of-golden-sands"><a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Leaders:~:text=Carth%20of%20Golden%20Sands">Carth of Golden Sands</a> <sub>(Agent)</sub></h2>

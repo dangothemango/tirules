@@ -5,11 +5,11 @@
 
 <h2>Rules Reference</h2>
     <ul>
-    <li>(Thunder&rsquo;s Edge) A player can commit their <a href="/R_coexistence">coexisting</a> ground forces against the planet they are coexisting on, to end that coexistence.<sup>7</sup>
+    <li>(Thunder&rsquo;s Edge) A player can commit their coexisting ground forces against the planet they are coexisting on, to end that coexistence.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;a coexisting player may choose to end their coexistence by activating the coexisting unit&rsquo;s system and committing the coexisting units against the planet they are coexisting on. If they win the ground combat, they cease coexisting and gain control of the planet as normal.&rdquo;</li>
         </ul></li>
-    <li>(Thunder&rsquo;s Edge) <a href="/R_coexistence">Coexisting</a> units do not trigger a ground combat, but the active player may choose to engage them with ground forces committed to that planet.<sup>7</sup>
+    <li>(Thunder&rsquo;s Edge) Coexisting units do not trigger a ground combat, but the active player may choose to engage them with ground forces committed to that planet.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;When a unit or units coexist with another player&rsquo;s units, they do not trigger combat.&rdquo; &hellip; &ldquo;The activating player may choose not to engage the coexisting units, however, and leave the coexisting units in a state of coexistence.&rdquo;</li>
         </ul></li>
@@ -29,7 +29,7 @@
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10: &ldquo;When a player takes control of a legendary planet, they also place its legendary planet ability card in their play area.&rdquo;</li>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 10: the same text.</li>
         </ul></li>
-    <li>If <a href="/R_mecatol_rex">Mecatol Rex</a> has the custodians token on it, a player must remove it before they may commit ground forces to it.<sup>1,2,3</sup>
+    <li>If Mecatol Rex has the custodians token on it, a player must remove it before they may commit ground forces to it.<sup>1,2,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 27.1: &ldquo;players cannot commit ground forces to land on Mecatol Rex until the custodians token is removed from the planet.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do I take Mecatol Rex &hellip;?&rdquo;: &ldquo;during invasion, before committing ground forces, spend 6 influence to remove the custodians token.&rdquo;</li>

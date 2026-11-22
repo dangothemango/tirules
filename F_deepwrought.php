@@ -11,7 +11,7 @@
 <h2 id="oceanbound"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Abilities:~:text=Oceanbound">Oceanbound</a></h2>
     <ol class="note">
     <li>Ocean cards are spent as though they were planet cards. However, oceans are not planets, and do not count as planets for the purpose of scoring objectives, such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries"><i>Push Boundaries</i></a>.<sup>6</sup></li>
-    <ol><li>When the Deepwrought player scores objectives, planets they are <a href="/R_coexistence">coexisting</a> on do count as planets they control. This is a function of coexistence, not of oceans, and other players do not count those planets as controlled by the Deepwrought player.<sup>6</sup></li></ol>
+    <ol><li>When the Deepwrought player scores objectives, planets they are coexisting on do count as planets they control. This is a function of coexistence, not of oceans, and other players do not count those planets as controlled by the Deepwrought player.<sup>6</sup></li></ol>
     <li>If all of the Deepwrought player&rsquo;s ocean cards are already in play, they cannot resolve <sc>Oceanbound</sc> to ready one of their oceans.<sup>6</sup></li>
     <li>Ocean cards are readied at the end of the agenda phase, like planets.<sup>3,6</sup></li>
     <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to an ocean card.<sup>6</sup></li>
@@ -50,7 +50,7 @@
 <h2 id="aello"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Aello">Aello</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The Deepwrought player does not have the capability to prevent other players from using the ability of Aello.<sup>2,7</sup></li>
-    <li>Aello can only reduce a cost paid with <a href="/R_resources">resources</a>, including <a href="/R_trade_goods">trade goods</a> spent in place of resources. It cannot reduce a cost paid with influence, trade goods spent in place of influence, or any other currency.<sup>*</sup></li>
+    <li>Aello can only reduce a cost paid with resources, including trade goods spent in place of resources. It cannot reduce a cost paid with influence, trade goods spent in place of influence, or any other currency.<sup>*</sup></li>
     <li>If a player has the Deepwrought player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then other players may use the ability of either or both (or neither):<sup>2</sup></li>
     <ol>
         <li>Another player may use the ability from both for a two resource discount, triggering the commodity ability for both the Deepwrought player and the player with their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note.<sup>2</sup></li>

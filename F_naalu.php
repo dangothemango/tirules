@@ -32,7 +32,7 @@
 <h2 id="neuroglaive"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Faction_Technologies:~:text=Neuroglaive">Neuroglaive</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If the <a href="/F_mahact">Mahact</a> player only has other players&rsquo; command tokens in their fleet pool when they trigger Neuroglaive, they must return one of those command tokens to that player&rsquo;s reinforcements.<sup>*</sup></li>
-    <li>The primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card does not activate a system, so it does not trigger <i>Neuroglaive</i>.<sup>2</sup></li>
+    <li>The primary ability of the <i>Diplomacy</i> strategy card does not activate a system, so it does not trigger <i>Neuroglaive</i>.<sup>2</sup></li>
     </ol>
 
 <h2 id="hybrid-crystal-fighter"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Fighter:~:text=Hybrid%20Crystal%20Fighter">Hybrid Crystal Fighter</a> <sub>(Unit)</sub></h2>
@@ -83,7 +83,7 @@
 
 <h2 id="zeu-omega-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;&Omega;</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>Z&rsquo;eu &Omega;&Omega; may be used whenever a command token is placed in a system. For example, it may be used when a player activates a system, when a player resolves the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card, or when a player resolves the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming"><i>Signal Jamming</i></a> action card.<sup>*</sup></li>
+    <li>Z&rsquo;eu &Omega;&Omega; may be used whenever a command token is placed in a system. For example, it may be used when a player activates a system, when a player resolves the primary ability of the <i>Diplomacy</i> strategy card, or when a player resolves the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Signal%20Jamming"><i>Signal Jamming</i></a> action card.<sup>*</sup></li>
     </ol>
 
 <h2 id="maban" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=M%27aban">M&rsquo;aban</a> (replaced by &Omega;) <sub>(Commander)</sub></h2>
@@ -91,8 +91,8 @@
     <li>This card is replaced by the &Omega; version.<sup>12</sup></li>
     <li>When producing units, the Naalu player must produce all the units they intend to produce before they may unlock M&rsquo;aban. M&rsquo;aban cannot be applied to the instance of producing the units that unlocks it.<sup>2</sup></li>
     <ol><li>For example, before production, the Naalu player has ten fighters on the game board. They pay two resources during production. They cannot produce two fighters, unlock M&rsquo;aban, then produce three more fighters. Instead, they would produce all four fighters, and then unlock M&rsquo;aban.<sup>2</sup></li></ol>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Naalu player may produce two fighters for one resource. This will count as one toward their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup></li>
-    <li>If a game effect instructs the Naalu player to produce ships without using the <a href="/R_production"><sc>Production</sc></a> ability, they may only produce additional fighters if that game effect allows them to produce fighters.<sup>*</sup></li>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Naalu player may produce two fighters for one resource. This will count as one toward their <sc>Production</sc> limit.<sup>*</sup></li>
+    <li>If a game effect instructs the Naalu player to produce ships without using the <sc>Production</sc> ability, they may only produce additional fighters if that game effect allows them to produce fighters.<sup>*</sup></li>
     <li>The Naalu player may choose to produce one fighter for one resource. If they do, they may produce one additional fighter.<sup>2,4</sup></li>
     </ol>
 
@@ -117,7 +117,7 @@
     <ol class="note">
     <li>This card is replaced by the &Omega;&Omega; version.<sup>7</sup></li>
     <li>The ability will apply regardless of if the Iconoclast is in the space area or on a planet in the system.<sup>12</sup></li>
-    <li>Other players do not roll any anti&ndash;fighter barrage dice in the system. Effects that trigger from <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, such as the <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation"><sc>Raid Formation</sc></a> faction ability, do not trigger.<sup>2</sup></li>
+    <li>Other players do not roll any anti&ndash;fighter barrage dice in the system. Effects that trigger from <sc>Anti&ndash;Fighter Barrage</sc>, such as the <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation"><sc>Raid Formation</sc></a> faction ability, do not trigger.<sup>2</sup></li>
     </ol>
 
 <h2 id="iconoclast-omega-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Mech:~:text=Iconoclast">Iconoclast &Omega;&Omega;</a> <sub>(Mech)</sub></h2>

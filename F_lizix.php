@@ -11,10 +11,10 @@
 
 <h2 id="harrow"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow">Harrow</a></h2>
     <ol class="note">
-    <li>The <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability will prevent the use of the <sc>Harrow</sc> ability on a planet.<sup>1,2,3</sup></li>
+    <li>The <sc>Planetary Shield</sc> ability will prevent the use of the <sc>Harrow</sc> ability on a planet.<sup>1,2,3</sup></li>
     <li>The L1Z1X player cannot use their <sc>Harrow</sc> ability if they are not the active player.<sup>4</sup></li>
     <li>The L1Z1X player may use their <sc>Harrow</sc> ability at the end of the round in which their last ground force was destroyed. This may cause the combat to end in a draw.<sup>2,5</sup></li>
-    <li>Every unit in the active system with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability may use it against the planet the ground combat is taking place on, regardless of whether that unit bombarded that planet during the <b>Bombardment</b> step of the invasion.<sup>1,2,5</sup></li>
+    <li>Every unit in the active system with the <sc>Bombardment</sc> ability may use it against the planet the ground combat is taking place on, regardless of whether that unit bombarded that planet during the <b>Bombardment</b> step of the invasion.<sup>1,2,5</sup></li>
     <ol><li>An Annihilator may bombard when using <sc>Harrow</sc> if that mech is not currently participating in ground combat, even if it has been committed to a different planet, and has been or will be involved in another ground combat during the current invasion.<sup>2</sup></li></ol>
     <li>The L1Z1X player may use the ability of the <span class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a></span> or <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i></a> technologies whenever they bombard.<sup>10,15</sup></li>
     </ol>
@@ -33,11 +33,11 @@
     <ol class="note">
     <li>The two resources for <i>Inheritance Systems</i> must be paid in addition to and separately from any other costs paid to research the technology.<sup>*</sup></li>
     <ol>
-        <li>For example, if the L1Z1X player is performing the secondary of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <a href="/R_technology_sc"><i>Technology</i></a> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <a href="/R_technology_sc"><i>Technology</i></a>, wasting the fifth resource, then spend two additional resources to pay for the cost of <i>Inheritance Systems</i>.<sup>*</sup></li>
+        <li>For example, if the L1Z1X player is performing the secondary of the <i>Technology</i> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <i>Technology</i> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <i>Technology</i>, wasting the fifth resource, then spend two additional resources to pay for the cost of <i>Inheritance Systems</i>.<sup>*</sup></li>
         <li>The owner of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Sciences"><i>Minister of Sciences</i></a> law must still spend the two resources for <i>Inheritance Systems</i>, as they pay to ignore prerequisites, not to research the technology.<sup>*</sup></li>
     </ol>
     <li><i>Inheritance Systems</i> may be used when researching a unit upgrade technology, including the L1Z1X player&rsquo;s own faction technologies such as <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Dreadnought:~:text=Super-Dreadnought">Super Dreadnought</a> II.<sup>2</sup></li>
-    <li>If <i>Inheritance Systems</i> is researched as the first of two technologies researched back to back, such as with the primary ability of the <a href="/R_technology_sc"><i>Technology</i></a> strategy card or the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda, it may be used immediately to ignore the prerequisites of the second technology.<sup>2</sup></li>
+    <li>If <i>Inheritance Systems</i> is researched as the first of two technologies researched back to back, such as with the primary ability of the <i>Technology</i> strategy card or the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda, it may be used immediately to ignore the prerequisites of the second technology.<sup>2</sup></li>
     </ol>
 
 <h2 id="super-dreadnought"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Dreadnought:~:text=Super-Dreadnought">Super Dreadnought</a> <sub>(Unit)</sub></h2>
@@ -56,7 +56,7 @@
 
 <h2 id="2ram"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Leaders:~:text=2RAM">2RAM</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>Those units still have <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a>.<sup>*</sup></li>
+    <li>Those units still have <sc>Planetary Shield</sc>.<sup>*</sup></li>
     <ol><li class="removed">The player that owns those units may still use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology.<sup>*</sup></li></ol>
     </ol>
 

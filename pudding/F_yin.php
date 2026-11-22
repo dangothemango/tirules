@@ -46,7 +46,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the Yin Brotherhood&rsquo;s &lsquo;Devotion&rsquo; faction ability should read as follows: &lsquo;After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent&rsquo;s ships in that system.&rsquo;&rdquo; &ldquo;1 of your opponent&rsquo;s ships.&rdquo;</li>
         </ul></li>
-        <li>The targeted ship may cancel the hit with its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present. Other ships with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability cannot cancel the hit.<sup>2</sup>
+        <li>The targeted ship may cancel the hit with its <sc>Sustain Damage</sc> ability, if present. Other ships with the <sc>Sustain Damage</sc> ability cannot cancel the hit.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Only that ship can use its own Sustain Damage to cancel it; you can&rsquo;t move the hit elsewhere.&rdquo;</li>
         </ul></li>
@@ -56,7 +56,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Shields Holding&rsquo; may be used to cancel hits that are produced by these abilities,&rdquo; including &ldquo;Devotion.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?&rdquo;: &ldquo;Yes to both.&rdquo;</li>
         </ul></li>
-    <li>If the targeted ship cancels the hit with its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, the Yin player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy that ship.<sup>2,5</sup>
+    <li>If the targeted ship cancels the hit with its <sc>Sustain Damage</sc> ability, the Yin player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy that ship.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?&rdquo;: &ldquo;Yes to both. Direct Hit was errata&rsquo;d to cover hits produced by your units or abilities&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, May 17, 2018): &ldquo;does the Devotion ability count as that? &hellip; Dane wrote: You can use direct hit off of a Devotion use.&rdquo;</li>
@@ -128,15 +128,15 @@
         <ul>
         <li><b>Explicit</b>: <sup>10</sup> Codex I p. 8, &ldquo;The Omega Initiative&rdquo;: &ldquo;Components from this section replace preexisting components of the same name and type.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Yin Spinner&rdquo;.</li>
         </ul></li>
-    <li>The infantry may be placed on a planet that does not contain a unit with <a href="/R_production"><sc>Production</sc></a>.<sup>2</sup>
+    <li>The infantry may be placed on a planet that does not contain a unit with <sc>Production</sc>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?&rdquo;: &ldquo;on any planet you control in that system&rdquo;</li>
         </ul></li>
-    <li><i>Yin Spinner</i> places one infantry each time the Yin player&rsquo;s units use <a href="/R_production"><sc>Production</sc></a>, regardless of how many units are produced.<sup>2</sup>
+    <li><i>Yin Spinner</i> places one infantry each time the Yin player&rsquo;s units use <sc>Production</sc>, regardless of how many units are produced.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?&rdquo;: &ldquo;The original gives one infantry per use of Production, however many units produced.&rdquo;</li>
         </ul></li>
-    <li><i>Yin Spinner</i> is not triggered by the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, as no unit uses its <a href="/R_production"><sc>Production</sc></a> ability.<sup>2</sup>
+    <li><i>Yin Spinner</i> is not triggered by the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, as no unit uses its <sc>Production</sc> ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;it doesn&rsquo;t trigger from Integrated Economy, which uses no Production ability.&rdquo;</li>
         </ul></li>
@@ -148,7 +148,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Other effects that produce units without a unit using its <a href="/R_production"><sc>Production</sc></a> ability will trigger <i>Yin Spinner &Omega;</i>.<sup>2,7,10</sup>
+    <li>Other effects that produce units without a unit using its <sc>Production</sc> ability will trigger <i>Yin Spinner &Omega;</i>.<sup>2,7,10</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;The Omega version gives 2 infantry, triggers whenever you produce.&rdquo;</li>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge card text: &ldquo;After you produce units, place up to 2 infantry.&rdquo;</li>
@@ -187,7 +187,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
+    <ol><li>If a ship uses its <sc>Sustain Damage</sc> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -219,7 +219,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
+    <ol><li>If a ship uses its <sc>Sustain Damage</sc> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -259,7 +259,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
+    <ol><li>If a ship uses its <sc>Sustain Damage</sc> ability, and is then destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, then any remaining hits may be assigned to any placed fighters.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -279,11 +279,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>12</sup> Codex III p. 13, &ldquo;The Omega Initiative&rdquo;: &ldquo;These cards can be found in the high-quality PDF found alongside this document. They are standard American mini cards, and replace their corresponding counterparts from the Prophecy of Kings expansion.&rdquo; The Omega Initiative contents (p. 3) list &ldquo;Brother Omar&rdquo;.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Yin player may produce two infantry for one resource. This will count as one toward their <a href="/R_production"><sc>Production</sc></a> limit.<sup>*</sup>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Regulated%20Conscription"><i>Regulated Conscription</i></a> law is in play, the Yin player may produce two infantry for one resource. This will count as one toward their <sc>Production</sc> limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a game effect instructs the Yin player to produce units without using the <a href="/R_production"><sc>Production</sc></a> ability, they may only produce infantry if that game effect allows them to produce infantry.<sup>*</sup>
+    <li>If a game effect instructs the Yin player to produce units without using the <sc>Production</sc> ability, they may only produce infantry if that game effect allows them to produce infantry.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -338,7 +338,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Only the <b>Commit Ground Forces</b>, <b>Ground Combat</b> and <b>Establish Control</b> steps of an <a href="/R_invasion">invasion</a> are resolved on the chosen planets; the <b>Bombardment</b> and <b>Space Cannon Defense</b> steps are not.<sup>4</sup>
+    <li>Only the <b>Commit Ground Forces</b>, <b>Ground Combat</b> and <b>Establish Control</b> steps of an invasion are resolved on the chosen planets; the <b>Bombardment</b> and <b>Space Cannon Defense</b> steps are not.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Yin hero, Quantum Dissemination Omega, should indicate to resolve ground combats on those planets, not full invasion steps. Parley can be played on one of the planets.&rdquo; The question it answers asks about &ldquo;committing additional ground forces, and using bombardment&rdquo;; committing the 3 infantry and establishing control over planets won are implied by the card text.</li>
         </ul></li>
@@ -350,7 +350,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>12</sup> Codex III: &ldquo;Commit up to 3 infantry from your reinforcements.&rdquo;</li>
         </ul></li></ol>
-    <li>The Yin player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination"><sc>Indoctrination</sc></a> ability and their mech&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability.<sup>*</sup>
+    <li>The Yin player may use their <a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Faction_Abilities:~:text=Indoctrination"><sc>Indoctrination</sc></a> ability and their mech&rsquo;s <sc>Deploy</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -370,7 +370,7 @@
 
 <h2 id="moyins-ashes"><a href="https://twilight-imperium.fandom.com/wiki/The_Yin_Brotherhood#Mech:~:text=Moyin%27s%20Ashes">Moyin&rsquo;s Ashes</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Moyin&rsquo;s Ashes are already on the board, no more may be deployed.<sup>1,8</sup>
+    <li>A <sc>Deploy</sc> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Moyin&rsquo;s Ashes are already on the board, no more may be deployed.<sup>1,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 30.2: &ldquo;A player can only resolve a deploy ability to place a unit that is in their reinforcements.&rdquo;</li>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 10: &ldquo;These abilities can only be resolved to place a unit that is in a player&rsquo;s reinforcements.&rdquo;</li>
@@ -383,7 +383,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <a href="/R_deploy"><sc>Deploy</sc></a> ability has a total cost of three influence. The Yin player may exhaust a single planet with three or more influence to pay this cost.<sup>*</sup>
+    <li>The <sc>Deploy</sc> ability has a total cost of three influence. The Yin player may exhaust a single planet with three or more influence to pay this cost.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

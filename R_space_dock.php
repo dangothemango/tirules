@@ -5,13 +5,13 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '79.' counter(item, decimal);} </style>
 <p data-src="1,3">A space dock is a structure that allows players to produce units.</p>
     <ol class="lrr">
-    <li data-src="1,2,3">Each space dock has a <a href="/R_production"><sc>Production</sc></a> ability that indicates the number of units it can produce.</li>
-    <li data-src="1,2,3">The primary way in which players acquire space docks is by resolving either the primary or secondary abilities of the <a href="/R_construction"><i>Construction</i></a> strategy card.</li>
+    <li data-src="1,2,3">Each space dock has a <sc>Production</sc> ability that indicates the number of units it can produce.</li>
+    <li data-src="1,2,3">The primary way in which players acquire space docks is by resolving either the primary or secondary abilities of the <i>Construction</i> strategy card.</li>
     <li data-src="1,2,3">Space docks are placed on planets. Each planet can have a maximum of <b>one</b> space dock.</li>
     <li data-src="1,2">If a player&rsquo;s space dock is ever on a planet that does not contain any of their ground forces and contains a unit that belongs to another player, that space dock is destroyed.</li>
     <ol>
         <li data-src="1,2,5,6">The Clan of <a href="/F_saar">Saar</a>&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory"><i>Floating Factory</i></a> faction&ndash;specific space dock is destroyed when it is blockaded; that is to say, when it is in a system with another player&rsquo;s ships and none of the Clan of <a href="/F_saar">Saar</a>&rsquo;s ships.</li>
-        <li>(Thunder&rsquo;s Edge) A player whose only units on a planet are structures, such as a space dock, keeps control of that planet when another player&rsquo;s ground forces <a href="/R_coexistence">coexist</a> there.<sup>9</sup></li>
+        <li>(Thunder&rsquo;s Edge) A player whose only units on a planet are structures, such as a space dock, keeps control of that planet when another player&rsquo;s ground forces coexist there.<sup>9</sup></li>
     </ol>
     </ol>
 

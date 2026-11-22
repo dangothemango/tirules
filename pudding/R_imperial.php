@@ -11,17 +11,17 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I score objectives if another player controls a planet in my home system?&rdquo;: &ldquo;Not public objectives &mdash; you must control every planet in your home system to score one, and the Imperial card doesn&rsquo;t override that.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;Important: A player cannot score a public objective if they do&rdquo; not control every planet in their home system.</li>
         </ul></li>
-    <li>A player who controls <a href="/R_mecatol_rex">Mecatol Rex</a> does not need to control every planet in their home system to gain a victory point from the second primary ability of <i>Imperial</i>.<sup>2</sup>
+    <li>A player who controls Mecatol Rex does not need to control every planet in their home system to gain a victory point from the second primary ability of <i>Imperial</i>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I score objectives if another player controls a planet in my home system?&rdquo;: &ldquo;Everything else still works: &hellip; Imperial&rsquo;s Mecatol Rex point.&rdquo;</li>
         </ul></li>
-    <li>A player who controls <a href="/R_mecatol_rex">Mecatol Rex</a> while resolving the primary ability of <i>Imperial</i> must gain a victory point; they cannot instead draw a secret objective.<sup>1,2,3</sup>
+    <li>A player who controls Mecatol Rex while resolving the primary ability of <i>Imperial</i> must gain a victory point; they cannot instead draw a secret objective.<sup>1,2,3</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 45.2: &ldquo;if the active player controls Mecatol Rex, they gain one victory point; if they do not control Mecatol Rex, they can draw one secret objective card.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Imperial card: &ldquo;Gain 1 victory point if you control Mecatol Rex; otherwise, draw 1 secret objective.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What do the Imperial abilities give &hellip;?&rdquo;: &ldquo;gives 1 victory point if you control Mecatol Rex &hellip; otherwise you draw a secret objective.&rdquo;</li>
         </ul></li>
-    <li>A player coexisting on <a href="/R_mecatol_rex">Mecatol Rex</a> does not control it for the primary ability of <i>Imperial</i>, and so does not gain a victory point; coexisting only counts as control for scoring objectives.<sup>6,7</sup>
+    <li>A player coexisting on Mecatol Rex does not control it for the primary ability of <i>Imperial</i>, and so does not gain a victory point; coexisting only counts as control for scoring objectives.<sup>6,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If a player is Coexisting on Mecatol Rex, can they score Imperial Point with Imperial Primary? A: No, Coexistence counts as control for scoring objectives only, this does not include Imperial Point.&rdquo;</li>
         <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;When scoring objectives, a coexisting player counts as controlling the planet they are coexisting on; they do not count as controlling the planet for any other game ability or effect.&rdquo; Imperial is not named.</li>

@@ -8,7 +8,7 @@
     <li data-src="1,2">A player is eliminated when they meet <b>all</b> of the following three conditions:</li>
     <ol>
         <li data-src="1,2">The player has no ground forces on the game board.</li>
-        <li data-src="1,2">The player has no unit that has <a href="/R_production"><sc>Production</sc></a>.</li>
+        <li data-src="1,2">The player has no unit that has <sc>Production</sc>.</li>
         <li data-src="1,2">The player does not control any planets.</li>
     </ol>
     <li data-src="1">When a player becomes eliminated, all of the units, command tokens, control tokens, promissory notes, technologies, command sheets, and the faction sheet that matches that player&rsquo;s faction or color are returned to the game box, including those in their reinforcements.</li>
@@ -34,7 +34,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A <a href="/R_space_stations">space station</a> is not a planet; controlling one does not prevent a player from being eliminated.<sup>2</sup></li>
+    <li>A space station is not a planet; controlling one does not prevent a player from being eliminated.<sup>2</sup></li>
     <li>An eliminated player&rsquo;s home system remains a home system for game effects.<sup>6</sup></li>
         <ol><li>This includes effects that specify &ldquo;another player&rsquo;s home system&rdquo;.<sup>*</sup></li></ol>
     <li>If an eliminated player had any relic fragments, they are discarded. If an eliminated player had any relics, they are purged.<sup>4</sup></li>

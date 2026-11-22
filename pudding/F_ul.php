@@ -67,7 +67,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you awaken a sleeper token or deploy your flagship and then your turn ends (Mahact mech, Nullification field, Minister of Peace), do you resolve combat? A: Coalescence forces combat steps to occur.&rdquo;</li>
         </ul></li>
-    <li>Only the active player may use the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of their units during an invasion.<sup>3,4</sup>
+    <li>Only the active player may use the <sc>Bombardment</sc> ability of their units during an invasion.<sup>3,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Bombardment: &ldquo;A player uses this ability during the &lsquo;Bombardment&rsquo; step of an invasion.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;only the active player can use BOMBARDMENT.&rdquo;</li>
@@ -114,7 +114,7 @@
 
 <h2 id="heltitan"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#:~:text=Hel-Titan">Hel&ndash;Titan</a> <sub>(Unit)</sub></h2>
     <ol class="note">
-    <li>When multiple units use their <a href="/R_production"><sc>Production</sc></a> ability, the <a href="/R_production"><sc>Production</sc></a> value is pooled. As such, if the Ul player has two Hel&ndash;Titans in a system, they may produce two infantry or two fighters for one resource, rather than two resources.<sup>1,2,3</sup>
+    <li>When multiple units use their <sc>Production</sc> ability, the <sc>Production</sc> value is pooled. As such, if the Ul player has two Hel&ndash;Titans in a system, they may produce two infantry or two fighters for one resource, rather than two resources.<sup>1,2,3</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Production value is totaled when the &lsquo;Production&rsquo; ability of units in a system is used.&rdquo;</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;When producing multiple units at a time, the cost values of those units are added together.&rdquo;</li>
@@ -132,7 +132,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is a Hel-Titan a valid target for effects on non-structures &hellip;?&rdquo;: &ldquo;It is a structure as well as a ground force, so the Vuil&rsquo;raith vortex, which needs a non-structure, can&rsquo;t take it.&rdquo;</li>
         </ul></li>
-    <li>If a player is able to ignore <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a>, then Hel&ndash;Titan are eligible units to assign any hits produced by a bombardment roll.<sup>*</sup>
+    <li>If a player is able to ignore <sc>Planetary Shield</sc>, then Hel&ndash;Titan are eligible units to assign any hits produced by a bombardment roll.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -156,7 +156,7 @@
 
 <h2 id="tellurian"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tellurian">Tellurian</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is canceled.<sup>4</sup>
+    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <sc>Sustain Damage</sc> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is canceled.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Titan&rsquo;s Agent will receive an errata to have the same timing as Shields Holding or Sustain Damage. &lsquo;Before you assign a hit&rsquo;. The hit is still produced, VPW triggers, then the hit is canceled.&rdquo;</li>
         </ul></li>
@@ -164,7 +164,7 @@
 
 <h2 id="tungstantus"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tungstantus">Tungstantus</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>The trade good may be spent on the units produced by the <a href="/R_production"><sc>Production</sc></a> ability that triggered Tungstantus.<sup>4</sup>
+    <li>The trade good may be spent on the units produced by the <sc>Production</sc> ability that triggered Tungstantus.<sup>4</sup>
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling, Ul commander Tungstantus: &ldquo;The gain and spend are simultaneous, so cannot be pillaged.&rdquo; gain and spend are simultaneous.</li>
         </ul></li>
@@ -178,7 +178,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>Other effects that produce units without a unit using its <a href="/R_production"><sc>Production</sc></a> ability will not trigger Tungstantus.<sup>14</sup>
+    <li>Other effects that produce units without a unit using its <sc>Production</sc> ability will not trigger Tungstantus.<sup>14</sup>
         <ul>
         <li><b>Implicit</b>: <sup>14</sup> Codex II, Ul Alliance: &ldquo;When 1 or more of your units use PRODUCTION: You may gain 1 trade good.&rdquo; trigger requires a unit using PRODUCTION.</li>
         </ul></li>
@@ -186,7 +186,7 @@
 
 <h2 id="ul-the-progenitor"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Ul%20the%20Progenitor">Ul the Progenitor</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Specific_Components:~:text=Geoform">Geoform</a> <sub>(Hero)</sub></h2>
     <ol class="note">
-    <li>The <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability is controlled by whichever player controls Elysium.<sup>*</sup>
+    <li>The <sc>Space Cannon</sc> ability is controlled by whichever player controls Elysium.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -198,31 +198,31 @@
 
 <h2 id="hecatoncheires"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Mech:~:text=Hecatoncheires">Hecatoncheires</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>When the Ul player would place multiple PDS during a single step, they may resolve a <a href="/R_deploy"><sc>Deploy</sc></a> ability to place one Hecatoncheires for any or all of those PDS.<sup>*</sup>
+    <li>When the Ul player would place multiple PDS during a single step, they may resolve a <sc>Deploy</sc> ability to place one Hecatoncheires for any or all of those PDS.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The Ul player must have at least one PDS in their reinforcements to place in order to use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires.<sup>1,4</sup>
+    <li>The Ul player must have at least one PDS in their reinforcements to place in order to use the <sc>Deploy</sc> ability of a Hecatoncheires. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <sc>Deploy</sc> ability of a Hecatoncheires.<sup>1,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;You also cannot DEPLOY a mech if you have no PDS in reinforcements, but could remove a PDS from the board and then DEPLOY your mech to an eligible target planet.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 30.2: &ldquo;A player can only resolve a deploy ability to place a unit that is in their reinforcements.&rdquo;</li>
         </ul></li>
-    <li>The Ul player cannot place a PDS on a planet that already has two of their PDS on it. As such, they are unable to place a Hecatoncheires on a planet with two of their PDS using its <a href="/R_deploy"><sc>Deploy</sc></a> ability.<sup>3,4</sup>
+    <li>The Ul player cannot place a PDS on a planet that already has two of their PDS on it. As such, they are unable to place a Hecatoncheires on a planet with two of their PDS using its <sc>Deploy</sc> ability.<sup>3,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does 63.3 (2 PDS on a planet max) mean that Titans couldn&rsquo;t place a PDS via Sleeper token onto a planet where another player already has 2 PDS? &hellip; A: 63.3 does not prevent Titans from placing a PDS on a planet that contains 2 of another player&rsquo;s PDS units. You cannot place a structure on a planet with the maximum number of your structures.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Same ruling: &ldquo;which prevents using the DEPLOY ability on a planet with 2 PDS of yours.&rdquo;</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: &ldquo;Players are limited to two PDS units and one space dock on each planet.&rdquo; The Deploy consequence is not stated.</li>
         </ul></li>
-    <li>A <a href="/R_deploy"><sc>Deploy</sc></a> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four of the Hecatoncheires are already on the board, no Hecatoncheires may be deployed.<sup>1,8</sup>
+    <li>A <sc>Deploy</sc> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four of the Hecatoncheires are already on the board, no Hecatoncheires may be deployed.<sup>1,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 30.2: &ldquo;A player can only resolve a deploy ability to place a unit that is in their reinforcements.&rdquo;</li>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 10: &ldquo;These abilities can only be resolved to place a unit that is in a player&rsquo;s reinforcements.&rdquo;</li>
         </ul></li>
-    <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires to place units into coexistence, most often through the use of <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Breakthrough:~:text=Slumberstate%20Computing"><i>Slumberstate Computing</i></a>.<sup>6</sup>
+    <li>The Ul player may use the <sc>Deploy</sc> ability of a Hecatoncheires to place units into coexistence, most often through the use of <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Breakthrough:~:text=Slumberstate%20Computing"><i>Slumberstate Computing</i></a>.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Titans use the Mech&rsquo;s deploy ability for coexistence? A: Yes.&rdquo;</li>
         </ul></li>
-    <li>The Ul player may use the <a href="/R_deploy"><sc>Deploy</sc></a> ability of a Hecatoncheires when placing a PDS with the <a href="/R_construction"><i>Construction</i></a> strategy card, including for each PDS placed with the primary ability.<sup>2</sup>
+    <li>The Ul player may use the <sc>Deploy</sc> ability of a Hecatoncheires when placing a PDS with the <i>Construction</i> strategy card, including for each PDS placed with the primary ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Titans deploy their mech instead of placing a PDS with Construction?&rdquo;: &ldquo;Yes &mdash; Construction places PDS, so the Titans&rsquo; deploy works there, even twice with the primary.&rdquo;</li>
         </ul></li>

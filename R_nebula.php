@@ -7,7 +7,7 @@
     <ol class="lrr">
     <li data-src="1"><del>A ship can only move into a nebula if it is the active system.</del></li>
     <ol><li data-src="1,3,8">A ship cannot move through a nebula. That is, a ship cannot move into and out of a nebula during the same movement.</li></ol>
-    <li data-src="1,2,3,8">A ship that begins the <b><a href="/R_movement">Movement</a></b> step of a tactical action in a nebula treats its move value as &ldquo;1&rdquo; for the duration of that step.</li>
+    <li data-src="1,2,3,8">A ship that begins the <b>Movement</b> step of a tactical action in a nebula treats its move value as &ldquo;1&rdquo; for the duration of that step.</li>
     <ol><li data-src="1,2">Other abilities and effects can increase this number.</li></ol>
     <li data-src="1,3,8">If a space combat occurs in a nebula, the defender applies +1 to each combat roll of their ships during that combat.</li>
     </ol>

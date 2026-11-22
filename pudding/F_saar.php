@@ -70,7 +70,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>No unit is using its <a href="/R_production"><sc>Production</sc></a> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup>
+    <li>No unit is using its <sc>Production</sc> ability. The <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology and similar effects will not apply.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Saar&rsquo;s Chaos Mapping production work?&rdquo;: &ldquo;no unit&rsquo;s Production ability is used, so Sarween Tools doesn&rsquo;t apply.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: &ldquo;When producing a unit with an ability other than &lsquo;Production,&rsquo; does the price reduction from the &lsquo;Sarween Tools&rsquo; technology apply? A: No, &lsquo;Sarween Tools&rsquo; is only used with the &lsquo;Production&rsquo; ability.&rdquo;</li>
@@ -103,11 +103,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where are produced ground forces placed?&rdquo;: &ldquo;If the producing unit is in space, like a Saar Floating Factory &hellip;, they can go in that space area or on any planet you control in the system.&rdquo;</li>
         </ul></li>
-    <li>A Floating Factory may move into the active system and use its <a href="/R_production"><sc>Production</sc></a> ability during the same tactical action.<sup>2</sup>
+    <li>A Floating Factory may move into the active system and use its <sc>Production</sc> ability during the same tactical action.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Saar Floating Factories move and produce in the same action, and how many can share a system?&rdquo;: &ldquo;Yes &mdash; nothing requires a dock to start the turn in the active system, so a Floating Factory can move in, carry ground forces to invade, and produce.&rdquo;</li>
         </ul></li>
-    <li>When resolving an ability of the <a href="/R_construction"><i>Construction</i></a> strategy card, the Saar player must control a planet in the system they place a Floating Factory in.<sup>2,5</sup>
+    <li>When resolving an ability of the <i>Construction</i> strategy card, the Saar player must control a planet in the system they place a Floating Factory in.<sup>2,5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Where do Saar Floating Factories go, and how many can share a system?&rdquo;: &ldquo;If an effect places a space dock on a planet, choose the planet as the effect says, then the Floating Factory&rsquo;s own rule puts it in that system&rsquo;s space area.&rdquo; Saar still needs a planet for Construction; implicit.</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Aug 1, 2018): &ldquo;So while it is never placed on the planet, an eligible planet does need to exist.&rdquo;</li>
@@ -167,7 +167,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>Players alternate using the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of their units, one at a time, starting with the active player, and continuing until both players decline, in a row, to use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> of one of their units. If both the Saar player and their opponent have a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>, then the first unit to use <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> will be the first unit that may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>. If the Saar player&rsquo;s unit is the last to be destroyed, and leaves no other ships in the system, then a Floating Factory in that system will not be blockaded nor destroyed.<sup>*</sup>
+    <ol><li>Players alternate using the <sc>Sustain Damage</sc> ability of their units, one at a time, starting with the active player, and continuing until both players decline, in a row, to use the <sc>Sustain Damage</sc> of one of their units. If both the Saar player and their opponent have a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>, then the first unit to use <sc>Sustain Damage</sc> will be the first unit that may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>. If the Saar player&rsquo;s unit is the last to be destroyed, and leaves no other ships in the system, then a Floating Factory in that system will not be blockaded nor destroyed.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -244,11 +244,11 @@
 
 <h2 id="scavenger-zeta"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Mech:~:text=Scavenger%20Zeta">Scavenger Zeta</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>The Saar player may perform the <a href="/R_deploy"><sc>Deploy</sc></a> ability or their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability in either order. If they perform their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability first, they may pay for the <a href="/R_deploy"><sc>Deploy</sc></a> ability with the gained trade good.<sup>*</sup>
+    <li>The Saar player may perform the <sc>Deploy</sc> ability or their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability in either order. If they perform their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability first, they may pay for the <sc>Deploy</sc> ability with the gained trade good.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before the <a href="/R_deploy"><sc>Deploy</sc></a> ability will be able to trigger.<sup>*</sup>
+    <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before the <sc>Deploy</sc> ability will be able to trigger.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -268,7 +268,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Deorbit Barrage (Breakthrough): Can the Saar player assign two hits to a unit with SUSTAIN DAMAGE? A: Yes, the targeted player uses Sustain Damage when the hit is produced.&rdquo;</li>
         </ul></li>
-    <li>If the chosen unit has the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, it may be used to cancel the hit.<sup>6</sup>
+    <li>If the chosen unit has the <sc>Sustain Damage</sc> ability, it may be used to cancel the hit.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Same ruling: &ldquo;the targeted player uses Sustain Damage when the hit is produced.&rdquo;</li>
         </ul></li>

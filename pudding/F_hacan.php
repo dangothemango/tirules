@@ -56,7 +56,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Hacan player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Trade Convoys</i> to be returned.<sup>*</sup>
+    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Hacan player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Trade Convoys</i> to be returned.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -94,7 +94,7 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR 1.18: &ldquo;Each ability can be resolved once for each occurrence of that ability&rsquo;s timing event.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Hacan flagship&rsquo;s trade-good bonus work?&rdquo;: &ldquo;spend 1 trade good for +1 on any of your units&rsquo; dice in its system, at most once per die.&rdquo;</li>
         </ul></li>
-    <li>This ability only affects combat rolls. It cannot modify rolls for <a href="/R_space_cannon"><sc>Space Cannon</sc></a>, <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a>, or other unit abilities.<sup>2</sup>
+    <li>This ability only affects combat rolls. It cannot modify rolls for <sc>Space Cannon</sc>, <sc>Anti&ndash;Fighter Barrage</sc>, or other unit abilities.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Hacan flagship&rsquo;s trade-good bonus work?&rdquo;: &ldquo;It only modifies combat rolls, not Space Cannon or other ability rolls.&rdquo;</li>
         </ul></li>

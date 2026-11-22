@@ -17,7 +17,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction units like the Muaat Prototype War Sun count as their base unit type?&rdquo;: &ldquo;the Prototype War Sun is a war sun.&rdquo;</li>
         </ul></li></ol>
-    <li class="removed">If a war sun&rsquo;s ability results in no units on a planet having the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>2</sup>
+    <li class="removed">If a war sun&rsquo;s ability results in no units on a planet having the <sc>Planetary Shield</sc> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a war sun shut off Magen Defense Grid?&rdquo;: &ldquo;Only the original version, which needs a unit with Planetary Shield: a war sun makes other players&rsquo; units lose Planetary Shield.&rdquo;</li>
         </ul></li>
@@ -127,7 +127,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a space dock have capacity?&rdquo;: &ldquo;two docks in one system cover 6 fighters.&rdquo;</li>
         </ul></li>
-    <li>A space dock&rsquo;s <a href="/R_production"><sc>Production</sc></a> value is not affected by whether its planet is exhausted.<sup>2</sup>
+    <li>A space dock&rsquo;s <sc>Production</sc> value is not affected by whether its planet is exhausted.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How many units can a space dock produce?&rdquo;: &ldquo;The planet being exhausted doesn&rsquo;t matter.&rdquo;</li>
         </ul></li>

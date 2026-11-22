@@ -13,7 +13,7 @@
         <li data-src="1">The two additional <a href="/F_nomad">Nomad</a> agents are placed in the <a href="/F_nomad">Nomad</a> player&rsquo;s play area readied side up.</li>
     </ol>
     <h2><li>Agents</li></h2>
-    <li data-src="1,8">An agent does not need to be unlocked and begins the game in a readied state. They can be exhausted by resolving their abilities, and they ready during the <b><a href="/R_status_phase">Ready Cards</a></b> step of the status phase.</li>
+    <li data-src="1,8">An agent does not need to be unlocked and begins the game in a readied state. They can be exhausted by resolving their abilities, and they ready during the <b>Ready Cards</b> step of the status phase.</li>
     <h2><li>Commanders</li></h2>
     <li data-src="1,8">A commander must be unlocked to use its abilities. A player unlocks their commander if they fulfill the conditions listed after the &ldquo;Unlock&rdquo; header.</li>
     <ol>
