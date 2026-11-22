@@ -14,7 +14,7 @@ if ($footer_path !== '/report') {
 }
 ?>
 <p><i>Twilight Imperium</i> &copy; Fantasy Flight Games. Not Affiliated.</p>
-<p>This website is not affiliated with tirules.com. <a href="https://github.com/dangothemango/tirules">Github</a></p>
+<p><a href="https://github.com/dangothemango/tirules">Github</a></p>
 <p>This site costs $50+ a month to host. If you find it useful, consider <a href="https://buymeacoffee.com/dangorman">buying me a coffee</a>.</p>
 <p>Sources:<br/>
 <sup>1</sup>&nbsp;<a href="https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf" target="_blank" rel="noopener">Living Rules Reference v2.0</a><br/>

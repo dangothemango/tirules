@@ -205,7 +205,7 @@ li.te:before
 </article>
 <footer>
 <p><i>Twilight Imperium</i> &copy; Fantasy Flight Games. Not Affiliated.</p>
-<p>This website is not affiliated with tirules.com. <a href="https://github.com/dangothemango/tirules">Github</a></p>
+<p><a href="https://github.com/dangothemango/tirules">Github</a></p>
 <p>This site costs $50+ a month to host. If you find it useful, consider <a href="https://buymeacoffee.com/dangorman">buying me a coffee</a>.</p>
 </footer>
 </body>
