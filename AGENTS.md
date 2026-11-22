@@ -60,6 +60,11 @@ the repo owner explicitly asks in the current task.
   only, set as an EB **Environment property**, not an environment secret). Without the token, or if
   GitHub refuses the request, it offers GitHub's own prefilled issue form and states the reason.
   Issues must be enabled on the repo. The page is `noindex` and is not in the nav or sitemap.
+- `search.php` (`/search?q=`) searches the headings, rules and notes of every `R_`/`F_`/`C_` page
+  on the server (no index to rebuild: it reads the page files on each request). A small inline
+  script, approved by the owner, refreshes the results as the reader types by fetching the same
+  page; without JavaScript, and on the lite site, the form submits normally. Results link to the
+  page with a `#:~:text=` fragment. Linked from the home page; `noindex`, not in the sitemap.
 - Local dev: `php -S localhost:8000 router.php`.
 
 ## Delivery and caching

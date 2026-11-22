@@ -7,7 +7,8 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 
 ls R_*.php F_*.php C_*.php | sed 's/\.php$//' | sort > /tmp/tirules_files.txt
-grep -oE 'href="/[A-Za-z_]+"' index.php | sed -E 's/href="\///; s/"$//' | sort -u > /tmp/tirules_index_links.txt
+# /search is a site page, not an R_/F_/C_ content page
+grep -oE 'href="/[A-Za-z_]+"' index.php | sed -E 's/href="\///; s/"$//' | grep -vxF search | sort -u > /tmp/tirules_index_links.txt
 grep -oE '<loc>https://tirules2\.com/[A-Za-z_]+</loc>' sitemap.xml | sed -E 's#<loc>https://tirules2\.com/##; s#</loc>##' | sort -u > /tmp/tirules_sitemap_links.txt
 
 status=0

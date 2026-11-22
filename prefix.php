@@ -12,8 +12,8 @@ ob_start(); ?>
 <link rel="canonical" href="https://tirules2.com<?php echo htmlspecialchars(parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '/'); ?>"/>
 <?php } ?>
 <?php $head_path = parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '';
-// Proof pages (/R_combat/pudding) and source pages (/sources/3) are not indexed
-if (!empty($page_noindex) || str_ends_with($head_path, '/pudding') || str_starts_with($head_path, '/sources/')) { ?>
+// Proof pages (/R_combat/pudding), source pages (/sources/3) and search results are not indexed
+if (!empty($page_noindex) || str_ends_with($head_path, '/pudding') || str_starts_with($head_path, '/sources/') || $head_path === '/search') { ?>
 <meta name="robots" content="noindex, follow"/>
 <?php } ?>
 <link rel="icon" href="/favicon.png"/>

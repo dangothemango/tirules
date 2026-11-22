@@ -374,6 +374,78 @@ form.report button
     font: inherit;
     cursor: pointer;
 }
+/* Home page: large search button under the title */
+p.search-link
+{
+    text-align: center;
+    padding: 0 0 2ex;
+}
+p.search-link a
+{
+    display: inline-block;
+    padding: 0.4em 1.5em;
+    font-family: slid, Futura, sans-serif;
+    font-size: 200%;
+    font-variant: small-caps;
+    text-decoration: none;
+    color: white;
+    background-color: #000088;
+    border-radius: 0.3em;
+}
+p.search-link a:hover
+{
+    text-decoration: underline;
+}
+/* Search page (/search) */
+form.search label
+{
+    display: block;
+    margin-bottom: 1ex;
+    font-weight: bold;
+}
+form.search input[type="search"]
+{
+    box-sizing: border-box;
+    width: 30em;
+    max-width: 70%;
+    padding: 0.3em;
+    font: inherit;
+    color: var(--fg);
+    background: var(--bg);
+    border: 1px solid var(--fg);
+}
+form.search button
+{
+    padding: 0.3em 1em;
+    font: inherit;
+    cursor: pointer;
+}
+form.search + p
+{
+    padding-top: 2ex;
+}
+.search-results
+{
+    padding-bottom: 1ex;
+}
+.search-results a
+{
+    text-decoration: none;
+}
+.search-results a:hover
+{
+    text-decoration: underline;
+}
+.search-where
+{
+    font-size: 80%;
+    opacity: 0.8;
+}
+mark
+{
+    color: black;
+    background-color: #ffe066;
+}
 .report-trap
 {
     position: absolute;
