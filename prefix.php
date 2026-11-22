@@ -11,7 +11,9 @@ ob_start(); ?>
 <?php if (empty($page_noindex)) { // the 404 page sets $page_noindex: no canonical, not indexed ?>
 <link rel="canonical" href="https://tirules2.com<?php echo htmlspecialchars(parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '/'); ?>"/>
 <?php } ?>
-<?php if (!empty($page_noindex) || str_ends_with(parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '', '/pudding')) { ?>
+<?php $head_path = parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '';
+// Proof pages (/R_combat/pudding) and source pages (/sources/3) are not indexed
+if (!empty($page_noindex) || str_ends_with($head_path, '/pudding') || str_starts_with($head_path, '/sources/')) { ?>
 <meta name="robots" content="noindex, follow"/>
 <?php } ?>
 <link rel="icon" href="/favicon.png"/>

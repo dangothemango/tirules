@@ -101,6 +101,10 @@ Follow `style.md` for writing style and markup. Highlights:
   format is described at the top of `tools/build_pudding.py`: `@n` is the nth cited note in page
   order (sub-notes included, uncited header `<li>` skipped); lines are `E<src>` explicit,
   `I<src>` implicit, `N` not found.
+- Each source in `sources.php` has a page, `sources/<n>.php` (served at `/sources/<n>`, `noindex`,
+  linked from the home page footer), listing every note it proves. `build_pudding.py` regenerates
+  them all after building proof pages (or run `./tools/build_sources.py`); commit them with the
+  proof pages.
 - When you add a note, add its proof with `./tools/insert_proof.py <page> "<note text>" "<proof line>"`,
   which renumbers the later `@n` blocks. When you remove, merge, split or reorder notes, renumber
   by hand. Then rebuild the proof page and check in `pudding/<page>.php` that each proof sits under

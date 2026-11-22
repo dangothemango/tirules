@@ -23,7 +23,8 @@ def typo(s):
         s = s.replace(k, v)
     return s
 
-def proofs(page):
+def proofs(page, raw=False):
+    """Proofs per note key. raw=True gives (kind, source number, text) tuples instead of <li> markup."""
     out, cur = {}, None
     for line in open(os.path.join(ROOT, "tools", "pudding", page + ".txt"), encoding="utf-8"):
         line = line.strip()
@@ -34,9 +35,7 @@ def proofs(page):
             cur = out.setdefault(key if key.startswith("r") else int(key), [])
             continue
         m = re.match(r"([EIN])(\d*)\s+(.*)", line)
-        kind = {"E": "Explicit", "I": "Implicit", "N": "Unverified"}[m.group(1)]
-        sup = f" <sup>{m.group(2)}</sup>" if m.group(2) else ""
-        cur.append(f"<li><b>{kind}</b>:{sup} {typo(m.group(3))}</li>")
+        cur.append(m.groups() if raw else proof_li(*m.groups()))
     return out
 
 def page_title(h1):
@@ -49,7 +48,14 @@ def page_title(h1):
         t = t.replace(ch, ent)
     return t
 
-def build(page):
+def proof_li(kind, src, text):
+    kind = {"E": "Explicit", "I": "Implicit", "N": "Unverified"}[kind]
+    sup = f" <sup>{src}</sup>" if src else ""
+    return f"<li><b>{kind}</b>:{sup} {typo(text)}</li>"
+
+def build(page, write=True):
+    """Write the proof page (unless write is False). Returns the page title and a list of
+    (item markup, raw proofs) for each cited Rules Reference item and note, in page order."""
     s = open(os.path.join(ROOT, page + ".php"), encoding="utf-8").read()
     h1 = re.search(r"<h1>(.*?)</h1>", s, re.S).group(1).strip()
     h1 = re.sub(r"<(?!br\s*/?>)[^>]+>", "", h1)  # keep symbols and line breaks, drop other tags
@@ -59,6 +65,8 @@ def build(page):
     pad = re.search(r"(?:&emsp14;|&emsp;|&ensp;|&nbsp;)*$", h1).group(0)
     heading = h1[:len(h1) - len(pad)] + ": Proof" + pad
     pr = proofs(page)
+    raw = proofs(page, raw=True)
+    records = []
     body, n, emitted = [], 0, set()
     # Cited Rules Reference items (outside the note lists), proved as @r0, @r1, ...
     first_note = s.find('<ol class="note">')
@@ -68,6 +76,7 @@ def build(page):
         body.append("\n<h2>Rules Reference</h2>\n    <ul>")
         for k, text in enumerate(rr):
             items = pr.get(f"r{k}", ["<li><b>Unverified</b>: not yet checked.</li>"])
+            records.append((text.strip(), raw.get(f"r{k}", [])))
             body.append("    <li>" + text.strip() + "\n        <ul>\n        " + "\n        ".join(items) + "\n        </ul></li>")
         body.append("    </ul>")
     for m in re.finditer(r'<ol class="note">', s):
@@ -88,6 +97,7 @@ def build(page):
             if "<sup>" not in li.group(1):
                 return li.group(0)  # uncited header: shown as context, no proof, not counted
             items = pr.get(n, ["<li><b>Unverified</b>: not yet checked.</li>"])
+            records.append((re.sub(r"^<li[^>]*>", "", li.group(1)).strip(), raw.get(n, [])))
             n += 1
             return li.group(1) + "\n        <ul>\n        " + "\n        ".join(items) + "\n        </ul></li>"
         block = re.sub(r"(<li[^>]*>.*?)</li>", add, block, flags=re.S)
@@ -95,6 +105,8 @@ def build(page):
     extra = sorted(k for k in pr if isinstance(k, int) and k >= n) + sorted(k for k in pr if isinstance(k, str) and int(k[1:]) >= len(rr))
     if extra:
         sys.exit(f"{page}: proofs for notes {extra} but the page has only {n} notes")
+    if not write:
+        return title, records
     styles = "".join(m + "\n" for m in re.findall(r"<style>.*?</style>", s[:s.find("<header>")], re.S))
     out = (f'<?php include __DIR__ . "/../prefix.php"?>\n{styles}<header><h1>{heading}</h1></header>\n<article>\n'
            f'<p>The source text behind each note on <a href="/{page}">{title}</a>. <b>Explicit</b> sources state the note directly. '
@@ -102,6 +114,11 @@ def build(page):
            + "\n".join(body) + '\n</article>\n<?php include __DIR__ . "/../suffix.php"?>\n')
     open(os.path.join(ROOT, "pudding", page + ".php"), "w", encoding="utf-8").write(out)
     print(f"pudding/{page}.php: {n} notes, {len(rr)} rules items, {len(pr)} with proofs")
+    return title, records
 
-for p in sys.argv[1:]:
-    build(p)
+if __name__ == "__main__":
+    for p in sys.argv[1:]:
+        build(p)
+    # The per-source pages (/sources/<n>) list notes from every page, so rebuild them too
+    import build_sources
+    build_sources.main()
