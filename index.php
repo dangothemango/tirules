@@ -1,7 +1,9 @@
+<?php require __DIR__ . '/redirect_php_urls.php'; ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Twilight Imperium Rule Help</title>
+<meta name="description" content="Rules reference for Twilight Imperium Fourth Edition: the Living Rules Reference with notes and rulings for Prophecy of Kings, the Codices and Thunder&rsquo;s Edge, each with its source."/>
 <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
 <meta content="utf-8" http-equiv="encoding"/>
 <meta name="author" content="BradleyΣ"/>
@@ -10,6 +12,7 @@
 <link rel="canonical" href="https://tirules2.com/"/>
 <link rel="icon" href="favicon.png"/>
 <link rel="stylesheet" type="text/css" href="style.css"/>
+<?php include __DIR__ . '/theme.php'; ?>
 <style>
 .note
 {
@@ -22,21 +25,22 @@
 </style>
 </head>
 <body>
-<header><h1>Twilight Imperium Rules</h1></header>
+<header><h1>Twilight Imperium Rules</h1><?php echo $theme_toggle_button; ?></header>
 <article>
 <p><strong>This is a work in progress.</strong></p>
 <p>This website contains the rules for Fantasy Flight&rsquo;s fourth edition of <i>Twilight Imperium</i>.</p>
 <p>Also available are various notes on those rules, based on rules found in other sections, rulings from Dane Beltrami and/or Fantasy Flight, or community consensus.</p>
 <p>All information on this website is based off of v2.0 of the Living Rules Reference, released November 2020. 
     This includes the <i>Prophecy of Kings</i> expansion. 
-    Notes are included for the Codices, up to and including Codex IV, released June 2025, and preliminary notes are also included for the <i>Thunder&rsquo;s Edge</i> expansion, released October 2025, pending the publication of a new Living Rules Reference.</p>
+    Notes are included for the Codices, up to and including Codex IV, released June 2025, and notes are also included for the <i>Thunder&rsquo;s Edge</i> expansion, released October 2025. Fantasy Flight has not yet published a Living Rules Reference that includes <i>Thunder&rsquo;s Edge</i> (last checked November 2026).</p>
+<p>Key: each note ends with the number of its source, listed at the foot of every page; <sup>*</sup> marks a note with no source. <span class="removed">Red</span> marks a component removed from the game, or replaced by a newer version marked &Omega; (&Omega;(&Omega;) means the &Omega; and &Omega;&Omega; versions are the same). Rule topics marked TE come from <i>Thunder&rsquo;s Edge</i> and have no Living Rules Reference section yet.</p>
 <p>For more on <i>Twilight Imperium</i>, please see its <a href="https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/">page on the Fantasy Flight website.</a></p>
 <p style="font-family:lazax;">&ldquo;For as often as I reference (tirules.com), it's probably better than official&rdquo; - Dane Beltrami, TI4 Lead Designer.</p>
-<h1>Rule Topics</h1>
+<h2 class="section">Rule Topics</h2>
 <style>
 li.te:before
 {
-    content: 'n/a.';
+    content: 'TE';
     counter-increment: item 0;
 }
 </style>
@@ -151,7 +155,7 @@ li.te:before
     <li><a href="/R_wormhole_nexus">Wormhole Nexus</a></li>
     <li><a href="/R_wormholes">Wormholes</a></li>
     </ol>
-<h1>Faction Notes</h1>
+<h2 class="section">Faction Notes</h2>
     <ol class="note">
         <li><a href="/F_arborec">The Arborec</a></li>
         <li><a href="/F_argent">The Argent Flight</a></li>
@@ -184,7 +188,7 @@ li.te:before
         <li><a href="/F_yin">The Yin Brotherhood</a></li>
         <li><a href="/F_yssaril">The Yssaril Tribes</a></li>
     </ol>
-<h1>Component Notes</h1>
+<h2 class="section">Component Notes</h2>
     <ol class="note">
         <li><a href="/C_action_cards">Action Cards</a></li>
         <li><a href="/C_agendas">Agendas</a></li>
@@ -197,10 +201,13 @@ li.te:before
         <li><a href="/C_technology">Technology</a></li>
         <li><a href="/C_units">Units</a></li>
     </ol>
+<h2 class="section">Twilight&rsquo;s Fall</h2>
+<p>Coming soon.</p>
 </article>
 <footer>
 <p><i>Twilight Imperium</i> &copy; Fantasy Flight Games. Not Affiliated.</p>
 <p>This website is not affiliated with tirules.com. <a href="https://github.com/dangothemango/tirules">Github</a></p>
+<p>This site costs $50+ a month to host. If you find it useful, consider <a href="https://buymeacoffee.com/dangorman">buying me a coffee</a>.</p>
 </footer>
 </body>
 </html>

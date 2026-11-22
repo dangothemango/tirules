@@ -1,0 +1,60 @@
+@0
+E2 RulesPal, "What is Yssaril's Stall Tactics for, and can it be Sabotaged?": "It is a faction ability, not an action card, so Sabotage cannot cancel it."
+@1
+E1 LRR FAQ: "The Yssaril's 'Scheming' ability, however, is triggered each time that action cards are drawn."
+E2 RulesPal, "Does Yssaril's Scheming trigger on cards taken from other players …?": "Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player."
+@2
+N No source found.
+@3
+E6 Community consensus: "Draw 3 instead of 2, discard 1 from the 3 drawn or hand to scheming." The discard may come from the hand.
+@4
+N No source found.
+@5
+E2 RulesPal, "Does Yssaril's Scheming trigger on cards taken from other players …?": "Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player."
+@6
+I2 RulesPal, "Does Public Execution stop the elected player voting in the next agenda phase, and does Yssaril's Crafty save their hand?": "Crafty does beat effects that cap hand size, such as Executive Sanctions." Yssaril is unaffected by Executive Sanctions hand cap.
+@7
+E2 RulesPal, "Does Public Execution … and does Yssaril's Crafty save their hand?": "The discard comes from being elected, not from the hand limit, so Yssaril must discard too."
+E2 RulesPal, "Does Yssaril's Scheming trigger on cards taken from other players …?": "Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player." "Ignoring the hand limit doesn't stop effects that make you discard."
+@8
+N No source found.
+@9
+E1 LRR FAQ: "a promissory note with 'At the start of your turn:' timing may be immediately played if the transaction occurred" in that window.
+@10
+I1 LRR 1.18: "Each ability can be resolved once for each occurrence of that ability's timing event." Spy Net's "start of your turn" timing occurs once per turn.
+@11
+E2 RulesPal, "Does Yssaril's Scheming trigger on cards taken from other players …?": "Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player."
+@12
+N No source found.
+@13
+E2 RulesPal, "After looking at another player's action cards (for example with Mageon Implants), can I tell other players what I saw?": "Yes — nothing in the rules stops you from sharing or trading that information."
+@14
+N No source found.
+@15
+N No source found.
+@16
+I2 RulesPal, "Does Argent's Aerie Hololattice stop ships with Light/Wave Deflector moving through?": "Yes — it says other players can't move through systems with Argent structures, and 'cannot' is absolute; Light/Wave Deflector only covers systems with enemy ships." The same applies to the Y'sia Y'ssrila, which also only ignores systems with other players' ships.
+@17
+N No source found.
+@18
+N No source found.
+@19
+N No source found.
+@20
+N No source found.
+@21
+N No source found.
+@22
+N No source found.
+@23
+N No source found.
+@24
+E2 RulesPal, "Does Yssaril's Scheming trigger on cards taken from other players …?": "Scheming only triggers when you draw action cards from the deck, not when you take or receive them from a player."
+@25
+N No source found.
+@26
+N No source found.
+@27
+N No source found.
+@28
+E6 Community consensus: "What is the timing window for allowing other players to use your faction abilities with the Yssaril breakthrough, Deepgloom Executable? What is the duration of this? A: Whenever that ability would be used, for the duration of that ability."

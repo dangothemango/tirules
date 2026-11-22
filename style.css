@@ -51,15 +51,14 @@ header
     font-weight: normal;
     flex: none;
     font-variant:small-caps;
+    position: relative;
 }
 a
 {
-    color: black;
+    color: var(--fg);
 }
 article
 {
-    column-width: 24em;
-    column-gap: 6em;
     padding: 2em 6em;
     flex: 1 0 auto;
 }
@@ -73,14 +72,12 @@ header h1
 }
 article > h1, article > h2
 {
-    column-span: all;
     margin: 0;
     padding-top: 1ex;
     padding-bottom: 0.2ex;
     font-family: slid, Futura, sans-serif;
     font-size: 250%;
     font-weight: normal;
-    counter-reset: nitem;
 }
 article h2
 {
@@ -88,6 +85,21 @@ article h2
     font-size: 150%;
     font-weight: normal;
     margin: 0;
+}
+/* A-Z jump list at the top of the component pages */
+.jump
+{
+    font-size: 90%;
+    line-height: 1.6;
+}
+.jump a
+{
+    white-space: nowrap;
+}
+/* Home page section headings: h2 for one-h1-per-page, sized like article > h1 */
+article > h2.section
+{
+    font-size: 250%;
 }
 sub
 {
@@ -163,6 +175,14 @@ h2 + p, p + p, li + p
 .note
 {
     list-style-type: none;
+    counter-reset: nitem;
+}
+/* Each list is its own column container. Columns used to be on <article> with
+   spanning headings, which Safari mis-balances (text clipped at column bottoms). */
+.note, .lrr, article > ul
+{
+    column-width: 21em;
+    column-gap: 6em;
 }
 .note > li:before
 {
@@ -210,13 +230,6 @@ h2 + p, p + p, li + p
     margin-left: -2em;
     left: 0;
 }
-.ruling
-{
-    background-color: #fffacd;
-    padding: 0.25em 0.5em;
-    box-shadow: inset 4px 0 0 0 #ffa500;
-    display: inline;
-}
 footer
 {
     padding: 5em;
@@ -240,21 +253,75 @@ header, footer
     background-image: url("beta.png");
     background-repeat: repeat;
     background-attachment: fixed;
-    background-position: <?php echo rand(0, 100);?>% <?php echo rand(0, 100);?>%;
+    /* was PHP-generated random offset; style.css is served as a static file so it never ran */
+    background-position: 0% 0%;
     background-size: calc(1196px * 0.05) calc(480px * 0.05);
+}
+/* Dark mode follows the OS setting unless the header toggle sets data-theme;
+   header and footer keep their image backgrounds */
+:root
+{
+    --bg: white;
+    --fg: black;
+    --removed: #b00000;
+    color-scheme: light;
+}
+:root[data-theme="dark"]
+{
+    --bg: #121218;
+    --fg: #e4e4e4;
+    --removed: #ff6b6b;
+    color-scheme: dark;
+}
+@media (prefers-color-scheme: dark)
+{
+    :root:not([data-theme="light"])
+    {
+        --bg: #121218;
+        --fg: #e4e4e4;
+        --removed: #ff6b6b;
+        color-scheme: dark;
+    }
+}
+/* Components removed from the game (e.g. base-game agendas dropped by Prophecy of Kings) */
+.removed, .removed a
+{
+    color: var(--removed);
+}
+body
+{
+    background-color: var(--bg);
+    color: var(--fg);
+}
+.theme-toggle
+{
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    padding: 0.2em 0.4em;
+    font-size: 1.25rem;
+    line-height: 1;
+    color: white;
+    background: none;
+    border: 1px solid white;
+    border-radius: 0.3em;
+    cursor: pointer;
 }
 @media screen and (max-width: 600px)
 {
     header
     {
-        padding: 0.4em;
+        /* side padding keeps long titles clear of the theme toggle */
+        padding: 0.4em 2.75rem;
         font-size: 320%;
     }
     article
     {
-        column-width: 24em;
-        column-gap: 2.4em;
         padding: 0.8em 2.4em;
+    }
+    .note, .lrr, article > ul
+    {
+        column-gap: 2.4em;
     }
     article > h1, article > h2
     {
@@ -264,6 +331,10 @@ header, footer
     {
         font-size: 120%;
     }
+    article > h2.section
+    {
+        font-size: 200%;
+    }
     .lrr > h2 > li:before
     {
         font-size: 83.33%;
@@ -272,4 +343,13 @@ header, footer
     {
         padding: 2em;
     }
+}
+
+li.ixth
+{
+    font-family: lazax;
+}
+li.ixth:before
+{
+    font-family: helv, Arial, sans-serif;
 }

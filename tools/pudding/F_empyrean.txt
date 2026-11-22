@@ -1,0 +1,106 @@
+@0
+N No source found.
+@1
+N No source found.
+@2
+E2 RulesPal, "When is a deal binding?": "Promises about future actions, and if-then conditions, are non-binding and can be broken."
+@3
+N No source found.
+@4
+I1 LRR 8.15: "Some game effects allow a player to cast additional votes for an outcome." LRR 8.16 bars a player who cannot vote from casting votes.
+@5
+N No source found.
+@6
+N No source found.
+@7
+N No source found.
+@8
+E1 LRR 92.3a: "A player cannot have more commodities than the commodity value printed on their faction sheet."
+E3 Learn to Play: "A player cannot" have more commodities than the value on their faction sheet.
+@9
+N No source found.
+@10
+E4 Designer ruling: "When a player gives you their commodities and triggers Dark Pact, do you gain all the trade goods simultaneously or the Dark Pact TG separately? … A: It is a single gain of commodities and 1 TG simultaneously."
+@11
+E4 Same ruling, asked "(For the purposes of Pillage)": "It is a single gain of commodities and 1 TG simultaneously."
+@12
+N No source found.
+@13
+N No source found.
+@14
+N No source found.
+@15
+I2 RulesPal, "When is a deal binding?": "Promises about future actions, and if-then conditions, are non-binding and can be broken."
+@16
+E6 Community consensus: "If one side is an anomaly, and another player activates the other side, can Aetherstream be used (especially if Nekro is copying it)? A: Only if Empyrean allows it."
+@17
+N No source found.
+@18
+N No source found.
+@19
+E2 RulesPal, "Can a ship repaired by the Empyrean flagship use Sustain Damage again in the same round?": "No — a unit can sustain only once per instance of the timing window."
+E4 Designer ruling: "the same unit could not use its Sustain Damage ability multiple times during the same timing window."
+@20
+N No source found.
+@21
+E2 RulesPal, "Can Direct Hit destroy a mech that uses Sustain Damage?": "A ship repaired by the Empyrean flagship after sustaining can still be Direct Hit, since it did use Sustain Damage."
+@22
+E4 Designer ruling: "The Dynamo's ability can be used multiple times in the same combat round by spending 2 influence, individually, each time."
+E2 RulesPal: "Each repair is paid separately."
+@23
+N No source found.
+@24
+E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
+I6 Community consensus, on Thunder's Edge: "so long as it contains no other planets it meets the requirements."
+@25
+E2 RulesPal, "Can players make transactions with non-neighbors during the agenda phase?": "That doesn't make them neighbors for anything else, as the developer confirmed when asked about Mentak's Pillage."
+E5 Designer ruling (x3n d0g, 01/17/2019): "Simply being in the agenda phase does not confer neighbor status to all players."
+@26
+N No source found.
+@27
+I2 RulesPal, "When does a commander unlock?": "As soon as its condition is met, mid-turn if need be … It is checked only after the current effect fully resolves." The current effect is the movement, so Xuange unlocks only after the movement resolves, after the window to resolve its ability from that movement.
+I2 RulesPal, "Can I unlock the Naalu commander partway through a production and use it for the rest?": "No — production is one step, so the unlock condition is only met after it finishes; use the commander from your next production." The same applies to movement.
+@28
+I2 RulesPal, "Can Saar Floating Factories move and produce in the same action, and how many can share a system?": "A Floating Factory is blockaded, and destroyed, the moment enemy ships arrive without Saar ships."
+I2 RulesPal, "When does a commander unlock?": "It is checked only after the current effect fully resolves." By then the Floating Factory has already been destroyed.
+I6 Community consensus: "Also, if Saar loses their last ship in combat but then gets fighters from the Yin agent, is their Floating Factory blockaded during this time? A: Yes, the floating factory is blockaded and would be destroyed prior to Yin agent being resolved." Blockade destruction happens immediately, before other abilities resolve.
+@29
+E2 RulesPal, "Do abilities that trigger on ships moving into a system … count systems merely passed through?": "No — only the system where movement ends is 'moved into', so the Empyrean commander returns at most one token per move."
+@30
+E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
+I6 Community consensus, on Thunder's Edge: "so long as it contains no other planets it meets the requirements."
+@31
+E6 Community consensus: "Are frontier tokens placed in The Fracture when it enters play? What about when the Empyrean hero is purged? A: … The Empyrean Hero will place frontier tokens into the empty systems of the Fracture if it is in play."
+E2 RulesPal: "the Empyrean hero can later put them on its empty systems."
+@32
+I2 RulesPal, "Can Sabotage cancel another Sabotage or a promissory note?": "Other cancel effects that lack that restriction can still cancel a Sabotage."
+@33
+N No source found.
+@34
+N No source found.
+@35
+N No source found.
+@36
+N No source found.
+@37
+I1 LRR FAQ (for Sabotage): "can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on."
+I2 RulesPal, "When exactly is Sabotage played": "After the player announces the card's choices (target planet, ship or player, rider prediction, retreat destination and so on)."
+I5 Designer ruling: "For sabotage, you would play after the target is chosen."
+@38
+I5 Designer ruling (Dane, Jan 23, 2019), confirming a list of Sabotage timings: "Bribery. Player declares how many TGs to be spent and which side he's voting for. Sabotage is played before he actually enacts it." Dane: "This list is mostly correct with one correction" (the correction concerns Focused Research only).
+@39
+N No source found.
+@40
+N No source found.
+@41
+N No source found.
+@42
+I2 RulesPal, "If my component action card is cancelled by Sabotage …?": "a cancelled card counts as not played, so you still take an action (or pass, if allowed)."
+@43
+I2 RulesPal, "If my component action card is cancelled by Sabotage, have I used my action for the turn?": "If it was the optional extra action from Fleet Logistics, you can just end your turn."
+@44
+E6 Community consensus: "Void Tether (Breakthrough): If the Void Tether token is between two systems that both contain a wormhole, do other players consider those systems adjacent? A: No, RAW the systems are not adjacent via any means."
+@45
+E6 Community consensus: "Does the QUANTUM ENTANGLEMENT neighbors ruling apply i.e. if Empyrean is on one side of the Void Tether token, are they neighbors …? A: Yes, they must be neighbors as Empyrean cannot block themselves with void tether."
+@46
+E6 Community consensus: "Do the void tether tokens remain in play if the Empyrean player is eliminated? A: The Empyrean Breakthrough remains in play and the Void Tethers remain functional."

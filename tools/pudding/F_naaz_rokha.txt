@@ -1,0 +1,85 @@
+@0
+E2 RulesPal, "Does Naaz-Rokha's Distant Suns work with more than one mech on the planet?": "Yes — 'contains 1 of your mechs' means at least one."
+@1
+N No source found.
+@2
+E4 Designer ruling: "For the Naaz-Rokha's Distant Suns ability, do you decide to draw the extra exploration card before you draw the first card, or after? A: Before the initial exploration card is drawn."
+@3
+N No source found.
+@4
+E4 Designer ruling: "Can a player 'gain' a relic by purging fragments if there are no relics left? A: Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
+@5
+E4 Designer ruling: "Can you purge a relic fragment to gain a command token if you have no command tokens in your reinforcements? A: Yes, you can purge the fragment and not gain a command token if there are none in reinforcements."
+@6
+N No source found.
+@7
+E1 LRR 73.2a: "If there are no cards in the relic deck, they do not gain a relic."
+E4 Designer ruling, "Can a player “gain” a relic by purging fragments if there are no relics left?": "Yes you can purge relic fragments and not gain a relic if there are none left in the deck."
+@8
+N No source found.
+@9
+E2 RulesPal, "How does exploration work?": exploring "happens before 'after you gain control' effects like Integrated Economy or Pre-Fab Arcologies."
+@10
+N No source found.
+@11
+N No source found.
+@12
+N No source found.
+@13
+I1 LRR 10.1c and the matching rules for bombardment and space cannon say that effects modifying combat rolls do not affect those rolls.
+@14
+N No source found.
+@15
+N No source found.
+@16
+E2 RulesPal, "Which strategy cards can the Winnu and Naaz-Rokha heroes use, and do players pay for secondaries?": "The Naaz-Rokha hero resolves the secondaries of up to two readied or unchosen cards"
+@17
+N No source found.
+@18
+N No source found.
+@19
+N No source found.
+@20
+N No source found.
+@21
+N No source found.
+@22
+I4 Designer ruling, Naaz-Rokha hero Hesh and Prit with no tokens in reinforcements: "The LRR will be updated to be more general towards taking off sheet if none are in reinforcements." general rule for taking tokens from sheet.
+@23
+N No source found.
+@24
+I6 Community consensus, "Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability …?": "Mech Flips at start of Space Combat in player order timing." The mechs become Z-Grav Eidolon only once space combat starts.
+@25
+E6 Community consensus: "Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability …? A: Mech Flips at start of Space Combat in player order timing."
+@26
+E2 RulesPal, "Is flipping Naaz-Rokha mechs to ships mandatory …?": "Flipping is mandatory, as nothing says 'may', but only for mechs already in the space area when combat starts."
+@27
+I6 Community consensus, "Z-Grav Eidolon (Mech): Is flipping to a Z-Grav Eidolon a (mandatory) activated ability …?": "Mech Flips at start of Space Combat in player order timing." The question concerns Assault Cannon: the flip is an ability resolved in player order at the start of space combat, so the attacker may resolve first.
+@28
+N No source found.
+@29
+N No source found.
+@30
+N No source found.
+@31
+N No source found.
+@32
+N No source found.
+@33
+N No source found.
+@34
+E6 Community consensus, Eidelon Maximum treated as a ship: "Yes, it is a ship in that system."
+@35
+E6 Community consensus: "Eidelon Maximum (Breakthrough Unit): Does the Eidelon Maximum participate in space combat when it is on a planet? A: Yes, it is a ship in that system."
+@36
+E6 Community consensus: "In general, is the Eidelon Maximum treated as a ship when on a planet? Does it block other player's ship movement through the system? Can it count towards ship objectives? Can it blockade space docks? A: Yes, it is a ship in that system."
+@37
+N No source found.
+@38
+N No source found.
+@39
+N No source found.
+@40
+N No source found.
+@41
+E6 Community consensus: "Can additional Eidelons Maximums be placed when the Articles of War law is in play? A: Yes"
