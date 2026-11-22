@@ -123,6 +123,13 @@ Follow `style.md` for writing style and markup. Highlights:
 
 ## Deploying
 
+Hosting: CloudFront distribution `E34WS4EQLQWY1R` (tirules2.com and *.tirules2.com) in front of the
+Elastic Beanstalk environment `tirules-single` (application `tirules`): one t4g.micro (arm64)
+instance with no load balancer, reached at `tirules-single.us-east-1.elasticbeanstalk.com`.
+`.ebextensions/cloudfront-origin-only.config` lets only CloudFront reach it, so test the origin
+through tirules2.com, not directly. Pages send `stale-if-error`, so CloudFront keeps serving cached
+pages while the instance is down or being replaced.
+
 The owner deploys through the agent. Deploy only when asked, and only committed work: commit first
 (per **Committing**), with a clean working tree, and deploy that commit. Use the AWS MCP server.
 Everything is in account 114397092115, `us-east-1`.
@@ -130,12 +137,12 @@ Everything is in account 114397092115, `us-east-1`.
 1. **Bundle.** Build the zip from the commit, not the working tree:
    `git archive HEAD`, extracted to a scratch folder, minus `tools/`, `.github/`, `.claude/`,
    `.gitignore`, `LICENSE`, `*.md` and `router.php`, then zipped from inside that folder so the
-   site files sit at the zip root (`.platform/` included). Name it `tirules2-deploy-<short sha>.zip`.
+   site files sit at the zip root (`.platform/` and `.ebextensions/` included). Name it `tirules2-deploy-<short sha>.zip`.
 2. **Upload** it to bucket `elasticbeanstalk-us-east-1-114397092115` (presigned PUT), with key
    `<epoch ms>-tirules2-deploy-<short sha>.zip`.
 3. **Create the application version** in application `tirules`, labelled
    `app-<next number>-<short sha>` (check the latest label first), with a one-line description.
-4. **Deploy** it: update environment `Tirules-env` to that version label. Wait until the environment
+4. **Deploy** it: update environment `tirules-single` to that version label. Wait until the environment
    is `Ready`, then read its events since the update started. It must be health `Green` and say
    "Environment update completed successfully." If the update failed, report the events and stop.
 5. **Invalidate CloudFront**: create an invalidation of `/*` on distribution `E34WS4EQLQWY1R`, and wait

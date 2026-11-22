@@ -16,8 +16,9 @@ ob_start(function (string $out, int $phase): string {
 // CloudFront keeps a page for 24 hours (s-maxage; the site changes rarely), so readers are
 // answered from a nearby edge location. Browsers keep it for 5 minutes (max-age), then ask
 // CloudFront again. After a deploy, invalidate /* in CloudFront and every reader sees the edit
-// within 5 minutes; without an invalidation it can take up to 24 hours. Pages that set
-// $page_noindex (report form, 404) are not cached.
+// within 5 minutes; without an invalidation it can take up to 24 hours. If the (single) server
+// is down or erroring, CloudFront keeps serving its copy for up to another day (stale-if-error).
+// Pages that set $page_noindex (report form, 404) are not cached.
 if (empty($page_noindex) && in_array($_SERVER['REQUEST_METHOD'] ?? 'GET', ['GET', 'HEAD'], true)) {
-    header('Cache-Control: public, max-age=300, s-maxage=86400');
+    header('Cache-Control: public, max-age=300, s-maxage=86400, stale-if-error=86400');
 }
