@@ -314,59 +314,6 @@ body
     border-radius: 0.3em;
     cursor: pointer;
 }
-/* Lightweight mode toggle, under the dark mode toggle */
-.lightweight-toggle
-{
-    position: absolute;
-    top: 2.6rem;
-    right: 0.5rem;
-    padding: 0.2em 0.4em;
-    font-size: 1.25rem;
-    line-height: 1;
-    color: white;
-    background: none;
-    border: 1px solid white;
-    border-radius: 0.3em;
-    cursor: pointer;
-}
-.lightweight-toggle svg
-{
-    display: block;
-    width: 1em;
-    height: 1em;
-}
-:root[data-mode="lightweight"] .lightweight-toggle
-{
-    color: #000088;
-    background: white;
-}
-/* Lightweight mode: just the rulings. Nothing is hidden except citations and the footer
-   sources; links read as plain text (Related Topics stay links),
-   and removed/struck rules lose their red and strike-through. The home page nav
-   (article.home) keeps its links. */
-:root[data-mode="lightweight"] article sup,
-:root[data-mode="lightweight"] .sources
-{
-    display: none;
-}
-:root[data-mode="lightweight"] article:not(.home) p a,
-:root[data-mode="lightweight"] article:not(.home) ol a,
-:root[data-mode="lightweight"] article:not(.home) h2 a
-{
-    color: inherit;
-    text-decoration: none;
-    pointer-events: none;
-    cursor: text;
-}
-:root[data-mode="lightweight"] .removed,
-:root[data-mode="lightweight"] .removed a
-{
-    color: inherit;
-}
-:root[data-mode="lightweight"] del
-{
-    text-decoration: none;
-}
 /* Bug-shaped "report a problem" link, mirroring the theme toggle on the left */
 .report-button
 {
