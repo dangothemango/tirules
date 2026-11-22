@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_vuilraith">The Vuil&rsquo;raith Cabal</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2 id="devour"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Devour">Devour</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Devour">Devour</a></h2>
     <ol class="note">
     <li>When an opponent&rsquo;s Infantry II is destroyed during combat, the Vuil&rsquo;raith player captures an infantry token, and the opponent rolls for resurrection, placing the destroyed infantry on the Infantry II unit upgrade card if successful.<sup>4</sup>
         <ul>
@@ -13,13 +13,13 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Is a Hel-Titan a valid target for effects on non-structures, and can it produce?&rdquo;: &ldquo;It is a structure as well as a ground force, so the Vuil&rsquo;raith vortex, which needs a non-structure, can&rsquo;t take it.&rdquo; Devour also captures only non-structure units.</li>
         </ul></li>
-    <li>Units destroyed by <a href="/R_space_cannon"><sc>Space Cannon</sc></a> or <a href="/R_bombardment"><sc>Bombardment</sc></a> rolls are not destroyed during combat, and are not captured by <sc>Devour</sc>. Units destroyed by <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> are destroyed during combat, and are captured.<sup>2</sup>
+    <li>Units destroyed by <sc>Space Cannon</sc> or <sc>Bombardment</sc> rolls are not destroyed during combat, and are not captured by <sc>Devour</sc>. Units destroyed by <sc>Anti&ndash;Fighter Barrage</sc> are destroyed during combat, and are captured.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Vuil&rsquo;raith Devour ability capture units destroyed by Space Cannon or Bombardment?&rdquo;: &ldquo;No &mdash; those happen outside space and ground combat, so Devour doesn&rsquo;t see them; Anti-Fighter Barrage is part of combat and counts.&rdquo;</li>
         </ul></li>
     </ol>
 
-<h2 id="amalgamation"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Amalgamation">Amalgamation</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Amalgamation">Amalgamation</a></h2>
     <ol class="note">
     <li>If the Vuil&rsquo;raith player produces multiple units, their <sc>Amalgamation</sc> ability may be applied to each.<sup>2</sup>
         <ul>
@@ -33,7 +33,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What are captured units good for, and how do Amalgamation and Riftmeld use them?&rdquo;: &ldquo;its printed cost still counts toward limits like Integrated Economy&rsquo;s.&rdquo;</li>
         </ul></li>
-    <ol><li>If the Vuil&rsquo;raith player uses the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Integrated_Economy"><i>Integrated Economy</i></a> technology, <sc>Amalgamation</sc> will have no effect on the limit to the units they may build.<sup>2</sup>
+    <ol><li>If the Vuil&rsquo;raith player uses the ability of the <i>Integrated Economy</i> technology, <sc>Amalgamation</sc> will have no effect on the limit to the units they may build.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What are captured units good for, and how do Amalgamation and Riftmeld use them?&rdquo;: &ldquo;its printed cost still counts toward limits like Integrated Economy&rsquo;s.&rdquo;</li>
         </ul></li></ol>
@@ -41,7 +41,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What are captured units good for, and how do Amalgamation and Riftmeld use them?&rdquo;: &ldquo;Each captured unit or token gives one unit, even fighters or infantry.&rdquo;</li>
         </ul></li>
-    <li>If the Vuil&rsquo;raith player has the <a href="/F_naalu">Naalu</a> or <a href="/F_yin">Yin</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, they may spend one resource for one fighter or infantry, but spend a captured unit instead of that resource, then get one additional fighter or infantry for no cost, which will not count toward their production limit.<sup>*</sup>
+    <li>If the Vuil&rsquo;raith player has the <a href="/F_naalu">Naalu</a> or <a href="/F_yin">Yin</a> player&rsquo;s <i>Alliance</i> promissory note, they may spend one resource for one fighter or infantry, but spend a captured unit instead of that resource, then get one additional fighter or infantry for no cost, which will not count toward their production limit.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -55,7 +55,7 @@
         </ul></li>
     </ol>
 
-<h2 id="riftmeld"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Riftmeld">Riftmeld</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Riftmeld">Riftmeld</a></h2>
     <ol class="note">
     <li>The returned captured unit may belong to any player, regardless of whether that player owns the corresponding unit upgrade.<sup>2</sup>
         <ul>
@@ -63,7 +63,7 @@
         </ul></li>
     </ol>
 
-<h2 id="crucible"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Crucible">Crucible</a> <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Crucible">Crucible</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>Each gravity rift will still provide its usual +1 to each ship&rsquo;s move value.<sup>2,4</sup>
         <ul>
@@ -100,7 +100,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Same ruling: &ldquo;the bonus would apply to all ships that can make it to the active system.&rdquo;</li>
         </ul></li></ol>
-    <li>If a player plays both <i>Crucible</i> and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card during the same tactical action, they will still apply +1 to the move value of their ships that move through or out of a gravity rift.<sup>*</sup>
+    <li>If a player plays both <i>Crucible</i> and the <i>Nav Suite</i> action card during the same tactical action, they will still apply +1 to the move value of their ships that move through or out of a gravity rift.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -110,7 +110,7 @@
         </ul></li></ol>
     </ol>
 
-<h2 id="vortex"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Vortex">Vortex</a> <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Vortex">Vortex</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>Vortex</i> cannot be used if there are no units that can be targeted.<sup>4</sup>
         <ul>
@@ -130,14 +130,14 @@
         </ul></li>
     </ol>
 
-<h2 id="dimensional-tear"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> <sub>(Unit)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>A system containing a Dimensional Tear is an anomaly.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Vuil&rsquo;raith ships roll for Cormund&rsquo;s gravity rift if their Dimensional Tear dock is there, and do two tears stack?&rdquo;: &ldquo;it is simply a gravity rift, and counts as an anomaly for objectives.&rdquo;</li>
         </ul></li>
-    <ol><li>This system qualifies for the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History"><i>Make History</i></a> and similar such objectives.<sup>2</sup>
+    <ol><li>This system qualifies for the <i>Make History</i> and similar such objectives.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
         </ul></li></ol>
@@ -154,7 +154,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Vuil&rsquo;raith ships roll for Cormund&rsquo;s gravity rift if their Dimensional Tear dock is there, and do two tears stack?&rdquo;: &ldquo;No roll: a system with more than one rift counts as one gravity rift, and Dimensional Tear says your ships don&rsquo;t roll for that system&rsquo;s rift.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_nekro">Nekro</a> player has copied Dimensional Tear II, systems containing the <a href="/F_nekro">Nekro</a> player&rsquo;s space docks are gravity rifts for the Vuil&rsquo;raith player&rsquo;s ships. The Vuil&rsquo;raith player must roll for removal for each ship that moves out of or through those systems.<sup>*</sup>
+    <li>If the <a href="/F_nekro">Nekro</a> player has copied Dimensional Tear II, systems containing the Nekro player&rsquo;s space docks are gravity rifts for the Vuil&rsquo;raith player&rsquo;s ships. The Vuil&rsquo;raith player must roll for removal for each ship that moves out of or through those systems.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. RulesPal (NOT USED, unconfirmed), &ldquo;Do Nekro-copied Dimensional Tears affect the Vuil&rsquo;raith &hellip;?&rdquo;: &ldquo;Tears only hinder other players&rsquo; units: Vuil&rsquo;raith ignore their own, Nekro ignore Nekro&rsquo;s, but Vuil&rsquo;raith are affected by Nekro tears.&rdquo;</li>
         </ul></li>
@@ -168,14 +168,14 @@
         </ul></li>
     </ol>
 
-<h2 id="the-terror-between"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between">The Terror Between</a> <sub>(Flagship)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between">The Terror Between</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>When <i>The Terror Between</i> is destroyed, it still captures units that were destroyed at the same time.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does the Cabal Flagship capture other units that are destroyed in the same timing window in which it is destroyed? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What does the Vuil&rsquo;raith flagship capture?&rdquo;: &ldquo;the Cabal flagship is destroyed too but still captures everything else destroyed there.&rdquo;</li>
         </ul></li>
-    <ol><li>Using the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of units is done before remaining hits are assigned. As such, if <i>The Terror Between</i> is destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, units destroyed by being assigned hits in the same round of combat, or from the same pool of <a href="/R_space_cannon"><sc>Space Cannon</sc></a> hits, will not be captured.<sup>*</sup>
+    <ol><li>Using the <sc>Sustain Damage</sc> ability of units is done before remaining hits are assigned. As such, if <i>The Terror Between</i> is destroyed by a <i>Direct Hit</i> action card, units destroyed by being assigned hits in the same round of combat, or from the same pool of <sc>Space Cannon</sc> hits, will not be captured.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -185,9 +185,9 @@
         </ul></li>
     </ol>
 
-<h2 id="the-stillness-of-stars"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Stillness%20of%20Stars">The Stillness of Stars</a> <sub>(Agent)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Stillness%20of%20Stars">The Stillness of Stars</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>If a player loses their commodities immediately after replenishing them, most commonly via that player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, the Vuil&rsquo;raith player may still target them. If they do, they still use that player&rsquo;s full commodity value to determine which units may be captured.<sup>4</sup>
+    <li>If a player loses their commodities immediately after replenishing them, most commonly via that player&rsquo;s <i>Trade Agreement</i> promissory note, the Vuil&rsquo;raith player may still target them. If they do, they still use that player&rsquo;s full commodity value to determine which units may be captured.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Vuil&rsquo;raith Cabal use their agent on someone who has their Trade Agreement used to take their commodities? A: Yes, the commodities would not be there but the agent could still be used to capture a ship up to the player&rsquo;s commodity value.&rdquo;</li>
         </ul></li>
@@ -199,11 +199,11 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How do you capture fighters and infantry?&rdquo;: &ldquo;A captured fighter or infantry goes back to its owner&rsquo;s reinforcements &hellip; and the captor places a matching token on their faction sheet instead.&rdquo;</li>
         </ul></li>
-    <li>When the primary ability of the <a href="/R_trade"><i>Trade</i></a> strategy card is resolved, the Vuil&rsquo;raith player must choose if they will use The Stillness of Stars or not after the active player has replenished their commodities, but before players are chosen to perform the secondary ability without spending a command token.<sup>*</sup>
+    <li>When the primary ability of the <i>Trade</i> strategy card is resolved, the Vuil&rsquo;raith player must choose if they will use The Stillness of Stars or not after the active player has replenished their commodities, but before players are chosen to perform the secondary ability without spending a command token.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>When the secondary ability of the <a href="/R_trade"><i>Trade</i></a> strategy card is resolved, the Vuil&rsquo;raith player must choose if they will use The Stillness of Stars or not after the current player has replenished their commodities, but before the next player has decided if they will spend a command token to perform the secondary.<sup>*</sup>
+    <li>When the secondary ability of the <i>Trade</i> strategy card is resolved, the Vuil&rsquo;raith player must choose if they will use The Stillness of Stars or not after the current player has replenished their commodities, but before the next player has decided if they will spend a command token to perform the secondary.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -213,11 +213,11 @@
         </ul></li>
     </ol>
 
-<h2 id="that-which-molds-flesh"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=That%20Which%20Molds%20Flesh">That Which Molds Flesh</a> <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=That%20Which%20Molds%20Flesh">That Which Molds Flesh</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2 id="it-feeds-on-carrion"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=It%20Feeds%20on%20Carrion">It Feeds on Carrion</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Anchor">Dimensional Anchor</a><sub> (Hero)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=It%20Feeds%20on%20Carrion">It Feeds on Carrion</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Anchor">Dimensional Anchor</a><sub> (Hero)</sub></h2>
     <ol class="note">
     <li>Units captured while resolving <i>Dimensional Anchor</i> are not destroyed.<sup>*</sup>
         <ul>
@@ -239,25 +239,25 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 16.3: &ldquo;If a player has more fighters and ground forces in the space area of a system than the total capacity of that player&rsquo;s ships in that system, that player must remove the excess units.&rdquo; LRR 16.4: &ldquo;Fighters and ground forces are not assigned to specific ships, except while they are being transported.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_nekro">Nekro</a> player has used a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> faction technology to copy <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> II, ships in systems containing or adjacent to the <a href="/F_nekro">Nekro</a> player&rsquo;s space docks will also have to roll for capture when resolving <i>Dimensional Anchor</i>. This includes the <a href="/F_nekro">Nekro</a> player&rsquo;s own ships.<sup>*</sup>
+    <li>If the <a href="/F_nekro">Nekro</a> player has used a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> faction technology to copy <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> II, ships in systems containing or adjacent to the Nekro player&rsquo;s space docks will also have to roll for capture when resolving <i>Dimensional Anchor</i>. This includes the Nekro player&rsquo;s own ships.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 
-<h2 id="reanimator"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Reanimator">Reanimator</a> <sub>(Mech)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Reanimator">Reanimator</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>If the Vuil&rsquo;raith player owns the Infantry II unit upgrade technology, and one is destroyed during ground combat on a planet with a Reanimator, the Vuil&rsquo;raith player captures an infantry token, and they roll for resurrection, placing the destroyed infantry on the Infantry II unit upgrade card if successful.<sup>4</sup>
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling, &ldquo;What is the interaction between Infantry 2 and Capture?&rdquo;: &ldquo;What is the interaction between Infantry 2 and Capture? A: Both happen&rdquo; both capture and resurrection apply.</li>
         </ul></li>
-    <li>If the Vuil&rsquo;raith player&rsquo;s infantry on a planet with a Reanimator are destroyed outside of combat, such as with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Plague"><i>Plague</i></a> action card, those infantry will be captured.<sup>*</sup>
+    <li>If the Vuil&rsquo;raith player&rsquo;s infantry on a planet with a Reanimator are destroyed outside of combat, such as with the <i>Plague</i> action card, those infantry will be captured.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 
-<h2 id="alraith-ix-ianovar"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Al%27raith%20Ix%20Ianovar">Al&rsquo;raith Ix Ianovar</a> <sub>(Breakthrough)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Al%27raith%20Ix%20Ianovar">Al&rsquo;raith Ix Ianovar</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Vuil&rsquo;raith player cannot choose to roll for The Fracture when they gain <i>Al&rsquo;raith Ix Ianovar</i>; the breakthrough&rsquo;s ability replaces the roll.<sup>6</sup>
         <ul>

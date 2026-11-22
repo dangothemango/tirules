@@ -62,6 +62,26 @@ the repo owner explicitly asks in the current task.
   Issues must be enabled on the repo. The page is `noindex` and is not in the nav or sitemap.
 - Local dev: `php -S localhost:8000 router.php`.
 
+## Delivery and caching
+
+- `page_headers.php` (required by `prefix.php` and `index.php`) sends `Content-Length`, which
+  CloudFront needs before it will compress a page, and `Cache-Control: public, max-age=300,
+  s-maxage=86400` on every page that doesn't set `$page_noindex`: CloudFront keeps pages for
+  24 hours, browsers for 5 minutes. After deploying a content change, invalidate `/*` in CloudFront
+  so readers see it within 5 minutes; otherwise it can take up to 24 hours.
+  Pages that must never be cached set `$page_noindex` or send their own `Cache-Control`.
+- `.platform/nginx/conf.d/elasticbeanstalk/static_cache.conf` caches `.woff2` and `.png` files and
+  `style.css` for a year as immutable. Never change one of those files in place: give the new file a
+  new name and update what references it. `style.css` is exempt because its link carries
+  `?v=<mtime>`, which the CloudFront cache policy (`UseOriginCacheControlHeaders-QueryStrings`)
+  includes in the cache key.
+- Web fonts are subset WOFF2 files in `fonts/`, built from the masters in `tools/fonts/` by
+  `./tools/build_fonts.sh` (needs `fonttools` and `brotli` locally; nothing to install on the server).
+  The subset has no accented letters. If content needs some, widen the range there and rebuild.
+- `data-src` on Rules Reference items records their sources for editors. `suffix.php` reads it
+  (with the note `<sup>` numbers) to list only the cited sources in the footer, and `prefix.php`
+  strips it from the output.
+
 ## Content and markup conventions
 
 Follow `style.md` for writing style and markup. Highlights:
@@ -107,6 +127,5 @@ Follow `style.md` for writing style and markup. Highlights:
 2. Run `php -l` on any PHP file you edited.
 3. If you touched layout, CSS, or shared includes, load a few pages under
    `php -S localhost:8000 router.php` and confirm they look unchanged.
-4. If you added, renamed, or removed a card heading on a `C_` or `F_` page, run
-   `./tools/heading_ids.py` to update the heading ids and the `C_` page jump lists, then
-   `./tools/build_pudding.py <page>` for each page it changed.
+4. If you changed a page with notes (including its links or headings), run
+   `./tools/build_pudding.py <page>` so its proof page matches.

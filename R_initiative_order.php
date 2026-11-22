@@ -17,14 +17,14 @@
     <li>If there are multiple abilities that players wish to resolve at the same time during the action phase, initiative order will determine the order they are resolved in. See the <a href="/R_abilities">abilities page</a> for more details.<sup>1,2,5</sup></li>
     <li>The initiative order of all strategy cards is:<sup>1,3</sup></li>
     <ol class="roman">
-        <li><a href="/R_leadership">Leadership</a><sup>1,3</sup></li>
-        <li><a href="/R_diplomacy">Diplomacy</a><sup>1,3</sup></li>
-        <li><a href="/R_politics">Politics</a><sup>1,3</sup></li>
-        <li><a href="/R_construction">Construction</a><sup>1,3</sup></li>
-        <li><a href="/R_trade">Trade</a><sup>1,3</sup></li>
-        <li><a href="/R_warfare">Warfare</a><sup>1,3</sup></li>
-        <li><a href="/R_technology_sc">Technology <sub style="font-size: 66.67%; vertical-align: baseline;">(<abbr title="Strategy Card">S.C.</abbr>)</sub></a><sup>1,3</sup></li>
-        <li><a href="/R_imperial">Imperial</a><sup>1,3</sup></li>
+        <li>Leadership<sup>1,3</sup></li>
+        <li>Diplomacy<sup>1,3</sup></li>
+        <li>Politics<sup>1,3</sup></li>
+        <li>Construction<sup>1,3</sup></li>
+        <li>Trade<sup>1,3</sup></li>
+        <li>Warfare<sup>1,3</sup></li>
+        <li>Technology <sub style="font-size: 66.67%; vertical-align: baseline;">(<abbr title="Strategy Card">S.C.</abbr>)</sub><sup>1,3</sup></li>
+        <li>Imperial<sup>1,3</sup></li>
     </ol>
     </ol>
 

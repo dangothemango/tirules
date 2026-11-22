@@ -17,7 +17,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it.&rdquo; A retreat moves ships into an adjacent system that is not the active system.</li>
         </ul></li>
-    <li>Movement bonuses, such as those from the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology or the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Flank%20Speed"><i>Flank Speed</i></a> action card, are added to the move value of 1.<sup>2</sup>
+    <li>Movement bonuses, such as those from the <i>Gravity Drive</i> technology or the <i>Flank Speed</i> action card, are added to the move value of 1.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do nebulae work for movement, and does Gravity Drive help?&rdquo;: &ldquo;A ship leaving a nebula has move 1, and bonuses like Gravity Drive or Flank Speed are then added on top.&rdquo;</li>
         </ul></li>
@@ -31,11 +31,11 @@
         <ul>
         <li><b>Unverified</b>: No source found. Voidborn faction ability.</li>
         </ul></li>
-        <li>The owner of the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic ignores the movement effects of nebulae.<sup>11</sup>
+        <li>The owner of the <i>Circlet of the Void</i> relic ignores the movement effects of nebulae.<sup>11</sup>
         <ul>
         <li><b>Explicit</b>: <sup>11</sup> Codex IV, Circlet of the Void: &ldquo;Your units do not roll for gravity rifts, and you ignore the movement effects of other anomalies.&rdquo;</li>
         </ul></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card allows ships to move through a nebula, and ships moving out of a nebula keep their normal move value.<sup>*</sup>
+        <li>The <i>Nav Suite</i> action card allows ships to move through a nebula, and ships moving out of a nebula keep their normal move value.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. Nav Suite card text.</li>
         </ul></li>

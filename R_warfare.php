@@ -8,7 +8,7 @@
     <ol class="lrr">
     <li>The active player performs a tactical action in any system without placing a command token, even if the system already has their command token in it; that system still counts as being activated.<sup>2,13</sup></li>
     <li>The active player may redistribute their command tokens before and after this tactical action.<sup>2,13</sup></li>
-    <li>After the active player resolves the primary ability of the <i>Warfare</i> strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may spend one command token from their strategy pool to resolve the <a href="/R_production"><sc>Production</sc></a> abilities of units in their home system.<sup>2,13</sup></li>
+    <li>After the active player resolves the primary ability of the <i>Warfare</i> strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may spend one command token from their strategy pool to resolve the <sc>Production</sc> abilities of units in their home system.<sup>2,13</sup></li>
     <ol><li data-src="1,13">The command token is <b>not</b> placed in their home system.</li></ol>
     </ol>
 

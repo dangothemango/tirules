@@ -3,14 +3,14 @@
 <article>
 <p>The source text behind each note on <a href="/F_argent">The Argent Flight</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2 id="zeal"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Zeal">Zeal</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Zeal">Zeal</a></h2>
     <ol class="note">
     <li>The Argent player always votes first, even if they are the speaker.<sup>2,14</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;With Argent Flight&rsquo;s Zeal, what is the voting order?&rdquo;: &ldquo;Argent votes first, even as speaker.&rdquo;</li>
         <li><b>Explicit</b>: <sup>14</sup> Codex II faction summary: &ldquo;You always have to vote first, but you get extra votes.&rdquo;</li>
         </ul></li>
-    <ol><li>When the Argent player is the speaker, effects timed &ldquo;after the speaker votes&rdquo;, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> action card, resolve right after the Argent player votes.<sup>2</sup>
+    <ol><li>When the Argent player is the speaker, effects timed &ldquo;after the speaker votes&rdquo;, such as the <i>Bribery</i> action card, resolve right after the Argent player votes.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;With Argent Flight&rsquo;s Zeal, what is the voting order?&rdquo;: &ldquo;Effects timed &lsquo;after the speaker votes&rsquo;, like Bribery, come right after the Argent vote when Argent is speaker.&rdquo;</li>
         </ul></li></ol>
@@ -24,9 +24,9 @@
         </ul></li>
     </ol>
 
-<h2 id="raid-formation"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation">Raid Formation</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Raid%20Formation">Raid Formation</a></h2>
     <ol class="note">
-    <li>The <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> ability can still be used even if no fighters are present in the system.<sup>1,2,8</sup>
+    <li>The <sc>Anti&ndash;Fighter Barrage</sc> ability can still be used even if no fighters are present in the system.<sup>1,2,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 10.1d: &ldquo;This ability can still be used if no fighters are present.&rdquo;</li>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook p. 16: &ldquo;The &lsquo;Anti-Fighter Barrage&rsquo; step can occur even if a player&rsquo;s opponent has no fighters in the combat.&rdquo;</li>
@@ -40,7 +40,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The chosen ship becomes damaged, it does not use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. As such, effects that trigger when a ship uses its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, cannot be played.<sup>2,4</sup>
+    <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship uses its <sc>Sustain Damage</sc> ability, such as the <i>Direct Hit</i> action card, cannot be played.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can ships damaged by Raid Formation trigger a window for the Direct Hit Action card? A: No, Raid Formation does not cause the ship to use its Sustain Damage ability, it only causes it to become damaged.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Argent Flight&rsquo;s Raid Formation work &hellip;?&rdquo;: &ldquo;It produces no hits and those ships don&rsquo;t use Sustain Damage, so it can&rsquo;t destroy anything and Direct Hit or Non-Euclidean Shielding don&rsquo;t come into it.&rdquo;</li>
@@ -55,43 +55,43 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If the Argent player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be assigned.<sup>2</sup>
+    <li>If the Argent player plays the <i>Waylay</i> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be assigned.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Raid Formation and Waylay interact?&rdquo;: &ldquo;Raid Formation works off the barrage roll without using up the hits. With Waylay, those hits still hit ships and the opponent assigns them normally.&rdquo;</li>
         </ul></li>
-    <ol><li>For example, say the opponent has three fighters and three dreadnoughts, undamaged. The Argent player plays <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a>, and rolls five hits. This allows them to cause two of the dreadnoughts to become damaged. The opponent then has to assign all five hits. The final dreadnought may use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel one of those hits.<sup>2</sup>
+    <ol><li>For example, say the opponent has three fighters and three dreadnoughts, undamaged. The Argent player plays <i>Waylay</i>, and rolls five hits. This allows them to cause two of the dreadnoughts to become damaged. The opponent then has to assign all five hits. The final dreadnought may use its <sc>Sustain Damage</sc> ability to cancel one of those hits.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;the opponent assigns them normally, using Sustain Damage on undamaged ships if they like.&rdquo;</li>
         </ul></li></ol>
-    <li>If the Argent player is in combat with the <a href="/F_nekro">Nekro</a> player, and the <a href="/F_nekro">Nekro</a> player has their mechs participating in the space combat via the effects of <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, those mechs may become damaged by the effect of <sc>Raid Formation</sc>.<sup>*</sup>
+    <li>If the Argent player is in combat with the <a href="/F_nekro">Nekro</a> player, and the Nekro player has their mechs participating in the space combat via the effects of <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, those mechs may become damaged by the effect of <sc>Raid Formation</sc>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 
-<h2 id="strike-wing-ambuscade"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Promissory_Note:~:text=Strike%20Wing%20Ambuscade">Strike Wing Ambuscade</a> <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Promissory_Note:~:text=Strike%20Wing%20Ambuscade">Strike Wing Ambuscade</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2 id="aerie-hololattice"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Technologies:~:text=Aerie%20Hololattice">Aerie Hololattice</a> <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Technologies:~:text=Aerie%20Hololattice">Aerie Hololattice</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>The planet with &ldquo;<a href="/R_production"><sc>Production</sc></a> 1&rdquo; is considered to be on itself for the purposes of producing ground forces.<sup>*</sup>
+    <li>The planet with &ldquo;<sc>Production</sc> 1&rdquo; is considered to be on itself for the purposes of producing ground forces.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A player with the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology cannot move their ships through systems containing the Argent player&rsquo;s structures, if the Argent player owns <i>Aerie Hololattice</i>.<sup>2</sup>
+    <li>A player with the <i>Light/Wave Deflector</i> technology cannot move their ships through systems containing the Argent player&rsquo;s structures, if the Argent player owns <i>Aerie Hololattice</i>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Argent&rsquo;s Aerie Hololattice stop ships with Light/Wave Deflector moving through?&rdquo;: &ldquo;Yes &mdash; it says other players can&rsquo;t move through systems with Argent structures, and &lsquo;cannot&rsquo; is absolute.&rdquo;</li>
         </ul></li>
     </ol>
 
-<h2 id="strike-wing-alpha"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Destroyer:~:text=Strike%20Wing%20Alpha">Strike Wing Alpha</a> <sub>(Unit)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Destroyer:~:text=Strike%20Wing%20Alpha">Strike Wing Alpha</a> <sub>(Unit)</sub></h2>
     <ol class="note">
-    <li>When a Strike Wing Alpha II rolls a 9 or 10 for their <a href="/R_anti_fighter_barrage"><sc>anti&ndash;fighter barrage</sc></a> ability, infantry are destroyed before any hits are canceled.<sup>4</sup>
+    <li>When a Strike Wing Alpha II rolls a 9 or 10 for their <sc>anti&ndash;fighter barrage</sc> ability, infantry are destroyed before any hits are canceled.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Strike Wing Alpha II infantry killing get prevented by Shields Holding/re-roll abilities? A: &hellip; the infantry would be destroyed BEFORE any cancellation of hits.&rdquo;</li>
         </ul></li>
-    <li>Effects that cancel hits, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card, cannot prevent the infantry from being destroyed. If an effect rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.<sup>4</sup>
+    <li>Effects that cancel hits, such as the <i>Shields Holding</i> action card, cannot prevent the infantry from being destroyed. If an effect rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The rolls from Strike Wing Alpha II can be subject to rerolls before the ability is applied, but the infantry would be destroyed BEFORE any cancellation of hits.&rdquo;</li>
         </ul></li>
@@ -101,25 +101,25 @@
         </ul></li>
     </ol>
 
-<h2 id="quetzecoatl"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Flagship:~:text=Quetzecoatl">Quetzecoatl</a> <sub>(Flagship)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Flagship:~:text=Quetzecoatl">Quetzecoatl</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>A player may still use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability of their units against the Argent player&rsquo;s ground forces during the <b>Space Cannon Defense</b> step of an invasion in this system.<sup>*</sup>
+    <li>A player may still use the <sc>Space Cannon</sc> ability of their units against the Argent player&rsquo;s ground forces during the <b>Space Cannon Defense</b> step of an invasion in this system.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 
-<h2 id="trillossa-aun-mirik"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trillossa%20Aun%20Mirik">Trillossa Aun Mirik</a> <sub>(Agent)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trillossa%20Aun%20Mirik">Trillossa Aun Mirik</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2 id="trrakan-aun-zulok"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trrakan%20Aun%20Zulok">Trrakan Aun Zulok</a> <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Trrakan%20Aun%20Zulok">Trrakan Aun Zulok</a> <sub>(Commander)</sub></h2>
     <ol class="note">
-    <li>Ships that gain <a href="/R_bombardment"><sc>Bombardment</sc></a> due to the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Blitz"><i>Blitz</i></a> action card will contribute to the unlock condition.<sup>*</sup>
+    <li>Ships that gain <sc>Bombardment</sc> due to the <i>Blitz</i> action card will contribute to the unlock condition.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Experimental%20Battlestation"><i>Experimental Battlestation</i></a> action card will not contribute.<sup>*</sup>
+    <ol><li>The <i>Experimental Battlestation</i> action card will not contribute.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -129,7 +129,7 @@
         </ul></li>
     </ol>
 
-<h2 id="mirik-aun-sissiri"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Mirik%20Aun%20Sissiri">Mirik Aun Sissiri</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Helix%20Protocol">Helix Protocol</a> <sub>(Hero)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Mirik%20Aun%20Sissiri">Mirik Aun Sissiri</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Leaders:~:text=Helix%20Protocol">Helix Protocol</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Fighters may be moved without being transported.<sup>*</sup>
         <ul>
@@ -151,17 +151,17 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do the Argent and L1Z1X heroes move ships &hellip;?&rdquo;: &ldquo;the Argent hero can move ships into the Wormhole Nexus, which flips to its active side at the end of that action.&rdquo;</li>
         </ul></li>
-    <li>Ships moved with <i>Helix Protocol</i> must still follow the rules for moving into anomalies, such as <a href="/R_supernova">supernovas</a>.<sup>4</sup>
+    <li>Ships moved with <i>Helix Protocol</i> must still follow the rules for moving into anomalies, such as supernovas.<sup>4</sup>
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Unofficially Official FAQ, Anomalies: &ldquo;Any units moving into, through or out of anomalies must follow the same rules for ships moving into, through or out of anomalies.&rdquo; (names Benediction and G&rsquo;hom Sek&rsquo;kus, not Helix Protocol)</li>
         </ul></li>
     </ol>
 
-<h2 id="aerie-sentinel"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Mech:~:text=Aerie%20Sentinel">Aerie Sentinel</a> <sub>(Mech)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Mech:~:text=Aerie%20Sentinel">Aerie Sentinel</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2 id="wing-transfer"><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Breakthrough:~:text=Wing%20Transfer">Wing Transfer</a> <sub>(Breakthrough)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Breakthrough:~:text=Wing%20Transfer">Wing Transfer</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Argent player performs a tactical action as normal to trigger <i>Wing Transfer</i>. They cannot move ships with <i>Wing Transfer</i> into a board state that will not be resolved, such as a system that contains other players&rsquo; ships.<sup>6</sup>
         <ul>

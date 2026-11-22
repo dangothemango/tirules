@@ -27,8 +27,8 @@
     <li data-src="1">Effects that occur &ldquo;when&rdquo; an event happens take priority over effects that occur &ldquo;after&rdquo; an event happens.</li>
     <li data-src="1,2">If an ability uses the word &ldquo;then&rdquo;, a player must resolve the effect that occurs before the word &ldquo;then&rdquo; or they cannot resolve the effect that occurs after the word &ldquo;then&rdquo;.</li>
     <li data-src="1">Each ability can be resolved once for each occurrence of that ability&rsquo;s timing event. For example, if an ability is resolved &ldquo;at the start of combat&rdquo;, it can be resolved at the start of each combat.</li>
-    <li data-src="1,2,5">If there are multiple abilities that players wish to resolve at the same time during the <b><a href="/R_action_phase">action phase</a></b>, each player takes a turn resolving an ability in initiative order, beginning with the active player. This process continues until each player has resolved each ability that they wish to resolve during that window.</li>
-    <li data-src="1,2,5">If there are multiple abilities that players wish to resolve at the same time during the <b>strategy</b> or <b><a href="/R_agenda_phase">agenda phases</a></b>, players take turns resolving abilities starting with the speaker and proceeding clockwise. This process continues until each player has resolved each ability that they wish to resolve during that window.</li>
+    <li data-src="1,2,5">If there are multiple abilities that players wish to resolve at the same time during the <b>action phase</b>, each player takes a turn resolving an ability in initiative order, beginning with the active player. This process continues until each player has resolved each ability that they wish to resolve during that window.</li>
+    <li data-src="1,2,5">If there are multiple abilities that players wish to resolve at the same time during the <b>strategy</b> or <b>agenda phases</b>, players take turns resolving abilities starting with the speaker and proceeding clockwise. This process continues until each player has resolved each ability that they wish to resolve during that window.</li>
     <h2><li>Component&ndash;specific Rules</li></h2>
     <li data-src="1,3">The opening paragraph of each ability found on an action card describes when a player can resolve that card&rsquo;s ability.</li>
     <li data-src="1,3">The opening paragraph of most abilities found on promissory notes describes when a player can resolve that card&rsquo;s ability.</li>
@@ -37,13 +37,13 @@
     <li data-src="1,3">Each faction has faction abilities presented on its faction sheet. Each faction&rsquo;s flagship has one or more unique abilities. Some abilities provide players with perpetual effects.</li>
     <li data-src="1,3,7">Some units have unit abilities. These abilities are named and presented above a unit&rsquo;s attributes on a player&rsquo;s faction sheet or on a unit upgrade card. Each unit ability has unique rules for when a player can resolve that ability. The following abilities are unit abilities:</li>
     <ul>
-        <li data-src="1,3,7"><a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a></li>
-        <li data-src="1,3,7"><a href="/R_bombardment"><sc>Bombardment</sc></a></li>
-        <li data-src="1,7"><a href="/R_deploy"><sc>Deploy</sc></a></li>
-        <li data-src="1,3,7"><a href="/R_planetary_shield"><sc>Planetary Shield</sc></a></li>
-        <li data-src="1,3,7"><a href="/R_production"><sc>Production</sc></a></li>
-        <li data-src="1,3,7"><a href="/R_space_cannon"><sc>Space Cannon</sc></a></li>
-        <li data-src="1,3,7"><a href="/R_sustain_damage"><sc>Sustain Damage</sc></a></li>
+        <li data-src="1,3,7"><sc>Anti&ndash;Fighter Barrage</sc></li>
+        <li data-src="1,3,7"><sc>Bombardment</sc></li>
+        <li data-src="1,7"><sc>Deploy</sc></li>
+        <li data-src="1,3,7"><sc>Planetary Shield</sc></li>
+        <li data-src="1,3,7"><sc>Production</sc></li>
+        <li data-src="1,3,7"><sc>Space Cannon</sc></li>
+        <li data-src="1,3,7"><sc>Sustain Damage</sc></li>
     </ul>
     <li data-src="1">If a unit&rsquo;s ability uses the phrase &ldquo;this system&rdquo; or &ldquo;this planet&rdquo;, the ability is referring to the system or planet that contains that unit.</li>
     </ol>
@@ -53,8 +53,8 @@
     <ol>
         <li>Note that some triggers check their conditions when they trigger, while some check their conditions when they would resolve.</li>
         <ol>
-            <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability is an example of an ability that checks its condition when it triggers; activating a system without a sleeper token will not trigger <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a>, even if a sleeper token is later added during the activation step of that tactical action.<sup>2</sup></li>
-            <li>The <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology is an example of an ability that checks its condition when it would resolve; a player without three or more non&ndash;fighter ships in the system cannot use <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a>, even if they previously had more ships.<sup>2,5</sup></li>
+            <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability is an example of an ability that checks its condition when it triggers; activating a system without a sleeper token will not trigger <sc>Awaken</sc>, even if a sleeper token is later added during the activation step of that tactical action.<sup>2</sup></li>
+            <li>The <i>Assault Cannon</i> technology is an example of an ability that checks its condition when it would resolve; a player without three or more non&ndash;fighter ships in the system cannot use <i>Assault Cannon</i>, even if they previously had more ships.<sup>2,5</sup></li>
         </ol>
     </ol>
     <!-- <li>Once an ability has been resolved, it cannot be undone or withdrawn, even if another player then resolves an ability in response. The player may instead respond by resolving another ability when they next have the opportunity during that timing window.<sup>2</sup></li> -->
@@ -63,10 +63,10 @@
     <li>Each paragraph on a card is a separate ability, and is resolved independently of the others. For example, a promissory note&rsquo;s final paragraph instructing the player to return the card is still resolved, even if an earlier paragraph had no effect.<sup>2</sup></li>
     <!-- <li>&ldquo;At the start of your turn&rdquo; abilities are resolved before the player chooses their action or passes, and so before a system is activated. Such abilities can only be resolved during the action phase, as players do not take turns during other phases.<sup>2</sup></li> -->
     <li>An ability that refers to &ldquo;a player&rdquo; may be used on the player resolving it. Only an ability that refers to &ldquo;another player&rdquo; excludes that player.<sup>2</sup></li>
-    <li>An ability from a single physical object cannot be resolved more than once in one timing window. For example, if a player starts their turn with the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20Iff"><i>Creuss Iff</i></a> promissory note in their hand (having received it on a previous turn) and uses it, they will not be able to use it a second time this turn, if they receive it again as part of a transaction.<sup>1,5</sup></li>
+    <li>An ability from a single physical object cannot be resolved more than once in one timing window. For example, if a player starts their turn with the Creuss player&rsquo;s <i>Creuss Iff</i> promissory note in their hand (having received it on a previous turn) and uses it, they will not be able to use it a second time this turn, if they receive it again as part of a transaction.<sup>1,5</sup></li>
     <ol><li>Each unit on the board is its own separate physical object. For example, two or more of the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a> in a system may use their ability to destroy themselves and other ships, as the ability is linked to the units on the game board, and not the unit upgrade technology card.<sup>2</sup></li></ol>
     <li>An ability that has not finished resolving cannot be triggered again within a timing window that it creates.<sup>7</sup></li>
-    <li>During the action phase, abilities are resolved in the current relative turn order, starting with the active player. For example, if it is currently the <a href="/R_trade"><i>Trade</i></a> (5) player&rsquo;s turn, they will have the option to resolve first, then the <a href="/R_warfare"><i>Warfare</i></a> (6) player, then the <a href="/R_technology_sc"><i>Technology</i></a> (7) player, and so on.<sup>1,2,5</sup></li>
+    <li>During the action phase, abilities are resolved in the current relative turn order, starting with the active player. For example, if it is currently the <i>Trade</i> (5) player&rsquo;s turn, they will have the option to resolve first, then the <i>Warfare</i> (6) player, then the <i>Technology</i> (7) player, and so on.<sup>1,2,5</sup></li>
     <ol>
         <li>If a player has multiple abilities they wish to resolve, they must be resolved one at a time. Between each ability being resolved, each other player will have the opportunity to resolve one ability.<sup>1,2,5</sup></li>
         <li>For example, Alice, the active player, wishes to resolve four abilities during the current timing window. Bob, the next player in order, wishes to resolve one. Cheng, later in the order, wishes to resolve two. The order of resolution would be: Alice &num;1; Bob &num;1; Cheng &num;1; Alice &num;2; Cheng &num;2; Alice &num;3; Alice &num;4.<sup>1</sup></li>
@@ -74,7 +74,7 @@
         <li>A player may decline to resolve an ability during a timing window, but later choose to resolve an ability during that same timing window, but only if another player chooses to resolve an ability after the player declined.<sup>2,5</sup></li>
         <!-- <li>Following on from the above example, had Alice declined to resolve &ldquo;Alice &num;2&rdquo;, she could still resolve &ldquo;Alice &num;3&rdquo;, as Cheng resolved &ldquo;Cheng &num;2&rdquo;, breaking the series of consecutive declinations. However, if Alice had instead declined to resolve &ldquo;Alice &num;3&rdquo;, she would be unable to resolve &ldquo;Alice &num;4&rdquo;, as then each player would have consecutively declined to resolve an ability.<sup>2</sup></li> -->
     </ol>
-    <li>If there are multiple abilities that players wish to resolve at the same time during the <a href="/R_status_phase">status phase</a>, such as two players each using the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> faction technology, they are resolved in initiative order.<sup>2</sup></li>
+    <li>If there are multiple abilities that players wish to resolve at the same time during the status phase, such as two players each using the Creuss player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> faction technology, they are resolved in initiative order.<sup>2</sup></li>
     <li>The secondary abilities of strategy cards are resolved in clockwise order, after the primary ability.<sup>1,2</sup></li>
     <li>A player may resolve &ldquo;at the start of your turn&rdquo; and &ldquo;at the end of your turn&rdquo; abilities on the turn that they pass.<sup>1,4</sup></li>
     <li>Whenever a game effect uses or grants a unit ability, treat it as if a unit were using or having that unit ability.<sup>6,9</sup></li>

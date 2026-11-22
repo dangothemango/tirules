@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A player with the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology may move their ships through asteroid fields.<sup>2</sup>
+    <li>A player with the <i>Antimass Deflectors</i> technology may move their ships through asteroid fields.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which systems count as anomalies?&rdquo;: &ldquo;Antimass Deflectors is the technology that lets ships move in&rdquo; asteroid fields.</li>
         </ul></li>

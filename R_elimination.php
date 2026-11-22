@@ -8,7 +8,7 @@
     <li data-src="1,2">A player is eliminated when they meet <b>all</b> of the following three conditions:</li>
     <ol>
         <li data-src="1,2">The player has no ground forces on the game board.</li>
-        <li data-src="1,2">The player has no unit that has <a href="/R_production"><sc>Production</sc></a>.</li>
+        <li data-src="1,2">The player has no unit that has <sc>Production</sc>.</li>
         <li data-src="1,2">The player does not control any planets.</li>
     </ol>
     <li data-src="1">When a player becomes eliminated, all of the units, command tokens, control tokens, promissory notes, technologies, command sheets, and the faction sheet that matches that player&rsquo;s faction or color are returned to the game box, including those in their reinforcements.</li>
@@ -24,17 +24,17 @@
     <ol>
         <li data-src="1,2,5">If a player becomes eliminated and the <a href="/F_nekro">Nekro</a> Virus&rsquo; assimilator &ldquo;X&rdquo; or assimilator &ldquo;Y&rdquo; token is placed on one of their faction technologies, that technology remains in play.</li>
         <li data-src="1,2">If the Ghosts of <a href="/F_creuss">Creuss</a> player becomes eliminated, their wormhole tokens remain on the game board for the remainder of the game.</li>
-        <li data-src="1">If the <a href="/F_naalu">Naalu</a> player becomes eliminated while another player has the <a href="/F_naalu">Naalu</a> player&rsquo;s &ldquo;0&rdquo; token, that token remains with its current player until the end of the status phase, and then it is removed from play.</li>
+        <li data-src="1">If the <a href="/F_naalu">Naalu</a> player becomes eliminated while another player has the Naalu player&rsquo;s &ldquo;0&rdquo; token, that token remains with its current player until the end of the status phase, and then it is removed from play.</li>
         <li data-src="1">If the Titans of <a href="/F_ul">Ul</a> player becomes eliminated while their hero or promissory note is attached to a planet, those attachments and attachment tokens remain in play for the remainder of the game.</li>
         <li data-src="1">If the <a href="/F_mahact">Mahact</a> Gene&ndash;Sorcerers become eliminated while they have another player&rsquo;s command tokens on their faction sheet, those command tokens are returned to their respective players&rsquo; reinforcements.</li>
-        <li data-src="1">If the <a href="/F_mahact">Mahact</a> Gene&ndash;Sorcerers have an eliminated player&rsquo;s command token on their faction sheet, that command token remains in play, as does the eliminated player&rsquo;s commander, if it is unlocked.</li>
+        <li data-src="1">If the Mahact Gene&ndash;Sorcerers have an eliminated player&rsquo;s command token on their faction sheet, that command token remains in play, as does the eliminated player&rsquo;s commander, if it is unlocked.</li>
     </ol>
     <li data-src="1">If a player becomes eliminated, any units they have captured are returned to the reinforcements of their original owners.</li>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>A <a href="/R_space_stations">space station</a> is not a planet; controlling one does not prevent a player from being eliminated.<sup>2</sup></li>
+    <li>A space station is not a planet; controlling one does not prevent a player from being eliminated.<sup>2</sup></li>
     <li>An eliminated player&rsquo;s home system remains a home system for game effects.<sup>6</sup></li>
         <ol><li>This includes effects that specify &ldquo;another player&rsquo;s home system&rdquo;.<sup>*</sup></li></ol>
     <li>If an eliminated player had any relic fragments, they are discarded. If an eliminated player had any relics, they are purged.<sup>4</sup></li>

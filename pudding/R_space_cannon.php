@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>&ldquo;<a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a>&rdquo; is not a term with meaning within the rules. It is, however, used within the notes on this website as a shorthand for <sc>Space Cannon</sc> abilities that can be used against ships in an adjacent system.<sup>*</sup>
+    <li>&ldquo;<sc>Deep Space Cannon</sc>&rdquo; is not a term with meaning within the rules. It is, however, used within the notes on this website as a shorthand for <sc>Space Cannon</sc> abilities that can be used against ships in an adjacent system.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. (A note on this site&rsquo;s terminology.)</li>
         </ul></li>
@@ -21,7 +21,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>A player that chooses to use the <sc>Space Cannon</sc> ability of their units may choose whether or not they use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology, if they own it.<sup>2</sup>
+    <ol><li>A player that chooses to use the <sc>Space Cannon</sc> ability of their units may choose whether or not they use the ability of the <i>Plasma Scoring</i> technology, if they own it.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Is Plasma Scoring&rsquo;s extra die optional &hellip;?&rdquo;: &ldquo;It is a &lsquo;may&rsquo;, so you can decline it.&rdquo;</li>
         </ul></li></ol>
@@ -34,12 +34,12 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;During Space Cannon Offense, who can shoot at whom?&rdquo;: &ldquo;The active player fires first and chooses which other player&rsquo;s ships in the active system take the hits.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (x3n d0g, 09/10/2018): &ldquo;You cannot use a PDS to target your own ships.&rdquo;</li>
         </ul></li>
-    <li>A player may use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of a ship in the active system to cancel a hit produced during the <b>Space Cannon Offense</b> step.<sup>1,2</sup>
+    <li>A player may use the <sc>Sustain Damage</sc> ability of a ship in the active system to cancel a hit produced during the <b>Space Cannon Offense</b> step.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 87.4: &ldquo;A unit can use its &lsquo;Sustain Damage&rsquo; ability any time a hit is produced against it. This includes hits produced during combat and from unit abilities such as the &lsquo;Space Cannon&rsquo; ability.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a ship use Sustain Damage against Space Cannon hits?&rdquo;: &ldquo;Yes &mdash; Sustain Damage can cancel any hit produced against the unit, Space Cannon included.&rdquo;</li>
         </ul></li>
-    <li>A player may use the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability of a mech committed to a planet to cancel a hit produced during the <b>Space Cannon Defense</b> step by a unit on that planet.<sup>1</sup>
+    <li>A player may use the <sc>Sustain Damage</sc> ability of a mech committed to a planet to cancel a hit produced during the <b>Space Cannon Defense</b> step by a unit on that planet.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 87.4: Sustain Damage applies to &ldquo;unit abilities such as the &lsquo;Space Cannon&rsquo; ability.&rdquo; LRR 77.8: &ldquo;The active player must choose and destroy one of their ground forces on the planet for each hit.&rdquo;</li>
         </ul></li>

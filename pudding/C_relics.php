@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/C_relics">Relics</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2 id="book-of-latvinia"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Book%20of%20Latvinia">Book of Latvinia</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Book%20of%20Latvinia">Book of Latvinia</a></h2>
     <ol class="note">
     <li>If a player owns all technologies without prerequisites when they draw the <i>Book of Latvinia</i>, they will not research any technologies.<sup>11</sup>
         <ul>
@@ -32,7 +32,7 @@
         </ul></li>
     </ol>
 
-<h2 id="circlet-of-the-void"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void">Circlet of the Void</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void">Circlet of the Void</a></h2>
     <ol class="note">
     <li>The player that owns <i>Circlet of the Void</i> may move through or into supernovae and/or asteroid fields.<sup>11</sup>
         <ul>
@@ -52,7 +52,7 @@
         </ul></li>
     </ol>
 
-<h2 id="the-codex"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Codex">The Codex</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Codex">The Codex</a></h2>
     <ol class="note">
     <li>The action card discard is shuffled to form a new action card deck as soon as the action card deck has zero cards in it.<sup>1</sup>
         <ul>
@@ -64,11 +64,11 @@
         </ul></li>
     </ol>
 
-<h2 id="the-crown-of-emphidia"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Crown%20of%20Emphidia">The Crown of Emphidia</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Crown%20of%20Emphidia">The Crown of Emphidia</a></h2>
     <ol class="note">
     </ol>
 
-<h2 id="the-crown-of-thalnos"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Crown%20of%20Thalnos">The Crown of Thalnos</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Crown%20of%20Thalnos">The Crown of Thalnos</a></h2>
     <ol class="note">
     <li>A player may only reroll combat rolls with <i>The Crown of Thalnos</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.<sup>2,4</sup>
         <ul>
@@ -87,13 +87,13 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;hits aren&rsquo;t assigned until rolling ends; any unit whose reroll fails to hit is destroyed.&rdquo;</li>
         </ul></li>
-    <li>A unit with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability cannot use it to avoid being destroyed when it fails to produce a hit with the reroll from <i>The Crown of Thalnos</i>.<sup>*</sup>
+    <li>A unit with the <sc>Sustain Damage</sc> ability cannot use it to avoid being destroyed when it fails to produce a hit with the reroll from <i>The Crown of Thalnos</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 
-<h2 id="dominus-orb"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Dominus%20Orb">Dominus Orb</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Dominus%20Orb">Dominus Orb</a></h2>
     <ol class="note">
     <li><i>Dominus Orb</i> does not increase the distance units may move; they must still be able to reach the active system.<sup>2</sup>
         <ul>
@@ -101,7 +101,7 @@
         </ul></li>
     </ol>
 
-<h2 id="dynamis-core"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Dynamis%20Core">Dynamis Core</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Dynamis%20Core">Dynamis Core</a></h2>
     <ol class="note">
     <li>If a player uses the purge ability of <i>Dynamis Core</i>, they will need to return commodities if they now exceed their original commodity value.<sup>4</sup>
         <ul>
@@ -109,7 +109,7 @@
         </ul></li>
     </ol>
 
-<h2 id="heart-of-ixth"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Heart%20of%20Ixth">Heart of Ixth</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Heart%20of%20Ixth">Heart of Ixth</a></h2>
     <ol class="note">
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.<sup>1,2</sup>
         <ul>
@@ -118,7 +118,7 @@
         </ul></li>
     </ol>
 
-<h2 id="jrxs455o"><a href="https://twilight-imperium.fandom.com/wiki/Codex_I_-_IV_(Fourth_Edition_Expansion)#Ixthian_Artifacts_2:~:text=JR-XS455-O">JR&ndash;XS455&ndash;O</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Codex_I_-_IV_(Fourth_Edition_Expansion)#Ixthian_Artifacts_2:~:text=JR-XS455-O">JR&ndash;XS455&ndash;O</a></h2>
     <ol class="note">
     <li><i>JR&ndash;XS455&ndash;O</i> is an agent. All rules that apply to agents (and leaders) apply to <i>JR&ndash;XS455&ndash;O</i>.<sup>14</sup>
         <ul>
@@ -136,15 +136,15 @@
     </ol>
     </ol>
 
-<h2 id="lightrail-ordnance"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Lightrail%20Ordnance">Lightrail Ordnance</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Lightrail%20Ordnance">Lightrail Ordnance</a></h2>
     <ol class="note">
-    <li>The space docks may use the <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability during both the <b>Space Cannon Offense</b> and <b>Space Cannon Defense</b> steps.<sup>*</sup>
+    <li>The space docks may use the <sc>Space Cannon</sc> ability during both the <b>Space Cannon Offense</b> and <b>Space Cannon Defense</b> steps.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 
-<h2 id="maw-of-worlds"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Maw%20of%20Worlds">Maw of Worlds</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Maw%20of%20Worlds">Maw of Worlds</a></h2>
     <ol class="note">
     <li>The player does not have to meet the prerequisites of the technologies they acquire using <i>Maw of Worlds</i>.<sup>*</sup>
         <ul>
@@ -156,21 +156,21 @@
         </ul></li>
     </ol>
 
-<h2 id="metali-void-armaments"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Metali%20Void%20Armaments">Metali Void Armaments</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Metali%20Void%20Armaments">Metali Void Armaments</a></h2>
     <ol class="note">
     </ol>
 
-<h2 id="metali-void-shielding"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Metali%20Void%20Shielding">Metali Void Shielding</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=Metali%20Void%20Shielding">Metali Void Shielding</a></h2>
     <ol class="note">
-    <li>The affected ship may be destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card after it uses the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability.<sup>*</sup>
+    <li>The affected ship may be destroyed by the <i>Direct Hit</i> action card after it uses the <sc>Sustain Damage</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A player may play the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Reflective%20Shielding"><i>Reflective Shielding</i></a> action card after it uses the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability via <i>Metali Void Shielding</i>.<sup>*</sup>
+    <li>A player may play the <i>Reflective Shielding</i> action card after it uses the <sc>Sustain Damage</sc> ability via <i>Metali Void Shielding</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player owns <i>Metali Void Shielding</i>, and their opponent plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a> action card, they may use <i>Metali Void Shielding</i> for both the <a href="/R_anti_fighter_barrage"><sc>Anti&ndash;Fighter Barrage</sc></a> and combat rolls in that round of space combat.<sup>*</sup>
+    <li>If a player owns <i>Metali Void Shielding</i>, and their opponent plays the <i>Waylay</i> action card, they may use <i>Metali Void Shielding</i> for both the <sc>Anti&ndash;Fighter Barrage</sc> and combat rolls in that round of space combat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -184,21 +184,21 @@
         </ul></li>
     </ol>
 
-<h2 id="nanoforge"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge">Nano&ndash;Forge</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge">Nano&ndash;Forge</a></h2>
     <ol class="note">
-    <li>The attached planet will be legendary for effects such as scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Make%20History"><i>Make History</i></a> public objective and similar objectives, transferring the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> relic, and the <a href="/F_winnu">Winnu</a> player's commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Rickar%20Rickani">Rickar Rickani</a>. The attached planet also can no longer be chosen by effects that require a non&ndash;legendary planet, such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic.<sup>14</sup>
+    <li>The attached planet will be legendary for effects such as scoring the <i>Make History</i> public objective and similar objectives, transferring the <i>Shard of the Throne</i> relic, and the <a href="/F_winnu">Winnu</a> player's commander, <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Rickar%20Rickani">Rickar Rickani</a>. The attached planet also can no longer be chosen by effects that require a non&ndash;legendary planet, such as the <i>Stellar Converter</i> relic.<sup>14</sup>
         <ul>
         <li><b>Implicit</b>: <sup>14</sup> Codex II: &ldquo;The Nano-Forge allows a planet to become legendary, changing how it interacts with some abilities and objectives.&rdquo;</li>
         </ul></li>
     </ol>
 
-<h2 id="neuraloop"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Neuraloop">Neuraloop</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Neuraloop">Neuraloop</a></h2>
     <ol class="note">
     <li>A player may use <i>Neuraloop</i> to purge <i>Neuraloop</i> itself, resolving its ability.<sup>11</sup>
         <ul>
         <li><b>Implicit</b>: <sup>11</sup> Codex IV, Neuraloop: &ldquo;you may purge one of your relics.&rdquo; Neuraloop is one of the player&rsquo;s relics.</li>
         </ul></li>
-    <li>A player may use <i>Neuraloop</i> to purge <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a>, even if it is attached to a planet, if they control that planet. That planet loses the increase to its resources and influence values, and is no longer legendary.<sup>*</sup>
+    <li>A player may use <i>Neuraloop</i> to purge <i>Nano&ndash;Forge</i>, even if it is attached to a planet, if they control that planet. That planet loses the increase to its resources and influence values, and is no longer legendary.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -206,19 +206,19 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player uses <i>Neuraloop</i> to purge the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a>, that player&rsquo;s units may remain in and move out of any supernovae and/or asteroid fields they are currently in, but cannot move additional units into or through, unless they have another ability that would allow them to do so, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>*</sup>
+    <li>If a player uses <i>Neuraloop</i> to purge the <i>Circlet of the Void</i>, that player&rsquo;s units may remain in and move out of any supernovae and/or asteroid fields they are currently in, but cannot move additional units into or through, unless they have another ability that would allow them to do so, such as the <i>Antimass Deflectors</i> technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player uses <i>Neuraloop</i> to purge the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Dynamis%20Core"><i>Dynamis Core</i></a>, and they have more commodities than their faction&rsquo;s printed commodity value, they return any extras to the supply.<sup>4</sup>
+    <li>If a player uses <i>Neuraloop</i> to purge the <i>Dynamis Core</i>, and they have more commodities than their faction&rsquo;s printed commodity value, they return any extras to the supply.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you have more commodities than your maximum due to purging the Dynamis Core Relic, do you remove commodities to your limit? A: Yes, you discard down.&rdquo;</li>
         </ul></li>
-    <li>If a player uses <i>Neuraloop</i> to purge the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Obsidian"><i>The Obsidian</i></a> relic, that player must discard one unscored secret objective if they have a total of four scored or unscored secret objectives. There is no effect if they have four scored secret objectives.<sup>*</sup>
+    <li>If a player uses <i>Neuraloop</i> to purge the <i>The Obsidian</i> relic, that player must discard one unscored secret objective if they have a total of four scored or unscored secret objectives. There is no effect if they have four scored secret objectives.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If a player uses <i>Neuraloop</i> to purge the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a>, that player loses a victory point.<sup>*</sup>
+    <li>If a player uses <i>Neuraloop</i> to purge the <i>Shard of the Throne</i>, that player loses a victory point.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -248,11 +248,11 @@
         </ul></li></ol>
     </ol>
 
-<h2 id="the-obsidian"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Obsidian">The Obsidian</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Obsidian">The Obsidian</a></h2>
     <ol class="note">
     </ol>
 
-<h2 id="the-prophets-tears"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Prophet%27s%20Tears">The Prophet&rsquo;s Tears</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=The%20Prophet%27s%20Tears">The Prophet&rsquo;s Tears</a></h2>
     <ol class="note">
     <li>A player cannot use the ability of <i>The Prophet&rsquo;s Tears</i> when they directly gain a technology.<sup>*</sup>
         <ul>
@@ -264,11 +264,11 @@
         </ul></li>
     </ol>
 
-<h2 id="the-quantumcore"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Quantumcore">The Quantumcore</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Quantumcore">The Quantumcore</a></h2>
     <ol class="note">
     </ol>
 
-<h2 id="scepter-of-emelpar"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Scepter%20of%20Emelpar">Scepter of Emelpar</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Scepter%20of%20Emelpar">Scepter of Emelpar</a></h2>
     <ol class="note">
     <li>The <i>Scepter of Emelpar</i> may be used whenever a command token would be spent from a player&rsquo;s strategy pool. This includes when spending to perform the secondary ability of a strategy card, for faction abilities, and when scoring objectives.<sup>*</sup>
         <ul>
@@ -278,7 +278,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A command token spent from reinforcements using <i>Scepter of Emelpar</i> instead of from the strategy pool counts toward objectives that require spending command tokens, such as <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Galvanize%20the%20People"><i>Galvanize the People</i></a>.<sup>2</sup>
+    <li>A command token spent from reinforcements using <i>Scepter of Emelpar</i> instead of from the strategy pool counts toward objectives that require spending command tokens, such as <i>Galvanize the People</i>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Scepter of Emelpar help pay spend-token objectives?&rdquo;: &ldquo;Yes &mdash; a token spent from reinforcements through the Scepter in place of a strategy token counts.&rdquo;</li>
         </ul></li>
@@ -288,7 +288,7 @@
         </ul></li>
     </ol>
 
-<h2 id="shard-of-the-throne"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a></h2>
     <ol class="note">
     <li>When the player that owns the <i>Shard of the Throne</i> loses control of a legendary planet or a planet in their home system, they immediately give it to the player who gained control of that planet. No abilities may be resolved before this.<sup>*</sup>
         <ul>
@@ -300,7 +300,7 @@
         </ul></li>
     </ol>
 
-<h2 id="the-silver-flame"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Silver%20Flame">The Silver Flame</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Silver%20Flame">The Silver Flame</a></h2>
     <ol class="note">
     <li>The <a href="/F_saar">Saar</a> player is unaffected by the negative effect of <i>The Silver Flame</i>; if their home system is purged, they may still score public objectives due to their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Nomadic"><sc>Nomadic</sc></a> faction ability.<sup>6,9</sup>
         <ul>
@@ -318,7 +318,7 @@
         </ul></li>
     </ol>
 
-<h2 id="stellar-converter"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter">Stellar Converter</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter">Stellar Converter</a></h2>
     <ol class="note">
     <li>A system that contains a planet destroyed by <i>Stellar Converter</i>, and no other planets, is considered to contain no planets.<sup>2,4,6</sup>
         <ul>
@@ -332,7 +332,7 @@
         </ul></li>
     </ol>
 
-<h2 id="the-triad"><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad">The Triad</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad">The Triad</a></h2>
     <ol class="note">
     <li><i>The Triad</i> is not considered a planet for other game effects.<sup>6</sup>
         <ul>
@@ -343,19 +343,19 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li><i>The Triad</i> cannot be exhausted by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Uprising"><i>Uprising</i></a> action card.<sup>6</sup>
+        <li><i>The Triad</i> cannot be exhausted by the <i>Uprising</i> action card.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;The Triad: Can The Triad be exhausted by Uprising? A: No&rdquo;</li>
         </ul></li>
-        <li><i>The Triad</i> cannot be elected by an &ldquo;elect planet&rdquo; agenda, nor can it be exhausted by agenda effects such as the &ldquo;For&rdquo; effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=New%20Constitution"><i>New Constitution</i></a> agenda.<sup>*</sup>
+        <li><i>The Triad</i> cannot be elected by an &ldquo;elect planet&rdquo; agenda, nor can it be exhausted by agenda effects such as the &ldquo;For&rdquo; effect of the <i>New Constitution</i> agenda.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic or the <a href="/F_ul">Ul</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to <i>The Triad</i>.<sup>6</sup>
+        <li>Attachments such as the <i>Nano&ndash;Forge</i> relic or the <a href="/F_ul">Ul</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to <i>The Triad</i>.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Nano-Forge and/or Terraform be attached to The Triad? A: No&rdquo;</li>
         </ul></li>
-        <li><i>The Triad</i> does not count toward the planets required to score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion:~:text=Push%20Boundaries"><i>Push Boundaries</i></a> public objective, nor the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Establish%20Hegemony"><i>Establish Hegemony</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Hoard%20Raw%20Materials"><i>Hoard Raw Materials</i></a> secret objectives. In addition, it does not count toward any objectives that require a planet in a specific type of system.<sup>6</sup>
+        <li><i>The Triad</i> does not count toward the planets required to score the <i>Push Boundaries</i> public objective, nor the <i>Establish Hegemony</i> or <i>Hoard Raw Materials</i> secret objectives. In addition, it does not count toward any objectives that require a planet in a specific type of system.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Does The Triad count as a planet for scoring objectives? A: No&rdquo;</li>
         </ul></li>
@@ -364,7 +364,7 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li><i>The Triad</i> may be readied by effects that ready planets, such as the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card.<sup>*</sup>
+    <li><i>The Triad</i> may be readied by effects that ready planets, such as the <i>Diplomacy</i> strategy card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -378,11 +378,11 @@
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Voting with Space Stations&rdquo;: &ldquo;can you vote with space stations, oceans, and the triad? &hellip; A: Yeah you can vote with them.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Q: Can you vote using The Triad relic? A: Yes.&rdquo;</li>
         </ul></li>
-    <li>For <i>The Triad</i>, an <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Unknown%20Relic%20Fragment">Unknown Relic Fragment</a> counts as a fourth type of relic fragment, in addition to Hazardous, Cultural, and Industrial.<sup>6</sup>
+    <li>For <i>The Triad</i>, an Unknown Relic Fragment counts as a fourth type of relic fragment, in addition to Hazardous, Cultural, and Industrial.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;The Triad: Does an unknown relic fragment count as a fragment of its own type &hellip;? A: The unknown counts as a 4th type in addition to Hazardous, Cultural and Industrial.&rdquo;</li>
         </ul></li>
-    <li><i>The Triad</i> is not exhausted by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Maw%20of%20Worlds"><i>Maw of Worlds</i></a> relic.<sup>6</sup>
+    <li><i>The Triad</i> is not exhausted by the <i>Maw of Worlds</i> relic.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;The Triad: Is The Triad exhausted by Maw of Worlds? A: No&rdquo;</li>
         </ul></li>

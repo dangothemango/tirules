@@ -3,9 +3,9 @@
 <article>
 <p>The source text behind each note on <a href="/F_creuss">The Ghosts of Creuss</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2 id="quantum-entanglement"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement">Quantum Entanglement</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement">Quantum Entanglement</a></h2>
     <ol class="note">
-    <li>The effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law does not affect the Creuss player.<sup>2</sup>
+    <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the Creuss player.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What exactly does Creuss&rsquo;s Quantum Entanglement connect &hellip;?&rdquo;: &ldquo;no game effect, Enforced Travel Ban included, can stop that.&rdquo;</li>
         </ul></li>
@@ -19,20 +19,20 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;because the &lsquo;neighbor&rsquo; status is active as a result of the ability, the Mentak may use their &lsquo;Pillage&rsquo; in these situations.&rdquo;</li>
         </ul></li></ol>
-    <li>If <a href="/R_mecatol_rex">Mecatol Rex</a> contains an alpha wormhole, then the &ldquo;For&rdquo; effect of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Ixthian%20Artifact"><i>Ixthian Artifact</i></a> agenda will not affect the Creuss player&rsquo;s units in a system with a beta wormhole (and no alpha wormhole), and vice versa.<sup>1,5</sup>
+    <li>If Mecatol Rex contains an alpha wormhole, then the &ldquo;For&rdquo; effect of the <i>Ixthian Artifact</i> agenda will not affect the Creuss player&rsquo;s units in a system with a beta wormhole (and no alpha wormhole), and vice versa.<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If there is an &lsquo;A&rsquo; wormhole on Mecatol Rex when the &lsquo;Ixthian Artifact&rsquo; agenda causes units in adjacent systems to be destroyed, does the Quantum Entanglement ability cause the Ghost of Creuss faction to lose units in a system that contains a &lsquo;B&rsquo; wormhole? A: No. Only the Creuss treats those systems as adjacent.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Sep 11, 2018): &ldquo;The intent is that it would not work that way.&rdquo; Alpha at Mecatol does not affect Creuss ships in a beta system; vice versa by symmetry.</li>
         </ul></li>
-    <li>Other players cannot use <sc>Quantum Entanglement</sc> to produce hits from a unit with the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability against the Creuss player&rsquo;s units.<sup>2</sup>
+    <li>Other players cannot use <sc>Quantum Entanglement</sc> to produce hits from a unit with the <sc>Deep Space Cannon</sc> ability against the Creuss player&rsquo;s units.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What exactly does Creuss&rsquo;s Quantum Entanglement connect &hellip;?&rdquo;: &ldquo;Other players can&rsquo;t fire Space Cannon or move through that connection.&rdquo;</li>
         </ul></li>
     </ol>
 
-<h2 id="slipstream"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream">Slipstream</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Slipstream">Slipstream</a></h2>
     <ol class="note">
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Enforced%20Travel%20Ban"><i>Enforced Travel Ban</i></a> law has no effect on <sc>Slipstream</sc>.<sup>2,5</sup>
+    <li>The <i>Enforced Travel Ban</i> law has no effect on <sc>Slipstream</sc>.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Enforced Travel Ban stop Creuss&rsquo;s Slipstream bonus?&rdquo;: &ldquo;No &mdash; Slipstream only checks for a wormhole in the ship&rsquo;s starting system.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Enforced Travel Ban has no effect on Slipstream.&rdquo;</li>
@@ -43,7 +43,7 @@
         </ul></li>
     </ol>
 
-<h2 id="creuss-gate"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a></h2>
     <ol class="note">
     <li>A frontier token is placed in the Creuss Gate system during setup.<sup>1</sup>
         <ul>
@@ -56,7 +56,7 @@
         </ul></li>
     </ol>
 
-<h2 id="creuss-iff"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF">Creuss IFF</a> <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF">Creuss IFF</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>A player may receive the <i>Creuss IFF</i> in a transaction during their turn. If received at the start of that player&rsquo;s turn, that player may play it immediately.<sup>1,2,5</sup>
         <ul>
@@ -82,13 +82,13 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?&rdquo;: &ldquo;the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players&rsquo; ships. Meeting either is enough&rdquo; An eliminated player&rsquo;s home system is still a home system, so only the planet-control option allows it.</li>
         </ul></li>
-    <li>The <i>Creuss IFF</i> may place wormhole tokens in <a href="/R_fracture">The Fracture</a>.<sup>6</sup>
+    <li>The <i>Creuss IFF</i> may place wormhole tokens in The Fracture.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Wormhole Generator (Technology): Can wormholes be placed in The Fracture? Also applies to placing wormholes with Creuss IFF. A: Yes, wormholes can be placed in the Fracture.&rdquo;</li>
         </ul></li>
     </ol>
 
-<h2 id="dimensional-splicer"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer">Dimensional Splicer</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>Any wormhole may trigger <i>Dimensional Splicer</i>, including the one produced by the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>.<sup>2</sup>
         <ul>
@@ -102,16 +102,16 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When Dimensional Splicer or Yin&rsquo;s Devotion hits my ship, who picks the target &hellip;?&rdquo;: &ldquo;The Creuss or Yin player chooses which of your ships takes the hit.&rdquo;</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2</sup>
+    <li>The <i>Shields Holding</i> action card may be used to cancel the hit.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Shields Holding&rsquo; may be used to cancel hits that are produced by these abilities,&rdquo; including &ldquo;Dimensional Splicer.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?&rdquo;: &ldquo;Yes to both.&rdquo;</li>
         </ul></li>
-    <li>The chosen ship may cancel the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present. A different ship with the <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability cannot do so.<sup>2</sup>
+    <li>The chosen ship may cancel the hit by using its <sc>Sustain Damage</sc> ability, if present. A different ship with the <sc>Sustain Damage</sc> ability cannot do so.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When Dimensional Splicer or Yin&rsquo;s Devotion hits my ship &hellip;?&rdquo;: &ldquo;Only that ship can use its own Sustain Damage to cancel it; you can&rsquo;t move the hit elsewhere.&rdquo;</li>
         </ul></li>
-    <li>If the chosen ship cancels the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be used.<sup>1,2,5</sup>
+    <li>If the chosen ship cancels the hit by using its <sc>Sustain Damage</sc> ability, the <i>Direct Hit</i> action card may be used.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Direct Hit&rsquo; can be used to follow up hits that are assigned by &lsquo;Ambush,&rsquo; &lsquo;Dimensional Splicer,&rsquo; &lsquo;Devotion,&rsquo; and other similar abilities.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Creuss flagship&rsquo;s delta wormhole trigger Dimensional Splicer?&rdquo;: &ldquo;which can set up Direct Hit.&rdquo;</li>
@@ -119,7 +119,7 @@
         </ul></li>
     </ol>
 
-<h2 id="wormhole-generator" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
+<h2 class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator</a> (replaced by &Omega;) <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>This card is replaced by the &Omega; version.<sup>10</sup>
         <ul>
@@ -138,7 +138,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?&rdquo;: &ldquo;the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players&rsquo; ships. Meeting either is enough&rdquo; Wormhole Generator uses the same two placement options as the Creuss IFF, and an eliminated player&rsquo;s home system is still a home system, so only the planet-control option allows it.</li>
         </ul></li>
-    <li>Creuss wormhole tokens may be placed in <a href="/R_fracture">The Fracture</a>.<sup>2,6</sup>
+    <li>Creuss wormhole tokens may be placed in The Fracture.<sup>2,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Wormhole Generator (Technology): Can wormholes be placed in The Fracture? Also applies to placing wormholes with Creuss IFF. A: Yes, wormholes can be placed in the Fracture.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do empty Fracture systems get frontier tokens, and can wormholes go there?&rdquo;: &ldquo;Wormholes can be placed there, since nothing forbids it.&rdquo; wormhole tokens may be placed in Fracture systems.</li>
@@ -153,13 +153,13 @@
         </ul></li>
     </ol>
 
-<h2 id="wormhole-generator-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator &Omega;</a> <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator">Wormhole Generator &Omega;</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li><i>Wormhole Generator &Omega;</i> cannot place wormhole tokens in the home system of an eliminated player, unless the Creuss player controls a planet in that system.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?&rdquo;: &ldquo;the two placement options are alternatives: a system containing a planet you control, or a non-home system with no other players&rsquo; ships. Meeting either is enough&rdquo; Wormhole Generator uses the same two placement options as the Creuss IFF, and an eliminated player&rsquo;s home system is still a home system, so only the planet-control option allows it.</li>
         </ul></li>
-    <li>Creuss wormhole tokens may be placed in <a href="/R_fracture">The Fracture</a>.<sup>2,6</sup>
+    <li>Creuss wormhole tokens may be placed in The Fracture.<sup>2,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Wormhole Generator (Technology): Can wormholes be placed in The Fracture? Also applies to placing wormholes with Creuss IFF. A: Yes, wormholes can be placed in the Fracture.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do empty Fracture systems get frontier tokens, and can wormholes go there?&rdquo;: &ldquo;Wormholes can be placed there, since nothing forbids it.&rdquo; wormhole tokens may be placed in Fracture systems.</li>
@@ -174,7 +174,7 @@
         </ul></li>
     </ol>
 
-<h2 id="hil-colish"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish">Hil Colish</a> <sub>(Flagship)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish">Hil Colish</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>If the <i>Hil Colish</i> moves first, then the Creuss player uses the new position of the <i>Hil Colish</i> when determining if the active system may be reached by their other ships.<sup>2</sup>
         <ul>
@@ -192,7 +192,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If another player uses the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology to move through a system that contains the Creuss player&rsquo;s ships, that player may move through the delta wormhole in the <i>Hil Colish</i>&rsquo;s system.<sup>1,2</sup>
+    <li>If another player uses the <i>Light/Wave Deflector</i> technology to move through a system that contains the Creuss player&rsquo;s ships, that player may move through the delta wormhole in the <i>Hil Colish</i>&rsquo;s system.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Light/Wave Deflector&rsquo; allows a player other than the Ghosts of Creuss to move their fleet through the &lsquo;Hil Colish&rsquo;s&rsquo; system into the Creuss home system or the Creuss Gate system.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can other players use the Creuss Gate and the Creuss flagship&rsquo;s delta wormhole?&rdquo;: &ldquo;enemies need a way to move through it (such as Light/Wave Deflector).&rdquo;</li>
@@ -218,13 +218,13 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to the Hil Colish delta wormhole in the entropic scar? A: &hellip; there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish.&rdquo;</li>
         </ul></li>
-    <li>The delta wormhole of the <i>Hil Colish</i> creates adjacency for the range of <a href="/R_space_cannon"><sc>Space Cannon</sc></a> abilities, such as <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a>.<sup>*</sup>
+    <li>The delta wormhole of the <i>Hil Colish</i> creates adjacency for the range of <sc>Space Cannon</sc> abilities, such as <sc>Deep Space Cannon</sc>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. RulesPal (NOT USED, unconfirmed), &ldquo;Can Space Cannon with range reach through a wormhole?&rdquo;: &ldquo;wormhole adjacency counts for Space Cannon range, including the delta wormhole on the Creuss flagship&rdquo;.</li>
         </ul></li>
     </ol>
 
-<h2 id="emissary-taivra"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a> <sub>(Agent)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>The Creuss player may use this ability to access the inactive wormhole nexus without a gamma wormhole. Moving ships into the wormhole nexus this way will cause it to flip.<sup>2</sup>
         <ul>
@@ -239,7 +239,7 @@
         <li><b>Implicit</b>: <sup>8</sup> PoK rulebook, Emissary Taivra card: &ldquo;that system is adjacent to all other systems that contain wormholes during this tactical action.&rdquo; All systems containing wormholes includes delta and epsilon.</li>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Using Wormholes&rdquo;: &ldquo;The Crimson Rebellion&rsquo;s &lsquo;Sundered&rsquo; ability says &lsquo;You cannot use wormholes other than epsilon wormholes.&rsquo;&rdquo; The ability names epsilon wormholes as a type of wormhole, so they are among the systems that contain wormholes.</li>
         </ul></li>
-    <li>If a ship moves from the system containing the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a>, it will not flip, unless the active player may move ships through the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a> wormhole and chooses to do so.<sup>2</sup>
+    <li>If a ship moves from the system containing the Ion Storm, it will not flip, unless the active player may move ships through the Ion Storm wormhole and chooses to do so.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Ion Storm flip &hellip;?&rdquo;: &ldquo;With several wormhole routes, the moving player chooses which, if any, they use, which decides whether the Ion Storm flips.&rdquo;</li>
         </ul></li>
@@ -253,7 +253,7 @@
         </ul></li></ol>
     </ol>
 
-<h2 id="sai-seravus"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Sai%20Seravus">Sai Seravus</a> <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Sai%20Seravus">Sai Seravus</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The fighters are placed one at a time, until either one has been placed for each ship with capacity that moved through a wormhole, or the capacity of the system is reached.<sup>4</sup>
         <ul>
@@ -293,7 +293,7 @@
         </ul></li>
     </ol>
 
-<h2 id="riftwalker-meian"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Riftwalker%20Meian">Riftwalker Meian</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Singularity%20Reactor">Singularity Reactor</a> <sub>(Hero)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Riftwalker%20Meian">Riftwalker Meian</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Singularity%20Reactor">Singularity Reactor</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>Any units in either system are moved with their system.<sup>2</sup>
         <ul>
@@ -309,7 +309,7 @@
         </ul></li>
     </ol>
 
-<h2 id="icarus-drive"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Mech:~:text=Icarus%20Drive">Icarus Drive</a> <sub>(Mech)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Mech:~:text=Icarus%20Drive">Icarus Drive</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Icarus Drive does not have to be in the activated system.<sup>2</sup>
         <ul>
@@ -321,17 +321,17 @@
         </ul></li>
     </ol>
 
-<h2 id="particle-synthesis"><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Breakthrough:~:text=Particle%20Synthesis">Particle Synthesis</a> <sub>(Breakthrough)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Breakthrough:~:text=Particle%20Synthesis">Particle Synthesis</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
-    <li>Each wormhole in the system provides the <a href="/R_production"><sc>Production</sc></a> value and discount, even those of the same type.<sup>6</sup>
+    <li>Each wormhole in the system provides the <sc>Production</sc> value and discount, even those of the same type.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Do multiple wormholes of the same type count separately for the Creuss breakthrough, Particle Synthesis? &hellip; A: Yes, each wormhole, even wormholes of the same type,&rdquo; provides it.</li>
         </ul></li>
-    <li>If the Creuss player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> into a system, the Creuss player may use the <a href="/R_production"><sc>Production</sc></a> ability of the associated delta wormhole during the production step of the same tactical action.<sup>*</sup>
+    <li>If the Creuss player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> into a system, the Creuss player may use the <sc>Production</sc> ability of the associated delta wormhole during the production step of the same tactical action.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li><a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> applies when producing with a wormhole, as each wormhole has <a href="/R_production"><sc>Production</sc></a> &ldquo;as if it were a unit you control&rdquo;.<sup>*</sup>
+    <li><i>Sarween Tools</i> applies when producing with a wormhole, as each wormhole has <sc>Production</sc> &ldquo;as if it were a unit you control&rdquo;.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Ghosts of Creuss: &ldquo;Yes, Sarween Tools applies anytime the PRODUCTION keyword is present. Because the breakthrough grants PRODUCTION 1, Sarween applies.&rdquo;</li>
         </ul></li>

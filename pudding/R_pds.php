@@ -5,7 +5,7 @@
 
 <h2>Rules Reference</h2>
     <ul>
-    <li>(Thunder&rsquo;s Edge) A player whose only units on a planet are PDS units keeps control of that planet when another player&rsquo;s ground forces <a href="/R_coexistence">coexist</a> there.<sup>9</sup>
+    <li>(Thunder&rsquo;s Edge) A player whose only units on a planet are PDS units keeps control of that planet when another player&rsquo;s ground forces coexist there.<sup>9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and Structures&rdquo;: &ldquo;Structures without ground forces may maintain control of a planet with coexisting ground forces.&rdquo;</li>
         </ul></li>
@@ -19,7 +19,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 63: &ldquo;A PDS (planetary defense system) is a structure that allows a player to defend their territory.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Codex (Omega) Magen Defense Grid still work if the PDS &hellip; has been hit by Disable?&rdquo;: &ldquo;it is still a structure.&rdquo;</li>
         </ul></li>
-    <li>Each PDS also has the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability.<sup>2,3,8</sup>
+    <li>Each PDS also has the <sc>Planetary Shield</sc> ability.<sup>2,3,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook unit card: &ldquo;PLANETARY SHIELD ✦ SPACE CANNON 6 PDS I.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play faction sheet: &ldquo;PLANETARY SHIELD ✦ SPACE CANNON 6 PDS I.&rdquo;</li>

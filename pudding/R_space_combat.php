@@ -5,7 +5,7 @@
 
 <h2>Notes</h2>
     <ol class="note">
-    <li>Abilities that resolve at the start of a space combat, such as the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology and the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, are resolved before the <b>Anti&ndash;Fighter Barrage</b> step.<sup>2,5</sup>
+    <li>Abilities that resolve at the start of a space combat, such as the <i>Assault Cannon</i> technology and the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, are resolved before the <b>Anti&ndash;Fighter Barrage</b> step.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Assault Cannon and Mentak&rsquo;s Ambush happen before Anti-Fighter Barrage, which is its own distinct timing (essentially the first step of combat).&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Mentak&rsquo;s Ambush work?&rdquo;: &ldquo;At the start of space combat, before Anti-Fighter Barrage.&rdquo;</li>
@@ -43,16 +43,16 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where can my ships retreat to?&rdquo;: &ldquo;Movement bonuses don&rsquo;t matter, as a retreat always goes to an adjacent system.&rdquo;</li>
         </ul></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Dark_Energy_Tap"><i>Dark Energy Tap</i></a> technology allows a player to retreat into a system that does not contain their ships or a planet they control.<sup>2,8</sup>
+        <li>The <i>Dark Energy Tap</i> technology allows a player to retreat into a system that does not contain their ships or a planet they control.<sup>2,8</sup>
         <ul>
         <li><b>Explicit</b>: <sup>8</sup> PoK rulebook, Dark Energy Tap: &ldquo;Your ships can retreat into adjacent systems that do not contain other players&rsquo; units, even if you do not have units or control planets in that system.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Where can my ships retreat to?&rdquo;: &ldquo;Dark Energy Tap drops the second requirement.&rdquo;</li>
         </ul></li>
-        <li>Ships can retreat into a <a href="/R_nebula">nebula</a>, as a nebula is intended to no longer need to be the active system for units to move into it.<sup>4</sup>
+        <li>Ships can retreat into a nebula, as a nebula is intended to no longer need to be the active system for units to move into it.<sup>4</sup>
         <ul>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling: &ldquo;Nebula rules will be changed. A Nebula will no longer require being the active system in order to move into it.&rdquo; A retreat moves ships into an adjacent system that is not the active system.</li>
         </ul></li>
-        <li>A player can retreat into an <a href="/R_asteroid_field">asteroid field</a> or <a href="/R_supernova">supernova</a> only if an effect allows their ships to move into it, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology or the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology.<sup>*</sup>
+        <li>A player can retreat into an asteroid field or supernova only if an effect allows their ships to move into it, such as the <i>Antimass Deflectors</i> technology or the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. LRR 78.7 retreat movement combined with the asteroid field and supernova movement rules and the card text.</li>
         </ul></li>
@@ -60,7 +60,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 41.2: &ldquo;For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system.&rdquo; A retreat moves ships out of the active system.</li>
         </ul></li>
-        <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Nav%20Suite"><i>Nav Suite</i></a> action card will not allow a player to ignore an anomaly while retreating, as a retreat does not happen during the <b>Movement</b> step.<sup>*</sup>
+        <li>The <i>Nav Suite</i> action card will not allow a player to ignore an anomaly while retreating, as a retreat does not happen during the <b>Movement</b> step.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -85,7 +85,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to units that can&rsquo;t go with a retreat?&rdquo;: &ldquo;Fighters and ground forces in the space area that the retreating ships can&rsquo;t carry are destroyed, even if a space dock could have supported them.&rdquo; RulesPal says destroyed; LRR 78.7b says removed.</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Jul 18, 2018): &ldquo;They&rsquo;d be destroyed.&rdquo;</li>
         </ul></li>
-        <li>Ground forces transported by retreating ships, or moved with the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Skilled%20Retreat"><i>Skilled Retreat</i></a> action card, cannot land on planets in the system they move to; they remain in the space area.<sup>2</sup>
+        <li>Ground forces transported by retreating ships, or moved with the <i>Skilled Retreat</i> action card, cannot land on planets in the system they move to; they remain in the space area.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can ground forces that retreated with my ships, or moved with Skilled Retreat, land on a planet in the new system?&rdquo;: &ldquo;No &mdash; landing only happens in the invasion step of a tactical action in the active system.&rdquo;</li>
         </ul></li>

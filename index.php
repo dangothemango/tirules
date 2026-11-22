@@ -1,17 +1,16 @@
-<?php require __DIR__ . '/redirect_php_urls.php'; ?>
+<?php require __DIR__ . '/redirect_php_urls.php'; require __DIR__ . '/lite_mode.php'; require __DIR__ . '/page_headers.php'; ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"<?php if ($is_lite) echo ' data-theme="light"'; ?>>
 <head>
+<meta charset="utf-8"/>
 <title>Twilight Imperium Rule Help</title>
 <meta name="description" content="Rules reference for Twilight Imperium Fourth Edition: the Living Rules Reference with notes and rulings for Prophecy of Kings, the Codices and Thunder&rsquo;s Edge, each with its source."/>
-<meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
-<meta content="utf-8" http-equiv="encoding"/>
-<meta name="author" content="BradleyΣ"/>
-<meta name="version" content="v0.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <link rel="canonical" href="https://tirules2.com/"/>
-<link rel="icon" href="favicon.png"/>
+<link rel="icon" href="/favicon.png"/>
 <link rel="stylesheet" type="text/css" href="/style.css?v=<?php echo filemtime(__DIR__ . '/style.css'); ?>"/>
+<link rel="preload" href="/fonts/helv.woff2" as="font" type="font/woff2" crossorigin/>
+<link rel="preload" href="/fonts/slider.woff2" as="font" type="font/woff2" crossorigin/>
 <?php include __DIR__ . '/theme.php'; ?>
 <style>
 .note
@@ -26,14 +25,25 @@
 </head>
 <body>
 <header><h1>Twilight Imperium Rules</h1><?php echo $report_button . $theme_toggle_button; ?></header>
-<article>
+<article class="home">
 <p>This website contains the rules for Fantasy Flight&rsquo;s fourth edition of <i>Twilight Imperium</i>.</p>
 <p>Also available are various notes on those rules, based on rules found in other sections, rulings from Dane Beltrami and/or Fantasy Flight, or community consensus.</p>
 <p>All information on this website is based off of v2.0 of the Living Rules Reference, released November 2020. 
     This includes the <i>Prophecy of Kings</i> expansion. 
     Notes are included for the Codices, up to and including Codex IV, released June 2025, and notes are also included for the <i>Thunder&rsquo;s Edge</i> expansion, released October 2025. Fantasy Flight has not yet published a Living Rules Reference that includes <i>Thunder&rsquo;s Edge</i> (last checked November 2026).</p>
+<?php if (!$is_lite) { // the lite site has no citations or red, so its key only explains TE ?>
 <p>Key: each note ends with the number of its source, listed at the foot of every page; <sup>*</sup> marks a note with no source. <span class="removed">Red</span> marks a component removed from the game, or replaced by a newer version marked &Omega; (&Omega;(&Omega;) means the &Omega; and &Omega;&Omega; versions are the same). Rule topics marked TE come from <i>Thunder&rsquo;s Edge</i> and have no Living Rules Reference section yet.</p>
+<?php } else { ?>
+<p>Rule topics marked TE come from <i>Thunder&rsquo;s Edge</i> and have no Living Rules Reference section yet.</p>
+<?php } ?>
 <p>For more on <i>Twilight Imperium</i>, please see its <a href="https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/">page on the Fantasy Flight website.</a></p>
+<form class="lite-switch" method="post" action="/lite">
+<?php if ($is_lite) { ?>
+<button type="submit" name="lite" value="0">Full site</button> Show citations, sources, links and the red marking of removed components again.
+<?php } else { ?>
+<button type="submit" name="lite" value="1">Lite site</button> Just the rules and notes, without citations, sources, in-text links or red. Your browser remembers the choice.
+<?php } ?>
+</form>
 <p style="font-family:lazax;">&ldquo;For as often as I reference (tirules.com), it's probably better than official&rdquo; - Dane Beltrami, TI4 Lead Designer.</p>
 <h2 class="section">Rule Topics</h2>
 <style>

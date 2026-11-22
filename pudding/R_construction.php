@@ -5,7 +5,7 @@
 
 <h2>Rules Reference</h2>
     <ul>
-    <li>To resolve the primary ability on the <i>Construction</i> strategy card, the active player may either place one structure on a planet they control, or use the <a href="/R_production"><sc>Production</sc></a> ability of one of their space docks. Then, that player may place one structure on a planet they control.<sup>13</sup>
+    <li>To resolve the primary ability on the <i>Construction</i> strategy card, the active player may either place one structure on a planet they control, or use the <sc>Production</sc> ability of one of their space docks. Then, that player may place one structure on a planet they control.<sup>13</sup>
         <ul>
         <li><b>Explicit</b>: <sup>13</sup> Construction (Thunder&rsquo;s Edge), primary: &ldquo;Either place 1 structure on a planet you control, or use the PRODUCTION ability of 1 of your space docks. Place 1 structure on a planet you control.&rdquo;</li>
         </ul></li>
@@ -30,7 +30,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can I build space docks or PDS with Production?&rdquo;: &ldquo;A planet holds at most one space dock and two PDS, Mecatol Rex included.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;Players are limited to two PDS units and one space dock on each planet.&rdquo;</li>
         </ul></li>
-    <li>Structures cannot be placed on the planet with the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Demilitarized%20Zone"><i>Demilitarized Zone</i></a> exploration card attached.<sup>*</sup>
+    <li>Structures cannot be placed on the planet with the <i>Demilitarized Zone</i> exploration card attached.<sup>*</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: on a Demilitarized Zone planet, &ldquo;infantry cannot be placed on the elected planet.&rdquo; Structures are not addressed.</li>
         </ul></li>

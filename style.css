@@ -2,29 +2,34 @@
 @font-face
 {
     font-family: helv;
-    src: url(Helv.otf);
+    src: url(fonts/helv.woff2) format("woff2");
+    font-display: swap;
 }
 @font-face
 {
     font-family: helv;
     font-style: italic;
-    src: url(HelvIt.otf);
+    src: url(fonts/helv-italic.woff2) format("woff2");
+    font-display: swap;
 }
 @font-face
 {
     font-family: helv;
     font-weight: bold;
-    src: url(HelvBd.otf);
+    src: url(fonts/helv-bold.woff2) format("woff2");
+    font-display: swap;
 }
 @font-face
 {
     font-family: slid;
-    src: url(Slider.otf);
+    src: url(fonts/slider.woff2) format("woff2");
+    font-display: swap;
 }
 @font-face
 {
     font-family: lazax;
-    src: url(LazBold.ttf);
+    src: url(fonts/lazax.woff2) format("woff2");
+    font-display: swap;
 }
 
 html, body
@@ -74,7 +79,7 @@ article > h1, article > h2
 {
     margin: 0;
     padding-top: 1ex;
-    padding-bottom: 1.8ex;
+    padding-bottom: 1.25ex;
     font-family: slid, Futura, sans-serif;
     font-size: 250%;
     font-weight: normal;
@@ -86,15 +91,14 @@ article h2
     font-weight: normal;
     margin: 0;
 }
-/* A-Z jump list at the top of the component pages */
-.jump
+/* Card headings link to the wiki; no underline unless hovered */
+article h2 a
 {
-    font-size: 90%;
-    line-height: 1.6;
+    text-decoration: none;
 }
-.jump a
+article h2 a:hover
 {
-    white-space: nowrap;
+    text-decoration: underline;
 }
 /* Home page section headings: h2 for one-h1-per-page, sized like article > h1 */
 article > h2.section
@@ -258,7 +262,7 @@ footer a
 }
 header, footer
 {
-    background-image: url("beta.png");
+    background-image: url("beta_tile.png");
     background-repeat: repeat;
     background-attachment: fixed;
     /* was PHP-generated random offset; style.css is served as a static file so it never ran */
@@ -333,6 +337,14 @@ body
     display: block;
     width: 1em;
     height: 1em;
+}
+/* Home page button that switches to the lite site (lite.tirules2.com) and back */
+form.lite-switch button
+{
+    margin-right: 0.5em;
+    padding: 0.2em 1em;
+    font: inherit;
+    cursor: pointer;
 }
 /* Report form (/report) */
 form.report label

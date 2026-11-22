@@ -17,7 +17,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When do &lsquo;at the start of your turn&rsquo; abilities happen, and do they work in other phases?&rdquo;: &ldquo;They only exist in the action phase: you don&rsquo;t have turns in the strategy, status or agenda phases.&rdquo;</li>
         </ul></li>
-    <li>A player may cast votes with <a href="/R_space_stations">space stations</a>, <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a>, and the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>.<sup>6,9</sup>
+    <li>A player may cast votes with space stations, <i>The Triad</i>, and the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s ocean cards.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Voting with Space Stations&rdquo;: &ldquo;can you vote with space stations, oceans, and the triad? &hellip; A: Yeah you can vote with them.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, Space Stations: &ldquo;Space Stations are used for voting but may not be elected.&rdquo; Relics: &ldquo;Q: Can you vote using The Triad relic? A: Yes.&rdquo;</li>
@@ -37,11 +37,11 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a speaker who can&rsquo;t vote, such as the Nekro Virus or a speaker who played a rider, still break ties?&rdquo;: &ldquo;Yes &mdash; breaking a tie isn&rsquo;t voting, so the speaker always does it.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 8.19: &ldquo;If there is a tie &hellip; the speaker decides which of the tied outcomes to resolve.&rdquo; No exception for a speaker who cannot vote.</li>
         </ul></li>
-    <li>An agenda&rsquo;s outcome affects every player, regardless of how they voted or whether they abstained, unless the agenda states otherwise, such as the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Mutiny"><i>Mutiny</i></a> agenda.<sup>2</sup>
+    <li>An agenda&rsquo;s outcome affects every player, regardless of how they voted or whether they abstained, unless the agenda states otherwise, such as the <i>Mutiny</i> agenda.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does an agenda&rsquo;s outcome affect everyone, or only the players who voted for it?&rdquo;: &ldquo;Everyone, unless the card itself limits the effect to players who voted a certain way, as Mutiny does. Abstaining doesn&rsquo;t exempt you.&rdquo;</li>
         </ul></li>
-    <li>During the agenda phase, if the outcome of an agenda affects multiple players, it does so in speaker order, starting with the <a href="/R_speaker">speaker</a> and proceeding clockwise. If an agenda is resolved during the action phase, such as with the <a href="/F_keleres">Keleres</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Thunder's_Edge_2:~:text=Executive%20Order"><i>Executive Order</i></a> technology, it does so in <a href="/R_initiative_order">initiative order</a>.<sup>2,4</sup>
+    <li>During the agenda phase, if the outcome of an agenda affects multiple players, it does so in speaker order, starting with the speaker and proceeding clockwise. If an agenda is resolved during the action phase, such as with the <a href="/F_keleres">Keleres</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Thunder's_Edge_2:~:text=Executive%20Order"><i>Executive Order</i></a> technology, it does so in initiative order.<sup>2,4</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;In what order are agenda-phase secret objectives scored?&rdquo;: &ldquo;In speaker order, clockwise; it only matters if several players would win from the points, a tie that also goes clockwise from the speaker.&rdquo;</li>
         <li><b>Implicit</b>: <sup>4</sup> Designer ruling (Xxcha hero resolving agendas during the action phase): &ldquo;Initiative order determines the winner. Initiative order is always the lowest initiative player onwards, regardless of who the active player is.&rdquo;</li>
@@ -67,7 +67,7 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR 8.4: &ldquo;Step 3&mdash;Ready Planets: Each player readies each of their exhausted planets.&rdquo; Names only planets.</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Ready Planets: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
         </ul></li>
-    <ol><li>The Deepwrought player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>, <a href="/R_space_stations">space stations</a> and <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a> are also readied at the end of the agenda phase.<sup>3,6,7</sup>
+    <ol><li>The Deepwrought player&rsquo;s ocean cards, space stations and <i>The Triad</i> are also readied at the end of the agenda phase.<sup>3,6,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play p. 21, Agenda Phase, &ldquo;3. READY PLANETS&rdquo;: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, Deepwrought Scholarate: &ldquo;What do Ocean Cards do? A: They are planet cards and can be spent as such.&rdquo;</li>

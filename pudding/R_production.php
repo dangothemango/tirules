@@ -16,7 +16,7 @@
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (kaiteinomen, Sep 28, 2017): &ldquo;you can put both of the Letani warriors on the same planet, if you wish, as long as one of the units that used Production is located there.&rdquo; Only location of producing unit matters for placement.</li>
         <li><b>Explicit</b>: <sup>1</sup> LRR 68.3: &ldquo;When a player produces ground forces, that player must place those unit on planets that contain a unit that used its &lsquo;Production&rsquo; ability.&rdquo;</li>
         </ul></li>
-    <ol><li>For example, say a player is performing a tactical action on tile 75. They have one <a href="/R_space_dock">Space Dock</a> I each on Abaddon and Ashtroth, but not on Loki. They combine their production to place seven infantry. They could place all seven on Abaddon, all seven on Ashtroth, or split them. They cannot place any on Loki.<sup>1,2</sup>
+    <ol><li>For example, say a player is performing a tactical action on tile 75. They have one Space Dock I each on Abaddon and Ashtroth, but not on Loki. They combine their production to place seven infantry. They could place all seven on Abaddon, all seven on Ashtroth, or split them. They cannot place any on Loki.<sup>1,2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> Same entry: &ldquo;split them among those planets however you like.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 68.3: &ldquo;When a player produces ground forces, that player must place those unit on planets that contain a unit that used its &lsquo;Production&rsquo; ability.&rdquo;</li>
@@ -29,7 +29,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;You can&rsquo;t produce ground forces on a planet with another player&rsquo;s ground forces.&rdquo;</li>
         </ul></li>
-    <ol><li>A player whose units are <a href="/R_coexistence">coexisting</a> on a planet can produce ground forces on that planet; those ground forces also coexist.<sup>7,9</sup>
+    <ol><li>A player whose units are coexisting on a planet can produce ground forces on that planet; those ground forces also coexist.<sup>7,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and PRODUCTION&rdquo;: &ldquo;Coexisting units can produce ground forces but are always blockaded and cannot produce ships.&rdquo;</li>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;If the coexisting player places, produces, or moves additional units onto that planet, those units also coexist.&rdquo;</li>

@@ -5,7 +5,7 @@
 
 <h2>Rules Reference</h2>
     <ul>
-    <li>(Thunder&rsquo;s Edge) A player whose only units on a planet are structures, such as a space dock, keeps control of that planet when another player&rsquo;s ground forces <a href="/R_coexistence">coexist</a> there.<sup>9</sup>
+    <li>(Thunder&rsquo;s Edge) A player whose only units on a planet are structures, such as a space dock, keeps control of that planet when another player&rsquo;s ground forces coexist there.<sup>9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and Structures&rdquo;: &ldquo;Structures without ground forces may maintain control of a planet with coexisting ground forces.&rdquo;</li>
         </ul></li>

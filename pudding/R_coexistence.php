@@ -53,12 +53,12 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;During the Invasion step of a tactical action, control is not exchanged until the Establish Control step. At all other times, control is exchanged immediately after the coexisting player becomes the only player with units on the planet.&rdquo;</li>
         </ul></li>
-        <li>During an invasion, if the last of the controlling player&rsquo;s units on a planet are destroyed, such as by <a href="/R_bombardment"><sc>Bombardment</sc></a>, control does not pass to the coexisting player until the <b>Establish Control</b> step. The invading player may land ground forces and gain control of the planet, and the coexisting player remains in coexistence.<sup>6,9</sup>
+        <li>During an invasion, if the last of the controlling player&rsquo;s units on a planet are destroyed, such as by <sc>Bombardment</sc>, control does not pass to the coexisting player until the <b>Establish Control</b> step. The invading player may land ground forces and gain control of the planet, and the coexisting player remains in coexistence.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexist Control Default (During Invasions)&rdquo;: &ldquo;During invasion, control default due to coexistence does not occur until the establish control step. The invading player may land ground forces and take control of the planet.&rdquo;</li>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;During the Invasion step of a tactical action, control is not exchanged until the Establish Control step&rdquo; Does not state that the coexisting player remains.</li>
         </ul></li>
-        <li>A player who enters coexistence on a planet they control when ground forces are committed to it may still use <a href="/R_space_cannon"><sc>Space Cannon</sc></a> against those ground forces during the <b>Space Cannon Defense</b> step. They do not lose control of the planet until the <b>Establish Control</b> step, and if they are then the only player with units on the planet, they are no longer coexisting and retain control.<sup>6</sup>
+        <li>A player who enters coexistence on a planet they control when ground forces are committed to it may still use <sc>Space Cannon</sc> against those ground forces during the <b>Space Cannon Defense</b> step. They do not lose control of the planet until the <b>Establish Control</b> step, and if they are then the only player with units on the planet, they are no longer coexisting and retain control.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;You may fire PDS defense against the active player&rsquo;s committed ground forces after entering coexistence &hellip; you do not lose control of the planet when you enter coexistence until the Establish Control step.&rdquo;</li>
         </ul></li>
@@ -68,7 +68,7 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Control resolves to the player next in initiative order (starting with the Active Player) in the Action Phase and in Speaker order in all other phases.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>All coexisting units are blockaded, regardless of what ships, if any, are in the system. This includes units that are not structures, such as mechs with the <a href="/R_production"><sc>Production</sc></a> ability.<sup>2,6,7,9</sup>
+    <li>All coexisting units are blockaded, regardless of what ships, if any, are in the system. This includes units that are not structures, such as mechs with the <sc>Production</sc> ability.<sup>2,6,7,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;Coexisting structures are always blockaded.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;coexisting units are always blockaded.&rdquo;</li>
@@ -77,20 +77,20 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Are coexisting non-structure units with PRODUCTION blockaded? A: Yes, coexisting units are always blockaded.&rdquo;</li>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and PRODUCTION&rdquo;: &ldquo;Coexisting units can produce ground forces but are always blockaded and cannot produce ships.&rdquo;</li>
         </ul></li>
-    <li>Coexisting units may use their <a href="/R_production"><sc>Production</sc></a> ability to produce ground forces, but cannot produce ships.<sup>9</sup>
+    <li>Coexisting units may use their <sc>Production</sc> ability to produce ground forces, but cannot produce ships.<sup>9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexistence and PRODUCTION&rdquo;: &ldquo;Coexisting units can produce ground forces but are always blockaded and cannot produce ships.&rdquo;</li>
         </ul></li>
-    <li>A unit with <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> on a planet protects all units on that planet, including those of the controlling player and coexisting players. All PDS on a planet, including coexisting PDS, may use <a href="/R_space_cannon"><sc>Space Cannon</sc></a> during the <b>Space Cannon Defense</b> step against ground forces committed by the active player.<sup>6</sup>
+    <li>A unit with <sc>Planetary Shield</sc> on a planet protects all units on that planet, including those of the controlling player and coexisting players. All PDS on a planet, including coexisting PDS, may use <sc>Space Cannon</sc> during the <b>Space Cannon Defense</b> step against ground forces committed by the active player.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Planetary Shield from any units on the planet applies to the planet itself and thus protects all units on the planet. All PDS on a planet may use Space Cannon during Space Cannon Defense against units committed from space by the active player.&rdquo;</li>
         </ul></li>
-    <li>When a player uses the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of 1 of their units against a planet in coexistence, they choose which player&rsquo;s units on that planet will have the hits assigned.<sup>7</sup>
+    <li>When a player uses the <sc>Bombardment</sc> ability of 1 of their units against a planet in coexistence, they choose which player&rsquo;s units on that planet will have the hits assigned.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;When a player makes a bombardment roll against a planet, they choose which of their units with bombardment are bombarding which other player&rsquo;s units, rolling against each player separately.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>If that player has multiple units with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability, they make this choice independently for each unit.<sup>7</sup>
+        <li>If that player has multiple units with the <sc>Bombardment</sc> ability, they make this choice independently for each unit.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;they choose which of their units with bombardment are bombarding which other player&rsquo;s units.&rdquo;</li>
         </ul></li>
@@ -140,7 +140,7 @@
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Coexist and Exploration&rdquo;: &ldquo;You must control a planet outright to explore it.&rdquo;</li>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;You cannot explore a planet owned by another player&rdquo;</li>
         </ul></li>
-    <li>A player cannot spend another player&rsquo;s coexisting units to pay the cost of an exploration card, such as <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Volatile%20Fuel%20Source"><i>Volatile Fuel Source</i></a>.<sup>9</sup>
+    <li>A player cannot spend another player&rsquo;s coexisting units to pay the cost of an exploration card, such as <i>Volatile Fuel Source</i>.<sup>9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Same answer: &ldquo;You cannot spend other player&rsquo;s units to pay for explore cards&rsquo; costs.&rdquo;</li>
         </ul></li>

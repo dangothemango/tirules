@@ -12,7 +12,7 @@
     </ol>
     <li data-src="1,3">Any fighters and ground forces that a ship transports must move with the ship and remain in the space area of a system.</li>
     <li data-src="1,2,3,5">Fighters and ground forces cannot be picked up from a system that contains one of their faction&rsquo;s command tokens other than the active system.</li>
-    <li data-src="1,2,3">A player can land ground forces on a planet in a system during the <b><a href="/R_invasion">Invasion</a></b> step of a tactical action.</li>
+    <li data-src="1,2,3">A player can land ground forces on a planet in a system during the <b>Invasion</b> step of a tactical action.</li>
     </ol>
 
 <h2>Notes</h2>

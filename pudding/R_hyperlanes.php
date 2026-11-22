@@ -25,7 +25,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 6.4: &ldquo;Systems that are connected by lines drawn across one or more hyperlane tiles are adjacent for all purposes.&rdquo;</li>
         </ul></li>
     <ol>
-        <li><a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a>.<sup>1</sup>
+        <li><sc>Deep Space Cannon</sc>.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 6.4: &ldquo;Systems that are connected by lines drawn across one or more hyperlane tiles are adjacent for all purposes.&rdquo;</li>
         </ul></li>

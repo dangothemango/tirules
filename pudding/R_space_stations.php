@@ -71,7 +71,7 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can you vote using the influence from Trade stations? A: Yes, Space Stations are used for voting but may not be elected.&rdquo;</li>
         <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 10: space stations &ldquo;do not count as planets for the purpose voting, objectives, or controlling a home system.&rdquo; Read with sources 6 and 9 as covering election, not casting votes.</li>
         </ul></li>
-    <li>Space stations are not planets, so attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to them.<sup>6</sup>
+    <li>Space stations are not planets, so attachments such as the <i>Nano&ndash;Forge</i> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to them.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Nano-Forge and/or Terraform be attached to a space station? A: No, Space Stations are not planets and can&rsquo;t have attachments.&rdquo;</li>
         </ul></li>

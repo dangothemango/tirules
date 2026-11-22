@@ -19,7 +19,7 @@
         <li><b>Explicit</b>: <sup>13</sup> Warfare (Thunder&rsquo;s Edge), primary: &ldquo;You may redistribute your command tokens before and after this action.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Thunder&rsquo;s Edge Warfare strategy card work?&rdquo;: &ldquo;The primary lets you redistribute your tokens and perform a tactical action without placing a command token.&rdquo;</li>
         </ul></li>
-    <li>After the active player resolves the primary ability of the <i>Warfare</i> strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may spend one command token from their strategy pool to resolve the <a href="/R_production"><sc>Production</sc></a> abilities of units in their home system.<sup>2,13</sup>
+    <li>After the active player resolves the primary ability of the <i>Warfare</i> strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may spend one command token from their strategy pool to resolve the <sc>Production</sc> abilities of units in their home system.<sup>2,13</sup>
         <ul>
         <li><b>Explicit</b>: <sup>13</sup> Warfare (Thunder&rsquo;s Edge), secondary: &ldquo;Spend 1 token from your Strategy Pool to use the PRODUCTION abilities of units in your home system.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Thunder&rsquo;s Edge Warfare strategy card work?&rdquo;: &ldquo;The secondary produces with all your units in your home system.&rdquo;</li>

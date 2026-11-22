@@ -14,7 +14,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>A ship in the wormhole nexus will single&ndash;handedly qualify for the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper"><i>Become the Gatekeeper</i></a> objective.<sup>*</sup>
+    <li>A ship in the wormhole nexus will single&ndash;handedly qualify for the <i>Become the Gatekeeper</i> objective.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

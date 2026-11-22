@@ -18,16 +18,16 @@
     <li>The following are examples of non&ndash;binding deals:<sup>5</sup></li>
     <ol>
         <li>Making a deal to use a promissory note in a specific way, before the promissory note has been transacted.<sup>5</sup></li>
-        <li>Making a deal to not make use of a unit&rsquo;s <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability during a tactical action, before ships have been moved.<sup>2</sup></li>
-        <li>Making a deal to trade commodities in exchange for the active player to replenish another player&rsquo;s commodities during the resolution of the primary ability of the <a href="/R_trade"><i>Trade</i></a> strategic action.<sup>5</sup></li>
+        <li>Making a deal to not make use of a unit&rsquo;s <sc>Space Cannon</sc> ability during a tactical action, before ships have been moved.<sup>2</sup></li>
+        <li>Making a deal to trade commodities in exchange for the active player to replenish another player&rsquo;s commodities during the resolution of the primary ability of the <i>Trade</i> strategic action.<sup>5</sup></li>
         <li>Making a deal for a player to vote on an agenda in a certain way, when it is not yet that player&rsquo;s opportunity to vote.<sup>2</sup></li>
         <li>Any deal that will resolve after dice are rolled.<sup>2</sup></li>
     </ol>
     <li>The following are examples of binding deals:<sup>2,5</sup></li>
     <ol>
         <li>Making a deal to use a promissory note in a specific way, when the player who would resolve it already has that promissory note and can resolve it immediately.<sup>5</sup></li>
-        <li>Making a deal to not make use of a unit&rsquo;s <a href="/R_space_cannon"><sc>Space Cannon</sc></a> ability, at the moment that player decides whether to use it.<sup>2</sup></li>
-        <li>Making a deal to give trade goods to the active player in exchange for the active player choosing that player to replenish their commodities without spending a command token, during the resolution of the primary ability of the <a href="/R_trade"><i>Trade</i></a> strategic action.<sup>5</sup></li>
+        <li>Making a deal to not make use of a unit&rsquo;s <sc>Space Cannon</sc> ability, at the moment that player decides whether to use it.<sup>2</sup></li>
+        <li>Making a deal to give trade goods to the active player in exchange for the active player choosing that player to replenish their commodities without spending a command token, during the resolution of the primary ability of the <i>Trade</i> strategic action.<sup>5</sup></li>
         <li>Making a deal for a player to vote on an agenda in a certain way, when that player is about to cast their votes.<sup>2</sup></li>
     </ol>
     </ol>

@@ -21,7 +21,7 @@
     <li>A legendary planet ability card will ready in the status phase.<sup>1</sup></li>
     <li>An ability that readies a planet cannot be used to ready a legendary planet ability card.<sup>2</sup></li>
     <li>If an effect instructs a player to &ldquo;end your turn&rdquo;, that player may still resolve any &ldquo;at the end of your turn&rdquo; abilities, including those of legendary planets.<sup>4,6</sup></li>
-    <li><a href="/R_mecatol_rex">Mecatol Rex</a> is a legendary planet when the Thunder&rsquo;s Edge Mecatol Rex system tile (tile 112) is used. Its legendary planet ability card is <a href="/C_legendary_planets"><i>The Galactic Council</i></a>.<sup>7</sup></li>
+    <li>Mecatol Rex is a legendary planet when the Thunder&rsquo;s Edge Mecatol Rex system tile (tile 112) is used. Its legendary planet ability card is <a href="/C_legendary_planets"><i>The Galactic Council</i></a>.<sup>7</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

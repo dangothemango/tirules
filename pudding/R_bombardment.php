@@ -5,7 +5,7 @@
 
 <h2>Rules Reference</h2>
     <ul>
-    <li>(Thunder&rsquo;s Edge) If a player makes a bombardment roll against a planet that contains <a href="/R_coexistence">coexisting</a> units, that player chooses which units with <sc>Bombardment</sc> are bombarding which other player&rsquo;s units, and rolls against each player separately.<sup>7</sup>
+    <li>(Thunder&rsquo;s Edge) If a player makes a bombardment roll against a planet that contains coexisting units, that player chooses which units with <sc>Bombardment</sc> are bombarding which other player&rsquo;s units, and rolls against each player separately.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Coexist: &ldquo;Coexisting units can be bombarded. When a player makes a bombardment roll against a planet, they choose which of their units with bombardment are bombarding which other player&rsquo;s units, rolling against each player separately.&rdquo;</li>
         </ul></li>
@@ -37,11 +37,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>Say a player had three dreadnoughts in the active system, and owned the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Plasma_Scoring"><i>Plasma Scoring</i></a> technology. They would be able to roll their choice of zero, three, or four dice when resolving their <sc>Bombardment</sc> ability.<sup>*</sup>
+    <ol><li>Say a player had three dreadnoughts in the active system, and owned the <i>Plasma Scoring</i> technology. They would be able to roll their choice of zero, three, or four dice when resolving their <sc>Bombardment</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>Mechs may use their <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel a hit produced by a bombardment roll.<sup>2</sup>
+    <li>Mechs may use their <sc>Sustain Damage</sc> ability to cancel a hit produced by a bombardment roll.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a ship use Sustain Damage against Space Cannon hits?&rdquo;: &ldquo;Yes &mdash; Sustain Damage can cancel any hit produced against the unit.&rdquo;</li>
         <li><b>Implicit</b>: <sup>1</sup> LRR 87.4: &ldquo;A unit can use its &lsquo;Sustain Damage&rsquo; ability any time a hit is produced against it.&rdquo;</li>

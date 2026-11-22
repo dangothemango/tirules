@@ -19,16 +19,16 @@
     <li>If only one player has units on a planet that was in coexistence, and that player was coexisting, they gain control of that planet.<sup>6,7,9</sup></li>
     <ol>
         <li>Outside of the <b>Invasion</b> step of a tactical action, this happens immediately, such as when the controlling player moves all of their units off that planet.<sup>6</sup></li>
-        <li>During an invasion, if the last of the controlling player&rsquo;s units on a planet are destroyed, such as by <a href="/R_bombardment"><sc>Bombardment</sc></a>, control does not pass to the coexisting player until the <b>Establish Control</b> step. The invading player may land ground forces and gain control of the planet, and the coexisting player remains in coexistence.<sup>6,9</sup></li>
-        <li>A player who enters coexistence on a planet they control when ground forces are committed to it may still use <a href="/R_space_cannon"><sc>Space Cannon</sc></a> against those ground forces during the <b>Space Cannon Defense</b> step. They do not lose control of the planet until the <b>Establish Control</b> step, and if they are then the only player with units on the planet, they are no longer coexisting and retain control.<sup>6</sup></li>
+        <li>During an invasion, if the last of the controlling player&rsquo;s units on a planet are destroyed, such as by <sc>Bombardment</sc>, control does not pass to the coexisting player until the <b>Establish Control</b> step. The invading player may land ground forces and gain control of the planet, and the coexisting player remains in coexistence.<sup>6,9</sup></li>
+        <li>A player who enters coexistence on a planet they control when ground forces are committed to it may still use <sc>Space Cannon</sc> against those ground forces during the <b>Space Cannon Defense</b> step. They do not lose control of the planet until the <b>Establish Control</b> step, and if they are then the only player with units on the planet, they are no longer coexisting and retain control.<sup>6</sup></li>
         <li>If multiple players are coexisting on a planet and the player that controls that planet no longer has units on it, control passes to the next coexisting player in the order used to resolve abilities in the current phase: initiative order during the action phase, otherwise clockwise order.<sup>6,9</sup></li>
     </ol>
-    <li>All coexisting units are blockaded, regardless of what ships, if any, are in the system. This includes units that are not structures, such as mechs with the <a href="/R_production"><sc>Production</sc></a> ability.<sup>2,6,7,9</sup></li>
-    <li>Coexisting units may use their <a href="/R_production"><sc>Production</sc></a> ability to produce ground forces, but cannot produce ships.<sup>9</sup></li>
-    <li>A unit with <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> on a planet protects all units on that planet, including those of the controlling player and coexisting players. All PDS on a planet, including coexisting PDS, may use <a href="/R_space_cannon"><sc>Space Cannon</sc></a> during the <b>Space Cannon Defense</b> step against ground forces committed by the active player.<sup>6</sup></li>
-    <li>When a player uses the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability of 1 of their units against a planet in coexistence, they choose which player&rsquo;s units on that planet will have the hits assigned.<sup>7</sup></li>
+    <li>All coexisting units are blockaded, regardless of what ships, if any, are in the system. This includes units that are not structures, such as mechs with the <sc>Production</sc> ability.<sup>2,6,7,9</sup></li>
+    <li>Coexisting units may use their <sc>Production</sc> ability to produce ground forces, but cannot produce ships.<sup>9</sup></li>
+    <li>A unit with <sc>Planetary Shield</sc> on a planet protects all units on that planet, including those of the controlling player and coexisting players. All PDS on a planet, including coexisting PDS, may use <sc>Space Cannon</sc> during the <b>Space Cannon Defense</b> step against ground forces committed by the active player.<sup>6</sup></li>
+    <li>When a player uses the <sc>Bombardment</sc> ability of 1 of their units against a planet in coexistence, they choose which player&rsquo;s units on that planet will have the hits assigned.<sup>7</sup></li>
     <ol>
-        <li>If that player has multiple units with the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability, they make this choice independently for each unit.<sup>7</sup></li>
+        <li>If that player has multiple units with the <sc>Bombardment</sc> ability, they make this choice independently for each unit.<sup>7</sup></li>
         <li>If that player produces a surplus of hits above the number of units of the player they have chosen, the extra hits cannot be assigned to the units of a different player on that planet.<sup>7</sup></li>
     </ol>
     <li>A player who controls a planet may start a ground combat against a coexisting player during the invasion step of a tactical action.<sup>6,7</sup></li>
@@ -39,7 +39,7 @@
     <li>When scoring an objective, a coexisting player considers both themselves and the controlling player to control that planet. The player that controls the planet does not count a coexisting player as also controlling it.<sup>2,6,7,9</sup></li>
     <ol><li>A player may score public objectives even if they coexist on, but do not control, each planet in their home system.<sup>6,9</sup></li></ol>
     <li>A player must control a planet, not merely coexist on it, to explore it.<sup>6,9</sup></li>
-    <li>A player cannot spend another player&rsquo;s coexisting units to pay the cost of an exploration card, such as <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Hazardous_Exploration_Cards:~:text=Volatile%20Fuel%20Source"><i>Volatile Fuel Source</i></a>.<sup>9</sup></li>
+    <li>A player cannot spend another player&rsquo;s coexisting units to pay the cost of an exploration card, such as <i>Volatile Fuel Source</i>.<sup>9</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

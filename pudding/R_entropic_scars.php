@@ -19,11 +19,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 11, Entropic Scar: &ldquo;All unit abilities ... cannot be used by or against units inside of an entropic scar. Text abilities are unaffected.&rdquo;</li>
         </ul></li>
-        <li>A unit in an entropic scar still has its unit abilities, even though it cannot use them. As such, a text ability that only requires a unit with a unit ability may still be used, such as the <a href="/F_arborec">Arborec</a> player&rsquo;s Dirzuga Rophal commander with a unit that has <a href="/R_production"><sc>Production</sc></a>.<sup>2</sup>
+        <li>A unit in an entropic scar still has its unit abilities, even though it cannot use them. As such, a text ability that only requires a unit with a unit ability may still be used, such as the <a href="/F_arborec">Arborec</a> player&rsquo;s Dirzuga Rophal commander with a unit that has <sc>Production</sc>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Arborec commander work with a Letani in an Entropic Scar?&rdquo;: &ldquo;Yes &mdash; the scar stops unit abilities being used but doesn&rsquo;t remove them, and the commander is a text ability that only needs a unit with Production.&rdquo;</li>
         </ul></li>
-        <li>If a unit loses its <a href="/R_deploy"><sc>Deploy</sc></a> ability, then the text that describes how that unit&rsquo;s <a href="/R_deploy"><sc>Deploy</sc></a> ability is used will have no effect.<sup>*</sup>
+        <li>If a unit loses its <sc>Deploy</sc> ability, then the text that describes how that unit&rsquo;s <sc>Deploy</sc> ability is used will have no effect.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -42,11 +42,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The <a href="/F_creuss">Creuss</a> player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> technology to place or move one of their wormhole tokens into an entropic scar; that token is discarded.<sup>6</sup>
+        <li>The Creuss player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> technology to place or move one of their wormhole tokens into an entropic scar; that token is discarded.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Creuss use Wormhole Generator when an entropic scar is present to remove a wormhole token from the game board? A: Yes, Wormhole Generator will exhaust and place a token, which will then be discarded.&rdquo;</li>
         </ul></li>
-        <li>The delta wormhole of the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> is not affected by an entropic scar, as the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> is a ship, not a wormhole token.<sup>6</sup>
+        <li>The delta wormhole of the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> is not affected by an entropic scar, as the <i>Hil Colish</i> is a ship, not a wormhole token.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to the Hil Colish delta wormhole in the entropic scar? A: The Hil Colish is placed in the Scar, not a wormhole, there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish.&rdquo;</li>
         </ul></li>
@@ -54,7 +54,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;If they would place a gamma wormhole in an entropic scar, are these cards still purged? A: The exploration card is still purged as part of its resolution. The token though is discarded.&rdquo;</li>
         </ul></li>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm"><i>Ion Storm</i></a> exploration card would place its token in an entropic scar, the card is still placed in the common play area, and the token is discarded.<sup>6</sup>
+        <li>If the <i>Ion Storm</i> exploration card would place its token in an entropic scar, the card is still placed in the common play area, and the token is discarded.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Similar question for the Ion Storm exploration card? A: The Ion Storm card is placed in common area. The ion storm token is discarded.&rdquo;</li>
         </ul></li>

@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/C_units">Units</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2 id="war-sun"><a href="https://twilight-imperium.fandom.com/wiki/War_Sun">War Sun</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/War_Sun">War Sun</a></h2>
     <ol class="note">
     <li>A player without the war sun unit upgrade technology cannot produce a war sun.<sup>1,3,5,7,8</sup>
         <ul>
@@ -17,18 +17,18 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do faction units like the Muaat Prototype War Sun count as their base unit type?&rdquo;: &ldquo;the Prototype War Sun is a war sun.&rdquo;</li>
         </ul></li></ol>
-    <li class="removed">If a war sun&rsquo;s ability results in no units on a planet having the <a href="/R_planetary_shield"><sc>Planetary Shield</sc></a> ability, then the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology cannot be used during ground combat on that planet.<sup>2</sup>
+    <li class="removed">If a war sun&rsquo;s ability results in no units on a planet having the <sc>Planetary Shield</sc> ability, then the ability of the <i>Magen Defense Grid</i> technology cannot be used during ground combat on that planet.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a war sun shut off Magen Defense Grid?&rdquo;: &ldquo;Only the original version, which needs a unit with Planetary Shield: a war sun makes other players&rsquo; units lose Planetary Shield.&rdquo;</li>
         </ul></li>
-    <ol><li>A war sun has no effect on the <span class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a></span> or <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;&Omega;</i></a> technologies.<sup>2,15</sup>
+    <ol><li>A war sun has no effect on the <span class="removed"><i>Magen Defense Grid &Omega;</i></span> or <i>Magen Defense Grid &Omega;&Omega;</i> technologies.<sup>2,15</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a war sun shut off Magen Defense Grid?&rdquo;: &ldquo;The Codex Omega version only needs a structure and isn&rsquo;t affected by war suns.&rdquo;</li>
         <li><b>Implicit</b>: <sup>15</sup> Codex 4.5 Technology Card Updates, Magen Defense Grid: &ldquo;At the start of ground combat on a planet that contains 1 or more of your structures, produce 1 hit and assign it to 1 of your opponent&rsquo;s ground forces.&rdquo; Requires only a structure, not Planetary Shield, so a war sun does not affect it.</li>
         </ul></li></ol>
     </ol>
 
-<h2 id="flagship"><a href="https://twilight-imperium.fandom.com/wiki/Flagships">Flagship</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Flagships">Flagship</a></h2>
     <ol class="note">
     <li>If a player&rsquo;s flagship is destroyed, it is returned to their reinforcements and may be produced again.<sup>2</sup>
         <ul>
@@ -36,23 +36,23 @@
         </ul></li>
     </ol>
 
-<h2 id="dreadnought"><a href="https://twilight-imperium.fandom.com/wiki/Dreadnought">Dreadnought</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Dreadnought">Dreadnought</a></h2>
     <ol class="note">
     </ol>
 
-<h2 id="carrier"><a href="https://twilight-imperium.fandom.com/wiki/Carrier">Carrier</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Carrier">Carrier</a></h2>
     <ol class="note">
     </ol>
 
-<h2 id="cruiser"><a href="https://twilight-imperium.fandom.com/wiki/Cruiser">Cruiser</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Cruiser">Cruiser</a></h2>
     <ol class="note">
     </ol>
 
-<h2 id="destroyer"><a href="https://twilight-imperium.fandom.com/wiki/Destroyer">Destroyer</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Destroyer">Destroyer</a></h2>
     <ol class="note">
     </ol>
 
-<h2 id="fighter"><a href="https://twilight-imperium.fandom.com/wiki/Fighter">Fighter</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Fighter">Fighter</a></h2>
     <ol class="note">
     <li>Fighters and ground forces do not count toward capacity during combat. When combat ends however, units will need to be removed to meet capacity requirements.<sup>1,2,3,5</sup>
         <ul>
@@ -68,14 +68,14 @@
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play: ships move only through systems without other players&rsquo; ships.</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What blocks my ships from moving through a system?&rdquo;: &ldquo;Any other player&rsquo;s ships in it, fighters included.&rdquo;</li>
         </ul></li>
-    <ol><li>Some effects allow ships to move through such systems, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=In%20The%20Silence%20Of%20Space"><i>In The Silence Of Space</i></a> action card and the <a href="/F_firmament">Firmament</a> player&rsquo;s agent, Myru Vos.<sup>2,6</sup>
+    <ol><li>Some effects allow ships to move through such systems, such as the <i>Light/Wave Deflector</i> technology, the <i>In The Silence Of Space</i> action card and the <a href="/F_firmament">Firmament</a> player&rsquo;s agent, Myru Vos.<sup>2,6</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;With Light/Wave Deflector, can I pick up my ground forces from a system that has enemy ships?&rdquo;: &ldquo;Yes &mdash; moving through such a system is allowed, and ships can pick up units in any system they pass through.&rdquo;</li>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;No space cannon against any ships moving. Only ships not transporting may move through other player&rsquo;s ships.&rdquo;</li>
         </ul></li></ol>
     </ol>
 
-<h2 id="fighter-ii"><a href="https://twilight-imperium.fandom.com/wiki/Fighter#Upgraded_Unit">Fighter II</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Fighter#Upgraded_Unit">Fighter II</a></h2>
     <ol class="note">
     <li>Fighter II units are still fighters for all other game effects.<sup>2</sup>
         <ul>
@@ -83,15 +83,15 @@
         </ul></li>
     </ol>
 
-<h2 id="mech"><a href="/R_mechs">Mech</a></h2>
+<h2><a href="/R_mechs">Mech</a></h2>
     <ol class="note">
     </ol>
 
-<h2 id="infantry"><a href="https://twilight-imperium.fandom.com/wiki/Infantry">Infantry</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Infantry">Infantry</a></h2>
     <ol class="note">
     </ol>
 
-<h2 id="infantry-ii"><a href="https://twilight-imperium.fandom.com/wiki/Infantry#Upgraded_Unit">Infantry II</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/Infantry#Upgraded_Unit">Infantry II</a></h2>
     <ol class="note">
     <li>If a player controls no planets in their home system, at the start of their turn, any Infantry II that have been placed on that player&rsquo;s Infantry II unit upgrade technology card are returned to that player&rsquo;s reinforcements.<sup>1,2,5</sup>
         <ul>
@@ -99,7 +99,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to infantry on the Infantry II card if I don&rsquo;t control my home system?&rdquo;: &ldquo;If you control none there, they are lost (returned to reinforcements), per a relayed developer email.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;The units would be lost, in this case.&rdquo;</li>
         </ul></li>
-    <li>The Infantry II resurrection roll applies however the infantry is destroyed, including outside of combat, such as by the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Plague"><i>Plague</i></a> action card.<sup>*</sup>
+    <li>The Infantry II resurrection roll applies however the infantry is destroyed, including outside of combat, such as by the <i>Plague</i> action card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Infantry: &ldquo;Yes. Infantry II may use their reroll-to-resurrect ability when they are destroyed regardless of the manner.&rdquo;</li>
         </ul></li>
@@ -109,15 +109,15 @@
         </ul></li></ol>
     </ol>
 
-<h2 id="pds"><a href="/R_pds">PDS</a></h2>
+<h2><a href="/R_pds">PDS</a></h2>
     <ol class="note">
     </ol>
 
-<h2 id="pds-ii"><a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit">PDS II</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit">PDS II</a></h2>
     <ol class="note">
     </ol>
 
-<h2 id="space-dock"><a href="/R_space_dock">Space Dock</a></h2>
+<h2><a href="/R_space_dock">Space Dock</a></h2>
     <ol class="note">
     <li>A space dock does not have a capacity value. It allows up to three fighters in its system to not count against capacity, but it cannot hold ground forces in the space area.<sup>2</sup>
         <ul>
@@ -127,7 +127,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does a space dock have capacity?&rdquo;: &ldquo;two docks in one system cover 6 fighters.&rdquo;</li>
         </ul></li>
-    <li>A space dock&rsquo;s <a href="/R_production"><sc>Production</sc></a> value is not affected by whether its planet is exhausted.<sup>2</sup>
+    <li>A space dock&rsquo;s <sc>Production</sc> value is not affected by whether its planet is exhausted.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How many units can a space dock produce?&rdquo;: &ldquo;The planet being exhausted doesn&rsquo;t matter.&rdquo;</li>
         </ul></li>

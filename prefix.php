@@ -1,13 +1,12 @@
 <?php
 require __DIR__ . '/redirect_php_urls.php';
+require __DIR__ . '/lite_mode.php';
+require __DIR__ . '/page_headers.php';
 ob_start(); ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"<?php if ($is_lite) echo ' data-theme="light"'; ?>>
 <head>
-<meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
-<meta content="utf-8" http-equiv="encoding"/>
-<meta name="author" content="BradleyΣ"/>
-<meta name="version" content="v0.1"/>
+<meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <?php if (empty($page_noindex)) { // the 404 page sets $page_noindex: no canonical, not indexed ?>
 <link rel="canonical" href="https://tirules2.com<?php echo htmlspecialchars(parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '/'); ?>"/>
@@ -17,19 +16,25 @@ ob_start(); ?>
 <?php } ?>
 <link rel="icon" href="/favicon.png"/>
 <link rel="stylesheet" type="text/css" href="/style.css?v=<?php echo filemtime(__DIR__ . '/style.css'); ?>"/>
+<link rel="preload" href="/fonts/helv.woff2" as="font" type="font/woff2" crossorigin/>
+<link rel="preload" href="/fonts/slider.woff2" as="font" type="font/woff2" crossorigin/>
 <?php
 include __DIR__ . '/theme.php';
 $content = ob_get_clean();
 ob_start();
-register_shutdown_function(function() use ($content, $theme_toggle_button, $report_button) {
+register_shutdown_function(function() use ($content, $theme_toggle_button, $report_button, $is_lite) {
     $page_content = ob_get_clean();
+    // Lite site: strip citations, in-text links and red from rule, faction and component pages
+    if ($is_lite && preg_match('#^/[RFC]_[A-Za-z0-9_]+$#', parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '')) {
+        $page_content = lite_strip($page_content);
+    }
     
     // Extract the header text
     $page_title = 'Twilight Imperium Rule Help';
     if (preg_match('/<header>(.*?)<\/header>/i', $page_content, $matches)) {
         // Header markup -> plain text: <br> becomes " / ", entities are decoded
-        // (htmlspecialchars below re-escapes once), decorative symbols are dropped.
-        $text = preg_replace('/<br\s*\/?>/i', ' / ', $matches[1]);
+        // (htmlspecialchars below re-escapes once), decorative symbols and aria-hidden spans are dropped.
+        $text = preg_replace(['/<span aria-hidden="true">.*?<\/span>/i', '/<br\s*\/?>/i'], ['', ' / '], $matches[1]);
         $text = html_entity_decode(strip_tags($text), ENT_QUOTES | ENT_HTML5, 'UTF-8');
         $text = trim(preg_replace(['/\p{So}/u', '/\s+/u'], ['', ' '], $text));
         $page_title = $text . ' - Twilight Imperium Rules';
@@ -65,6 +70,9 @@ register_shutdown_function(function() use ($content, $theme_toggle_button, $repo
     echo "\n</head>\n<body>\n";
     $page_content = preg_replace('/<\/header>/i', $report_button . $theme_toggle_button . '</header>', $page_content, 1);
     // Wiki links open in a new tab (skips any link that already sets a target)
-    echo preg_replace('/<a href="(https:\/\/twilight-imperium\.fandom\.com[^"]*)"(?![^>]*\btarget=)/', '<a href="$1" target="_blank"', $page_content);
+    $page_content = preg_replace('/<a href="(https:\/\/twilight-imperium\.fandom\.com[^"]*)"(?![^>]*\btarget=)/', '<a href="$1" target="_blank"', $page_content);
+    // data-src (the sources of each Rules Reference item) stays in the page files as a record
+    // for editors; suffix.php has already read it to choose the footer sources, so drop it here.
+    echo preg_replace('/ data-src="[^"]*"/', '', $page_content);
 });
 ?>

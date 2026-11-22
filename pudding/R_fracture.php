@@ -43,11 +43,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can the Yin or L1Z1X hero be used on Styx if the Fracture isn&rsquo;t in Play? A: No. The Fracture is not in play and not a legal target.&rdquo;</li>
         </ul></li>
-    <li>If The Fracture enters play as a result of the expedition that also places <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a>, <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is placed first, and then the final ingress token is placed in its system.<sup>6</sup>
+    <li>If The Fracture enters play as a result of the expedition that also places <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a>, Thunder&rsquo;s Edge is placed first, and then the final ingress token is placed in its system.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Thunder&rsquo;s Edge is placed, then you place the final Ingress in the Thunder&rsquo;s Edge system.&rdquo;</li>
         </ul></li>
-    <li>Attachments, such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note, may be attached to planets in The Fracture.<sup>6</sup>
+    <li>Attachments, such as the <i>Nano&ndash;Forge</i> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note, may be attached to planets in The Fracture.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, &ldquo;Can Nano-Forge and/or Terraform be attached to planets in The Fracture?&rdquo;: &ldquo;Can Nano-Forge and/or Terraform be attached to planets in The Fracture? A: Yes&rdquo;</li>
         </ul></li>
@@ -93,7 +93,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;Each planet must be in a different system and must have a different technology specialty.&rdquo;</li>
         </ul></li>
-    <li>After ingress tokens are placed with either of these two methods, one additional ingress token is placed. If <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is on the game board, then an ingress token is placed into its system. Otherwise, an ingress token is placed into the <a href="/R_mecatol_rex">Mecatol Rex</a> system.<sup>7</sup>
+    <li>After ingress tokens are placed with either of these two methods, one additional ingress token is placed. If Thunder&rsquo;s Edge is on the game board, then an ingress token is placed into its system. Otherwise, an ingress token is placed into the Mecatol Rex system.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 9, The Fracture: &ldquo;Finally, the players place an ingress token in the Thunder&rsquo;s Edge system, if it is in play, or in the Mecatol Rex system, if the expedition has not been completed.&rdquo;</li>
         </ul></li>

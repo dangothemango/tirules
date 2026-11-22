@@ -12,14 +12,14 @@
         <li data-src="1,2,8">The wormhole nexus is on the edge of the game board.</li>
     </ol>
     <li data-src="1,2,8">After a player moves or places a unit into the wormhole nexus, or gains control of the planet Mallice, that player flips the wormhole nexus to its active side.</li>
-    <ol><li data-src="1,2,8">When a ship moves into the wormhole nexus, the nexus becomes active at the end of the <b><a href="/R_movement">Movement</a></b> step.</li></ol>
+    <ol><li data-src="1,2,8">When a ship moves into the wormhole nexus, the nexus becomes active at the end of the <b>Movement</b> step.</li></ol>
     </ol>
 
 <h2>Notes</h2>
     <ol class="note">
     <li>The wormhole nexus will flip if a unit exists in the system while inactive, even if that unit did not move through a gamma wormhole.<sup>1,2</sup></li>
     <li>Any units and tokens on the inactive side are transferred to the active side when the wormhole nexus flips.<sup>*</sup></li>
-    <li>A ship in the wormhole nexus will single&ndash;handedly qualify for the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_4:~:text=Become%20the%20Gatekeeper"><i>Become the Gatekeeper</i></a> objective.<sup>*</sup></li>
+    <li>A ship in the wormhole nexus will single&ndash;handedly qualify for the <i>Become the Gatekeeper</i> objective.<sup>*</sup></li>
     </ol>
 
 <h2>Related Topics</h2>

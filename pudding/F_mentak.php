@@ -3,7 +3,7 @@
 <article>
 <p>The source text behind each note on <a href="/F_mentak">The Mentak Coalition</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2 id="ambush"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush">Ambush</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush">Ambush</a></h2>
     <ol class="note">
     <li>Game effects that reroll, modify, or otherwise affect combat rolls do not affect dice rolls made when resolving the <sc>Ambush</sc> ability.<sup>2</sup>
         <ul>
@@ -13,16 +13,16 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> Same entry: &ldquo;roll one die for each of up to 2 cruisers or destroyers.&rdquo; A removed ship cannot roll.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card may be used to cancel the hit.<sup>1,2</sup>
+    <li>The <i>Shields Holding</i> action card may be used to cancel the hit.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Shields Holding&rsquo; may be used to cancel hits that are produced by these abilities,&rdquo; including &ldquo;Ambush.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?&rdquo;: &ldquo;Yes to both.&rdquo;</li>
         </ul></li>
-    <li>A ship may cancel the hit by using its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, if present.<sup>1</sup>
+    <li>A ship may cancel the hit by using its <sc>Sustain Damage</sc> ability, if present.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 87.4: a unit &ldquo;can use its &lsquo;Sustain Damage&rsquo; ability any time a hit is produced against it.&rdquo;</li>
         </ul></li>
-    <ol><li>If the chosen ship does so, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card may be played.<sup>1</sup>
+    <ol><li>If the chosen ship does so, the <i>Direct Hit</i> action card may be played.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;&rsquo;Direct Hit&rsquo; can be used to follow up hits that are assigned by &lsquo;Ambush,&rsquo; &lsquo;Dimensional Splicer,&rsquo; &lsquo;Devotion,&rsquo; and other similar abilities.&rdquo;</li>
         </ul></li></ol>
@@ -32,18 +32,18 @@
         </ul></li>
     </ol>
 
-<h2 id="pillage"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage">Pillage</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage">Pillage</a></h2>
     <ol class="note">
     <li>While the agenda phase allows a player to resolve transactions with all other players, it does not make that player neighbors with the Mentak player.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How often can the Mentak use Pillage, and does it work in the agenda phase against everyone?&rdquo;: &ldquo;the agenda phase does not make everyone neighbors: transactions with non-neighbors are allowed then, yet Pillage still only works on the Mentak&rsquo;s actual neighbors, as the developer ruled.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (x3n d0g, 01/17/2019): &ldquo;Simply being in the agenda phase does not confer neighbor status to all players.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_creuss">Creuss</a> player has units or controls planets in a system with an alpha wormhole, and the Mentak player has units or controls planets in a system with a beta wormhole, or vice versa, then the <a href="/F_creuss">Creuss</a> player and Mentak player are neighbors. The Mentak player may thus use their <sc>Pillage</sc> ability against the <a href="/F_creuss">Creuss</a> player.<sup>1</sup>
+    <li>If the <a href="/F_creuss">Creuss</a> player has units or controls planets in a system with an alpha wormhole, and the Mentak player has units or controls planets in a system with a beta wormhole, or vice versa, then the Creuss player and Mentak player are neighbors. The Mentak player may thus use their <sc>Pillage</sc> ability against the Creuss player.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Mentak may use Pillage when &ldquo;neighbors with another faction as a result of the &hellip; &lsquo;Quantum Entanglement&rsquo; faction ability &hellip; because the &lsquo;neighbor&rsquo; status is active as a result of the ability.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_winnu">Winnu</a> player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Lazax%20Gate%20Folding"><i>Lazax Gate Folding</i></a>, then the Mentak player may become neighbors with the <a href="/F_winnu">Winnu</a> player during the <a href="/F_winnu">Winnu</a> player&rsquo;s tactical action. If so, the Mentak player may use their <sc>Pillage</sc> ability during this time.<sup>1,5</sup>
+    <li>If the <a href="/F_winnu">Winnu</a> player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Lazax%20Gate%20Folding"><i>Lazax Gate Folding</i></a>, then the Mentak player may become neighbors with the Winnu player during the Winnu player&rsquo;s tactical action. If so, the Mentak player may use their <sc>Pillage</sc> ability during this time.<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Mentak may use Pillage &ldquo;when they are neighbors with another faction as a result of the &lsquo;Lazax Gate Folding&rsquo; faction technology.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Vinci, 12/11/2018): &ldquo;rules as written, the Mentak would be able to pillage the transaction.&rdquo;</li>
@@ -69,7 +69,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If Alice plays Bob&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Trade_Agreement"><i>Trade Agreement</i></a> promissory note, then the Mentak player may use <sc>Pillage</sc> on Alice, but not Bob.<sup>*</sup>
+    <ol><li>If Alice plays Bob&rsquo;s <i>Trade Agreement</i> promissory note, then the Mentak player may use <sc>Pillage</sc> on Alice, but not Bob.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -92,7 +92,7 @@
         </ul></li>
     </ol>
 
-<h2 id="promise-of-protection"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Promissory_Note:~:text=Promise%20of%20Protection">Promise of Protection</a> <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Promissory_Note:~:text=Promise%20of%20Protection">Promise of Protection</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>If the player with <i>Promise of Protection</i> in their play area resolves a transaction with another player, the Mentak player may still use their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability on that other player.<sup>2</sup>
         <ul>
@@ -110,21 +110,21 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Mentak player&rsquo;s units (for example, the primary ability of the <a href="/R_diplomacy"><i>Diplomacy</i></a> strategy card), this will not cause <i>Promise of Protection</i> to be returned.<sup>*</sup>
+    <li>If an effect other than activating a system during a tactical action places a command token in a system with the Mentak player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Promise of Protection</i> to be returned.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 
-<h2 id="mirror-computing"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Mirror%20Computing">Mirror Computing</a> <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Mirror%20Computing">Mirror Computing</a> <sub>(Technology)</sub></h2>
     <ol class="note">
-    <li>If an effect specifically requires that trade goods are spent (for example, the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition:~:text=Negotiate%20Trade%20Routes"><i>Negotiate Trade Routes</i></a> objective), <i>Mirror Computing</i> does not increase the value of those trade goods.<sup>2</sup>
+    <li>If an effect specifically requires that trade goods are spent (for example, the <i>Negotiate Trade Routes</i> objective), <i>Mirror Computing</i> does not increase the value of those trade goods.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Mentak&rsquo;s Mirror Computing interact with Bribery or spend-trade-goods objectives?&rdquo;: &ldquo;still 1 when spent as trade goods, so Bribery and objectives that spend trade goods get no bonus.&rdquo;</li>
         </ul></li>
     </ol>
 
-<h2 id="salvage-operations"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations">Salvage Operations</a> <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations">Salvage Operations</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If the space combat ends in a draw, <i>Salvage Operations</i> has no effect.<sup>5</sup>
         <ul>
@@ -157,19 +157,19 @@
         </ul></li>
     </ol>
 
-<h2 id="fourth-moon"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon">Fourth Moon</a> <sub>(Flagship)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon">Fourth Moon</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>The <i>Fourth Moon</i> prevents other players&rsquo; ships from using <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> during a combat round in which it is destroyed, as <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> is used before the <i>Fourth Moon</i> is removed.<sup>2</sup>
+    <li>The <i>Fourth Moon</i> prevents other players&rsquo; ships from using <sc>Sustain Damage</sc> during a combat round in which it is destroyed, as <sc>Sustain Damage</sc> is used before the <i>Fourth Moon</i> is removed.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Mentak ships that Ambush still roll in the first round, and how does The Fourth Moon block Sustain Damage?&rdquo;: &ldquo;The Fourth Moon stops other players&rsquo; Sustain Damage in any round it takes part in, including the round it is destroyed, because Sustain Damage is used before hits remove it.&rdquo;</li>
         </ul></li>
     </ol>
 
-<h2 id="suffi-an"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a> <sub>(Agent)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2 id="sula-mentarion"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a> <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>The Mentak player&rsquo;s opponent chooses which promissory note they give to the Mentak player.<sup>2</sup>
         <ul>
@@ -193,7 +193,7 @@
         </ul></li></ol>
     </ol>
 
-<h2 id="ipswitch-loose-cannon"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Ipswitch%2C%20Loose%20Cannon">Ipswitch, Loose Cannon</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Sleeper%20Cell">Sleeper Cell</a> <sub>(Hero)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Ipswitch%2C%20Loose%20Cannon">Ipswitch, Loose Cannon</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Sleeper%20Cell">Sleeper Cell</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     <li>The Mentak player can trigger the <i>Sleeper Cell</i> ability, their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> ability, or any other &ldquo;at the start of a space combat&rdquo; abilities they have in any order.<sup>*</sup>
         <ul>
@@ -225,7 +225,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;after both players assign hits the Mentak player then places a ship from their reinforcements in the active system and combat continues.&rdquo;</li>
         </ul></li>
-    <ol><li>When players would use their ships&rsquo; <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> abilities, they do so in alternating order, starting with the attacker. If the Mentak player uses a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy one of their opponent&rsquo;s ships, they must then make the choice immediately if they will replace it using the <i>Sleeper Cell</i> ability, before any other ships may use their <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability. Should the Mentak version of the newly placed ship type have a <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability, it may then use it during the same combat round.<sup>*</sup>
+    <ol><li>When players would use their ships&rsquo; <sc>Sustain Damage</sc> abilities, they do so in alternating order, starting with the attacker. If the Mentak player uses a <i>Direct Hit</i> action card to destroy one of their opponent&rsquo;s ships, they must then make the choice immediately if they will replace it using the <i>Sleeper Cell</i> ability, before any other ships may use their <sc>Sustain Damage</sc> ability. Should the Mentak version of the newly placed ship type have a <sc>Sustain Damage</sc> ability, it may then use it during the same combat round.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -234,11 +234,11 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is destroyed during combat, but the Mentak player then destroys their opponent&rsquo;s flagship and places the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> back into the combat, they cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective.<sup>4</sup>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is destroyed during combat, but the Mentak player then destroys their opponent&rsquo;s flagship and places the <i>Fourth Moon</i> back into the combat, they cannot score the <i>Unveil Flagship</i> objective.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you use the Mentak Coalition&rsquo;s Hero &hellip; and lose your flagship in a combat, but destroy the other player&rsquo;s flagship and rebuild your own, can you score Unveil Flagship? A: No.&rdquo;</li>
         </ul></li>
-    <ol><li>If the Mentak player starts the combat without the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a>, and places it during the combat, they may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective if the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is not destroyed.<sup>*</sup>
+    <ol><li>If the Mentak player starts the combat without the <i>Fourth Moon</i>, and places it during the combat, they may score the <i>Unveil Flagship</i> objective if the <i>Fourth Moon</i> is not destroyed.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -256,19 +256,19 @@
         </ul></li>
     </ol>
 
-<h2 id="moll-terminus"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Mech:~:text=Moll%20Terminus">Moll Terminus</a> <sub>(Mech)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Mech:~:text=Moll%20Terminus">Moll Terminus</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>If a player commits a mech to a planet that contains both a Moll Terminus mech and a PDS belonging to the Mentak player, then the committed mech cannot use its <a href="/R_sustain_damage"><sc>Sustain Damage</sc></a> ability to cancel any <a href="/R_space_cannon"><sc>Space Cannon</sc></a> hits during that invasion.<sup>*</sup>
+    <li>If a player commits a mech to a planet that contains both a Moll Terminus mech and a PDS belonging to the Mentak player, then the committed mech cannot use its <sc>Sustain Damage</sc> ability to cancel any <sc>Space Cannon</sc> hits during that invasion.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
 
-<h2 id="the-tables-grace"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Breakthrough:~:text=The%20Table%27s%20Grace">The Table&rsquo;s Grace</a> <sub>(Breakthrough)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Breakthrough:~:text=The%20Table%27s%20Grace">The Table&rsquo;s Grace</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2 id="corsair"><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Breakthrough:~:text=Corsair">Corsair</a> <sub>(Unit)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Breakthrough:~:text=Corsair">Corsair</a> <sub>(Unit)</sub></h2>
     <ol class="note">
     <li>If the active system contains a non&ndash;Mentak player&rsquo;s units, the Mentak player may move a Corsair through systems containing any other player&rsquo;s ships, not just those of the player in the active system.<sup>*</sup>
         <ul>
@@ -283,7 +283,7 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Corsair (Breakthrough Unit): Can Nekro copy Corsair from Mentak? &hellip; A: They cannot copy corsair.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Are breakthroughs technologies, and do their passive abilities work while exhausted?&rdquo;: &ldquo;They aren&rsquo;t technologies, so a breakthrough like Mentak&rsquo;s Corsair doesn&rsquo;t count as a unit upgrade&rdquo; Valefar Assimilator copies faction technologies only.</li>
         </ul></li>
-    <li>The Mentak player is still considered to own Cruiser II while it is under Corsair. As such, the <a href="/F_nekro">Nekro</a> player may copy Cruiser II.<sup>6</sup>
+    <li>The Mentak player is still considered to own Cruiser II while it is under Corsair. As such, the Nekro player may copy Cruiser II.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Same ruling: &ldquo;mentak is still considered to own cruiser II.&rdquo;</li>
         </ul></li>
