@@ -2,29 +2,34 @@
 @font-face
 {
     font-family: helv;
-    src: url(Helv.otf);
+    src: url(fonts/helv.woff2) format("woff2");
+    font-display: swap;
 }
 @font-face
 {
     font-family: helv;
     font-style: italic;
-    src: url(HelvIt.otf);
+    src: url(fonts/helv-italic.woff2) format("woff2");
+    font-display: swap;
 }
 @font-face
 {
     font-family: helv;
     font-weight: bold;
-    src: url(HelvBd.otf);
+    src: url(fonts/helv-bold.woff2) format("woff2");
+    font-display: swap;
 }
 @font-face
 {
     font-family: slid;
-    src: url(Slider.otf);
+    src: url(fonts/slider.woff2) format("woff2");
+    font-display: swap;
 }
 @font-face
 {
     font-family: lazax;
-    src: url(LazBold.ttf);
+    src: url(fonts/lazax.woff2) format("woff2");
+    font-display: swap;
 }
 
 html, body
@@ -257,7 +262,7 @@ footer a
 }
 header, footer
 {
-    background-image: url("beta.png");
+    background-image: url("beta_tile.png");
     background-repeat: repeat;
     background-attachment: fixed;
     /* was PHP-generated random offset; style.css is served as a static file so it never ran */

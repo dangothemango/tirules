@@ -1,17 +1,16 @@
-<?php require __DIR__ . '/redirect_php_urls.php'; ?>
+<?php require __DIR__ . '/redirect_php_urls.php'; require __DIR__ . '/page_headers.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta charset="utf-8"/>
 <title>Twilight Imperium Rule Help</title>
 <meta name="description" content="Rules reference for Twilight Imperium Fourth Edition: the Living Rules Reference with notes and rulings for Prophecy of Kings, the Codices and Thunder&rsquo;s Edge, each with its source."/>
-<meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
-<meta content="utf-8" http-equiv="encoding"/>
-<meta name="author" content="BradleyΣ"/>
-<meta name="version" content="v0.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <link rel="canonical" href="https://tirules2.com/"/>
-<link rel="icon" href="favicon.png"/>
+<link rel="icon" href="/favicon.png"/>
 <link rel="stylesheet" type="text/css" href="/style.css?v=<?php echo filemtime(__DIR__ . '/style.css'); ?>"/>
+<link rel="preload" href="/fonts/helv.woff2" as="font" type="font/woff2" crossorigin/>
+<link rel="preload" href="/fonts/slider.woff2" as="font" type="font/woff2" crossorigin/>
 <?php include __DIR__ . '/theme.php'; ?>
 <style>
 .note
