@@ -1,6 +1,12 @@
 <?php
 // Dark mode toggle, shared by prefix.php and index.php. Echoes the <head> script;
 // the caller places $theme_toggle_button inside <header>.
+// The lite site (lite_mode.php) has no dark mode toggle or bug report button,
+// and no script: its <html> carries data-theme="light", so it stays light.
+if (!empty($is_lite)) {
+    $theme_toggle_button = $report_button = '';
+    return;
+}
 $theme_toggle_button = '<button type="button" class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode" title="Toggle dark mode">&#9680;</button>';
 // Bug-shaped "report a problem" link, top left of the header (opposite the toggle).
 // Plain link, so it works without JavaScript.
@@ -21,7 +27,6 @@ function toggleTheme()
     var c = d.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
     d.dataset.theme = c == 'dark' ? 'light' : 'dark';
     try { localStorage.setItem('theme', d.dataset.theme); } catch (e) {}
-}
 }
 </script>
 <noscript><style>.theme-toggle { display: none; }</style></noscript>

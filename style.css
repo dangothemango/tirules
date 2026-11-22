@@ -338,6 +338,14 @@ body
     width: 1em;
     height: 1em;
 }
+/* Home page button that switches to the lite site (lite.tirules2.com) and back */
+form.lite-switch button
+{
+    margin-right: 0.5em;
+    padding: 0.2em 1em;
+    font: inherit;
+    cursor: pointer;
+}
 /* Report form (/report) */
 form.report label
 {

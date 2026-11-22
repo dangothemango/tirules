@@ -3,13 +3,14 @@
 <?php
 // Link each page to its note proofs (/R_combat/pudding), and each proof page back.
 $footer_path = parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '/';
-if (preg_match('#^/([RFC]_[A-Za-z0-9_]+)$#', $footer_path, $m) && is_file(__DIR__ . '/pudding/' . $m[1] . '.php')) {
+// The lite site has no citations, so no Proof link and no sources.
+if (empty($is_lite) && preg_match('#^/([RFC]_[A-Za-z0-9_]+)$#', $footer_path, $m) && is_file(__DIR__ . '/pudding/' . $m[1] . '.php')) {
     echo "<p><a href=\"/{$m[1]}/pudding\">Proof</a>: the source text behind each note on this page.</p>\n";
 } elseif (preg_match('#^/([RFC]_[A-Za-z0-9_]+)/pudding$#', $footer_path, $m)) {
     echo "<p><a href=\"/{$m[1]}\">Back to the page</a></p>\n";
 }
 // Report a problem with this page (the form opens a GitHub issue for the reader).
-if ($footer_path !== '/report') {
+if (empty($is_lite) && $footer_path !== '/report') {
     echo "<p><a href=\"/report?page=" . htmlspecialchars(rawurlencode($footer_path)) . "\">Report a problem with this page</a></p>\n";
 }
 ?>
@@ -19,7 +20,7 @@ if ($footer_path !== '/report') {
 <?php
 // Sources. A rule, faction or component page lists only the sources it cites (note <sup>
 // numbers and the data-src of its Rules Reference items, which prefix.php strips after this);
-// every other page lists them all.
+// every other page lists them all. The lite site has no citations, so no sources.
 $sources = [
     1 => '<a href="https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf" target="_blank" rel="noopener">Living Rules Reference v2.0</a>',
     2 => '<a href="https://www.rulespal.com/twilight-imperium-4/faq" target="_blank" rel="noopener">RulesPal TI4 FAQ (community consensus and designer rulings)</a>',
@@ -37,27 +38,29 @@ $sources = [
     14 => '<a href="https://cdn.svc.asmodee.net/production-fantasyflightgames/uploads/2026/08/ti_codex_ii_rules_web.pdf" target="_blank" rel="noopener">Twilight Codex Vol. II: Affinity</a>',
     15 => '<a href="https://cdn.svc.asmodee.net/production-fantasyflightgames/uploads/2026/08/codex_45_technology_card_updates.pdf" target="_blank" rel="noopener">Codex 4.5 Technology Card Updates</a>',
 ];
-$cited = null;
-if (preg_match('#^/[RFC]_[A-Za-z0-9_]+$#', $footer_path)) {
-    $cited = [];
-    preg_match_all('#<sup>([^<]*)</sup>|data-src="([^"]*)"#', ob_get_contents(), $cm, PREG_SET_ORDER);
-    foreach ($cm as $c) {
-        foreach (explode(',', ($c[1] ?? '') . ',' . ($c[2] ?? '')) as $n) {
-            $cited[trim($n)] = true;
+if (empty($is_lite)) {
+    $cited = null;
+    if (preg_match('#^/[RFC]_[A-Za-z0-9_]+$#', $footer_path)) {
+        $cited = [];
+        preg_match_all('#<sup>([^<]*)</sup>|data-src="([^"]*)"#', ob_get_contents(), $cm, PREG_SET_ORDER);
+        foreach ($cm as $c) {
+            foreach (explode(',', ($c[1] ?? '') . ',' . ($c[2] ?? '')) as $n) {
+                $cited[trim($n)] = true;
+            }
         }
     }
-}
-$lines = [];
-foreach ($sources as $n => $link) {
-    if ($cited === null || isset($cited[(string) $n])) {
-        $lines[] = "<sup>$n</sup>&nbsp;$link";
+    $lines = [];
+    foreach ($sources as $n => $link) {
+        if ($cited === null || isset($cited[(string) $n])) {
+            $lines[] = "<sup>$n</sup>&nbsp;$link";
+        }
     }
-}
-if ($lines) {
-    echo '<p class="sources">Sources:<br/>' . "\n" . implode("<br/>\n", $lines) . "</p>\n";
-}
-if ($cited === null || isset($cited['*'])) {
-    echo '<p class="sources"><sup>*</sup>&nbsp;I could not find a source for these rulings but kept them in as they fit with my understanding of the game.</p>' . "\n";
+    if ($lines) {
+        echo '<p class="sources">Sources:<br/>' . "\n" . implode("<br/>\n", $lines) . "</p>\n";
+    }
+    if ($cited === null || isset($cited['*'])) {
+        echo '<p class="sources"><sup>*</sup>&nbsp;I could not find a source for these rulings but kept them in as they fit with my understanding of the game.</p>' . "\n";
+    }
 }
 ?>
 </footer>

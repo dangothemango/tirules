@@ -1,9 +1,10 @@
 <?php
 require __DIR__ . '/redirect_php_urls.php';
+require __DIR__ . '/lite_mode.php';
 require __DIR__ . '/page_headers.php';
 ob_start(); ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"<?php if ($is_lite) echo ' data-theme="light"'; ?>>
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -21,8 +22,12 @@ ob_start(); ?>
 include __DIR__ . '/theme.php';
 $content = ob_get_clean();
 ob_start();
-register_shutdown_function(function() use ($content, $theme_toggle_button, $report_button) {
+register_shutdown_function(function() use ($content, $theme_toggle_button, $report_button, $is_lite) {
     $page_content = ob_get_clean();
+    // Lite site: strip citations, in-text links and red from rule, faction and component pages
+    if ($is_lite && preg_match('#^/[RFC]_[A-Za-z0-9_]+$#', parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '')) {
+        $page_content = lite_strip($page_content);
+    }
     
     // Extract the header text
     $page_title = 'Twilight Imperium Rule Help';
