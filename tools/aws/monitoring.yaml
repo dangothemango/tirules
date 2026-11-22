@@ -1,0 +1,332 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: >-
+  Monitoring for tirules2.com: additional CloudFront metrics, an hourly CloudWatch Synthetics canary
+  that loads the site (including one uncached search that reaches the Elastic Beanstalk origin),
+  alarms that email through an existing SNS topic, and a dashboard. Elastic Beanstalk enhanced health,
+  log streaming and EC2 detailed monitoring are environment option settings, not part of this stack.
+
+Metadata:
+  AWSToolsMetrics:
+    AWSAgentToolkit: aws-cloudformation@3
+
+Parameters:
+  DistributionId:
+    Type: String
+    Default: E34WS4EQLQWY1R
+    Description: The tirules2.com CloudFront distribution.
+  EnvironmentName:
+    Type: String
+    Default: tirules-single
+    Description: The Elastic Beanstalk environment behind the distribution.
+  SiteUrl:
+    Type: String
+    Default: https://tirules2.com
+    Description: Base URL the canary loads (no trailing slash).
+  AlarmTopicArn:
+    Type: String
+    Default: arn:aws:sns:us-east-1:114397092115:Billing_Alarm
+    Description: Existing SNS topic (with a confirmed email subscription) that alarms notify.
+
+Resources:
+  CloudFrontAdditionalMetrics:
+    Type: AWS::CloudFront::MonitoringSubscription
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Adds cache hit rate, origin latency and per-status error rates (8 metrics, about $2.40 a month).
+        must: The distribution is on the CloudFront Free flat-rate plan; these metrics are billed separately from it.
+    Properties:
+      DistributionId: !Ref DistributionId
+      MonitoringSubscription:
+        RealtimeMetricsSubscriptionConfig:
+          RealtimeMetricsSubscriptionStatus: Enabled
+
+  CanaryArtifactsBucket:
+    Type: AWS::S3::Bucket
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Holds each canary run's screenshots, HAR file and logs.
+        must: Objects expire after 30 days so storage stays near zero.
+    Properties:
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+      VersioningConfiguration:
+        Status: Enabled
+      LifecycleConfiguration:
+        Rules:
+          - Id: ExpireCanaryArtifacts
+            Status: Enabled
+            ExpirationInDays: 30
+            NoncurrentVersionExpiration:
+              NoncurrentDays: 1
+            AbortIncompleteMultipartUpload:
+              DaysAfterInitiation: 1
+
+  CanaryArtifactsBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref CanaryArtifactsBucket
+      PolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Sid: DenyInsecureTransport
+            Effect: Deny
+            Principal: "*"
+            Action: "s3:*"
+            Resource:
+              - !GetAtt CanaryArtifactsBucket.Arn
+              - !Sub "${CanaryArtifactsBucket.Arn}/*"
+            Condition:
+              Bool:
+                aws:SecureTransport: "false"
+
+  CanaryRole:
+    Type: AWS::IAM::Role
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Execution role for the canary's Lambda function, scoped to its bucket, log group and metric namespace.
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: lambda.amazonaws.com
+            Action: sts:AssumeRole
+            Condition:
+              StringEquals:
+                aws:SourceAccount: !Ref AWS::AccountId
+      Policies:
+        - PolicyName: canary
+          PolicyDocument:
+            Version: "2012-10-17"
+            Statement:
+              - Effect: Allow
+                Action:
+                  - s3:PutObject
+                  - s3:GetObject
+                Resource: !Sub "${CanaryArtifactsBucket.Arn}/*"
+              - Effect: Allow
+                Action: s3:GetBucketLocation
+                Resource: !GetAtt CanaryArtifactsBucket.Arn
+              - Effect: Allow
+                Action: s3:ListAllMyBuckets
+                Resource: "*"
+              - Effect: Allow
+                Action:
+                  - logs:CreateLogGroup
+                  - logs:CreateLogStream
+                  - logs:PutLogEvents
+                Resource: !Sub "arn:${AWS::Partition}:logs:${AWS::Region}:${AWS::AccountId}:log-group:/aws/lambda/cwsyn-tirules-site-*"
+              - Effect: Allow
+                Action: cloudwatch:PutMetricData
+                Resource: "*"
+                Condition:
+                  StringEquals:
+                    cloudwatch:namespace: CloudWatchSynthetics
+
+  SiteCanary:
+    Type: AWS::Synthetics::Canary
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: >-
+          Hourly check (720 runs, about $0.74 a month) that the home page, a rule page and a search load.
+          The search adds a new query string each run, which misses the CloudFront cache and so tests the origin.
+        must: Stay hourly unless the owner agrees to the cost; a Route 53 health check was rejected because its request volume would exceed the Free plan's 1M request allowance.
+    Properties:
+      Name: tirules-site
+      RuntimeVersion: syn-nodejs-puppeteer-19.1
+      ExecutionRoleArn: !GetAtt CanaryRole.Arn
+      ArtifactS3Location: !Sub "s3://${CanaryArtifactsBucket}/canary"
+      Schedule:
+        Expression: rate(1 hour)
+      RunConfig:
+        TimeoutInSeconds: 60
+        EnvironmentVariables:
+          SITE_URL: !Ref SiteUrl
+      SuccessRetentionPeriod: 7
+      FailureRetentionPeriod: 30
+      StartCanaryAfterCreation: true
+      ProvisionedResourceCleanup: AUTOMATIC
+      Code:
+        Handler: index.handler
+        Script: |
+          const synthetics = require('@aws/synthetics-puppeteer');
+          const log = require('@aws/synthetics-logger');
+          const site = process.env.SITE_URL;
+
+          // Load a page and require a 200 and some text that only the real page has
+          async function check(page, url, text) {
+              const response = await page.goto(url, {waitUntil: 'domcontentloaded', timeout: 30000});
+              const status = response ? response.status() : 0;
+              if (status !== 200) {
+                  throw new Error(url + ' returned ' + status);
+              }
+              const html = await page.content();
+              if (!html.includes(text)) {
+                  throw new Error(url + ' did not contain "' + text + '"');
+              }
+              log.info(url + ' OK');
+          }
+
+          exports.handler = async () => {
+              const page = await synthetics.getPage();
+              await synthetics.executeStep('home', () => check(page, site + '/', 'Twilight Imperium Rules'));
+              await synthetics.executeStep('rule', () => check(page, site + '/R_combat', 'Rules Reference'));
+              // A query string CloudFront has never seen: this request reaches the PHP origin
+              await synthetics.executeStep('search', () => check(page, site + '/search?q=combat&canary=' + Date.now(), ' on '));
+              return 'tirules2.com OK';
+          };
+
+  CanaryFailingAlarm:
+    Type: AWS::CloudWatch::Alarm
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Emails when two hourly canary runs in a row fail (site down, page broken, or origin unreachable).
+    Properties:
+      AlarmDescription: tirules2.com canary failed two hourly runs in a row. Check the canary run screenshots and logs.
+      Namespace: CloudWatchSynthetics
+      MetricName: SuccessPercent
+      Dimensions:
+        - Name: CanaryName
+          Value: !Ref SiteCanary
+      Statistic: Average
+      Period: 3600
+      EvaluationPeriods: 2
+      DatapointsToAlarm: 2
+      Threshold: 100
+      ComparisonOperator: LessThanThreshold
+      TreatMissingData: missing
+      AlarmActions: [!Ref AlarmTopicArn]
+      OKActions: [!Ref AlarmTopicArn]
+
+  CloudFront5xxAlarm:
+    Type: AWS::CloudWatch::Alarm
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Emails when more than 5% of requests fail with a 5xx for 15 minutes (uses a free default CloudFront metric).
+    Properties:
+      AlarmDescription: tirules2.com 5xx error rate above 5% for 15 minutes.
+      Namespace: AWS/CloudFront
+      MetricName: 5xxErrorRate
+      Dimensions:
+        - Name: DistributionId
+          Value: !Ref DistributionId
+        - Name: Region
+          Value: Global
+      Statistic: Average
+      Period: 300
+      EvaluationPeriods: 3
+      DatapointsToAlarm: 3
+      Threshold: 5
+      ComparisonOperator: GreaterThanThreshold
+      TreatMissingData: notBreaching
+      AlarmActions: [!Ref AlarmTopicArn]
+      OKActions: [!Ref AlarmTopicArn]
+
+  OriginLatencyAlarm:
+    Type: AWS::CloudWatch::Alarm
+    DependsOn: CloudFrontAdditionalMetrics
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Emails when the origin takes over 2 seconds on average for 30 minutes (an overloaded or failing instance).
+    Properties:
+      AlarmDescription: tirules2.com origin latency above 2 seconds for 30 minutes.
+      Namespace: AWS/CloudFront
+      MetricName: OriginLatency
+      Dimensions:
+        - Name: DistributionId
+          Value: !Ref DistributionId
+        - Name: Region
+          Value: Global
+      Statistic: Average
+      Period: 900
+      EvaluationPeriods: 2
+      DatapointsToAlarm: 2
+      Threshold: 2000
+      ComparisonOperator: GreaterThanThreshold
+      TreatMissingData: notBreaching
+      AlarmActions: [!Ref AlarmTopicArn]
+      OKActions: [!Ref AlarmTopicArn]
+
+  EnvironmentHealthAlarm:
+    Type: AWS::CloudWatch::Alarm
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Emails when Elastic Beanstalk reports the environment Degraded (20) or Severe (25) for 10 minutes. Uses the environment, not an instance ID, so it survives instance replacement.
+        must: Needs enhanced health reporting on the environment; EnvironmentHealth is its free metric.
+    Properties:
+      AlarmDescription: tirules-single environment health Degraded or Severe for 10 minutes.
+      Namespace: AWS/ElasticBeanstalk
+      MetricName: EnvironmentHealth
+      Dimensions:
+        - Name: EnvironmentName
+          Value: !Ref EnvironmentName
+      Statistic: Maximum
+      Period: 300
+      EvaluationPeriods: 2
+      DatapointsToAlarm: 2
+      Threshold: 20
+      ComparisonOperator: GreaterThanOrEqualToThreshold
+      TreatMissingData: notBreaching
+      AlarmActions: [!Ref AlarmTopicArn]
+      OKActions: [!Ref AlarmTopicArn]
+
+  Dashboard:
+    Type: AWS::CloudWatch::Dashboard
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: One page for site traffic, errors, cache, origin, canary and instance health. Within the 3 free dashboards.
+    Properties:
+      DashboardName: tirules
+      DashboardBody: !Sub |
+        {
+          "widgets": [
+            {"type": "metric", "x": 0, "y": 0, "width": 12, "height": 6, "properties": {
+              "title": "CloudFront requests", "region": "us-east-1", "stat": "Sum", "period": 3600,
+              "metrics": [["AWS/CloudFront", "Requests", "DistributionId", "${DistributionId}", "Region", "Global"]]}},
+            {"type": "metric", "x": 12, "y": 0, "width": 12, "height": 6, "properties": {
+              "title": "Error rates (%)", "region": "us-east-1", "stat": "Average", "period": 300,
+              "metrics": [
+                ["AWS/CloudFront", "5xxErrorRate", "DistributionId", "${DistributionId}", "Region", "Global"],
+                ["AWS/CloudFront", "4xxErrorRate", "DistributionId", "${DistributionId}", "Region", "Global"]]}},
+            {"type": "metric", "x": 0, "y": 6, "width": 12, "height": 6, "properties": {
+              "title": "Cache hit rate (%)", "region": "us-east-1", "stat": "Average", "period": 3600,
+              "metrics": [["AWS/CloudFront", "CacheHitRate", "DistributionId", "${DistributionId}", "Region", "Global"]]}},
+            {"type": "metric", "x": 12, "y": 6, "width": 12, "height": 6, "properties": {
+              "title": "Origin latency (ms)", "region": "us-east-1", "stat": "Average", "period": 300,
+              "metrics": [["AWS/CloudFront", "OriginLatency", "DistributionId", "${DistributionId}", "Region", "Global"]]}},
+            {"type": "metric", "x": 0, "y": 12, "width": 12, "height": 6, "properties": {
+              "title": "Canary success (%) and duration (ms)", "region": "us-east-1", "period": 3600,
+              "metrics": [
+                ["CloudWatchSynthetics", "SuccessPercent", "CanaryName", "tirules-site", {"stat": "Average"}],
+                ["CloudWatchSynthetics", "Duration", "CanaryName", "tirules-site", {"stat": "Average", "yAxis": "right"}]]}},
+            {"type": "metric", "x": 12, "y": 12, "width": 12, "height": 6, "properties": {
+              "title": "Environment health (0 ok, 15 warning, 20 degraded, 25 severe)", "region": "us-east-1", "stat": "Maximum", "period": 300,
+              "metrics": [["AWS/ElasticBeanstalk", "EnvironmentHealth", "EnvironmentName", "${EnvironmentName}"]]}},
+            {"type": "metric", "x": 0, "y": 18, "width": 12, "height": 6, "properties": {
+              "title": "Origin requests and 5xx (Elastic Beanstalk)", "region": "us-east-1", "stat": "Sum", "period": 300,
+              "metrics": [
+                ["AWS/ElasticBeanstalk", "ApplicationRequestsTotal", "EnvironmentName", "${EnvironmentName}"],
+                ["AWS/ElasticBeanstalk", "ApplicationRequests5xx", "EnvironmentName", "${EnvironmentName}"]]}},
+            {"type": "metric", "x": 12, "y": 18, "width": 12, "height": 6, "properties": {
+              "title": "Instance CPU (%) and CPU credit balance", "region": "us-east-1", "period": 300,
+              "metrics": [
+                [{"expression": "SEARCH('{AWS/EC2,InstanceId} MetricName=\"CPUUtilization\"', 'Average', 300)", "id": "cpu"}],
+                [{"expression": "SEARCH('{AWS/EC2,InstanceId} MetricName=\"CPUCreditBalance\"', 'Average', 300)", "id": "credits", "yAxis": "right"}]]}}
+          ]
+        }
+
+Outputs:
+  DashboardUrl:
+    Value: !Sub "https://${AWS::Region}.console.aws.amazon.com/cloudwatch/home?region=${AWS::Region}#dashboards/dashboard/tirules"
+  CanaryArtifactsBucketName:
+    Value: !Ref CanaryArtifactsBucket

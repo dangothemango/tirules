@@ -139,6 +139,19 @@ instance with no load balancer, reached at `tirules-single.us-east-1.elasticbean
 through tirules2.com, not directly. Pages send `stale-if-error`, so CloudFront keeps serving cached
 pages while the instance is down or being replaced.
 
+Monitoring (about $4 a month):
+- Stack `tirules-monitoring`, from `tools/aws/monitoring.yaml`: additional CloudFront metrics, an hourly
+  Synthetics canary `tirules-site` (home page, `/R_combat`, and an uncached search that reaches the origin),
+  alarms that email through the existing SNS topic `Billing_Alarm` (canary failing, 5xx rate, origin latency,
+  environment health), and the CloudWatch dashboard `tirules`. Change it by editing the template and updating
+  the stack.
+- Environment options set directly on `tirules-single` (not in the repo): enhanced health publishing
+  `ApplicationRequestsTotal`, `ApplicationRequests5xx`, `ApplicationLatencyP90`, `RootFilesystemUtil` and
+  `LoadAverage1min`; log streaming to CloudWatch Logs (30 days); EC2 detailed monitoring (1-minute). Changing
+  health reporting type or `MonitoringInterval` replaces the instance.
+- The distribution is on the CloudFront Free flat-rate plan: no access logs (Pro plan only), and no Route 53
+  health check (its polling, a request every ~2 seconds, would exceed the plan's 1M requests a month).
+
 The owner deploys through the agent. Deploy only when asked, and only committed work: commit first
 (per **Committing**), with a clean working tree, and deploy that commit. Use the AWS MCP server.
 Everything is in account 114397092115, `us-east-1`.
