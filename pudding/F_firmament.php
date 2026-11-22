@@ -1,10 +1,9 @@
 <?php include __DIR__ . "/../prefix.php"?>
-<style>body, header {font-variant-emoji: text;}</style>
-<header><h1>&#x26AA; The Firmament<br/>&#x2716; The Obsidian: Proof&emsp14;&emsp14;&emsp14;&emsp14;</h1></header>
+<header><h1>o The Firmament<br/>x The Obsidian: Proof</h1></header>
 <article>
-<p>The source text behind each note on <a href="/F_firmament">The Firmament / The Obsidian</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
+<p>The source text behind each note on <a href="/F_firmament">o The Firmament / x The Obsidian</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Plots%20Within%20Plots">&#x26AA; Plots Within Plots</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Plots%20Within%20Plots">o Plots Within Plots</a></h2>
     <ol class="note">
     <li>The <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Specific_Components:~:text=Enervate"><i>Enervate</i></a> plot may be resolved whenever the Obsidian player resolves the secondary ability of a strategy card in the puppeted player&rsquo;s play area, including via the <i>Strategize</i> action card.<sup>6</sup>
         <ul>
@@ -33,7 +32,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Puppets%20of%20the%20Blade">&#x26AA; Puppets of the Blade</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities:~:text=Puppets%20of%20the%20Blade">o Puppets of the Blade</a></h2>
     <ol class="note">
     <li>When the Firmament player flips their home system, the Obsidian player places any units that were on Cronos onto Cronos Hollow, and places any units on Tallin onto Tallin Hollow. Any units that were in the space area pre&ndash;flip are placed in the space area post&ndash;flip.<sup>7</sup>
         <ul>
@@ -49,19 +48,19 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities_2:~:text=Nocturne">&#x2716; Nocturne</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities_2:~:text=Nocturne">x Nocturne</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities_2:~:text=The%20Blade%27s%20Orchestra">&#x2716; The Blade&rsquo;s Orchestra</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities_2:~:text=The%20Blade%27s%20Orchestra">x The Blade&rsquo;s Orchestra</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities_2:~:text=Marionettes">&#x2716; Marionettes</a></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Abilities_2:~:text=Marionettes">x Marionettes</a></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Promissory_Note:~:text=Black%20Ops">&#x26AA; Black Ops</a> <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Promissory_Note:~:text=Black%20Ops">o Black Ops</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>The Firmament player may choose not to place a plot. If they do not, the rest of <i>Black Ops</i> still resolves, including purging it.<sup>6</sup>
         <ul>
@@ -69,7 +68,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Promissory_Note_2:~:text=Malevolency">&#x2716; Malevolency</a> <sub>(Promissory Note)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Promissory_Note_2:~:text=Malevolency">x Malevolency</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li><i>Malevolency</i> remains in the receiving player&rsquo;s hand, not their play area. However, it is mandatory during the status phase; this is an exception to all other promissory notes.<sup>6</sup>
         <ul>
@@ -77,11 +76,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Neural%20Parasite">&#x26AA; Neural Parasite</a> <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Neural%20Parasite">o Neural Parasite</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Neural%20Parasite">&#x2716; Neural Parasite</a> <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Neural%20Parasite">x Neural Parasite</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>This technology cannot be researched, but it can be gained by game effects that specify &ldquo;gain&rdquo;.<sup>7</sup>
         <ul>
@@ -89,7 +88,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Planesplitter">&#x26AA; Planesplitter</a> <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Planesplitter">o Planesplitter</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>If The Fracture is already in play when the Firmament player gains <i>Planesplitter</i>, it will have no immediate effect.<sup>*</sup>
         <ul>
@@ -97,7 +96,7 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Planesplitter">&#x2716; Planesplitter</a> <sub>(Technology)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Faction_Technologies:~:text=Planesplitter">x Planesplitter</a> <sub>(Technology)</sub></h2>
     <ol class="note">
     <li>The ingress token must be moved when the Obsidian player performs the primary ability of their strategy card, before any other players decide if they wish to perform the secondary ability.<sup>*</sup>
         <ul>
@@ -122,15 +121,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Flagship:~:text=Heaven%27s%20Eye">&#x26AA; Heaven&rsquo;s Eye</a> <sub>(Flagship)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Flagship:~:text=Heaven%27s%20Eye">o Heaven&rsquo;s Eye</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Flagship_2:~:text=Heaven%27s%20Hollow">&#x2716; Heaven&rsquo;s Hollow</a> <sub>(Flagship)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Flagship_2:~:text=Heaven%27s%20Hollow">x Heaven&rsquo;s Hollow</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders:~:text=Myru%20Vos">&#x26AA; Myru Vos</a> <sub>(Agent)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders:~:text=Myru%20Vos">o Myru Vos</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>Space cannon cannot be used against any of the moving ships. However, only ships that are not transporting units may move through systems containing other players&rsquo; ships.<sup>6</sup>
         <ul>
@@ -138,11 +137,11 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders_2:~:text=Vos%20Hollow">&#x2716; Vos Hollow</a> <sub>(Agent)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders_2:~:text=Vos%20Hollow">x Vos Hollow</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders:~:text=Captain%20Aroz">&#x26AA; Captain Aroz</a> <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders:~:text=Captain%20Aroz">o Captain Aroz</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>Captain Aroz does not assist in scoring secret objectives that do not require controlling planets, such as the <i>Mechanize the Military</i> or <i>Occupy the Fringe</i> secret objectives.<sup>*</sup>
         <ul>
@@ -158,19 +157,19 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders_2:~:text=Aroz%20Hollow">&#x2716; Aroz Hollow</a> <sub>(Commander)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders_2:~:text=Aroz%20Hollow">x Aroz Hollow</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders:~:text=Sharsiss">&#x26AA; Sharsiss</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders:~:text=The%20Blade%20Beckons">The Blade Beckons</a> <sub>(Hero)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders:~:text=Sharsiss">o Sharsiss</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders:~:text=The%20Blade%20Beckons">The Blade Beckons</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders_2:~:text=Sharsiss%20Hollow">&#x2716; Sharsiss Hollow</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders_2:~:text=The%20Blade%20Revealed">The Blade Revealed</a> <sub>(Hero)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders_2:~:text=Sharsiss%20Hollow">x Sharsiss Hollow</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Leaders_2:~:text=The%20Blade%20Revealed">The Blade Revealed</a> <sub>(Hero)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Mech:~:text=Viper%20EX-23">&#x26AA; Viper EX&ndash;23</a> <sub>(Mech)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Mech:~:text=Viper%20EX-23">o Viper EX&ndash;23</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     <li>The Firmament player may use this ability while they are the active player, to commit the mech and start coexisting.<sup>6</sup>
         <ul>
@@ -178,15 +177,15 @@
         </ul></li>
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Mech_2:~:text=Viper%20Hollow">&#x2716; Viper Hollow</a> <sub>(Mech)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Mech_2:~:text=Viper%20Hollow">x Viper Hollow</a> <sub>(Mech)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Breakthrough:~:text=The%20Sowing">&#x26AA; The Sowing</a> <sub>(Breakthrough)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Breakthrough:~:text=The%20Sowing">o The Sowing</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     </ol>
 
-<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Breakthrough_2:~:text=The%20Reaping">&#x2716; The Reaping</a> <sub>(Breakthrough)</sub></h2>
+<h2><a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Breakthrough_2:~:text=The%20Reaping">x The Reaping</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>Any trade goods that were on <a href="https://twilight-imperium.fandom.com/wiki/The_Firmament_/_The_Obsidian#Breakthrough:~:text=The%20Sowing"><i>The Sowing</i></a> are transferred to <i>The Reaping</i> when it flips.<sup>*</sup>
         <ul>

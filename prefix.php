@@ -28,8 +28,8 @@ register_shutdown_function(function() use ($content, $theme_toggle_button, $repo
     $page_title = 'Twilight Imperium Rule Help';
     if (preg_match('/<header>(.*?)<\/header>/i', $page_content, $matches)) {
         // Header markup -> plain text: <br> becomes " / ", entities are decoded
-        // (htmlspecialchars below re-escapes once), decorative symbols are dropped.
-        $text = preg_replace('/<br\s*\/?>/i', ' / ', $matches[1]);
+        // (htmlspecialchars below re-escapes once), decorative symbols and aria-hidden spans are dropped.
+        $text = preg_replace(['/<span aria-hidden="true">.*?<\/span>/i', '/<br\s*\/?>/i'], ['', ' / '], $matches[1]);
         $text = html_entity_decode(strip_tags($text), ENT_QUOTES | ENT_HTML5, 'UTF-8');
         $text = trim(preg_replace(['/\p{So}/u', '/\s+/u'], ['', ' '], $text));
         $page_title = $text . ' - Twilight Imperium Rules';
