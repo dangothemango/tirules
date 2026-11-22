@@ -16,7 +16,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>Planets will also ready at the end of each agenda phase.<sup>1,2,3</sup></li>
-    <ol><li>This includes the Deepwrought player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>, space stations and <i>The Triad</i>.<sup>3,6,7</sup></li></ol>
+    <ol><li>This includes the Deepwrought player&rsquo;s <a href="/F_deepwrought">ocean cards</a>, space stations and <i>The Triad</i>.<sup>3,6,7</sup></li></ol>
     <li>If a game effect instructs a player to exhaust a planet, the exhausted planet must be controlled by that player, unless the game effect specifies otherwise.<sup>*</sup></li>
     </ol>
 

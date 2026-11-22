@@ -17,7 +17,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When do &lsquo;at the start of your turn&rsquo; abilities happen, and do they work in other phases?&rdquo;: &ldquo;They only exist in the action phase: you don&rsquo;t have turns in the strategy, status or agenda phases.&rdquo;</li>
         </ul></li>
-    <li>A player may cast votes with space stations, <i>The Triad</i>, and the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>.<sup>6,9</sup>
+    <li>A player may cast votes with space stations, <i>The Triad</i>, and the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s ocean cards.<sup>6,9</sup>
         <ul>
         <li><b>Explicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Voting with Space Stations&rdquo;: &ldquo;can you vote with space stations, oceans, and the triad? &hellip; A: Yeah you can vote with them.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, Space Stations: &ldquo;Space Stations are used for voting but may not be elected.&rdquo; Relics: &ldquo;Q: Can you vote using The Triad relic? A: Yes.&rdquo;</li>

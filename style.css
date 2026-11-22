@@ -95,16 +95,6 @@ article h2 a:hover
 {
     text-decoration: underline;
 }
-/* A-Z jump list at the top of the component pages */
-.jump
-{
-    font-size: 90%;
-    line-height: 1.6;
-}
-.jump a
-{
-    white-space: nowrap;
-}
 /* Home page section headings: h2 for one-h1-per-page, sized like article > h1 */
 article > h2.section
 {
@@ -350,12 +340,11 @@ body
     color: #000088;
     background: white;
 }
-/* Lightweight mode: just the rulings. Nothing is hidden except citations, the A-Z jump
-   list and the footer sources; links read as plain text (Related Topics stay links),
+/* Lightweight mode: just the rulings. Nothing is hidden except citations and the footer
+   sources; links read as plain text (Related Topics stay links),
    and removed/struck rules lose their red and strike-through. The home page nav
    (article.home) keeps its links. */
 :root[data-mode="lightweight"] article sup,
-:root[data-mode="lightweight"] .jump,
 :root[data-mode="lightweight"] .sources
 {
     display: none;

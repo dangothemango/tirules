@@ -2,7 +2,7 @@
 // Dark mode toggle, shared by prefix.php and index.php. Echoes the <head> script;
 // the caller places $theme_toggle_button inside <header>.
 $theme_toggle_button = '<button type="button" class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode" title="Toggle dark mode">&#9680;</button>'
-    // Lightweight mode: plain text rulings, no links, citations, red, strike-through, jump list or sources
+    // Lightweight mode: plain text rulings, no links, citations, red, strike-through or sources
     . '<button type="button" class="lightweight-toggle" onclick="toggleLightweight()" aria-label="Toggle lightweight mode" title="Toggle lightweight mode">'
     . '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
     . '<path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"/><path d="M16 8 2 22M17.5 15H9"/>'

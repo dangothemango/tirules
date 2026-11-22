@@ -38,4 +38,11 @@
 - Updated card versions are marked &Omega; (Codex) and &Omega;&Omega; (later); &Omega;(&Omega;) means the &Omega; and &Omega;&Omega; versions are the same.
 
 ## headings
-- Card headings on `C_` and `F_` pages carry an `id` (e.g. `/C_action_cards#sabotage`) and the `C_` pages have an A&ndash;Z jump list. Both come from `./tools/heading_ids.py`; run it after adding, renaming or removing a card heading.
+- Card headings have no `id`, and the `C_` pages have no A&ndash;Z jump list. Link to a page, never to a heading on it.
+
+## links
+- Card headings link to the card on the wiki. Related Topics link to rule pages.
+- In rules and notes text, link only factions (`/F_` pages) and faction components (abilities, leaders, faction technologies, flagships, mechs, faction promissory notes) on the wiki.
+- Do not link concepts (rule topics such as Sustain Damage, Production, Mecatol Rex or the strategy cards) or generic cards (action cards, agendas, objectives, generic promissory notes, relics, generic technologies, exploration cards, events, legendary planets). Keep their formatting (`<i>`, `<sc>`, `<b>`), just without the link.
+- Exception: keep a rule-page link when the sentence points to the page (&ldquo;see the abilities page&rdquo;).
+- Link a target only on its first mention in a section (each `<h2>` starts a section). A card heading&rsquo;s own link counts as the first mention.

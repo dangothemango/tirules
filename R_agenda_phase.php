@@ -49,7 +49,7 @@
 <h2>Notes</h2>
     <ol class="note">
     <li>When a player casts votes during the agenda phase, it is not that player&rsquo;s turn for the purpose of game effects.<sup>2</sup></li>
-    <li>A player may cast votes with space stations, <i>The Triad</i>, and the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>.<sup>6,9</sup></li>
+    <li>A player may cast votes with space stations, <i>The Triad</i>, and the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s ocean cards.<sup>6,9</sup></li>
     <li>Players may exhaust planets during the agenda phase for purposes other than casting votes, such as spending resources or using technology specialties. Planets exhausted this way cannot then be used to cast votes.<sup>2</sup></li>
     <li>Casting zero votes for an outcome is the same as abstaining. A player that casts zero votes gains no positive or negative effects of voting for that outcome.<sup>1,2,5</sup></li>
     <li>The speaker decides tied outcomes even if they cannot vote on that agenda, such as when they are the <a href="/F_nekro">Nekro</a> player or have played a rider, as deciding a tie is not a vote.<sup>2</sup></li>
