@@ -34,7 +34,7 @@ the repo owner explicitly asks in the current task.
 
 ### 3. SEO must not regress
 - Keep clean URLs (`/R_combat`, not `/R_combat.php`). `redirect_php_urls.php` sends 301
-  redirects from `.php` URLs. `.htaccess`, `router.php` (local dev), and
+  redirects from `.php` URLs. `router.php` (local dev) and
   `.platform/nginx/conf.d/elasticbeanstalk/rewrite.conf` (production) must stay
   consistent with each other.
 - Every page keeps its `<link rel="canonical">` (emitted by `prefix.php`), a unique
@@ -54,6 +54,12 @@ the repo owner explicitly asks in the current task.
   `<?php include "suffix.php"?>`. `prefix.php` writes the `<head>` and output-buffers
   the body to insert the dynamic `<title>`. `suffix.php` writes the footer.
 - `index.php` is the standalone home page and nav.
+- `report.php` (`/report`) is the "report a problem" form, opened by the bug button in the header
+  (`theme.php`) and the footer link. It creates a GitHub issue through the API using the
+  `GITHUB_ISSUES_TOKEN` environment variable (fine-grained token, Issues read/write on this repo
+  only, set as an EB **Environment property**, not an environment secret). Without the token, or if
+  GitHub refuses the request, it offers GitHub's own prefilled issue form and states the reason.
+  Issues must be enabled on the repo. The page is `noindex` and is not in the nav or sitemap.
 - Local dev: `php -S localhost:8000 router.php`.
 
 ## Content and markup conventions
@@ -65,6 +71,35 @@ Follow `style.md` for writing style and markup. Highlights:
   abilities (small caps).
 - Notes go in `<ol class="note">`. Nested sub-points use a nested `<ol>`. A single
   sub-item puts `<ol><li>…</li></ol>` on one line.
+
+## Notes, citations and proof pages
+
+- Every note ends with `<sup>n</sup>` (the source numbers listed in `suffix.php`) or
+  `<sup>*</sup>` when no source exists.
+- Every page with notes has a proof page, `pudding/<page>.php` (served at `/<page>/pudding`),
+  generated from `tools/pudding/<page>.txt` by `./tools/build_pudding.py <page>`. The proof file
+  format is described at the top of `tools/build_pudding.py`: `@n` is the nth cited note in page
+  order (sub-notes included, uncited header `<li>` skipped); lines are `E<src>` explicit,
+  `I<src>` implicit, `N` not found.
+- When you add a note, add its proof with `./tools/insert_proof.py <page> "<note text>" "<proof line>"`,
+  which renumbers the later `@n` blocks. When you remove, merge, split or reorder notes, renumber
+  by hand. Then rebuild the proof page and check in `pudding/<page>.php` that each proof sits under
+  its note. Commit the `.txt` and the regenerated `.php` with the page.
+- Citations must match the proofs: don't cite a source the proof file doesn't quote. If a cited
+  number's only proof is `N`, or says it doesn't address the note, drop the number (or use `*` if
+  nothing is left). The owner prefers `*` to a misleading number.
+- Owner decisions that still stand: strategy cards use the Thunder's Edge versions. Component
+  Limitations 23.4 deliberately reads "except for fighters and infantry".
+
+## Committing
+
+- Commit on the current branch. Never push.
+- Show the owner the diff of any change to note text, wording, or site behavior, and commit only
+  after they approve. Citation-only and proof-only changes, and plain typo fixes, may be committed
+  without asking; say what was committed.
+- Use a subject that says what changed on the site (for example
+  `Coexistence: merge scoring notes and reorder`), and end with the `Co-Authored-By` trailer your
+  harness specifies.
 
 ## Before finishing a change
 

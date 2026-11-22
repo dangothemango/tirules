@@ -6,7 +6,7 @@
     <li>The Nekro player makes their prediction during the same timing window as riders, after any &ldquo;when an agenda is revealed&rdquo; abilities, such as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card or the <a href="/F_xxcha">Xxcha</a> player&rsquo;s Quash faction ability. They must predict an outcome; abstaining is not an outcome.<sup>2</sup></li>
     <ol><li>The Nekro player may still play rider action cards.<sup>1,2</sup></li></ol>
     <li>If the Nekro player has the <a href="/F_xxcha">Xxcha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the Nekro player may vote, without losing their ability to predict outcomes for their <sc>Galactic Threat</sc> ability.<sup>*</sup></li>
-    <li>If the speaker breaks a tie without casting any votes, then the speaker&rsquo;s technology are ineligible to be gained.<sup>2</sup></li>
+    <li>If the speaker breaks a tie without casting any votes, then the speaker&rsquo;s technologies are ineligible to be gained.<sup>2</sup></li>
     <ol><li>If no player casts votes, then no technology can be gained.<sup>2</sup></li></ol>
     </ol>
 
@@ -117,7 +117,7 @@
     <li>If the Nekro player has one of their <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> tokens on the <a href="/F_ul">Ul</a> player&rsquo;s Hel Titan II faction unit upgrade technology, they may use <i>The Alastor</i> to have their PDS in the active system participate in the space combat.<sup>*</sup></li>
     <li>A ground force participating in a space combat may count toward scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Demonstrate%20Your%20Power"><i>Demonstrate Your Power</i></a> secret objective.<sup>*</sup></li>
     <li>If the Nekro player loses their last ground force during a space combat and consequently meets the requirements for elimination, they are immediately eliminated. They will not be given the opportunity to score any objectives from winning the combat or destroying certain units at the same time their last ground force was destroyed.<sup>*</sup></li>
-    <ol><li>If the Nekro player uses a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy an opponent&rsquo;s flagship, they may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Destroy%20their%20Greatest%20Ship"><i>Destroy their Greatest Ship</i></a> secret objective, even if there are some hits remaining that will cause the Nekro player to be eliminated once they are assigned. If this would bring the Nekro player to ten victory points, they will instead win the game before they are eliminated.<sup>*</sup></li></ol>
+    <ol><li>If the Nekro player uses a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy an opponent&rsquo;s flagship, they may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Destroy%20their%20Greatest%20Ship"><i>Destroy Their Greatest Ship</i></a> secret objective, even if there are some hits remaining that will cause the Nekro player to be eliminated once they are assigned. If this would bring the Nekro player to ten victory points, they will instead win the game before they are eliminated.<sup>*</sup></li></ol>
     </ol>
 
 <h2 id="nekro-malleon"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Malleon">Nekro Malleon</a> <sub>(Agent)</sub></h2>
@@ -130,7 +130,7 @@
 <h2 id="nekro-acidos"><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> <sub>(Commander)</sub></h2>
     <ol class="note">
     <li>When the Nekro player gains their third technology and unlocks Nekro Acidos, they cannot apply Nekro Acidos to that instance of gaining a technology.<sup>2</sup></li>
-    <li>When the Nekro places a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> token on a technology, they are not gaining a technology.<sup>*</sup></li>
+    <li>When the Nekro player places a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> token on a technology, they are not gaining a technology.<sup>*</sup></li>
     </ol>
 
 <h2 id="polymorphic-algorithm">UNIT.DSGN.FLAYESH &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Polymorphic%20Algorithm">Polymorphic Algorithm</a> <sub>(Hero)</sub></h2>

@@ -33,9 +33,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Oceanbound (Ability): If the Deepwrought player has all their oceans out, can they still resolve Oceanbound &hellip; so as to ready one of their oceans? A: No&rdquo;</li>
         </ul></li>
-    <li>Ocean cards are readied at the end of the agenda phase, like planets.<sup>*</sup>
+    <li>Ocean cards are readied at the end of the agenda phase, like planets.<sup>3,6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Owner ruling (2026-11-21): planets, including oceans, space stations and The Triad, are readied at the end of the agenda phase.</li>
+        <li><b>Explicit</b>: <sup>3</sup> Learn to Play p. 21, Agenda Phase, &ldquo;3. READY PLANETS&rdquo;: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
+        <li><b>Explicit</b>: <sup>6</sup> Community consensus, Deepwrought Scholarate: &ldquo;What do Ocean Cards do? A: They are planet cards and can be spent as such.&rdquo;</li>
         </ul></li>
     <li>Attachments such as the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic and the <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> promissory note cannot be attached to an ocean card.<sup>6</sup>
         <ul>
@@ -96,6 +97,10 @@
     <li>The Deepwrought player cannot use Doctor Carrina to start coexisting with the <a href="/F_nekro">Nekro</a> player, as the <a href="/F_nekro">Nekro</a> player cannot skip a prerequisite.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Is it possible &hellip; for the Deepwrought player to start coexisting with the Nekro player by using Doctor Carrina? A: No, there is no way for Nekro to fulfill the &lsquo;they do skip a prerequisite&rsquo;&rdquo; condition.</li>
+        </ul></li>
+    <li>Doctor Carrina cannot place the infantry on a planet that contains none of that player&rsquo;s units, as there are no units to coexist with.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Deepwrought Scholarate: &ldquo;If a planet of a player has no ground forces, can it be chosen by the Deepwrought agent so you gain control of it? A: No. You cannot trigger coexistence on a planet that does not have units on it.&rdquo;</li>
         </ul></li>
     </ol>
 

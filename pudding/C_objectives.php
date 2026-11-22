@@ -299,12 +299,12 @@
 
 <h2 id="destroy-their-greatest-ship"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Destroy%20Their%20Greatest%20Ship">Destroy Their Greatest Ship</a></h2>
     <ol class="note">
-    <li><i>Destroy their Greatest Ship</i> is scored as soon as the war sun or flagship is destroyed; it does not require waiting until the end of the combat.<sup>2</sup>
+    <li><i>Destroy Their Greatest Ship</i> is scored as soon as the war sun or flagship is destroyed; it does not require waiting until the end of the combat.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If two players could each score an action-phase objective in the same combat, who scores first?&rdquo;: &ldquo;Destroying a flagship or war sun happens during a combat round, before the combat ends and has a winner.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>A player does not have to win a combat to score <i>Destroy their Greatest Ship</i>.<sup>2</sup>
+        <li>A player does not have to win a combat to score <i>Destroy Their Greatest Ship</i>.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does an agenda resolved with the Xxcha hero that destroys an enemy flagship score Destroy Their Greatest Ship?&rdquo;: &ldquo;the agenda destroyed it, not your units or abilities, and only those count.&rdquo; Winning is not a requirement.</li>
         </ul></li>
@@ -313,7 +313,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR, Objective Cards: &ldquo;A player can score any number of objectives during the agenda phase or during a turn of the action phase; however, they can only score one objective during or after each combat.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>If a player destroys their own flagship or war sun during combat, such as via the effect of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> relic, their opponent cannot score <i>Destroy their Greatest Ship</i>.<sup>*</sup>
+    <li>If a player destroys their own flagship or war sun during combat, such as via the effect of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> relic, their opponent cannot score <i>Destroy Their Greatest Ship</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -463,7 +463,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 61.7: &ldquo;they can only score one objective during or after each combat.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;How and when are action-phase secret objectives scored?&rdquo;: &ldquo;You may score several in a turn but only one per combat or step: one in a space combat and another in the ground combat that follows is fine, two from the same combat is not.&rdquo; only one secret objective per combat, so Fight with Precision uses up that combat&rsquo;s scoring.</li>
         </ul></li>
-    <li>A player does not have to win a combat to score <i>Fight with Precision</i>.<sup>*</sup>
+    <li>A player does not have to win a combat to score <i>Fight with Precision &Omega;</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -471,7 +471,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>For example, say a player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End"><i>Courageous to the End</i></a> action card when one of their fighters are destroyed during the <b>Anti&ndash;Fighter Barrage</b> step. If the dice roll causes their opponent to destroy their ships, and they choose their last fighter, that would allow the player to score <i>Fight with Precision &Omega;</i>.<sup>*</sup>
+    <ol><li>For example, say a player plays the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Courageous%20to%20the%20End"><i>Courageous to the End</i></a> action card when one of their fighters is destroyed during the <b>Anti&ndash;Fighter Barrage</b> step. If the dice roll causes their opponent to destroy their ships, and they choose their last fighter, that would allow the player to score <i>Fight with Precision &Omega;</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -1065,7 +1065,7 @@
         </ul></li></ol>
     <li>If the last ship is destroyed using a <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Unverified</b>: No source found. Closest: RulesPal, &ldquo;Does a ship destroyed by Space Cannon plus Direct Hit &hellip; count for Turn Their Fleets to Dust?&rdquo;: &ldquo;No to both&rdquo;, and Designer ruling (Dane, 2018): &ldquo;It would not.&rdquo; Both are about the original card (&ldquo;Use SPACE CANNON to destroy the last of a player&rsquo;s ships&rdquo;), so they do not apply to the Ω card (&ldquo;Destroy the last of a player&rsquo;s non-fighter ships in the active system during the space cannon offense step&rdquo;). The Twilight Imperium Wiki FAQ (not a numbered source): &ldquo;In the Omega version, the ships are destroyed during the Space Cannon Offense step, so the objective is fulfilled.&rdquo;</li>
         </ul></li>
     <li>If a player still has fighters in a system after assigning all hits produced during the <b>Space Cannon Offense</b> step, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.<sup>*</sup>
         <ul>
@@ -1087,7 +1087,7 @@
 
 <h2 id="unveil-flagship"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship">Unveil Flagship</a></h2>
     <ol class="note">
-    <li>If a player&rsquo;s flagship is destroyed during combat, but a later effect places it into the same combat, that player cannot score <i>Unveil Flagship.</i><sup>2,4</sup>
+    <li>If a player&rsquo;s flagship is destroyed during combat, but a later effect places it into the same combat, that player cannot score <i>Unveil Flagship</i>.<sup>2,4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;the wording on Unveil Flagship would prevent you from scoring it since your flagship was destroyed in the combat, regardless of the fact that it returned.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Unveil Flagship needs your flagship to survive the combat.&rdquo;</li>

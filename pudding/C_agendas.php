@@ -213,7 +213,7 @@
     <ol class="note">
     <li><i>Conventions of War</i> does not prevent the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Tactical%20Bombardment"><i>Tactical Bombardment</i></a> action card or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic from being used on cultural planets, as neither uses the <a href="/R_bombardment"><sc>Bombardment</sc></a> ability.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Restored from the original rebuild (CHANGES_REVIEW.md:1451) without the X-89 part; X-89 ΩΩ only doubles Bombardment hits. RulesPal, &ldquo;Why vote against Conventions of War&hellip;?&rdquo;: &ldquo;For makes it a law that nobody may bombard cultural planets&rdquo;, which these cards do not do.</li>
+        <li><b>Unverified</b>: No source found. Restored from the original rebuild without the X-89 part; X-89 ΩΩ only doubles Bombardment hits. RulesPal, &ldquo;Why vote against Conventions of War&hellip;?&rdquo;: &ldquo;For makes it a law that nobody may bombard cultural planets&rdquo;, which these cards do not do.</li>
         </ul></li>
     </ol>
 
@@ -758,7 +758,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="/F_muaat">Muaat</a> does not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology, they do not own a war sun technology.<sup>5</sup>
+    <li>If the <a href="/F_muaat">Muaat</a> player does not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology, they do not own a war sun technology.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Do pre-printed units count as &lsquo;technologies&rsquo;? Specifically, does Prototype War Sun I count as a technology? &hellip; Dane: They do not. Preprinted units do not count as technologies.&rdquo;</li>
         </ul></li>
@@ -952,6 +952,10 @@
     <li>If the &ldquo;Against&rdquo; outcome is resolved, a player with no command tokens in their reinforcements does not place one. They do not take a command token from their command sheet.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No numbered source. RulesPal, &ldquo;Under Shared Research&rsquo;s Against outcome, what if I have no command tokens in reinforcements?&rdquo; (graded Best reading, unconfirmed; not used): &ldquo;Then you place nothing &mdash; the outcome places a token only if able, so you don&rsquo;t take one from your sheet.&rdquo;</li>
+        </ul></li>
+    <li>If the &ldquo;Against&rdquo; outcome is resolved, a player places the command token in their home system even if they control no planets there.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Agenda Cards: &ldquo;A home system is always that player&rsquo;s home system meaning they still do place a command counter in that system even though they do not control it&rdquo;</li>
         </ul></li>
     </ol>
 

@@ -605,6 +605,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;When a player would place a unit, if there are none of that type left in their reinforcements, that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         </ul></li>
+    <li>The destroyer may be placed in an <a href="/R_asteroid_field">asteroid field</a> that contains a wormhole, even without <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a>, as it is placed, not moved.<sup>*</sup>
+        <ul>
+        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Action Cards: &ldquo;Can &lsquo;Ghost Ship&rsquo; be used to place a Destroyer in the Asteroid/Alpha system if the player lacks the Antimass Deflectors technology? A: Yes. You are placing the destroyer in that system, not moving it.&rdquo;</li>
+        </ul></li>
     </ol>
 
 <h2 id="ghost-squad"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Ghost%20Squad">Ghost Squad</a></h2>
@@ -906,9 +910,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Mercenary Contract be played on your own planet? A: No, you cannot target harmful effects on your own planets, unless explicitly allowed.&rdquo;</li>
         </ul></li>
-    <li>When a planet card is returned to the planet card deck, the player that previously controlled it will no longer do so. They remove their control token from the planet.<sup>*</sup>
+    <li>When a planet card is returned to the planet card deck, the player that previously controlled it will no longer do so. They remove their control token from the planet.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, Mercenary Contract: &ldquo;If the planet becomes neutral, does it get re-explored &hellip; when a player invades later? A: Yes, the planet card will be retrieved from the planet card deck&rdquo;. The planet becomes neutral, so no player controls it.</li>
         </ul></li>
     <li>If the planet card is returned to the planet card deck, then when a player later gains control of that planet, they will explore it.<sup>6</sup>
         <ul>
@@ -926,9 +930,9 @@
         <ul>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Status Phase step 8: &ldquo;if the custodians token is no longer on Mecatol Rex (the planet in the center of the game board) the game round continues to the agenda phase.&rdquo; Agenda Phase: &ldquo;After the custodians token has been removed from Mecatol Rex, a new phase is added to each round for the remainder of the game: the agenda phase.&rdquo;</li>
         </ul></li></ol>
-    <li>If a legendary planet card is returned to the planet card deck, the player that controlled it also loses the associated legendary planet ability card.<sup>*</sup>
+    <li>If a legendary planet card is returned to the planet card deck, the player that controlled it also loses the associated legendary planet ability card.<sup>6</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>6</sup> Community consensus, Mercenary Contract: &ldquo;What happens regarding the exhausted/readied status of a legendary planet ability card when a legendary planet is returned and then recontrolled? A: It is returned from the deck readied.&rdquo; The ability card goes back with the planet card.</li>
         </ul></li>
     <ol><li>When a player later gains control of that planet, they gain the legendary planet ability card readied.<sup>6</sup>
         <ul>
@@ -1337,13 +1341,13 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;but before anything changes the game state, such as rolling dice or spending trade goods.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling: &ldquo;For sabotage, you would play after the target is chosen.&rdquo;</li>
         </ul></li>
-    <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until all other players has declined to play <i>Sabotage</i>.<sup>2</sup>
+    <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until all other players have declined to play <i>Sabotage</i>.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When exactly is Sabotage played&rdquo;: &ldquo;Focused Research is the exception: its technology is chosen during resolution, after the Sabotage window.&rdquo;</li>
         </ul></li>
-    <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by <i>Sabotage</i> when it is originally played.<sup>*</sup>
+    <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by <i>Sabotage</i> when it is originally played.<sup>5</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>5</sup> Designer ruling (Dane, on a list of Sabotage timings, 2019): &ldquo;Riders (all kinds). After vote &lsquo;guess&rsquo; is made, before any player actually votes.&rdquo; Confirmed as &ldquo;mostly correct&rdquo; (the one correction is about Focused Research). Sabotage is played when the rider is played, not when it resolves.</li>
         </ul></li>
     <li>If the action card that was canceled by <i>Sabotage</i> was to be used to perform a component action, the active player must perform a different action, or pass.<sup>2</sup>
         <ul>

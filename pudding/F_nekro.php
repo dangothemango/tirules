@@ -18,7 +18,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the speaker breaks a tie without casting any votes, then the speaker&rsquo;s technology are ineligible to be gained.<sup>2</sup>
+    <li>If the speaker breaks a tie without casting any votes, then the speaker&rsquo;s technologies are ineligible to be gained.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does Galactic Threat gain a technology if nobody voted for the predicted outcome?&rdquo;: &ldquo;No &mdash; the Nekro gains a technology from a player who voted for that outcome. If it won through the speaker&rsquo;s tie-break &hellip; with no player voting for it, there is nobody to take from.&rdquo;</li>
         </ul></li>
@@ -375,7 +375,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the Nekro player uses a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy an opponent&rsquo;s flagship, they may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Destroy%20their%20Greatest%20Ship"><i>Destroy their Greatest Ship</i></a> secret objective, even if there are some hits remaining that will cause the Nekro player to be eliminated once they are assigned. If this would bring the Nekro player to ten victory points, they will instead win the game before they are eliminated.<sup>*</sup>
+    <ol><li>If the Nekro player uses a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a> action card to destroy an opponent&rsquo;s flagship, they may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Destroy%20their%20Greatest%20Ship"><i>Destroy Their Greatest Ship</i></a> secret objective, even if there are some hits remaining that will cause the Nekro player to be eliminated once they are assigned. If this would bring the Nekro player to ten victory points, they will instead win the game before they are eliminated.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -403,7 +403,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Nekro commander draw an action card for the very technology that unlocks it?&rdquo;: &ldquo;No &mdash; unlock conditions are checked only after the current effect fully resolves.&rdquo;</li>
         </ul></li>
-    <li>When the Nekro places a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> token on a technology, they are not gaining a technology.<sup>*</sup>
+    <li>When the Nekro player places a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> token on a technology, they are not gaining a technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

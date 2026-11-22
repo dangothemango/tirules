@@ -16,12 +16,12 @@ ob_start(); ?>
 <meta name="robots" content="noindex, follow"/>
 <?php } ?>
 <link rel="icon" href="/favicon.png"/>
-<link rel="stylesheet" type="text/css" href="/style.css"/>
+<link rel="stylesheet" type="text/css" href="/style.css?v=<?php echo filemtime(__DIR__ . '/style.css'); ?>"/>
 <?php
 include __DIR__ . '/theme.php';
 $content = ob_get_clean();
 ob_start();
-register_shutdown_function(function() use ($content, $theme_toggle_button) {
+register_shutdown_function(function() use ($content, $theme_toggle_button, $report_button) {
     $page_content = ob_get_clean();
     
     // Extract the header text
@@ -39,7 +39,12 @@ register_shutdown_function(function() use ($content, $theme_toggle_button) {
     $page_path = parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?? '/';
     $heading = isset($text) ? $text : 'Twilight Imperium';
     $description = '';
-    if (preg_match('#^/R_[A-Za-z0-9_]+$#', $page_path) && preg_match('/<article>.*?<p[^>]*>(.*?)<\/p>/is', $page_content, $pm)) {
+    if (preg_match('#^/R_[A-Za-z0-9_]+$#', $page_path) && preg_match('/<article>.*?<p[^>]*>(.*?)<\/p>(?:\s*<ol(?![^>]*\bclass=)[^>]*>(.*?)<\/ol>)?/is', $page_content, $pm)) {
+        // A paragraph ending in a colon introduces the plain list after it (R_game_round): include its items
+        if (str_ends_with(trim($pm[1]), ':') && !empty($pm[2])) {
+            $items = array_filter(array_map(fn($li) => trim(strip_tags($li)), preg_split('/<li[^>]*>/i', $pm[2])), 'strlen');
+            $pm[1] .= ' ' . implode(', ', $items) . '.';
+        }
         $description = trim(preg_replace('/\s+/u', ' ', html_entity_decode(strip_tags($pm[1]), ENT_QUOTES | ENT_HTML5, 'UTF-8')));
         if (str_starts_with($description, 'There currently does not exist')) {
             $description = '';
@@ -58,7 +63,7 @@ register_shutdown_function(function() use ($content, $theme_toggle_button) {
     echo '<meta name="description" content="' . htmlspecialchars($description) . '"/>' . "\n";
     echo '<title>' . htmlspecialchars($page_title) . '</title>';
     echo "\n</head>\n<body>\n";
-    $page_content = preg_replace('/<\/header>/i', $theme_toggle_button . '</header>', $page_content, 1);
+    $page_content = preg_replace('/<\/header>/i', $report_button . $theme_toggle_button . '</header>', $page_content, 1);
     // Wiki links open in a new tab (skips any link that already sets a target)
     echo preg_replace('/<a href="(https:\/\/twilight-imperium\.fandom\.com[^"]*)"(?![^>]*\btarget=)/', '<a href="$1" target="_blank"', $page_content);
 });

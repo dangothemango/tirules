@@ -382,7 +382,7 @@
 <h2 id="publicize-weapon-schematics"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Publicize%20Weapon%20Schematics">Publicize Weapon Schematics</a></h2>
     <ol class="note">
     <li>If the <i>Publicize Weapon Schematics</i> law is in play, and a player is the first to gain the war sun unit upgrade technology, from then on, prerequisites for the war sun unit upgrade technology will be ignored.<sup>*</sup></li>
-    <li>If the <a href="/F_muaat">Muaat</a> does not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology, they do not own a war sun technology.<sup>5</sup></li>
+    <li>If the <a href="/F_muaat">Muaat</a> player does not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology, they do not own a war sun technology.<sup>5</sup></li>
     <ol>
         <li>If the <i>Publicize Weapon Schematics</i> law is in play, the <a href="/F_muaat">Muaat</a> player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>5</sup></li>
         <li>If the &ldquo;Against&rdquo; outcome of <i>Publicize Weapon Schematics</i> is resolved, the <a href="/F_muaat">Muaat</a> player will not discard their action cards if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>5</sup></li>
@@ -469,6 +469,7 @@
 <h2 id="shared-research"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shared%20Research">Shared Research</a></h2>
     <ol class="note">
     <li>If the &ldquo;Against&rdquo; outcome is resolved, a player with no command tokens in their reinforcements does not place one. They do not take a command token from their command sheet.<sup>*</sup></li>
+    <li>If the &ldquo;Against&rdquo; outcome is resolved, a player places the command token in their home system even if they control no planets there.<sup>*</sup></li>
     </ol>
 
 <h2 id="swords-to-plowshares"><a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Swords%20to%20Plowshares">Swords to Plowshares</a></h2>
