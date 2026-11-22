@@ -86,6 +86,15 @@ article h2
     font-weight: normal;
     margin: 0;
 }
+/* Card headings link to the wiki; no underline unless hovered */
+article h2 a
+{
+    text-decoration: none;
+}
+article h2 a:hover
+{
+    text-decoration: underline;
+}
 /* A-Z jump list at the top of the component pages */
 .jump
 {
