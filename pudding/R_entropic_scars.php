@@ -42,11 +42,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The <a href="/F_creuss">Creuss</a> player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> technology to place or move one of their wormhole tokens into an entropic scar; that token is discarded.<sup>6</sup>
+        <li>The Creuss player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> technology to place or move one of their wormhole tokens into an entropic scar; that token is discarded.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Creuss use Wormhole Generator when an entropic scar is present to remove a wormhole token from the game board? A: Yes, Wormhole Generator will exhaust and place a token, which will then be discarded.&rdquo;</li>
         </ul></li>
-        <li>The delta wormhole of the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> is not affected by an entropic scar, as the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> is a ship, not a wormhole token.<sup>6</sup>
+        <li>The delta wormhole of the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> is not affected by an entropic scar, as the <i>Hil Colish</i> is a ship, not a wormhole token.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens to the Hil Colish delta wormhole in the entropic scar? A: The Hil Colish is placed in the Scar, not a wormhole, there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish.&rdquo;</li>
         </ul></li>

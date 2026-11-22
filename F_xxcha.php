@@ -13,7 +13,7 @@
 <h2 id="quash"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash">Quash</a></h2>
     <ol class="note">
     <li><sc>Quash</sc>, <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a>, the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto"><i>Veto</i></a> action card are all played in the same timing window, before the rider timing window.<sup>2</sup></li>
-    <li>If <sc>Quash</sc> is used after any <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory notes have been played, those will have no effect on the replacement agenda.<sup>1,5</sup></li>
+    <li>If <sc>Quash</sc> is used after any <i>Political Secret</i> promissory notes have been played, those will have no effect on the replacement agenda.<sup>1,5</sup></li>
     <li><sc>Quash</sc> may be used on the replacement agenda.<sup>2,5</sup></li>
     <li><sc>Quash</sc> may be used on a law elected by <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> when that law is treated as revealed for the revote.<sup>2,5</sup></li>
     <li>Each agenda is considered separate for the purpose of limiting each pair of players to one transaction per agenda.<sup>5</sup></li>
@@ -67,7 +67,7 @@
     <li>A planet with zero influence may be used to cast one additional vote.<sup>2</sup></li>
     <li>The Xxcha player may play rider action cards and vote on the same agenda.<sup>2</sup></li>
     <li>The Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note will not prevent them from voting.<sup>2,14</sup></li>
-    <li>If the <a href="/F_nekro">Nekro</a> player has the Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the <a href="/F_nekro">Nekro</a> player may vote.<sup>2,14</sup></li>
+    <li>If the <a href="/F_nekro">Nekro</a> player has the Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the Nekro player may vote.<sup>2,14</sup></li>
     </ol>
 
 <h2 id="xxekir-grom" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Xxekir%20Grom">Xxekir Grom</a> &mdash; <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Leaders:~:text=Political%20Data%20Nexus">Political Data Nexus</a> (replaced by &Omega;) <sub>(Hero)</sub></h2>

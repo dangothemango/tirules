@@ -203,7 +203,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If the <a href="/F_yssaril">Yssaril</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating"><i>Transparasteel Plating</i></a> faction technology, and uses the ability of Ssruu, their agent, to duplicate the ability of Z&rsquo;eu &Omega;, choosing a player that has passed, the chosen player cannot play action cards during their action.<sup>*</sup>
+        <li>If the Yssaril player owns their <i>Transparasteel Plating</i> faction technology, and uses the ability of Ssruu, their agent, to duplicate the ability of Z&rsquo;eu &Omega;, choosing a player that has passed, the chosen player cannot play action cards during their action.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -212,7 +212,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 28.4: &ldquo;If the terms of a deal cannot be resolved immediately, it is a non-binding deal.&rdquo; system activation happens later, so it cannot be resolved immediately.</li>
         </ul></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> agenda and the <a href="/F_mahact">Mahact</a> player&rsquo;s Starlancer mech still end the chosen player&rsquo;s tactical action, even though it is not considered their turn.<sup>4</sup>
+    <li>The <i>Minister of Peace</i> agenda and the <a href="/F_mahact">Mahact</a> player&rsquo;s Starlancer mech still end the chosen player&rsquo;s tactical action, even though it is not considered their turn.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Naalu Collective agent, Z&rsquo;eu Omega &hellip; effectively makes them the active player for the duration of the tactical action &hellip; This DOES NOT count as the tactical action player&rsquo;s turn, so they cannot utilize fleet logistics, however they could use Master Plan or the Minister of War &hellip; Minister of Peace and the Mahact Gene-Sorcerers mech, Starlancer ends the turn of the tactical action&rdquo; player.</li>
         </ul></li>

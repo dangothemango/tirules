@@ -13,7 +13,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does Anti-Intellectual Revolution work?&rdquo;: &ldquo;The Nekro are unaffected, since Propagation gains tokens instead of researching.&rdquo;</li>
         </ul></li></ol>
-    <li>The <a href="/F_nekro">Nekro</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technologies count for the &ldquo;Against&rdquo; effect, whether their tokens are on another player&rsquo;s faction technology or not.<sup>2</sup>
+    <li>The Nekro player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technologies count for the &ldquo;Against&rdquo; effect, whether their tokens are on another player&rsquo;s faction technology or not.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do factions start with their faction technologies &hellip;?&rdquo;: &ldquo;The Nekro Virus is the exception, since its two Valefar Assimilator technologies are listed as starting technologies.&rdquo; The Nekro own both Valefar Assimilator cards from the start, whether or not a token is on another technology, so each counts as a technology they own.</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Do technologies the Nekro copy with Valefar Assimilator count for objectives?&rdquo;: &ldquo;a copied technology counts with its colour and type.&rdquo;</li>
@@ -380,7 +380,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Agenda Phase: &ldquo;3. READY PLANETS Each player readies all of their planet cards.&rdquo;</li>
         </ul></li>
-    <ol><li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> will not ready at the end of the agenda phase.<sup>*</sup>
+    <ol><li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -439,7 +439,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 90.14: &ldquo;When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Agenda Phase: &ldquo;3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends&rdquo;</li>
         </ul></li>
-        <li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> will not ready at the end of the agenda phase.<sup>*</sup>
+        <li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -458,7 +458,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If there is an &lsquo;A&rsquo; wormhole on Mecatol Rex when the &lsquo;Ixthian Artifact&rsquo; agenda causes units in adjacent systems to be destroyed, does the Quantum Entanglement ability cause the Ghost of Creuss faction to lose units in a system that contains a &lsquo;B&rsquo; wormhole? A: No. Only the Creuss treats those systems as adjacent.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Which units does The Ixthian Artifact destroy?&rdquo;: &ldquo;Adjacency is the normal kind for everyone: a matching wormhole on Mecatol counts, but Creuss&rsquo;s Quantum Entanglement doesn&rsquo;t extend it.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_creuss">Creuss</a> player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>, is in the Mecatol Rex system, the Creuss home system and the Creuss Gate system are adjacent to it, as each contains a delta wormhole. Units in those systems will be affected.<sup>2</sup>
+    <li>If the Creuss player&rsquo;s flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>, is in the Mecatol Rex system, the Creuss home system and the Creuss Gate system are adjacent to it, as each contains a delta wormhole. Units in those systems will be affected.<sup>2</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Which units does The Ixthian Artifact destroy?&rdquo;: &ldquo;a matching wormhole on Mecatol counts&rdquo; The Hil Colish puts a delta wormhole in its system.</li>
         </ul></li>
@@ -616,7 +616,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;the law that is being voted on because of &lsquo;Miscount Disclosed&rsquo; remains in play during the revote.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Committee%20Formation"><i>Committee Formation</i></a> is elected by <i>Miscount Disclosed</i>, the owner may use its ability. The elected player will receive <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Committee%20Formation"><i>Committee Formation</i></a> from the discard pile.<sup>*</sup>
+        <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Committee%20Formation"><i>Committee Formation</i></a> is elected by <i>Miscount Disclosed</i>, the owner may use its ability. The elected player will receive <i>Committee Formation</i> from the discard pile.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -634,7 +634,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the revote from Miscount Disclosed work?&rdquo;: &ldquo;First vote on Miscount Disclosed, with riders predicting only which law is chosen. Then vote on that law as if it had just been revealed.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> is elected by <i>Miscount Disclosed</i>, and there are no other secret objectives eligible to be elected by the <i>Miscount Disclosed</i> revote, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> will be discarded and replaced.<sup>*</sup>
+        <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> is elected by <i>Miscount Disclosed</i>, and there are no other secret objectives eligible to be elected by the <i>Miscount Disclosed</i> revote, <i>Classified Document Leaks</i> will be discarded and replaced.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -656,7 +656,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>After all players have voted for the elected law, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Deadly%20Plot"><i>Deadly Plot</i></a> action card may be played. If so, the elected law is discarded.<sup>*</sup>
+    <li>After all players have voted for the elected law, the <i>Deadly Plot</i> action card may be played. If so, the elected law is discarded.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -763,16 +763,16 @@
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;Do pre-printed units count as &lsquo;technologies&rsquo;? Specifically, does Prototype War Sun I count as a technology? &hellip; Dane: They do not. Preprinted units do not count as technologies.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>If the <i>Publicize Weapon Schematics</i> law is in play, the <a href="/F_muaat">Muaat</a> player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>5</sup>
+        <li>If the <i>Publicize Weapon Schematics</i> law is in play, the Muaat player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their Prototype War Sun II faction unit upgrade technology.<sup>5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>5</sup> Same ruling: &ldquo;Preprinted units do not count as technologies.&rdquo;</li>
         </ul></li>
-        <li>If the &ldquo;Against&rdquo; outcome of <i>Publicize Weapon Schematics</i> is resolved, the <a href="/F_muaat">Muaat</a> player will not discard their action cards if they do not own their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>5</sup>
+        <li>If the &ldquo;Against&rdquo; outcome of <i>Publicize Weapon Schematics</i> is resolved, the Muaat player will not discard their action cards if they do not own their Prototype War Sun II faction unit upgrade technology.<sup>5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>5</sup> Same ruling, which asked whether it &ldquo;count[s] against the &lsquo;Against&rsquo; effects of Publicize Weapons Schematics&rdquo;: &ldquo;They do not.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>The <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> will lose its <sc>Sustain Damage</sc> ability, regardless of if the <a href="/F_muaat">Muaat</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#FAQ:~:text=Prototype%20War%20Sun">Prototype War Sun</a> II faction unit upgrade technology.<sup>*</sup>
+    <li>The Muaat player&rsquo;s Prototype War Sun will lose its <sc>Sustain Damage</sc> ability, regardless of if the Muaat player owns their Prototype War Sun II faction unit upgrade technology.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -1031,21 +1031,21 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 90.14: &ldquo;When researching technology, a player can exhaust a planet they control that has a technology specialty to ignore one prerequisite symbol.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play, Agenda Phase: &ldquo;3. READY PLANETS Each player readies all of their planet cards. Then, the agenda phase ends&rdquo;</li>
         </ul></li>
-        <li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> will not ready at the end of the agenda phase.<sup>*</sup>
+        <li>A player may exhaust the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#AI_Development_Algorithm"><i>AI Development Algorithm</i></a> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a> is in play as a law, players who research a technology will destroy a ship due to <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a> before they destroy ships in systems containing alpha or beta wormholes. As such, they may choose a ship in a system containing an alpha or beta wormhole to destroy for <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a>.<sup>*</sup>
+    <li>If <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a> is in play as a law, players who research a technology will destroy a ship due to <i>Anti&ndash;Intellectual Revolution</i> before they destroy ships in systems containing alpha or beta wormholes. As such, they may choose a ship in a system containing an alpha or beta wormhole to destroy for <i>Anti&ndash;Intellectual Revolution</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>If the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player has their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, in a system containing an alpha or beta wormhole, and they choose to destroy it for <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Anti-Intellectual%20Revolution"><i>Anti&ndash;Intellectual Revolution</i></a>, then they will not capture the other ships in that system that are destroyed by <i>Wormhole Research</i>.<sup>*</sup>
+        <li>If the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player has their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, in a system containing an alpha or beta wormhole, and they choose to destroy it for <i>Anti&ndash;Intellectual Revolution</i>, then they will not capture the other ships in that system that are destroyed by <i>Wormhole Research</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player has their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, in a system containing an alpha or beta wormhole, and they choose to destroy another ship with capacity, they must resolve capacity before <i>Wormhole Research</i> destroys any ships. Any fighters they remove due to capacity will not be captured when ships are destroyed for <i>Wormhole Research</i>.<sup>*</sup>
+        <li>If the Vuil&rsquo;raith player has their flagship, <i>The Terror Between</i>, in a system containing an alpha or beta wormhole, and they choose to destroy another ship with capacity, they must resolve capacity before <i>Wormhole Research</i> destroys any ships. Any fighters they remove due to capacity will not be captured when ships are destroyed for <i>Wormhole Research</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

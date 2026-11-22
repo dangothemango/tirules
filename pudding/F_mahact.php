@@ -30,7 +30,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Mahact player wins a combat against the <a href="/F_mentak">Mentak</a> player and gains one of their command tokens, they cannot resolve the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a>, the <a href="/F_mentak">Mentak</a> commander, from winning that same combat to take a promissory note from the <a href="/F_mentak">Mentak</a> player.<sup>*</sup>
+    <li>If the Mahact player wins a combat against the <a href="/F_mentak">Mentak</a> player and gains one of their command tokens, they cannot resolve the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=S%27ula%20Mentarion">S&rsquo;ula Mentarion</a>, the Mentak commander, from winning that same combat to take a promissory note from the Mentak player.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. Owner ruling (2026-11-21): S&rsquo;ula Mentarion triggers &ldquo;after you win a space combat&rdquo;; the Mahact player only gains access to it through Edict as a result of winning that combat, so the commander was not available when its trigger occurred.</li>
         </ul></li>
@@ -192,7 +192,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Do ships roll when moving out of a gravity rift due to the Mahact Hero, Benediction? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play: &ldquo;A ship that moves through or out of a gravity rift applies +1 to its move value and then rolls one die.&rdquo;</li>
         </ul></li>
-    <ol><li>If the Mahact player is moving the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s ships out of a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a>, the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player will not roll for removal.<sup>*</sup>
+    <ol><li>If the Mahact player is moving the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s ships out of a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a>, the Vuil&rsquo;raith player will not roll for removal.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -200,7 +200,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Mahact hero&rsquo;s Benediction work?&rdquo;: &ldquo;Creuss&rsquo;s alpha-beta adjacency can&rsquo;t be used.&rdquo;</li>
         </ul></li>
-    <li>If the Mahact player moves the <a href="/F_muaat">Muaat</a> player&rsquo;s war sun, the <a href="/F_muaat">Muaat</a> player cannot trigger their <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability.<sup>*</sup>
+    <li>If the Mahact player moves the Muaat player&rsquo;s war sun, the Muaat player cannot trigger their <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Leaders:~:text=Nova%20Seed"><i>Nova Seed</i></a> hero ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

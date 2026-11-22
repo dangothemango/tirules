@@ -62,7 +62,7 @@
     <li><i>Signal Intrusion</i> may be triggered by the Ral Nel player themself passing.<sup>*</sup></li>
     <li>The Ral Nel player may take any number of turns after unpassing, before they pass again, which will end the action phase.<sup>*</sup></li>
     <li>When the Ral Nel player passes again, they may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> secret objective.<sup>*</sup></li>
-    <li>Purging Director Nel does not prevent the active player from scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> objective. The active player scores <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> when they pass, then the Ral Nel player purges their hero.<sup>6</sup></li>
+    <li>Purging Director Nel does not prevent the active player from scoring the <i>Prove Endurance</i> objective. The active player scores <i>Prove Endurance</i> when they pass, then the Ral Nel player purges their hero.<sup>6</sup></li>
     </ol>
 
 <h2 id="alarum"><a href="https://twilight-imperium.fandom.com/wiki/The_Ral_Nel_Consortium#Mech:~:text=Alarum">Alarum</a> <sub>(Mech)</sub></h2>

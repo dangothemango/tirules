@@ -17,7 +17,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
-    <li>The <a href="/F_hacan">Hacan</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Guild%20Ships"><sc>Guild Ships</sc></a> faction ability and <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Promissory_Note:~:text=Trade%20Convoys"><i>Trade Convoys</i></a> promissory note provide no benefit while playing with the <i>Age of Commerce</i> event. However, <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Promissory_Note:~:text=Trade%20Convoys"><i>Trade Convoys</i></a> may still be played as a component action.<sup>*</sup>
+    <li>The <a href="/F_hacan">Hacan</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Abilities:~:text=Guild%20Ships"><sc>Guild Ships</sc></a> faction ability and <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Faction_Promissory_Note:~:text=Trade%20Convoys"><i>Trade Convoys</i></a> promissory note provide no benefit while playing with the <i>Age of Commerce</i> event. However, <i>Trade Convoys</i> may still be played as a component action.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -25,7 +25,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the giving player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Dynamis%20Core"><i>Dynamis Core</i></a> relic, they must give two commodities above their faction&rsquo;s printed commodity value to trigger the effect of <a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Promissory_Notes:~:text=Dark%20Pact"><i>Dark Pact</i></a>.<sup>*</sup>
+    <ol><li>If the giving player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Dynamis%20Core"><i>Dynamis Core</i></a> relic, they must give two commodities above their faction&rsquo;s printed commodity value to trigger the effect of <i>Dark Pact</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -117,11 +117,11 @@
         <ul>
         <li><b>Implicit</b>: <sup>11</sup> Codex IV p. 15: &ldquo;that player places 3 neutral infantry on that system&rsquo;s planets, split as evenly as possible.&rdquo; The placing player&rsquo;s choice is not stated.</li>
         </ul></li>
-    <li>During setup, if a player is dealt the <a href="/F_creuss">Creuss</a> reference card, they place the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Creuss%20Gate">Creuss Gate</a> (tile 17) where a minor faction home system would go, and place the <a href="/F_creuss">Creuss</a> home system (tile 51) in the common play area.<sup>7</sup>
+    <li>During setup, if a player is dealt the <a href="/F_creuss">Creuss</a> reference card, they place the <a href="https://twilight-imperium.fandom.com/wiki/Galactic_Events#Introduced_in_Thunder's_Edge:~:text=Creuss%20Gate">Creuss Gate</a> (tile 17) where a minor faction home system would go, and place the Creuss home system (tile 51) in the common play area.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16, Minor Factions: &ldquo;When the Ghosts of Creuss or Crimson Rebellion faction is chosen as a minor faction, the Creuss Gate or the Sorrow, respectively, is placed in a minor faction spot, while the home system is placed near the game board.&rdquo;</li>
         </ul></li>
-    <li>During setup, if a player is dealt the <a href="/F_rebellion">Rebellion</a> reference card, they place the Sorrow (tile 94) where a minor faction home system would go, and place the <a href="/F_rebellion">Rebellion</a> home system (tile 118) in the common play area.<sup>7</sup>
+    <li>During setup, if a player is dealt the <a href="/F_rebellion">Rebellion</a> reference card, they place the Sorrow (tile 94) where a minor faction home system would go, and place the Rebellion home system (tile 118) in the common play area.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Same passage: &ldquo;the Creuss Gate or the Sorrow, respectively, is placed in a minor faction spot, while the home system is placed near the game board.&rdquo;</li>
         </ul></li>
@@ -134,20 +134,20 @@
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Minor Factions setup: &ldquo;If Keleres is a minor faction, choose one of its three possible home systems at random.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>Should another player have the reference card for that faction, then they take that home system, and the player with the <a href="/F_keleres">Keleres</a> reference card places a different home system at random.<sup>*</sup>
+        <li>Should another player have the reference card for that faction, then they take that home system, and the player with the Keleres reference card places a different home system at random.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The pool of player factions and minor factions cannot contain all four of the <a href="/F_argent">Argent</a>, <a href="/F_keleres">Keleres</a>, <a href="/F_mentak">Mentak</a> and <a href="/F_xxcha">Xxcha</a>.<sup>*</sup>
+        <li>The pool of player factions and minor factions cannot contain all four of the Argent, Keleres, Mentak and Xxcha.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>When a player controls each planet in this system, they take the <a href="/F_keleres">Keleres</a> alliance card, granting them the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, the <a href="/F_keleres">Keleres</a> commander. They are not granted the ability of the <a href="/F_argent">Argent</a>, <a href="/F_mentak">Mentak</a> or <a href="/F_xxcha">Xxcha</a> commanders.<sup>*</sup>
+        <li>When a player controls each planet in this system, they take the Keleres alliance card, granting them the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Suffi%20An">Suffi An</a>, the Keleres commander. They are not granted the ability of the Argent, Mentak or Xxcha commanders.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     </ol>
-    <li>If <a href="/F_mahact">Mahact</a> exists as a minor faction, the player that controls Ixth gains access to the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Il%20Na%20Viroset">Il Na Viroset</a>, the <a href="/F_mahact">Mahact</a> commander.<sup>7</sup>
+    <li>If <a href="/F_mahact">Mahact</a> exists as a minor faction, the player that controls Ixth gains access to the ability of <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Il%20Na%20Viroset">Il Na Viroset</a>, the Mahact commander.<sup>7</sup>
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Alliance Reference Cards: &ldquo;These cards are also used in the Alliance game variant, in some Galactic Events, and with the Yin Brotherhood&rsquo;s breakthrough card. When gained for any reason other than a reference to an &ldquo;Alliance&rdquo; promissory note, the gaining player places the card in their play area. They can use its ability.&rdquo; The Mahact alliance card carries Il Na Viroset&rsquo;s ability.</li>
         </ul></li>

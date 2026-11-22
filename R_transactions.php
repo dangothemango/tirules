@@ -26,7 +26,7 @@
     <li>If a player becomes neighbors with another player on their turn, they may then perform a transaction with that player.<sup>1</sup></li>
     <ol>
         <li>If a player stops being neighbors with another player that they have performed a transaction with this turn, but then become neighbors with that player again later that same turn, they cannot perform a second transaction with that player.<sup>1</sup></li>
-        <ol><li>The <a href="/F_nomad">Nomad</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Technologies:~:text=Temporal%20Command%20Suite"><i>Temporal Command Suite</i></a> technology may allow a second transaction with the same player in one turn.<sup>4</sup></li></ol>
+        <ol><li>The Nomad player&rsquo;s <i>Temporal Command Suite</i> technology may allow a second transaction with the same player in one turn.<sup>4</sup></li></ol>
         <li>A player may perform a transaction during combat with their opponent, even if they are neighbors only in the active system.<sup>2</sup></li>
     <li>Commodities received in a transaction cannot be given back as part of that same transaction; doing so would require a second transaction.<sup>2</sup></li>
     </ol>

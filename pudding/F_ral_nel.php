@@ -146,7 +146,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Purging Director Nel does not prevent the active player from scoring the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> objective. The active player scores <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> when they pass, then the Ral Nel player purges their hero.<sup>6</sup>
+    <li>Purging Director Nel does not prevent the active player from scoring the <i>Prove Endurance</i> objective. The active player scores <i>Prove Endurance</i> when they pass, then the Ral Nel player purges their hero.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Director Nel (Hero): Does purging Director Nel block another player from scoring Prove Endurance? A: No, the active player can score Prove Endurance when they pass. RalNel then purges their hero.&rdquo;</li>
         </ul></li>

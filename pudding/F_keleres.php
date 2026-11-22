@@ -48,7 +48,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the Keleres player then uses the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Repeal%20Law"><i>Repeal Law</i></a> action card, targeting the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Political%20Censure"><i>Political Censure</i></a> law, then it will be discarded without the Keleres player losing the victory point.<sup>*</sup>
+    <ol><li>If the Keleres player then uses the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Repeal%20Law"><i>Repeal Law</i></a> action card, targeting the <i>Political Censure</i> law, then it will be discarded without the Keleres player losing the victory point.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -93,7 +93,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;PRODUCTION is all or nothing during tactical actions, so you couldn&rsquo;t choose to only use one ability in a system to then use another one in the same system.&rdquo;</li>
         </ul></li></ol>
-    <li>The Keleres player may use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the additional <sc>Production</sc> ability, and when they use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the original <sc>Production</sc> ability, they may use an additional <sc>Production</sc> ability.<sup>*</sup>
+    <li>The Keleres player may use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the additional <sc>Production</sc> ability, and when they use Custodia Vigilia as the original <sc>Production</sc> ability, they may use an additional <sc>Production</sc> ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -119,7 +119,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> agenda is resolved, the players will also vote on the elected agenda during the Keleres player&rsquo;s action.<sup>*</sup>
+    <li>If the <i>Miscount Disclosed</i> agenda is resolved, the players will also vote on the elected agenda during the Keleres player&rsquo;s action.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -219,7 +219,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;Terraform can be placed on it.&rdquo;</li>
         </ul></li>
-    <ol><li>If <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> is attached to Custodia Vigilia, it may be explored.<sup>4</sup>
+    <ol><li>If <i>Terraform</i> is attached to Custodia Vigilia, it may be explored.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Custodia Vigilia count as a planet for objectives? Agendas? &hellip;&rdquo; &ldquo;It may be explored.&rdquo;</li>
         </ul></li></ol>

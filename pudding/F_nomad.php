@@ -67,7 +67,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li><i>Temporal Command Suite</i> may allow the Nomad player to perform a transaction at a time they usually could not. For example, if the <a href="/F_mentak">Mentak</a> player exhausts their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Nomad player may use <i>Temporal Command Suite</i> and then perform a transaction with the <a href="/F_mentak">Mentak</a> player.<sup>*</sup>
+    <ol><li><i>Temporal Command Suite</i> may allow the Nomad player to perform a transaction at a time they usually could not. For example, if the <a href="/F_mentak">Mentak</a> player exhausts their agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a>, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Nomad player may use <i>Temporal Command Suite</i> and then perform a transaction with the Mentak player.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -79,15 +79,15 @@
 
 <h2 id="memoria"><a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Flagship:~:text=Memoria">Memoria</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
-    <li>Only the <i>Memoria</i> is adjacent to systems with a <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a>. Other ships cannot move between the <i>Memoria</i>&rsquo;s system and a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> using this ability.<sup>*</sup>
+    <li>Only the <i>Memoria</i> is adjacent to systems with a <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a>. Other ships cannot move between the <i>Memoria</i>&rsquo;s system and a system containing a Quantum Manipulator using this ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>Other players cannot use the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability of units in the same system as a <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> against the <i>Memoria</i>, unless those units are adjacent using another adjacency method.<sup>*</sup>
+    <li>Other players cannot use the <a href="https://twilight-imperium.fandom.com/wiki/PDS#Upgraded_Unit:~:text=Deep%20Space%20Cannon"><sc>Deep Space Cannon</sc></a> ability of units in the same system as a Quantum Manipulator against the <i>Memoria</i>, unless those units are adjacent using another adjacency method.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>The <i>Memoria</i> cannot retreat to a system containing a <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a>, unless it is adjacent to that system using another adjacency method.<sup>1</sup>
+    <li>The <i>Memoria</i> cannot retreat to a system containing a Quantum Manipulator, unless it is adjacent to that system using another adjacency method.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 78.7b: &ldquo;To retreat, a player takes all of their ships with a move value in the combat and moves them to a single system that is adjacent to the active system.&rdquo; The retreat destination must be a system adjacent to the active system; the Memoria&rsquo;s ability makes only the ship adjacent to mech systems, not its system.</li>
         </ul></li>
@@ -95,7 +95,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do ships in Mecatol Rex&rsquo;s system, or in an anomaly, count as adjacent to it for objectives?&rdquo;: &ldquo;Intimidate Council needs ships in two different systems next to Mecatol Rex.&rdquo; The objective needs the systems to be adjacent, not the ships; the Memoria&rsquo;s ability makes only the ship adjacent to mech systems.</li>
         </ul></li>
-    <li>The <i>Memoria</i> is adjacent to the system that the <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> is in before movement, regardless of if that <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Mech:~:text=Quantum%20Manipulator">Quantum Manipulator</a> is transported during that movement.<sup>*</sup>
+    <li>The <i>Memoria</i> is adjacent to the system that the Quantum Manipulator is in before movement, regardless of if that Quantum Manipulator is transported during that movement.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -107,7 +107,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>For example, if the Nomad player successfully predicts the outcome of an agenda via the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Trade%20Rider"><i>Trade Rider</i></a> action card, they could put either the trade goods gained from the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Trade%20Rider"><i>Trade Rider</i></a>, or from <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=Future%20Sight"><sc>Future Sight</sc></a>, but not both.<sup>*</sup>
+    <ol><li>For example, if the Nomad player successfully predicts the outcome of an agenda via the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Trade%20Rider"><i>Trade Rider</i></a> action card, they could put either the trade goods gained from the <i>Trade Rider</i>, or from <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Abilities:~:text=Future%20Sight"><sc>Future Sight</sc></a>, but not both.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -159,7 +159,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>This includes the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Fighter%20Prototype"><i>Fighter Prototype</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Morale%20Boost"><i>Morale Boost</i></a> action cards, the <a href="/F_letnev">Letnev</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Abilities:~:text=Munitions%20Reserves"><sc>Munitions Reserves</sc></a> faction ability, the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Technologies:~:text=Supercharge"><i>Supercharge</i></a> faction technology, the <a href="/F_letnev">Letnev</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding"><i>War Funding</i></a> promissory note, the <a href="/F_letnev">Letnev</a> agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a>, and the <a href="/F_sol">Sol</a> agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Evelyn%20DeLouis">Evelyn DeLouis</a>.<sup>*</sup>
+    <ol><li>This includes the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technology, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Fighter%20Prototype"><i>Fighter Prototype</i></a> and <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Morale%20Boost"><i>Morale Boost</i></a> action cards, the <a href="/F_letnev">Letnev</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Abilities:~:text=Munitions%20Reserves"><sc>Munitions Reserves</sc></a> faction ability, the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Technologies:~:text=Supercharge"><i>Supercharge</i></a> faction technology, the Letnev <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding"><i>War Funding</i></a> promissory note, the Letnev agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a>, and the <a href="/F_sol">Sol</a> agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Evelyn%20DeLouis">Evelyn DeLouis</a>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -167,7 +167,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>This includes the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid</i></a> technologies, the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Fighter%20Prototype"><i>Fighter Prototype</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Morale%20Boost"><i>Morale Boost</i></a> action cards, the <a href="/F_lizix">L1Z1X</a> <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> or the <a href="/F_letnev">Letnev</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Abilities:~:text=Munitions%20Reserves"><sc>Munitions Reserves</sc></a> faction abilities, the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Faction_Technologies:~:text=Supercharge"><i>Supercharge</i></a> faction technology, the <a href="/F_letnev">Letnev</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding"><i>War Funding</i></a> promissory note, the <a href="/F_letnev">Letnev</a> flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Flagship:~:text=Arc%20Secundus"><i>Arc Secundus</i></a>, the <a href="/F_letnev">Letnev</a> mech, a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper"><i>Dunlain Reaper</i></a>, the <a href="/F_norr">N&rsquo;orr</a> <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a> dreadnought ability, the <a href="/F_keleres">Keleres</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Overwing%20Zeta"><i>Overwing Zeta</i></a> hero ability, the <a href="/F_letnev">Letnev</a> agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Leaders:~:text=Viscount%20Unlenn">Viscount Unlenn</a>, or the <a href="/F_sol">Sol</a> agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Federation_of_Sol#Leaders:~:text=Evelyn%20DeLouis">Evelyn DeLouis</a>.<sup>*</sup>
+    <ol><li>This includes the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Duranium_Armor"><i>Duranium Armor</i></a> or <i>Magen Defense Grid</i> technologies, the <i>Fighter Prototype</i> or <i>Morale Boost</i> action cards, the <a href="/F_lizix">L1Z1X</a> <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> or the Letnev <sc>Munitions Reserves</sc> faction abilities, the Naaz&ndash;Rokha <i>Supercharge</i> faction technology, the Letnev <i>War Funding</i> promissory note, the Letnev flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Flagship:~:text=Arc%20Secundus"><i>Arc Secundus</i></a>, the Letnev mech, a <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Mech:~:text=Dunlain%20Reaper"><i>Dunlain Reaper</i></a>, the <a href="/F_norr">N&rsquo;orr</a> <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Exotrireme"><i>Exotrireme II</i></a> dreadnought ability, the <a href="/F_keleres">Keleres</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Leaders:~:text=Overwing%20Zeta"><i>Overwing Zeta</i></a> hero ability, the Letnev agent, Viscount Unlenn, or the Sol agent, Evelyn DeLouis.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -176,11 +176,11 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>If The Thundarian is used after the <a href="/F_hacan">Hacan</a> player has spent trade goods for the ability of their flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Flagship:~:text=Wrath%20of%20Kenara"><i>Wrath of Kenara</i></a>, those trade goods remain spent, but the +1 to combat rolls will not be applied for the subsequent dice rolls. The <a href="/F_hacan">Hacan</a> player may spend trade goods after the subsequent dice roll to use the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Flagship:~:text=Wrath%20of%20Kenara"><i>Wrath of Kenara</i></a> for the new results.<sup>*</sup>
+        <li>If The Thundarian is used after the <a href="/F_hacan">Hacan</a> player has spent trade goods for the ability of their flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Emirates_of_Hacan#Flagship:~:text=Wrath%20of%20Kenara"><i>Wrath of Kenara</i></a>, those trade goods remain spent, but the +1 to combat rolls will not be applied for the subsequent dice rolls. The Hacan player may spend trade goods after the subsequent dice roll to use the ability of the <i>Wrath of Kenara</i> for the new results.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If The Thundarian is used after a player has used the ability of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> relic, any units that did not produce hits and so were destroyed remain destroyed, but the +1 to combat rolls will not be applied for the subsequent dice rolls. That player may use the ability of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> on the subsequent dice roll.<sup>*</sup>
+        <li>If The Thundarian is used after a player has used the ability of <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=The%20Crown%20of%20Thalnos"><i>The Crown of Thalnos</i></a> relic, any units that did not produce hits and so were destroyed remain destroyed, but the +1 to combat rolls will not be applied for the subsequent dice rolls. That player may use the ability of <i>The Crown of Thalnos</i> on the subsequent dice roll.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -188,11 +188,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If The Thundarian is used after a player has played the <a href="/F_letnev">Letnev</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#Faction_Promissory_Note:~:text=War%20Funding"><i>War Funding Ω</i></a> promissory note, it will be returned without effect on the subsequent roll.<sup>*</sup>
+        <li>If The Thundarian is used after a player has played the Letnev <i>War Funding Ω</i> promissory note, it will be returned without effect on the subsequent roll.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> faction technology would produce a hit, that hit is not assigned if The Thundarian is used.<sup>*</sup>
+        <li>If the N&rsquo;orr player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> faction technology would produce a hit, that hit is not assigned if The Thundarian is used.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -224,11 +224,11 @@
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
     <ol>
-        <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda is discarded, the elected objective is neither a public objective nor a secret objective. Navarch Feng cannot be unlocked by having scored it.<sup>*</sup>
+        <li>If the <i>Classified Document Leaks</i> agenda is discarded, the elected objective is neither a public objective nor a secret objective. Navarch Feng cannot be unlocked by having scored it.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>Commanders cannot become locked after being unlocked. If the Nomad player has only one scored secret objective, and it is elected by the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a> agenda, this will have no effect on Navarch Feng.<sup>*</sup>
+        <li>Commanders cannot become locked after being unlocked. If the Nomad player has only one scored secret objective, and it is elected by the <i>Classified Document Leaks</i> agenda, this will have no effect on Navarch Feng.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

@@ -112,7 +112,7 @@
     </ol>
     <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup></li>
     <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
-    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup></li></ol>
+    <ol><li>If a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup></li></ol>
     </ol>
 
 <h2 id="become-a-martyr"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Become%20a%20Martyr">Become a Martyr</a></h2>
@@ -120,7 +120,7 @@
     <li>The lost planet may be in any player&rsquo;s home system. It does not have to be a planet in the home system of the player scoring <i>Become a Martyr</i>.<sup>2</sup></li>
     <ol><li>The lost planet may be in the home system of an eliminated player.<sup>6</sup></li></ol>
     <li>If the lost planet is the last planet a player controls, that player will be eliminated before they score <i>Become a Martyr</i>, if they meet the other requirements for elimination.<sup>4</sup></li>
-    <li>If the player with the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> relic loses their home system, they will lose the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> card and the associated victory point before they may score <i>Become a Martyr</i>.<sup>4</sup></li>
+    <li>If the player with the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> relic loses their home system, they will lose the <i>Shard of the Throne</i> card and the associated victory point before they may score <i>Become a Martyr</i>.<sup>4</sup></li>
     <li>A player who loses their home system due to <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Silver%20Flame"><i>The Silver Flame</i></a> relic may score <i>Become a Martyr</i>.<sup>6,9</sup></li>
     <li>The attacker will have the opportunity to score a secret objective before the defender has the opportunity to score <i>Become a Martyr</i>.<sup>*</sup></li>
     </ol>
@@ -177,7 +177,7 @@
     <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.<sup>2,4</sup></li>
     <ol>
         <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.<sup>2</sup></li>
-        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the <a href="/F_creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup></li>
+        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the Creuss home system and the wormhole nexus.<sup>*</sup></li>
     </ol>
     </ol>
 
@@ -213,7 +213,7 @@
     <li>A player involved in a combat due to the <a href="/F_mahact">Mahact</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Objectives#FAQ:~:text=Benediction"><i>Benediction</i></a> hero ability may score <i>Demonstrate Your Power</i> after that combat.<sup>*</sup></li>
     <li>Units that are temporarily ships for the duration of a space combat, such as those made so by the <a href="/F_nekro">Nekro</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, or the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s Z&ndash;Grav Eidolon mechs, may count toward scoring <i>Demonstrate Your Power</i>.<sup>*</sup></li>
     <li>The <a href="/F_mentak">Mentak</a> player may use the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Sleeper%20Cell"><i>Sleeper Cell</i></a> ability of their hero, during the last round of combat to place ships before scoring <i>Demonstrate Your Power</i>. However, fleet pool limits are also checked before scoring.<sup>*</sup></li>
-    <ol><li>The <a href="/F_mentak">Mentak</a> player cannot use the ability of their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations"><i>Salvage Operations</i></a> technology until after the window in which to score <i>Demonstrate Your Power</i>.<sup>*</sup></li></ol>
+    <ol><li>The Mentak player cannot use the ability of their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations"><i>Salvage Operations</i></a> technology until after the window in which to score <i>Demonstrate Your Power</i>.<sup>*</sup></li></ol>
     </ol>
 
 <h2 id="destroy-heretical-works"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Destroy%20Heretical%20Works">Destroy Heretical Works</a></h2>
@@ -419,7 +419,7 @@
     </ol>
     <li>If Mirage is placed in an anomaly, or the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_II:~:text=Nano-Forge"><i>Nano&ndash;Forge</i></a> relic is attached to a planet in an anomaly, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup></li>
     <li>A system containing a <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is an anomaly.<sup>2,4</sup></li>
-    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup></li></ol>
+    <ol><li>If a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup></li></ol>
     </ol>
 
 <h2 id="manipulate-galactic-law"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_2:~:text=Manipulate%20Galactic%20Law">Manipulate Galactic Law</a></h2>
@@ -479,7 +479,7 @@
     <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.<sup>2,4</sup></li>
     <ol>
         <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.<sup>2</sup></li>
-        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the <a href="/F_creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup></li>
+        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the Creuss home system and the wormhole nexus.<sup>*</sup></li>
     </ol>
     </ol>
 
@@ -536,7 +536,7 @@
     <li>A player that currently outright has the most victory points cannot score <i>Spark a Rebellion</i>.<sup>2</sup></li>
     <li>If multiple players are tied for the most victory points, <i>Spark a Rebellion</i> may be scored by winning a combat against any of them.<sup>2</sup></li>
     <ol><li><i>Spark a Rebellion</i> may be scored by winning a combat against a player with zero victory points if all players have zero victory points.<sup>2</sup></li></ol>
-    <li class="removed">A player who wins a combat against the owner of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> law, who has the most victory points, may both score <i>Spark a Rebellion</i> and gain <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a>.<sup>2</sup></li>
+    <li class="removed">A player who wins a combat against the owner of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> law, who has the most victory points, may both score <i>Spark a Rebellion</i> and gain Shard of the Throne.<sup>2</sup></li>
     </ol>
 
 <h2 id="stake-your-claim"><a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_4:~:text=Stake%20Your%20Claim">Stake Your Claim</a></h2>

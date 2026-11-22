@@ -10,7 +10,7 @@
         <li data-src="1,2,3">If the active player has multiple units in the active system that have the <sc>Production</sc> ability, that player can produce a number of units up to the combined total of their units&rsquo; production values in that system.</li>
         <li data-src="1,2,3">When producing fighters or infantry, each individual unit counts toward the producing unit&rsquo;s production limit.</li>
         <li data-src="1">A player can choose to produce one fighter or infantry instead of two, but must still pay the entire cost.</li>
-        <li data-src="1,5"><sc>Production</sc> value from <a href="/F_arborec">Arborec</a> space docks cannot be used to produce infantry, even if the <a href="/F_arborec">Arborec</a> player controls other units that have <sc>Production</sc> in the same system.</li>
+        <li data-src="1,5"><sc>Production</sc> value from <a href="/F_arborec">Arborec</a> space docks cannot be used to produce infantry, even if the Arborec player controls other units that have <sc>Production</sc> in the same system.</li>
     </ol>
     <li data-src="1,2,3">When a player produces ships by using <sc>Production</sc> that player must place them in the active system.</li>
     <li data-src="1,2,3,5">When a player produces ground forces, that player must place those units on planets that contain a unit that used its <sc>Production</sc> ability.</li>

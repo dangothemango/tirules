@@ -19,7 +19,7 @@
     <li>The Keleres player and all of the other players treat all laws as blank for the turn.<sup>4</sup></li>
     <li>The blanked laws come back into effect at the end of the turn.<sup>4,12</sup></li>
     <li>If the Keleres player owns the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Political%20Censure"><i>Political Censure</i></a> law, they will not lose a victory point when it is blanked, and they may use action cards during this turn.<sup>*</sup></li>
-    <ol><li>If the Keleres player then uses the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Repeal%20Law"><i>Repeal Law</i></a> action card, targeting the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#New_Agendas:~:text=Political%20Censure"><i>Political Censure</i></a> law, then it will be discarded without the Keleres player losing the victory point.<sup>*</sup></li></ol>
+    <ol><li>If the Keleres player then uses the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Repeal%20Law"><i>Repeal Law</i></a> action card, targeting the <i>Political Censure</i> law, then it will be discarded without the Keleres player losing the victory point.<sup>*</sup></li></ol>
     </ol>
 
 <h2 id="keleres-rider"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Promissory_Note:~:text=Keleres%20Rider">Keleres Rider</a> <sub>(Promissory Note)</sub></h2>
@@ -36,7 +36,7 @@
     <li>Any abilities that trigger &ldquo;when/after a unit uses <sc>Production</sc>&rdquo; will trigger an additional time, for example, the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology.<sup>4</sup></li>
     <li>The additional <sc>Production</sc> ability cannot belong to the same unit as the original <sc>Production</sc> ability.<sup>4</sup></li>
     <ol><li>During a tactical action, the active player must use every <sc>Production</sc> ability of their units in the active system, or none of them. As such, the additional <sc>Production</sc> ability must belong to a unit in a different system.<sup>4</sup></li></ol>
-    <li>The Keleres player may use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the additional <sc>Production</sc> ability, and when they use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the original <sc>Production</sc> ability, they may use an additional <sc>Production</sc> ability.<sup>*</sup></li>
+    <li>The Keleres player may use <a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Faction_Specific_Components:~:text=Custodia%20Vigilia">Custodia Vigilia</a> as the additional <sc>Production</sc> ability, and when they use Custodia Vigilia as the original <sc>Production</sc> ability, they may use an additional <sc>Production</sc> ability.<sup>*</sup></li>
     <li>The original <sc>Production</sc> ability must be fully resolved, before the Keleres player may use an additional <sc>Production</sc> ability.<sup>*</sup></li>
     <ol><li>The Keleres player cannot pay one resource for two fighters or infantry, then place one with a unit using the original <sc>Production</sc> ability and one with the unit using the additional <sc>Production</sc> ability.<sup>*</sup></li></ol>
     </ol>
@@ -45,7 +45,7 @@
     <ol class="note">
     <li>Riders may be played when resolving <i>Executive Order</i>.<sup>2,6,9</sup></li>
     <li>If the Keleres player draws one of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Classified%20Document%20Leaks"><i>Classified Document Leaks</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Judicial%20Abolishment"><i>Judicial Abolishment</i></a>, <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> or <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=New%20Constitution"><i>New Constitution</i></a> agendas, they will discard it if required and reveal a new agenda from the deck.<sup>*</sup></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Miscount%20Disclosed"><i>Miscount Disclosed</i></a> agenda is resolved, the players will also vote on the elected agenda during the Keleres player&rsquo;s action.<sup>*</sup></li>
+    <li>If the <i>Miscount Disclosed</i> agenda is resolved, the players will also vote on the elected agenda during the Keleres player&rsquo;s action.<sup>*</sup></li>
     <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, starting with the player with the <i>Leadership</i> strategy card (or next lowest initiative value should no player have the <i>Leadership</i> strategy card), regardless of the Keleres player&rsquo;s initiative.<sup>*</sup></li>
     <li>Players exhaust planets to cast votes when resolving <i>Executive Order</i>, even if the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Representative%20Government"><i>Representative Government</i></a> law is in play, which only affects voting during the agenda phase.<sup>6</sup></li>
     <li>If a third law is put into play, the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Agenda_Phase:~:text=Dictate%20Policy"><i>Dictate Policy</i></a> secret objective cannot be scored until the agenda phase.<sup>2</sup></li>
@@ -75,7 +75,7 @@
     <li>When the Keleres player uses the <sc>Production</sc> ability of Custodia Vigilia, it is treated as though it were a unit.<sup>4</sup></li>
     <ol><li>This may trigger the abilities of the <a href="https://twilight-imperium.fandom.com/wiki/Cybernetic_Technologies#Sarween_Tools"><i>Sarween Tools</i></a> technology, and other similar abilities.<sup>4</sup></li></ol>
     <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> faction promissory note may be attached to Custodia Vigilia.<sup>4</sup></li>
-    <ol><li>If <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Promissory_Note:~:text=Terraform"><i>Terraform</i></a> is attached to Custodia Vigilia, it may be explored.<sup>4</sup></li></ol>
+    <ol><li>If <i>Terraform</i> is attached to Custodia Vigilia, it may be explored.<sup>4</sup></li></ol>
     </ol>
 
 <h2 id="artemiris"><a href="https://twilight-imperium.fandom.com/wiki/The_Council_Keleres#Flagship:~:text=Artemiris">Artemiris</a> <sub>(Flagship)</sub></h2>

@@ -70,7 +70,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does an effect that casts &lsquo;additional votes,&rsquo; such as the &lsquo;Bribery&rsquo; action card, create a timing window for playing the &lsquo;Distinguished Councilor&rsquo; action card? A: No. The &lsquo;Distinguished Councilor&rsquo; action card can only be played after you vote during the &lsquo;Vote&rsquo; step of resolving an agenda.&rdquo;</li>
         </ul></li>
-    <ol><li>The speaker may play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor"><i>Distinguished Councilor</i></a> after they or another player play <i>Bribery</i>, as both are played in the timing window after the speaker votes.<sup>5</sup>
+    <ol><li>The speaker may play <i>Distinguished Councilor</i> after they or another player play <i>Bribery</i>, as both are played in the timing window after the speaker votes.<sup>5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (0 hr, Jul 19, 2018), on resolving abilities in the same agenda-phase timing window: &ldquo;Once someone has played an ability, every other player will have exactly one chance to continue.&rdquo; Bribery (&ldquo;After the speaker votes&rdquo;) and the speaker&rsquo;s Distinguished Councilor (&ldquo;After you cast votes&rdquo;) share the window opened by the speaker&rsquo;s vote, so the speaker gets another chance after a Bribery. The LRR FAQ (&ldquo;Bribery&rdquo; does not &ldquo;create a timing window for playing the &lsquo;Distinguished Councilor&rsquo; action card&rdquo;) is about the Bribery player&rsquo;s own extra votes, not this case.</li>
         </ul></li></ol>
@@ -658,7 +658,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>Players will play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> after the speaker votes. The player that played <i>Hack Election &Omega;</i> cannot play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a>.<sup>1</sup>
+    <ol><li>Players will play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> after the speaker votes. The player that played <i>Hack Election &Omega;</i> cannot play <i>Bribery</i>.<sup>1</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR FAQ: Bribery and &ldquo;any effect with the timing window of &lsquo;after the speaker votes&rsquo;&rdquo; are played after the speaker&rsquo;s voting window.</li>
         </ul></li></ol>
@@ -878,7 +878,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If a player takes the strategy card with trade goods on it from the player who played <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability"><i>Political Stability</i></a>, using the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Imperial%20Arbiter"><i>Imperial Arbiter</i></a> law or similar, they will not gain the trade goods, which will remain on the strategy card.<sup>*</sup>
+    <ol><li>If a player takes the strategy card with trade goods on it from the player who played <i>Political Stability</i>, using the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Imperial%20Arbiter"><i>Imperial Arbiter</i></a> law or similar, they will not gain the trade goods, which will remain on the strategy card.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -1496,7 +1496,7 @@
 
 <h2 id="spy"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Spy">Spy</a></h2>
     <ol class="note">
-    <li>If the targeted player has <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> in their hand, they must first give a random action card to the player who played <i>Spy</i>. Only if the card they gave was not <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> may they then play it to take <i>Spy</i> into their hand from the discard pile.<sup>*</sup>
+    <li>If the targeted player has <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> in their hand, they must first give a random action card to the player who played <i>Spy</i>. Only if the card they gave was not <i>Reverse Engineer</i> may they then play it to take <i>Spy</i> into their hand from the discard pile.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -1647,11 +1647,11 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR errata: &ldquo;The text of the &lsquo;Veto&rsquo; action card should read as follows: &lsquo;When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.&rsquo;&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal: &ldquo;Veto and Political Favor were errata&rsquo;d to &lsquo;when&rsquo; timing to match Quash.&rdquo;</li>
         </ul></li>
-    <li><i>Veto</i>, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note are all played in the same timing window, before the rider timing window.<sup>2</sup>
+    <li><i>Veto</i>, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability, the Xxcha <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note are all played in the same timing window, before the rider timing window.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do &lsquo;when an agenda is revealed&rsquo; effects like Veto and Quash come before Riders?&rdquo;: &ldquo;Yes &mdash; &lsquo;when&rsquo; effects (Quash, Veto, Political Favor, Political Secret) resolve first, then &lsquo;after&rsquo; effects (Riders &hellip;).&rdquo;</li>
         </ul></li>
-    <ol><li>If <i>Veto</i> is used after any <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory notes have been played, those will have no effect on the replacement agenda.<sup>1</sup>
+    <ol><li>If <i>Veto</i> is used after any <i>Political Secret</i> promissory notes have been played, those will have no effect on the replacement agenda.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If a player&rsquo;s &lsquo;Political Secret&rsquo; promissory note is used against them, but that agenda is subsequently discarded by an effect such as the &lsquo;Veto&rsquo; action card, can that player vote &hellip;? A: Yes. It is a new agenda and thus the effect of the player&rsquo;s &lsquo;Political Secret&rsquo; is ended.&rdquo;</li>
         </ul></li></ol>

@@ -7,7 +7,7 @@
     <ol class="lrr">
     <li data-src="1,2,3">Players can resolve transactions with their neighbors.</li>
     <li data-src="1,2">Players are neighbors if the adjacency of systems is granted by a wormhole.</li>
-    <li data-src="1">Players are neighbors with the Ghosts of <a href="/F_creuss">Creuss</a> if the Ghosts of <a href="/F_creuss">Creuss</a>&rsquo; &ldquo;Quantum Entanglement&rdquo; faction ability is causing adjacency from the perspective of the Ghosts of <a href="/F_creuss">Creuss</a> player.</li>
+    <li data-src="1">Players are neighbors with the Ghosts of <a href="/F_creuss">Creuss</a> if the Ghosts of Creuss&rsquo; &ldquo;Quantum Entanglement&rdquo; faction ability is causing adjacency from the perspective of the Ghosts of Creuss player.</li>
     </ol>
 
 <h2>Notes</h2>

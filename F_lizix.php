@@ -16,7 +16,7 @@
     <li>The L1Z1X player may use their <sc>Harrow</sc> ability at the end of the round in which their last ground force was destroyed. This may cause the combat to end in a draw.<sup>2,5</sup></li>
     <li>Every unit in the active system with the <sc>Bombardment</sc> ability may use it against the planet the ground combat is taking place on, regardless of whether that unit bombarded that planet during the <b>Bombardment</b> step of the invasion.<sup>1,2,5</sup></li>
     <ol><li>An Annihilator may bombard when using <sc>Harrow</sc> if that mech is not currently participating in ground combat, even if it has been committed to a different planet, and has been or will be involved in another ground combat during the current invasion.<sup>2</sup></li></ol>
-    <li>The L1Z1X player may use the ability of the <span class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a></span> or <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i></a> technologies whenever they bombard.<sup>10,15</sup></li>
+    <li>The L1Z1X player may use the ability of the <span class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a></span> or <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> technologies whenever they bombard.<sup>10,15</sup></li>
     </ol>
 
 <h2 id="cybernetic-enhancements" class="removed"><a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Promissory_Note:~:text=Cybernetic%20Enhancements">Cybernetic Enhancements</a> (replaced by &Omega;) <sub>(Promissory Note)</sub></h2>
@@ -69,7 +69,7 @@
     <ol><li>Ships do not roll for removal if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic.<sup>11</sup></li></ol>
     <li>Ships cannot move into a supernova, even with <i>Dark Space Navigation</i>.<sup>1,2,3</sup></li>
     <ol>
-        <li>Ships may move into a supernova if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic.<sup>11</sup></li>
+        <li>Ships may move into a supernova if the L1Z1X player owns the <i>Circlet of the Void</i> relic.<sup>11</sup></li>
         <li>Ships may travel into an asteroid field only if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Antimass_Deflectors"><i>Antimass Deflectors</i></a> technology.<sup>2</sup></li>
     </ol>
     <li><i>Dark Space Navigation</i> may be used to move ships into the wormhole nexus. If the nexus is inactive, this will cause it to activate.<sup>1,8</sup></li>

@@ -11,7 +11,7 @@
         <li data-src="1,3">The <sc>Bombardment</sc> ability is displayed as &ldquo;<sc>Bombardment</sc> X (&times;Y)&rdquo;. The X is the minimum value needed for a die to produce a hit, and Y is the number of dice rolled. Not all <sc>Bombardment</sc> abilities have a (Y) value; a bombardment roll for such a unit consists of one die.</li>
         <li data-src="1,2">Game effects that reroll, modify, or otherwise affect combat rolls do not affect bombardment rolls.</li>
         <li data-src="1,2,3">Multiple planets in a system may be bombarded, but a player must declare which planet a unit is bombarding before making a bombardment roll.</li>
-        <li data-src="1">The <a href="/F_lizix">L1Z1X</a>&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability does not affect the <a href="/F_lizix">L1Z1X</a> player&rsquo;s own ground forces.</li>
+        <li data-src="1">The <a href="/F_lizix">L1Z1X</a>&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_L1Z1X_Mindnet#Faction_Abilities:~:text=Harrow"><sc>Harrow</sc></a> ability does not affect the L1Z1X player&rsquo;s own ground forces.</li>
         <li data-src="1,2">Planets that contain a unit with the <sc>Planetary Shield</sc> ability cannot be bombarded.</li>
         <li>(Thunder&rsquo;s Edge) If a player makes a bombardment roll against a planet that contains coexisting units, that player chooses which units with <sc>Bombardment</sc> are bombarding which other player&rsquo;s units, and rolls against each player separately.<sup>7</sup></li>
     </ol>

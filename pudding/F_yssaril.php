@@ -107,15 +107,15 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Yssaril player duplicates the <a href="/F_saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a> agent, they may do so before or after other effects are used to modify any ship&rsquo;s move value. This includes the <a href="/F_saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a> agent effect.<sup>*</sup>
+    <li>If the Yssaril player duplicates the <a href="/F_saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a> agent, they may do so before or after other effects are used to modify any ship&rsquo;s move value. This includes the Saar player&rsquo;s Captain Mendosa agent effect.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If both the Yssaril player and the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player wish to target the same player with the <a href="/F_vuilraith">Vuil&rsquo;raith</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Stillness%20of%20Stars">The Stillness of Stars</a> agent ability, then they will both be able to capture a ship, resolving in initiative order from the active player. Both players will still use the target player&rsquo;s full commodity value to determine which units they may capture. Should the first player to resolve capture the last of a type of unit from the target player&rsquo;s reinforcements, the latter player cannot capture a unit of the same type.<sup>*</sup>
+    <li>If both the Yssaril player and the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player wish to target the same player with the Vuil&rsquo;raith <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Stillness%20of%20Stars">The Stillness of Stars</a> agent ability, then they will both be able to capture a ship, resolving in initiative order from the active player. Both players will still use the target player&rsquo;s full commodity value to determine which units they may capture. Should the first player to resolve capture the last of a type of unit from the target player&rsquo;s reinforcements, the latter player cannot capture a unit of the same type.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Yssaril player duplicates the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a> agent, then the Yssaril player and the player targeted by the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability will draw action cards. The <a href="/F_mentak">Mentak</a> player will not.<sup>*</sup>
+    <li>If the Yssaril player duplicates the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Suffi%20An">Suffi An</a> agent, then the Yssaril player and the player targeted by the Mentak player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Pillage"><sc>Pillage</sc></a> ability will draw action cards. The Mentak player will not.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -123,7 +123,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If either the Yssaril player or the <a href="/F_nomad">Nomad</a> player resolve the effect of the <a href="/F_nomad">Nomad</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=The%20Thundarian">The Thundarian</a> agent, the other will be unable to resolve the same effect immediately. They must wait until dice are rolled again before they may resolve the effect.<sup>*</sup>
+    <li>If either the Yssaril player or the <a href="/F_nomad">Nomad</a> player resolve the effect of the Nomad player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Leaders:~:text=The%20Thundarian">The Thundarian</a> agent, the other will be unable to resolve the same effect immediately. They must wait until dice are rolled again before they may resolve the effect.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

@@ -109,7 +109,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>The <i>Arc Secundus</i> has no effect on the <span class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;</i></a></span> or <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Magen_Defense_Grid"><i>Magen Defense Grid &Omega;&Omega;</i></a> technologies.<sup>*</sup>
+    <ol><li>The <i>Arc Secundus</i> has no effect on the <span class="removed"><i>Magen Defense Grid &Omega;</i></span> or <i>Magen Defense Grid &Omega;&Omega;</i> technologies.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -180,11 +180,11 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>All effects that modify a ship&rsquo;s move value, such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology and the <a href="/F_saar">Saar</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a>, are applied before <i>Gravleash Maneuvers</i>, and so are included in the copied value. The <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Crucible"><i>Crucible</i></a> promissory note is the exception.<sup>6</sup>
+    <li>All effects that modify a ship&rsquo;s move value, such as the <i>Gravity Drive</i> technology and the <a href="/F_saar">Saar</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Leaders:~:text=Captain%20Mendosa">Captain Mendosa</a>, are applied before <i>Gravleash Maneuvers</i>, and so are included in the copied value. The <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Crucible"><i>Crucible</i></a> promissory note is the exception.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What is the interaction between Gravleash Maneuvers and Gravity Drive\Mendosa? A: All modifiers except for crucible happen before the gravleash window and apply to its bonus movement.&rdquo;</li>
         </ul></li>
-    <li>The value is copied after the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a> technology is applied. A ship that copies another ship&rsquo;s move value cannot then apply +1 from <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Gravity_Drive"><i>Gravity Drive</i></a>.<sup>6</sup>
+    <li>The value is copied after the <i>Gravity Drive</i> technology is applied. A ship that copies another ship&rsquo;s move value cannot then apply +1 from <i>Gravity Drive</i>.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;can a slow ship copy a value, then get the +1 from Gravity Drive? &hellip; A: No the copy happens after gravity drive.&rdquo;</li>
         </ul></li>

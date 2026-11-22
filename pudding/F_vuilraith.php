@@ -154,7 +154,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do Vuil&rsquo;raith ships roll for Cormund&rsquo;s gravity rift if their Dimensional Tear dock is there, and do two tears stack?&rdquo;: &ldquo;No roll: a system with more than one rift counts as one gravity rift, and Dimensional Tear says your ships don&rsquo;t roll for that system&rsquo;s rift.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_nekro">Nekro</a> player has copied Dimensional Tear II, systems containing the <a href="/F_nekro">Nekro</a> player&rsquo;s space docks are gravity rifts for the Vuil&rsquo;raith player&rsquo;s ships. The Vuil&rsquo;raith player must roll for removal for each ship that moves out of or through those systems.<sup>*</sup>
+    <li>If the <a href="/F_nekro">Nekro</a> player has copied Dimensional Tear II, systems containing the Nekro player&rsquo;s space docks are gravity rifts for the Vuil&rsquo;raith player&rsquo;s ships. The Vuil&rsquo;raith player must roll for removal for each ship that moves out of or through those systems.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found. RulesPal (NOT USED, unconfirmed), &ldquo;Do Nekro-copied Dimensional Tears affect the Vuil&rsquo;raith &hellip;?&rdquo;: &ldquo;Tears only hinder other players&rsquo; units: Vuil&rsquo;raith ignore their own, Nekro ignore Nekro&rsquo;s, but Vuil&rsquo;raith are affected by Nekro tears.&rdquo;</li>
         </ul></li>
@@ -239,7 +239,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR 16.3: &ldquo;If a player has more fighters and ground forces in the space area of a system than the total capacity of that player&rsquo;s ships in that system, that player must remove the excess units.&rdquo; LRR 16.4: &ldquo;Fighters and ground forces are not assigned to specific ships, except while they are being transported.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_nekro">Nekro</a> player has used a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> faction technology to copy <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> II, ships in systems containing or adjacent to the <a href="/F_nekro">Nekro</a> player&rsquo;s space docks will also have to roll for capture when resolving <i>Dimensional Anchor</i>. This includes the <a href="/F_nekro">Nekro</a> player&rsquo;s own ships.<sup>*</sup>
+    <li>If the <a href="/F_nekro">Nekro</a> player has used a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> faction technology to copy <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> II, ships in systems containing or adjacent to the Nekro player&rsquo;s space docks will also have to roll for capture when resolving <i>Dimensional Anchor</i>. This includes the Nekro player&rsquo;s own ships.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

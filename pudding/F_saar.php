@@ -126,7 +126,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do movement effects like Gravity Drive and gravity rifts apply to Saar Floating Factories?&rdquo;: &ldquo;they get Gravity Drive, Flank Speed and rift bonuses, and he later confirmed they roll when leaving a gravity rift.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;You still would roll for the Floating Factory.&rdquo;</li>
         </ul></li>
-    <li>If an effect allows a Floating Factory to move through a system that contains another player&rsquo;s ships (such as the <a href="https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Light/Wave_Deflector"><i>Light/Wave Deflector</i></a> technology), it will not be blockaded in systems it moves through.<sup>*</sup>
+    <li>If an effect allows a Floating Factory to move through a system that contains another player&rsquo;s ships (such as the <i>Light/Wave Deflector</i> technology), it will not be blockaded in systems it moves through.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -167,7 +167,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>Players alternate using the <sc>Sustain Damage</sc> ability of their units, one at a time, starting with the active player, and continuing until both players decline, in a row, to use the <sc>Sustain Damage</sc> of one of their units. If both the Saar player and their opponent have a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>, then the first unit to use <sc>Sustain Damage</sc> will be the first unit that may be destroyed by a <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Direct%20Hit"><i>Direct Hit</i></a>. If the Saar player&rsquo;s unit is the last to be destroyed, and leaves no other ships in the system, then a Floating Factory in that system will not be blockaded nor destroyed.<sup>*</sup>
+    <ol><li>Players alternate using the <sc>Sustain Damage</sc> ability of their units, one at a time, starting with the active player, and continuing until both players decline, in a row, to use the <sc>Sustain Damage</sc> of one of their units. If both the Saar player and their opponent have a <i>Direct Hit</i>, then the first unit to use <sc>Sustain Damage</sc> will be the first unit that may be destroyed by a <i>Direct Hit</i>. If the Saar player&rsquo;s unit is the last to be destroyed, and leaves no other ships in the system, then a Floating Factory in that system will not be blockaded nor destroyed.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -244,7 +244,7 @@
 
 <h2 id="scavenger-zeta"><a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Mech:~:text=Scavenger%20Zeta">Scavenger Zeta</a> <sub>(Mech)</sub></h2>
     <ol class="note">
-    <li>The Saar player may perform the <sc>Deploy</sc> ability or their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability in either order. If they perform their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability first, they may pay for the <sc>Deploy</sc> ability with the gained trade good.<sup>*</sup>
+    <li>The Saar player may perform the <sc>Deploy</sc> ability or their <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Faction_Abilities:~:text=Scavenge"><sc>Scavenge</sc></a> ability in either order. If they perform their <sc>Scavenge</sc> ability first, they may pay for the <sc>Deploy</sc> ability with the gained trade good.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

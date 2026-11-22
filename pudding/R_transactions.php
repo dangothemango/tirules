@@ -33,7 +33,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 94.1: &ldquo;During the active player&rsquo;s turn, they may resolve up to one transaction with each of their neighbors.&rdquo; limit is one per neighbor per turn.</li>
         </ul></li>
-        <ol><li>The <a href="/F_nomad">Nomad</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Faction_Technologies:~:text=Temporal%20Command%20Suite"><i>Temporal Command Suite</i></a> technology may allow a second transaction with the same player in one turn.<sup>4</sup>
+        <ol><li>The Nomad player&rsquo;s <i>Temporal Command Suite</i> technology may allow a second transaction with the same player in one turn.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Does Nomad&rsquo;s Temporal Command Suite faction technology bypass transaction limits? A: Yes, Temporal Command Suite&rsquo;s transaction does not affect performing a second transaction with the same player that turn.&rdquo;</li>
         </ul></li></ol>

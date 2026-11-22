@@ -239,7 +239,7 @@
         <li><b>Implicit</b>: <sup>8</sup> PoK rulebook, Emissary Taivra card: &ldquo;that system is adjacent to all other systems that contain wormholes during this tactical action.&rdquo; All systems containing wormholes includes delta and epsilon.</li>
         <li><b>Implicit</b>: <sup>9</sup> Designer Q&amp;A, &ldquo;Using Wormholes&rdquo;: &ldquo;The Crimson Rebellion&rsquo;s &lsquo;Sundered&rsquo; ability says &lsquo;You cannot use wormholes other than epsilon wormholes.&rsquo;&rdquo; The ability names epsilon wormholes as a type of wormhole, so they are among the systems that contain wormholes.</li>
         </ul></li>
-    <li>If a ship moves from the system containing the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a>, it will not flip, unless the active player may move ships through the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a> wormhole and chooses to do so.<sup>2</sup>
+    <li>If a ship moves from the system containing the <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Ion%20Storm">Ion Storm</a>, it will not flip, unless the active player may move ships through the Ion Storm wormhole and chooses to do so.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When does the Ion Storm flip &hellip;?&rdquo;: &ldquo;With several wormhole routes, the moving player chooses which, if any, they use, which decides whether the Ion Storm flips.&rdquo;</li>
         </ul></li>

@@ -59,11 +59,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Raid Formation and Waylay interact?&rdquo;: &ldquo;Raid Formation works off the barrage roll without using up the hits. With Waylay, those hits still hit ships and the opponent assigns them normally.&rdquo;</li>
         </ul></li>
-    <ol><li>For example, say the opponent has three fighters and three dreadnoughts, undamaged. The Argent player plays <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Waylay"><i>Waylay</i></a>, and rolls five hits. This allows them to cause two of the dreadnoughts to become damaged. The opponent then has to assign all five hits. The final dreadnought may use its <sc>Sustain Damage</sc> ability to cancel one of those hits.<sup>2</sup>
+    <ol><li>For example, say the opponent has three fighters and three dreadnoughts, undamaged. The Argent player plays <i>Waylay</i>, and rolls five hits. This allows them to cause two of the dreadnoughts to become damaged. The opponent then has to assign all five hits. The final dreadnought may use its <sc>Sustain Damage</sc> ability to cancel one of those hits.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> Same entry: &ldquo;the opponent assigns them normally, using Sustain Damage on undamaged ships if they like.&rdquo;</li>
         </ul></li></ol>
-    <li>If the Argent player is in combat with the <a href="/F_nekro">Nekro</a> player, and the <a href="/F_nekro">Nekro</a> player has their mechs participating in the space combat via the effects of <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, those mechs may become damaged by the effect of <sc>Raid Formation</sc>.<sup>*</sup>
+    <li>If the Argent player is in combat with the <a href="/F_nekro">Nekro</a> player, and the Nekro player has their mechs participating in the space combat via the effects of <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, those mechs may become damaged by the effect of <sc>Raid Formation</sc>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

@@ -37,13 +37,13 @@
 <h2 id="d-w-s-luminous"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Flagship:~:text=D.W.S.%20Luminous">D.W.S. Luminous</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>The <i>D.W.S. Luminous</i> gains +1 for each system it moves through that contains the Deepwrought player&rsquo;s units, regardless of any other units present.<sup>6</sup></li>
-    <li>The <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Technologies:~:text=Aerie%20Hololattice"><i>Aerie Hololattice</i></a> technology prevents the <i>D.W.S. Luminous</i> from moving through systems containing the <a href="/F_argent">Argent</a> player&rsquo;s structures.<sup>6</sup></li>
+    <li>The <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Technologies:~:text=Aerie%20Hololattice"><i>Aerie Hololattice</i></a> technology prevents the <i>D.W.S. Luminous</i> from moving through systems containing the Argent player&rsquo;s structures.<sup>6</sup></li>
     </ol>
 
 <h2 id="doctor-carrina"><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Leaders:~:text=Doctor%20Carrina">Doctor Carrina</a> <sub>(Agent)</sub></h2>
     <ol class="note">
     <li>Doctor Carrina may be used even if no prerequisite is skipped, but the coexisting infantry is not placed. This includes when the player chooses not to ignore any prerequisites, or researches a technology with no prerequisites. The player may ignore prerequisites they already fulfill on a technology that has at least one prerequisite.<sup>6</sup></li>
-    <li>The Deepwrought player cannot use Doctor Carrina to start coexisting with the <a href="/F_nekro">Nekro</a> player, as the <a href="/F_nekro">Nekro</a> player cannot skip a prerequisite.<sup>6</sup></li>
+    <li>The Deepwrought player cannot use Doctor Carrina to start coexisting with the <a href="/F_nekro">Nekro</a> player, as the Nekro player cannot skip a prerequisite.<sup>6</sup></li>
     <li>Doctor Carrina cannot place the infantry on a planet that contains none of that player&rsquo;s units, as there are no units to coexist with.<sup>*</sup></li>
     </ol>
 
@@ -53,12 +53,12 @@
     <li>Aello can only reduce a cost paid with resources, including trade goods spent in place of resources. It cannot reduce a cost paid with influence, trade goods spent in place of influence, or any other currency.<sup>*</sup></li>
     <li>If a player has the Deepwrought player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, then other players may use the ability of either or both (or neither):<sup>2</sup></li>
     <ol>
-        <li>Another player may use the ability from both for a two resource discount, triggering the commodity ability for both the Deepwrought player and the player with their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note.<sup>2</sup></li>
+        <li>Another player may use the ability from both for a two resource discount, triggering the commodity ability for both the Deepwrought player and the player with their <i>Alliance</i> promissory note.<sup>2</sup></li>
         <li>Another player may use the ability from only the Deepwrought player for a one resource discount, triggering the commodity ability for just the Deepwrought player.<sup>2</sup></li>
-        <li>Another player may use the ability from only the player with the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note for a one resource discount, triggering the commodity ability for just the player with the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note.<sup>2</sup></li>
-        <li>Another player may use the ability from neither player, and receive no discount; the commodity ability will trigger for neither the Deepwrought player nor the player with their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note.<sup>2</sup></li>
-        <li>The Deepwrought player and the player with their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note may each use the ability of the other for a one resource discount, triggering the commodity ability for that other player.<sup>*</sup></li>
-        <li>If the <a href="/F_mahact">Mahact</a> player has the Deepwrought player&rsquo;s command token in their fleet pool, then this gives each other player the option of another discount. The Deepwrought player, the player with their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, and the <a href="/F_mahact">Mahact</a> player may choose up to two of the other players with the ability, triggering their commodity ability, and resulting in a corresponding discount of up to two resources. All other players may choose up to three of the players with the ability, triggering their commodity ability, and resulting in a corresponding discount of up to three resources.<sup>*</sup></li>
+        <li>Another player may use the ability from only the player with the <i>Alliance</i> promissory note for a one resource discount, triggering the commodity ability for just the player with the <i>Alliance</i> promissory note.<sup>2</sup></li>
+        <li>Another player may use the ability from neither player, and receive no discount; the commodity ability will trigger for neither the Deepwrought player nor the player with their <i>Alliance</i> promissory note.<sup>2</sup></li>
+        <li>The Deepwrought player and the player with their <i>Alliance</i> promissory note may each use the ability of the other for a one resource discount, triggering the commodity ability for that other player.<sup>*</sup></li>
+        <li>If the <a href="/F_mahact">Mahact</a> player has the Deepwrought player&rsquo;s command token in their fleet pool, then this gives each other player the option of another discount. The Deepwrought player, the player with their <i>Alliance</i> promissory note, and the Mahact player may choose up to two of the other players with the ability, triggering their commodity ability, and resulting in a corresponding discount of up to two resources. All other players may choose up to three of the players with the ability, triggering their commodity ability, and resulting in a corresponding discount of up to three resources.<sup>*</sup></li>
     </ol>
     </ol>
 

@@ -44,7 +44,7 @@
 <h2 id="salai-sai-corian"><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Flagship:~:text=Salai%20Sai%20Corian">Salai Sai Corian</a> <sub>(Flagship)</sub></h2>
     <ol class="note">
     <li>If the Winnu player&rsquo;s opponent has only fighters participating in the combat, the <i>Salai Sai Corian</i> will roll no dice.<sup>2</sup></li>
-    <li>During a combat against the <a href="/F_nekro">Nekro</a> player in a system containing each player&rsquo;s flagships, the <i>Salai Sai Corian</i> will count the <a href="/F_nekro">Nekro</a> player&rsquo;s infantry participating in the combat when determining how many dice to roll.<sup>1,2</sup></li>
+    <li>During a combat against the <a href="/F_nekro">Nekro</a> player in a system containing each player&rsquo;s flagships, the <i>Salai Sai Corian</i> will count the Nekro player&rsquo;s infantry participating in the combat when determining how many dice to roll.<sup>1,2</sup></li>
     </ol>
 
 <h2 id="berekar-berekon"><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Leaders:~:text=Berekar%20Berekon">Berekar Berekon</a> <sub>(Agent)</sub></h2>
@@ -75,7 +75,7 @@
 <h2 id="imperator"><a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Breakthrough:~:text=Imperator">Imperator</a> <sub>(Breakthrough)</sub></h2>
     <ol class="note">
     <li>The Winnu player applies the +1 to their combat rolls even if it is the Winnu player&rsquo;s own <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne"><i>Support for the Throne</i></a> in their opponent&rsquo;s play area.<sup>*</sup></li>
-    <li>If their opponent receives a <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne"><i>Support for the Throne</i></a> during a combat, the Winnu player will apply +1 to the remaining combat rolls during that combat.<sup>*</sup></li>
+    <li>If their opponent receives a <i>Support for the Throne</i> during a combat, the Winnu player will apply +1 to the remaining combat rolls during that combat.<sup>*</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

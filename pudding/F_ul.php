@@ -34,7 +34,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If the Ul player activates a system containing their sleeper tokens and the <a href="/F_xxcha">Xxcha</a> player&rsquo;s ships, the Ul player, as the active player, may resolve <sc>Awaken</sc> before the <a href="/F_xxcha">Xxcha</a> player resolves the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Technologies:~:text=Nullification%20Field"><i>Nullification Field</i></a> technology. Any resulting ground combat still occurs.<sup>2</sup>
+    <li>If the Ul player activates a system containing their sleeper tokens and the <a href="/F_xxcha">Xxcha</a> player&rsquo;s ships, the Ul player, as the active player, may resolve <sc>Awaken</sc> before the Xxcha player resolves the <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Technologies:~:text=Nullification%20Field"><i>Nullification Field</i></a> technology. Any resulting ground combat still occurs.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?&rdquo;: &ldquo;Awaken and Nullification Field share the after-activation window, and the active Titans go first, so they can awaken before their turn is ended; the resulting ground combat still happens.&rdquo;</li>
         </ul></li>
@@ -46,7 +46,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If the Titans retreat into a system with a sleeper, does it awaken?&rdquo;: &ldquo;No &mdash; a retreat places a command token but doesn&rsquo;t activate the system.&rdquo;</li>
         </ul></li>
-    <li>If another player plays the Ul player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, the Ul player may still place units into the active system using their <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability.<sup>2</sup>
+    <li>If another player plays the Ul player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Ceasefire"><i>Ceasefire</i></a> promissory note, the Ul player may still place units into the active system using their <sc>Awaken</sc> ability.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?&rdquo;: &ldquo;Ceasefire only stops movement, so Awaken still works.&rdquo;</li>
         </ul></li>
@@ -156,7 +156,7 @@
 
 <h2 id="tellurian"><a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Leaders:~:text=Tellurian">Tellurian</a> <sub>(Agent)</sub></h2>
     <ol class="note">
-    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <sc>Sustain Damage</sc> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> still triggers before the hit is canceled.<sup>4</sup>
+    <li>The timing of Tellurian is changed to &ldquo;before you assign a hit&rdquo;, the same as the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Shields%20Holding"><i>Shields Holding</i></a> action card and the <sc>Sustain Damage</sc> ability. As such, if Tellurian cancels a hit produced by a player who owns the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Sardakk_N&#x27;orr#:~:text=Valkyrie%20Particle%20Weave"><i>Valkyrie Particle Weave</i></a> technology, <i>Valkyrie Particle Weave</i> still triggers before the hit is canceled.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Titan&rsquo;s Agent will receive an errata to have the same timing as Shields Holding or Sustain Damage. &lsquo;Before you assign a hit&rsquo;. The hit is still produced, VPW triggers, then the hit is canceled.&rdquo;</li>
         </ul></li>

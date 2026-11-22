@@ -36,7 +36,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do &lsquo;when an agenda is revealed&rsquo; effects like Veto and Quash come before Riders?&rdquo;: &ldquo;Yes &mdash; &lsquo;when&rsquo; effects (Quash, Veto, Political Favor, Political Secret) resolve first, then &lsquo;after&rsquo; effects (Riders &hellip;).&rdquo;</li>
         </ul></li>
-    <li>If <sc>Quash</sc> is used after any <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory notes have been played, those will have no effect on the replacement agenda.<sup>1,5</sup>
+    <li>If <sc>Quash</sc> is used after any <i>Political Secret</i> promissory notes have been played, those will have no effect on the replacement agenda.<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;If a player&rsquo;s &lsquo;Political Secret&rsquo; promissory note is used against them, but that agenda is subsequently discarded &hellip; A: Yes. It is a new agenda and thus the effect of the player&rsquo;s &lsquo;Political Secret&rsquo; is ended.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (sigmazero13, Jun 6, 2018): &ldquo;It counts as being resolved.&rdquo; Quashed agenda counts as resolved, so Political Secret ends.</li>
@@ -187,7 +187,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What does the Xxcha commander allow, and does it beat Political Secret or a rider?&rdquo;: &ldquo;Xxcha can vote despite a rider or Political Secret.&rdquo;</li>
         <li><b>Implicit</b>: <sup>14</sup> Codex II, Xxcha alliance: &ldquo;Each planet you exhaust to cast votes provides 1 additional vote.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_nekro">Nekro</a> player has the Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the <a href="/F_nekro">Nekro</a> player may vote.<sup>2,14</sup>
+    <li>If the <a href="/F_nekro">Nekro</a> player has the Xxcha player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note, the Nekro player may vote.<sup>2,14</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What does the Xxcha commander allow, and does it beat Political Secret or a rider?&rdquo;: &ldquo;Through the Xxcha alliance even the Nekro can vote.&rdquo;</li>
         <li><b>Implicit</b>: <sup>14</sup> Codex II, Xxcha Alliance: &ldquo;Game effects cannot prevent you from voting on an agenda.&rdquo; Xxcha Alliance card text.</li>

@@ -53,7 +53,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can L1Z1X mechs bombard through Harrow?&rdquo;: &ldquo;Only when not in that ground combat: a mech fighting on a planet can&rsquo;t bombard it, but one on another planet in the system can.&rdquo;</li>
         </ul></li></ol>
-    <li>The L1Z1X player may use the ability of the <span class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a></span> or <a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i></a> technologies whenever they bombard.<sup>10,15</sup>
+    <li>The L1Z1X player may use the ability of the <span class="removed"><a href="https://twilight-imperium.fandom.com/wiki/Biotic_Technologies#X-89_Bacterial_Weapon"><i>X&ndash;89 Bacterial Weapon &Omega;</i></a></span> or <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> technologies whenever they bombard.<sup>10,15</sup>
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Are there common clarifications for specific objectives &hellip;?&rdquo;: &ldquo;Harrow is Bombardment.&rdquo;</li>
         <li><b>Implicit</b>: <sup>10</sup> Codex I, X-89 Bacterial Weapon: &ldquo;After 1 or more of your units use BOMBARDMENT against a planet, if at least 1 of your opponent&rsquo;s infantry was destroyed, you may destroy all of your opponent&rsquo;s infantry on that planet.&rdquo; triggers whenever units use BOMBARDMENT.</li>
@@ -169,7 +169,7 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 86.1: &ldquo;A ship cannot move through or into a supernova.&rdquo;</li>
         </ul></li>
     <ol>
-        <li>Ships may move into a supernova if the L1Z1X player owns the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Codex_IV:~:text=Circlet%20of%20the%20Void"><i>Circlet of the Void</i></a> relic.<sup>11</sup>
+        <li>Ships may move into a supernova if the L1Z1X player owns the <i>Circlet of the Void</i> relic.<sup>11</sup>
         <ul>
         <li><b>Implicit</b>: <sup>11</sup> Codex IV, Circlet of the Void: &ldquo;Your units do not roll for gravity rifts, and you ignore the movement effects of other anomalies.&rdquo; That includes the supernova&rsquo;s restriction on moving into it.</li>
         </ul></li>

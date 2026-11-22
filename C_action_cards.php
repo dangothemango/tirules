@@ -145,7 +145,7 @@
     <li>A player must have cast votes for an outcome to play <i>Bribery</i>, and the additional votes must be cast for the same outcome.<sup>1,2,5</sup></li>
     <ol><li>If the <a href="/F_argent">Argent</a> player is speaker, only they can play <i>Bribery</i>, and must do so immediately after they cast votes.<sup>2</sup></li></ol>
     <li>Casting additional votes with <i>Bribery</i> does not allow a player to play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor"><i>Distinguished Councilor</i></a>; it can only be played after their normal vote.<sup>1</sup></li>
-    <ol><li>The speaker may play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Distinguished%20Councilor"><i>Distinguished Councilor</i></a> after they or another player play <i>Bribery</i>, as both are played in the timing window after the speaker votes.<sup>5</sup></li></ol>
+    <ol><li>The speaker may play <i>Distinguished Councilor</i> after they or another player play <i>Bribery</i>, as both are played in the timing window after the speaker votes.<sup>5</sup></li></ol>
     <li><i>Bribery</i> is played before any effects that change the outcome of an agenda.<sup>*</sup></li>
     </ol>
 
@@ -399,7 +399,7 @@
 <h2 id="hack-election-omega"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Hack%20Election">Hack Election &Omega;</a></h2>
     <ol class="note">
     <li>The speaker votes before the player that played <i>Hack Election &Omega;</i>.<sup>*</sup></li>
-    <ol><li>Players will play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> after the speaker votes. The player that played <i>Hack Election &Omega;</i> cannot play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a>.<sup>1</sup></li></ol>
+    <ol><li>Players will play <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Bribery"><i>Bribery</i></a> after the speaker votes. The player that played <i>Hack Election &Omega;</i> cannot play <i>Bribery</i>.<sup>1</sup></li></ol>
     <li>If the <a href="/F_argent">Argent</a> player plays <i>Hack Election &Omega;</i>, they will vote last.<sup>*</sup></li>
     </ol>
 
@@ -499,7 +499,7 @@
 <h2 id="manipulate-investments"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Manipulate%20Investments">Manipulate Investments</a></h2>
     <ol class="note">
     <li>If a player still has a strategy card because of <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability"><i>Political Stability</i></a>, trade goods may be placed on that strategy card. However, those trade goods will remain on that strategy card until it is chosen from the common area.<sup>*</sup></li>
-    <ol><li>If a player takes the strategy card with trade goods on it from the player who played <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Political%20Stability"><i>Political Stability</i></a>, using the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Imperial%20Arbiter"><i>Imperial Arbiter</i></a> law or similar, they will not gain the trade goods, which will remain on the strategy card.<sup>*</sup></li></ol>
+    <ol><li>If a player takes the strategy card with trade goods on it from the player who played <i>Political Stability</i>, using the ability of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Imperial%20Arbiter"><i>Imperial Arbiter</i></a> law or similar, they will not gain the trade goods, which will remain on the strategy card.<sup>*</sup></li></ol>
     </ol>
 
 <h2 id="master-plan"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Codex_I:~:text=Master%20Plan">Master Plan</a></h2>
@@ -762,7 +762,7 @@
 
 <h2 id="spy"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Spy">Spy</a></h2>
     <ol class="note">
-    <li>If the targeted player has <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> in their hand, they must first give a random action card to the player who played <i>Spy</i>. Only if the card they gave was not <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> may they then play it to take <i>Spy</i> into their hand from the discard pile.<sup>*</sup></li>
+    <li>If the targeted player has <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Prophecy_of_Kings:~:text=Reverse%20Engineer"><i>Reverse Engineer</i></a> in their hand, they must first give a random action card to the player who played <i>Spy</i>. Only if the card they gave was not <i>Reverse Engineer</i> may they then play it to take <i>Spy</i> into their hand from the discard pile.<sup>*</sup></li>
     </ol>
 
 <h2 id="strategize"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Thunder's_Edge:~:text=Strategize">Strategize</a></h2>
@@ -826,8 +826,8 @@
 <h2 id="veto"><a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Veto">Veto</a></h2>
     <ol class="note">
     <li>The text of <i>Veto</i> is changed to: &ldquo;When an agenda is revealed: Discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.&rdquo;<sup>1,2</sup></li>
-    <li><i>Veto</i>, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note are all played in the same timing window, before the rider timing window.<sup>2</sup></li>
-    <ol><li>If <i>Veto</i> is used after any <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory notes have been played, those will have no effect on the replacement agenda.<sup>1</sup></li></ol>
+    <li><i>Veto</i>, the <a href="/F_xxcha">Xxcha</a> <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Abilities:~:text=Quash"><sc>Quash</sc></a> faction ability, the Xxcha <a href="https://twilight-imperium.fandom.com/wiki/The_Xxcha_Kingdom#Faction_Promissory_Note:~:text=Political%20Favor"><i>Political Favor</i></a> promissory note, and the <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Political_Secret"><i>Political Secret</i></a> promissory note are all played in the same timing window, before the rider timing window.<sup>2</sup></li>
+    <ol><li>If <i>Veto</i> is used after any <i>Political Secret</i> promissory notes have been played, those will have no effect on the replacement agenda.<sup>1</sup></li></ol>
     <li>A second <i>Veto</i> may be used on the replacement agenda.<sup>*</sup></li>
     <li>Each agenda is considered separate for the purpose of limiting each pair of players to one transaction per agenda.<sup>5</sup></li>
     </ol>

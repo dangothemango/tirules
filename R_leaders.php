@@ -10,7 +10,7 @@
     <li data-src="1,8">A player&rsquo;s leaders are placed on their leader sheet during setup.</li>
     <ol>
         <li data-src="1,8">Each leader card is placed on the slot that matches its type. The leader cards are placed so that the hash mark symbols in the upper right are faceup and match the slot that the card is placed on.</li>
-        <li data-src="1">The two additional <a href="/F_nomad">Nomad</a> agents are placed in the <a href="/F_nomad">Nomad</a> player&rsquo;s play area readied side up.</li>
+        <li data-src="1">The two additional Nomad agents are placed in the Nomad player&rsquo;s play area readied side up.</li>
     </ol>
     <h2><li>Agents</li></h2>
     <li data-src="1,8">An agent does not need to be unlocked and begins the game in a readied state. They can be exhausted by resolving their abilities, and they ready during the <b>Ready Cards</b> step of the status phase.</li>
@@ -24,7 +24,7 @@
     </ol>
     <li data-src="1">A commander cannot be exhausted.</li>
     <li data-src="1,8">The <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note allows a player to share their commander&rsquo;s ability with another player.</li>
-    <ol><li data-src="1">A commander&rsquo;s owner can still use their commander&rsquo;s ability, even if another player has their <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Alliance"><i>Alliance</i></a> promissory note.</li></ol>
+    <ol><li data-src="1">A commander&rsquo;s owner can still use their commander&rsquo;s ability, even if another player has their <i>Alliance</i> promissory note.</li></ol>
     <h2><li>Heroes</li></h2>
     <li data-src="1,8">A hero needs to be unlocked to use their abilities. A player unlocks their hero if they fulfill the conditions listed after the &ldquo;Unlock&rdquo; header.</li>
     <ol>

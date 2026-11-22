@@ -18,7 +18,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>If the Yin player is in a combat with the <a href="/F_naalu">Naalu</a> player, and the <a href="/F_naalu">Naalu</a> player is using the ability of their flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Flagship:~:text=Matriarch"><i>Matriarch</i></a>, to commit only fighters to the ground combat, <sc>Indoctrination</sc> cannot be used.<sup>*</sup>
+    <ol><li>If the Yin player is in a combat with the <a href="/F_naalu">Naalu</a> player, and the Naalu player is using the ability of their flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Flagship:~:text=Matriarch"><i>Matriarch</i></a>, to commit only fighters to the ground combat, <sc>Indoctrination</sc> cannot be used.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -399,7 +399,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook, Alliance Reference Cards: &ldquo;These cards are also used in the Alliance game variant, in some Galactic Events, and with the Yin Brotherhood&rsquo;s breakthrough card. When gained for any reason other than a reference to an &ldquo;Alliance&rdquo; promissory note, the gaining player places the card in their play area. They can use its ability.&rdquo; The Mahact alliance card carries Il Na Viroset&rsquo;s ability.</li>
         </ul></li></ol>
-    <li>The <a href="/F_firmament">Firmament</a> and the <a href="/F_firmament">Obsidian</a> each have their own alliance card.<sup>6</sup>
+    <li>The <a href="/F_firmament">Firmament</a> and the Obsidian each have their own alliance card.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;When the Obsidian isn&rsquo;t being played, and a game effect instructs a player to gain their alliance ability &hellip;? A: Each has their own alliance card.&rdquo;</li>
         </ul></li>

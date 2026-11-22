@@ -61,7 +61,7 @@
         <li><b>Implicit</b>: <sup>7</sup> Same passage: &ldquo;The first time a player claims one of the expedition slices, they gain their faction&rsquo;s breakthrough.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>Once the sixth and final slice has been claimed, <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> will enter play.<sup>7</sup>
+    <li>Once the sixth and final slice has been claimed, Thunder&rsquo;s Edge will enter play.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8: &ldquo;When all slices are claimed, the expedition is complete.&rdquo;</li>
         </ul></li>
@@ -70,39 +70,39 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>The player who claimed the sixth and final slice flips the expedition token to the <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> side, and places it in a system on the game board. They must choose a system that does not contain a planet, a supernova, or a printed wormhole, and is not in The Fracture, should it be in play.<sup>2,6,7</sup>
+        <li>The player who claimed the sixth and final slice flips the expedition token to the Thunder&rsquo;s Edge side, and places it in a system on the game board. They must choose a system that does not contain a planet, a supernova, or a printed wormhole, and is not in The Fracture, should it be in play.<sup>2,6,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8: &ldquo;the player who claimed the final slice flips Thunder&rsquo;s Edge to its planet side and places it in a system of their choice that does not contain a planet, a supernova, or a printed wormhole.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Thunder&rsquo;s Edge expedition finish, and who gets the planet?&rdquo;: &ldquo;that player must flip Thunder&rsquo;s Edge and place it in a system with no planet &hellip; supernova or printed wormhole.&rdquo;</li>
         <li><b>Implicit</b>: <sup>6</sup> Community consensus: &ldquo;Place Thunder&rsquo;s Edge into a system with a printed wormhole following the other restrictions.&rdquo; The question lists the restrictions, including The Fracture.</li>
         </ul></li>
-        <li>If there is no system that meets all of these requirements, <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is placed in a system with a printed wormhole that meets the other requirements. If this is still impossible, it may be placed in a supernova.<sup>6</sup>
+        <li>If there is no system that meets all of these requirements, Thunder&rsquo;s Edge is placed in a system with a printed wormhole that meets the other requirements. If this is still impossible, it may be placed in a supernova.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;What happens in the rare situation that, when Thunder&rsquo;s Edge is due to be placed, every system &hellip;? A: Place Thunder&rsquo;s Edge into a system with a printed wormhole following the other restrictions. If this is still impossible it may be placed in a supernova.&rdquo;</li>
         </ul></li>
-        <li><a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> may be placed in a system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, provided that system contains no other planets (and meets the other requirements).<sup>6</sup>
+        <li>Thunder&rsquo;s Edge may be placed in a system that contains a planet destroyed by the <a href="https://twilight-imperium.fandom.com/wiki/Relics#Prophecy_of_Kings:~:text=Stellar%20Converter"><i>Stellar Converter</i></a> relic, provided that system contains no other planets (and meets the other requirements).<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can Thunder&rsquo;s Edge be placed in the system that contains the remains of a Stellar Converted planet? A: Yes, so long as it contains no other planets it meets the requirements.&rdquo;</li>
         </ul></li>
-        <li><a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> cannot be placed in a system that contains a planet token, such as <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Mirage">Mirage</a>, as that system contains a planet.<sup>2</sup>
+        <li>Thunder&rsquo;s Edge cannot be placed in a system that contains a planet token, such as <a href="https://twilight-imperium.fandom.com/wiki/Exploration#Prophecy_of_Kings_Expansion:~:text=Mirage">Mirage</a>, as that system contains a planet.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How does the Thunder&rsquo;s Edge expedition finish, and who gets the planet?&rdquo;: &ldquo;place it in a system with no planet (token planets like Mirage count), supernova or printed wormhole.&rdquo;</li>
         </ul></li>
-        <li>Finally, the player who had claimed the most slices of the expedition token places a number of infantry equal to the number of slices they had claimed on to <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a>. If multiple players are tied for the most number of slices, the player placing <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> chooses one of those players to place the infantry; they may choose themself.<sup>2,7</sup>
+        <li>Finally, the player who had claimed the most slices of the expedition token places a number of infantry equal to the number of slices they had claimed on to Thunder&rsquo;s Edge. If multiple players are tied for the most number of slices, the player placing Thunder&rsquo;s Edge chooses one of those players to place the infantry; they may choose themself.<sup>2,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 8: &ldquo;the player with the most control tokens on the expedition places that many infantry on Thunder&rsquo;s Edge. In the case of a tie, the player who claimed the final slice chooses which tied player&rdquo; places them.</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;on a tie, the player who claimed the last slice chooses among the tied players.&rdquo;</li>
         </ul></li>
-        <li>The player placing the infantry then gains control of <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a>.<sup>*</sup>
+        <li>The player placing the infantry then gains control of Thunder&rsquo;s Edge.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>If <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is placed in a system containing a frontier token, that token is not removed.<sup>7</sup>
+        <li>If Thunder&rsquo;s Edge is placed in a system containing a frontier token, that token is not removed.<sup>7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>7</sup> Thunder&rsquo;s Edge Rulebook p. 16: &ldquo;When Thunder&rsquo;s Edge is placed into a system that contains a frontier token, do not remove the frontier token; it can still be explored.&rdquo;</li>
         </ul></li>
     </ol>
-    <li>If a player has not gained their breakthrough by the time <a href="https://twilight-imperium.fandom.com/wiki/Thunder&#x27;s_Edge">Thunder&rsquo;s Edge</a> is placed, they will be unable to gain their breakthrough by performing an expedition.<sup>*</sup>
+    <li>If a player has not gained their breakthrough by the time Thunder&rsquo;s Edge is placed, they will be unable to gain their breakthrough by performing an expedition.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

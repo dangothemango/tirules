@@ -65,7 +65,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
         </ul></li>
-    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup>
+    <ol><li>If a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system toward the requirements of <i>Become a Legend</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -85,7 +85,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Secrets are scored &lsquo;after&rsquo;, so Become a Martyr would trigger after Shard of the Throne is lost or elimination.&rdquo;</li>
         </ul></li>
-    <li>If the player with the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> relic loses their home system, they will lose the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> card and the associated victory point before they may score <i>Become a Martyr</i>.<sup>4</sup>
+    <li>If the player with the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne"><i>Shard of the Throne</i></a> relic loses their home system, they will lose the <i>Shard of the Throne</i> card and the associated victory point before they may score <i>Become a Martyr</i>.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Become a Martyr would trigger after Shard of the Throne is lost.&rdquo;</li>
         </ul></li>
@@ -209,7 +209,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;tiles beside hyperlanes, and a system enclosed by them, aren&rsquo;t edge systems.&rdquo;</li>
         </ul></li>
-        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the <a href="/F_creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup>
+        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the Creuss home system and the wormhole nexus.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -279,7 +279,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <ol><li>The <a href="/F_mentak">Mentak</a> player cannot use the ability of their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations"><i>Salvage Operations</i></a> technology until after the window in which to score <i>Demonstrate Your Power</i>.<sup>*</sup>
+    <ol><li>The Mentak player cannot use the ability of their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Technologies:~:text=Salvage%20Operations"><i>Salvage Operations</i></a> technology until after the window in which to score <i>Demonstrate Your Power</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -722,7 +722,7 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Are systems that contain Vuil&rsquo;raith Cabal&rsquo;s Dimensional Tears anomalies? A: Yes, any game effect that references an anomaly includes systems containing Dimensional Tears.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do the Vuil&rsquo;raith roll for ordinary gravity rifts?&rdquo;: &ldquo;Those dock systems are anomalies, which counts for objectives like Making History.&rdquo;</li>
         </ul></li>
-    <ol><li>If a <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup>
+    <ol><li>If a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system toward the requirements of <i>Make History</i>.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -837,7 +837,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;tiles beside hyperlanes, and a system enclosed by them, aren&rsquo;t edge systems.&rdquo;</li>
         </ul></li>
-        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the <a href="/F_creuss">Creuss</a> home system and the wormhole nexus.<sup>*</sup>
+        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the Creuss home system and the wormhole nexus.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
@@ -946,7 +946,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> Same entry: &ldquo;when players are tied for most points, each of them counts as having the most.&rdquo; A 0&ndash;0 tie is a tie for most.</li>
         </ul></li></ol>
-    <li class="removed">A player who wins a combat against the owner of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> law, who has the most victory points, may both score <i>Spark a Rebellion</i> and gain <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a>.<sup>2</sup>
+    <li class="removed">A player who wins a combat against the owner of the <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Shard%20of%20the%20Throne">Shard of the Throne</a> law, who has the most victory points, may both score <i>Spark a Rebellion</i> and gain Shard of the Throne.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If I beat the Shard of the Throne holder, who leads on points, can I score Spark a Rebellion and take the Shard?&rdquo;: &ldquo;Yes, both.&rdquo;</li>
         </ul></li>

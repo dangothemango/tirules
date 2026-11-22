@@ -14,11 +14,11 @@
     <ol>
         <li>Note that some triggers check their conditions when they trigger, while some check their conditions when they would resolve.</li>
         <ol>
-            <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability is an example of an ability that checks its condition when it triggers; activating a system without a sleeper token will not trigger <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a>, even if a sleeper token is later added during the activation step of that tactical action.<sup>2</sup>
+            <li>The <a href="/F_ul">Ul</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Titans_of_Ul#Faction_Abilities:~:text=Awaken"><sc>Awaken</sc></a> ability is an example of an ability that checks its condition when it triggers; activating a system without a sleeper token will not trigger <sc>Awaken</sc>, even if a sleeper token is later added during the activation step of that tactical action.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;When can the Titans use Awaken &hellip;?&rdquo;: &ldquo;Right after activating a system that already held your sleeper token; a sleeper placed later in that activation, say by Scanlink exploration, can&rsquo;t be awakened then.&rdquo;</li>
         </ul></li>
-            <li>The <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology is an example of an ability that checks its condition when it would resolve; a player without three or more non&ndash;fighter ships in the system cannot use <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a>, even if they previously had more ships.<sup>2,5</sup>
+            <li>The <a href="https://twilight-imperium.fandom.com/wiki/Warfare_Technologies#Assault_Cannon"><i>Assault Cannon</i></a> technology is an example of an ability that checks its condition when it would resolve; a player without three or more non&ndash;fighter ships in the system cannot use <i>Assault Cannon</i>, even if they previously had more ships.<sup>2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If both players have start-of-combat abilities like Assault Cannon &hellip;?&rdquo;: &ldquo;with each trigger re-checked when its turn comes. So the attacker&rsquo;s Assault Cannon can push the defender below 3 non-fighter ships and deny the defender&rsquo;s own Assault Cannon.&rdquo;</li>
         <li><b>Implicit</b>: <sup>5</sup> Designer ruling (livestrongbelwas, Feb 08, 2018): &ldquo;The second player doesn&rsquo;t get to use his Assault Cannons&rdquo; Condition is checked when the ability would resolve.</li>
@@ -49,7 +49,7 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Do &lsquo;during the action phase&rsquo; agent abilities use my action, and does &lsquo;a player&rsquo; include me?&rdquo;: &ldquo;&rsquo;A player&rsquo; includes you; only &lsquo;another player&rsquo; excludes you.&rdquo;</li>
         </ul></li>
-    <li>An ability from a single physical object cannot be resolved more than once in one timing window. For example, if a player starts their turn with the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20Iff"><i>Creuss Iff</i></a> promissory note in their hand (having received it on a previous turn) and uses it, they will not be able to use it a second time this turn, if they receive it again as part of a transaction.<sup>1,5</sup>
+    <li>An ability from a single physical object cannot be resolved more than once in one timing window. For example, if a player starts their turn with the Creuss player&rsquo;s <i>Creuss Iff</i> promissory note in their hand (having received it on a previous turn) and uses it, they will not be able to use it a second time this turn, if they receive it again as part of a transaction.<sup>1,5</sup>
         <ul>
         <li><b>Implicit</b>: <sup>1</sup> LRR 1.18: &ldquo;Each ability can be resolved once for each occurrence of that ability&rsquo;s timing event.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling: &ldquo;because of rule 1.16, that PN cannot be traded and resolved multiple times during the same window.&rdquo;</li>
@@ -94,7 +94,7 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If I pass on playing an action card or ability in a timing window, can I still play one later in that window?&rdquo;: &ldquo;Yes &mdash; passing is not final. Players keep taking turns in the window, and if anyone plays something after you passed, you get another chance. The window only closes once every player passes in a row.&rdquo;</li>
         </ul></li> -->
     </ol>
-    <li>If there are multiple abilities that players wish to resolve at the same time during the status phase, such as two players each using the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> faction technology, they are resolved in initiative order.<sup>2</sup>
+    <li>If there are multiple abilities that players wish to resolve at the same time during the status phase, such as two players each using the Creuss player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Wormhole%20Generator"><i>Wormhole Generator</i></a> faction technology, they are resolved in initiative order.<sup>2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;If two players have abilities at the same point of the status phase, such as both using Wormhole Generator, who goes first?&rdquo;: &ldquo;Initiative order: the player with the lower initiative number resolves first.&rdquo;</li>
         </ul></li>

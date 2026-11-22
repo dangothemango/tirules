@@ -11,11 +11,11 @@
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Does the Crimson Rebellion&rsquo;s inability to use wormholes remove wormhole adjacency?&rdquo;: &ldquo;No &mdash; it only stops them moving through wormholes, as players relay from the designer. Adjacency still counts for neighbors, breach placement, Space Cannon and objectives.&rdquo; covers most listed purposes; action cards and Exile not mentioned.</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, Crimson Rebellion &ldquo;cannot use wormholes&rdquo;: &ldquo;Crimson are unable to move through wormholes. All other uses are permitted including PDS, Neighbors, placing Breaches, etc.&rdquo;</li>
         </ul></li>
-    <li>The Rebellion player may use the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF"><i>Creuss IFF</i></a> promissory note, but their ships still cannot move through <a href="/F_creuss">Creuss</a> wormholes.<sup>6</sup>
+    <li>The Rebellion player may use the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF"><i>Creuss IFF</i></a> promissory note, but their ships still cannot move through Creuss wormholes.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can they use the Creuss IFF? A: Yes, they still may not move through the Creuss wormholes though.&rdquo;</li>
         </ul></li>
-    <li>The Rebellion player may use the <a href="/F_creuss">Creuss</a> player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a>, and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lost%20Star%20Chart"><i>Lost Star Chart</i></a> action card.<sup>6</sup>
+    <li>The Rebellion player may use the Creuss player&rsquo;s agent, <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Leaders:~:text=Emissary%20Taivra">Emissary Taivra</a>, and the <a href="https://twilight-imperium.fandom.com/wiki/Action_Cards#Twilight_Imperium_Fourth_Edition:~:text=Lost%20Star%20Chart"><i>Lost Star Chart</i></a> action card.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Can they use the Creuss agent or the Lost Star Charts action card? A: Yes&rdquo;</li>
         </ul></li>

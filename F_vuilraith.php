@@ -56,7 +56,7 @@
     <li>If a ship moves through or out of the same gravity rift multiple times, that gravity rift provides +1 to its move value only once, but the ship rolls for removal each time.<sup>6,7</sup></li>
     <li>Multiple Dimensional Tears in a single system have no additional effects.<sup>2</sup></li>
     <li>If a Dimensional Tear is in a system that is normally a gravity rift (e.g. the Cormund system), the Vuil&rsquo;raith player will not have to roll for removal when moving out of or through that system. There are no additional effects.<sup>2</sup></li>
-    <li>If the <a href="/F_nekro">Nekro</a> player has copied Dimensional Tear II, systems containing the <a href="/F_nekro">Nekro</a> player&rsquo;s space docks are gravity rifts for the Vuil&rsquo;raith player&rsquo;s ships. The Vuil&rsquo;raith player must roll for removal for each ship that moves out of or through those systems.<sup>*</sup></li>
+    <li>If the <a href="/F_nekro">Nekro</a> player has copied Dimensional Tear II, systems containing the Nekro player&rsquo;s space docks are gravity rifts for the Vuil&rsquo;raith player&rsquo;s ships. The Vuil&rsquo;raith player must roll for removal for each ship that moves out of or through those systems.<sup>*</sup></li>
     <li>If a Dimensional Tear is in a system with a Nebula, then the +1 to move values will be applied after the nebula sets each ship&rsquo;s move value to 1.<sup>*</sup></li>
     <li>If the Dimensional Tear plastic figure is destroyed, the Dimensional Tear token is also removed.<sup>8</sup></li>
     </ol>
@@ -89,7 +89,7 @@
     <li>Each non&ndash;fighter ship affected will roll only once, regardless of how many Dimensional Tears it is adjacent to.<sup>2</sup></li>
     <li>Units can only be captured by the dice specifically allocated to them.<sup>*</sup></li>
     <li>If a ship with capacity is captured, its owner chooses which excess fighters and ground forces are removed; they are not assigned to particular ships.<sup>1</sup></li>
-    <li>If the <a href="/F_nekro">Nekro</a> player has used a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> faction technology to copy <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> II, ships in systems containing or adjacent to the <a href="/F_nekro">Nekro</a> player&rsquo;s space docks will also have to roll for capture when resolving <i>Dimensional Anchor</i>. This includes the <a href="/F_nekro">Nekro</a> player&rsquo;s own ships.<sup>*</sup></li>
+    <li>If the <a href="/F_nekro">Nekro</a> player has used a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> faction technology to copy <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> II, ships in systems containing or adjacent to the Nekro player&rsquo;s space docks will also have to roll for capture when resolving <i>Dimensional Anchor</i>. This includes the Nekro player&rsquo;s own ships.<sup>*</sup></li>
     </ol>
 
 <h2 id="reanimator"><a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Reanimator">Reanimator</a> <sub>(Mech)</sub></h2>

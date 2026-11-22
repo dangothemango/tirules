@@ -96,7 +96,7 @@
         <ul>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can each Winnu flagship die score a hit?&rdquo;: &ldquo;it rolls one die per enemy non-fighter ship.&rdquo;</li>
         </ul></li>
-    <li>During a combat against the <a href="/F_nekro">Nekro</a> player in a system containing each player&rsquo;s flagships, the <i>Salai Sai Corian</i> will count the <a href="/F_nekro">Nekro</a> player&rsquo;s infantry participating in the combat when determining how many dice to roll.<sup>1,2</sup>
+    <li>During a combat against the <a href="/F_nekro">Nekro</a> player in a system containing each player&rsquo;s flagships, the <i>Salai Sai Corian</i> will count the Nekro player&rsquo;s infantry participating in the combat when determining how many dice to roll.<sup>1,2</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: &ldquo;Does the Winnu &lsquo;Salai Sai Corian&rsquo; flagship get additional dice for infantry participating in a fight due to the Nekro &lsquo;Alastor&rsquo; flagship? A: Yes.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How do Nekro ground forces fighting via the flagship count for other effects?&rdquo;: &ldquo;they count as non-fighter ships for things like the Winnu flagship&rsquo;s extra dice.&rdquo;</li>
@@ -162,7 +162,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-    <li>If their opponent receives a <a href="https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne"><i>Support for the Throne</i></a> during a combat, the Winnu player will apply +1 to the remaining combat rolls during that combat.<sup>*</sup>
+    <li>If their opponent receives a <i>Support for the Throne</i> during a combat, the Winnu player will apply +1 to the remaining combat rolls during that combat.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

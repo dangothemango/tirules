@@ -39,11 +39,11 @@
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;How often can the Mentak use Pillage, and does it work in the agenda phase against everyone?&rdquo;: &ldquo;the agenda phase does not make everyone neighbors: transactions with non-neighbors are allowed then, yet Pillage still only works on the Mentak&rsquo;s actual neighbors, as the developer ruled.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (x3n d0g, 01/17/2019): &ldquo;Simply being in the agenda phase does not confer neighbor status to all players.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_creuss">Creuss</a> player has units or controls planets in a system with an alpha wormhole, and the Mentak player has units or controls planets in a system with a beta wormhole, or vice versa, then the <a href="/F_creuss">Creuss</a> player and Mentak player are neighbors. The Mentak player may thus use their <sc>Pillage</sc> ability against the <a href="/F_creuss">Creuss</a> player.<sup>1</sup>
+    <li>If the <a href="/F_creuss">Creuss</a> player has units or controls planets in a system with an alpha wormhole, and the Mentak player has units or controls planets in a system with a beta wormhole, or vice versa, then the Creuss player and Mentak player are neighbors. The Mentak player may thus use their <sc>Pillage</sc> ability against the Creuss player.<sup>1</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Mentak may use Pillage when &ldquo;neighbors with another faction as a result of the &hellip; &lsquo;Quantum Entanglement&rsquo; faction ability &hellip; because the &lsquo;neighbor&rsquo; status is active as a result of the ability.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="/F_winnu">Winnu</a> player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Lazax%20Gate%20Folding"><i>Lazax Gate Folding</i></a>, then the Mentak player may become neighbors with the <a href="/F_winnu">Winnu</a> player during the <a href="/F_winnu">Winnu</a> player&rsquo;s tactical action. If so, the Mentak player may use their <sc>Pillage</sc> ability during this time.<sup>1,5</sup>
+    <li>If the <a href="/F_winnu">Winnu</a> player owns <a href="https://twilight-imperium.fandom.com/wiki/The_Winnu#Faction_Technologies:~:text=Lazax%20Gate%20Folding"><i>Lazax Gate Folding</i></a>, then the Mentak player may become neighbors with the Winnu player during the Winnu player&rsquo;s tactical action. If so, the Mentak player may use their <sc>Pillage</sc> ability during this time.<sup>1,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>1</sup> LRR FAQ: Mentak may use Pillage &ldquo;when they are neighbors with another faction as a result of the &lsquo;Lazax Gate Folding&rsquo; faction technology.&rdquo;</li>
         <li><b>Explicit</b>: <sup>5</sup> Designer ruling (Vinci, 12/11/2018): &ldquo;rules as written, the Mentak would be able to pillage the transaction.&rdquo;</li>
@@ -234,11 +234,11 @@
         <li><b>Explicit</b>: <sup>1</sup> LRR 23.4a: &ldquo;that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements.&rdquo;</li>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If a unit is damaged, and is &lsquo;removed and placed&rsquo; from the board via a game effect, does it come back repaired &hellip;? A: &hellip; If it is produced, placed, or replaced which would require a remove and place it is no longer damaged.&rdquo;</li>
         </ul></li>
-    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is destroyed during combat, but the Mentak player then destroys their opponent&rsquo;s flagship and places the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> back into the combat, they cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective.<sup>4</sup>
+    <li>If the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is destroyed during combat, but the Mentak player then destroys their opponent&rsquo;s flagship and places the <i>Fourth Moon</i> back into the combat, they cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;If you use the Mentak Coalition&rsquo;s Hero &hellip; and lose your flagship in a combat, but destroy the other player&rsquo;s flagship and rebuild your own, can you score Unveil Flagship? A: No.&rdquo;</li>
         </ul></li>
-    <ol><li>If the Mentak player starts the combat without the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a>, and places it during the combat, they may score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Twilight_Imperium_Fourth_Edition_3:~:text=Unveil%20Flagship"><i>Unveil Flagship</i></a> objective if the <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Flagship:~:text=Fourth%20Moon"><i>Fourth Moon</i></a> is not destroyed.<sup>*</sup>
+    <ol><li>If the Mentak player starts the combat without the <i>Fourth Moon</i>, and places it during the combat, they may score the <i>Unveil Flagship</i> objective if the <i>Fourth Moon</i> is not destroyed.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li></ol>
@@ -283,7 +283,7 @@
         <li><b>Explicit</b>: <sup>6</sup> Community consensus: &ldquo;Corsair (Breakthrough Unit): Can Nekro copy Corsair from Mentak? &hellip; A: They cannot copy corsair.&rdquo;</li>
         <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Are breakthroughs technologies, and do their passive abilities work while exhausted?&rdquo;: &ldquo;They aren&rsquo;t technologies, so a breakthrough like Mentak&rsquo;s Corsair doesn&rsquo;t count as a unit upgrade&rdquo; Valefar Assimilator copies faction technologies only.</li>
         </ul></li>
-    <li>The Mentak player is still considered to own Cruiser II while it is under Corsair. As such, the <a href="/F_nekro">Nekro</a> player may copy Cruiser II.<sup>6</sup>
+    <li>The Mentak player is still considered to own Cruiser II while it is under Corsair. As such, the Nekro player may copy Cruiser II.<sup>6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>6</sup> Same ruling: &ldquo;mentak is still considered to own cruiser II.&rdquo;</li>
         </ul></li>

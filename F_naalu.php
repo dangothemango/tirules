@@ -75,10 +75,10 @@
     <li>If the chosen player is not the Naalu player, and they had previously passed, they are still considered passed during their action. They do not pass at the end of the action.<sup>*</sup></li>
     <ol>
         <li>The chosen player cannot score the <a href="https://twilight-imperium.fandom.com/wiki/Objectives#Prophecy_of_Kings_Expansion_3:~:text=Prove%20Endurance"><i>Prove Endurance</i></a> secret objective at the end of their action.<sup>*</sup></li>
-        <li>If the <a href="/F_yssaril">Yssaril</a> player owns their <a href="https://twilight-imperium.fandom.com/wiki/The_Yssaril_Tribes#Faction_Technologies:~:text=Transparasteel%20Plating"><i>Transparasteel Plating</i></a> faction technology, and uses the ability of Ssruu, their agent, to duplicate the ability of Z&rsquo;eu &Omega;, choosing a player that has passed, the chosen player cannot play action cards during their action.<sup>*</sup></li>
+        <li>If the Yssaril player owns their <i>Transparasteel Plating</i> faction technology, and uses the ability of Ssruu, their agent, to duplicate the ability of Z&rsquo;eu &Omega;, choosing a player that has passed, the chosen player cannot play action cards during their action.<sup>*</sup></li>
     </ol>
     <li>Any deal between the Naalu player and another player regarding which system will be activated, if made before Z&rsquo;eu &Omega; is exhausted, is non&ndash;binding.<sup>1</sup></li>
-    <li>The <a href="https://twilight-imperium.fandom.com/wiki/Agenda_Cards#Directives:~:text=Minister%20of%20Peace"><i>Minister of Peace</i></a> agenda and the <a href="/F_mahact">Mahact</a> player&rsquo;s Starlancer mech still end the chosen player&rsquo;s tactical action, even though it is not considered their turn.<sup>4</sup></li>
+    <li>The <i>Minister of Peace</i> agenda and the <a href="/F_mahact">Mahact</a> player&rsquo;s Starlancer mech still end the chosen player&rsquo;s tactical action, even though it is not considered their turn.<sup>4</sup></li>
     </ol>
 
 <h2 id="zeu-omega-omega"><a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Leaders:~:text=Z%27eu">Z&rsquo;eu &Omega;&Omega;</a> <sub>(Agent)</sub></h2>

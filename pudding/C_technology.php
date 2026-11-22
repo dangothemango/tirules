@@ -435,7 +435,7 @@
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>
-        <li>Examples of abilities that may add units at the start of space combat include a combination of the <a href="/F_mentak">Mentak</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Sleeper%20Cell"><i>Sleeper Cell</i></a> hero ability and their <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Faction_Abilities:~:text=Ambush"><sc>Ambush</sc></a> faction ability, the ability of the <a href="/F_nekro">Nekro</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, and the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Mech:~:text=Z-Grav%20Eidolon"><i>Eidolon</i></a> mech ability.<sup>*</sup>
+        <li>Examples of abilities that may add units at the start of space combat include a combination of the Mentak player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Mentak_Coalition#Leaders:~:text=Sleeper%20Cell"><i>Sleeper Cell</i></a> hero ability and their <sc>Ambush</sc> faction ability, the ability of the <a href="/F_nekro">Nekro</a> player&rsquo;s flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, and the <a href="/F_naaz_rokha">Naaz&ndash;Rokha</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Naaz-Rokha_Alliance#Mech:~:text=Z-Grav%20Eidolon"><i>Eidolon</i></a> mech ability.<sup>*</sup>
         <ul>
         <li><b>Unverified</b>: No source found.</li>
         </ul></li>

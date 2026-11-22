@@ -6,7 +6,7 @@
     <li><sc>Indoctrination</sc> is limited to once per ground combat.<sup>1,2</sup></li>
     <li>If an invasion involves ground combats on multiple planets, <sc>Indoctrination</sc> may be used at the start of each of them.<sup>2</sup></li>
     <li>If the Yin player&rsquo;s opponent only has mechs in the ground combat, <sc>Indoctrination</sc> cannot be used.<sup>*</sup></li>
-    <ol><li>If the Yin player is in a combat with the <a href="/F_naalu">Naalu</a> player, and the <a href="/F_naalu">Naalu</a> player is using the ability of their flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Flagship:~:text=Matriarch"><i>Matriarch</i></a>, to commit only fighters to the ground combat, <sc>Indoctrination</sc> cannot be used.<sup>*</sup></li></ol>
+    <ol><li>If the Yin player is in a combat with the <a href="/F_naalu">Naalu</a> player, and the Naalu player is using the ability of their flagship, the <a href="https://twilight-imperium.fandom.com/wiki/The_Naalu_Collective#Flagship:~:text=Matriarch"><i>Matriarch</i></a>, to commit only fighters to the ground combat, <sc>Indoctrination</sc> cannot be used.<sup>*</sup></li></ol>
     <li>If the last of a player&rsquo;s ground forces in a ground combat are removed by <sc>Indoctrination</sc>, that player loses the combat immediately.<sup>2</sup></li>
     </ol>
 
@@ -149,7 +149,7 @@
     <ol class="note">
     <li>The Yin player may use the alliance ability as though that faction&rsquo;s commander were unlocked.<sup>7</sup></li>
     <ol><li>If the Yin player gains the <a href="/F_mahact">Mahact</a> alliance card, they gain access to the ability of Il Na Viroset, the Mahact commander.<sup>7</sup></li></ol>
-    <li>The <a href="/F_firmament">Firmament</a> and the <a href="/F_firmament">Obsidian</a> each have their own alliance card.<sup>6</sup></li>
+    <li>The <a href="/F_firmament">Firmament</a> and the Obsidian each have their own alliance card.<sup>6</sup></li>
     </ol>
 </article>
 <?php include "suffix.php"?>

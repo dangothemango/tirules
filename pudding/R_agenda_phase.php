@@ -67,7 +67,7 @@
         <li><b>Implicit</b>: <sup>1</sup> LRR 8.4: &ldquo;Step 3&mdash;Ready Planets: Each player readies each of their exhausted planets.&rdquo; Names only planets.</li>
         <li><b>Implicit</b>: <sup>3</sup> Learn to Play, Ready Planets: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
         </ul></li>
-    <ol><li>The Deepwrought player&rsquo;s <a href="/F_deepwrought#oceanbound">ocean cards</a>, space stations and <a href="https://twilight-imperium.fandom.com/wiki/Relics#Thunder's_Edge:~:text=The%20Triad"><i>The Triad</i></a> are also readied at the end of the agenda phase.<sup>3,6,7</sup>
+    <ol><li>The Deepwrought player&rsquo;s ocean cards, space stations and <i>The Triad</i> are also readied at the end of the agenda phase.<sup>3,6,7</sup>
         <ul>
         <li><b>Explicit</b>: <sup>3</sup> Learn to Play p. 21, Agenda Phase, &ldquo;3. READY PLANETS&rdquo;: &ldquo;Each player readies all of their planet cards.&rdquo;</li>
         <li><b>Explicit</b>: <sup>6</sup> Community consensus, Deepwrought Scholarate: &ldquo;What do Ocean Cards do? A: They are planet cards and can be spent as such.&rdquo;</li>
