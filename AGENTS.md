@@ -67,8 +67,8 @@ the repo owner explicitly asks in the current task.
 - `page_headers.php` (required by `prefix.php` and `index.php`) sends `Content-Length`, which
   CloudFront needs before it will compress a page, and `Cache-Control: public, max-age=300,
   s-maxage=86400` on every page that doesn't set `$page_noindex`: CloudFront keeps pages for
-  24 hours, browsers for 5 minutes. After deploying a content change, invalidate `/*` in CloudFront
-  so readers see it within 5 minutes; otherwise it can take up to 24 hours.
+  24 hours, browsers for 5 minutes. Every deploy ends with a CloudFront invalidation of `/*` (see
+  **Deploying**), so readers see changes within 5 minutes instead of up to 24 hours.
   Pages that must never be cached set `$page_noindex` or send their own `Cache-Control`.
 - `.platform/nginx/conf.d/elasticbeanstalk/static_cache.conf` caches `.woff2` and `.png` files and
   `style.css` for a year as immutable. Never change one of those files in place: give the new file a
@@ -120,6 +120,31 @@ Follow `style.md` for writing style and markup. Highlights:
 - Use a subject that says what changed on the site (for example
   `Coexistence: merge scoring notes and reorder`), and end with the `Co-Authored-By` trailer your
   harness specifies.
+
+## Deploying
+
+The owner deploys through the agent. Deploy only when asked, and only committed work: commit first
+(per **Committing**), with a clean working tree, and deploy that commit. Use the AWS MCP server.
+Everything is in account 114397092115, `us-east-1`.
+
+1. **Bundle.** Build the zip from the commit, not the working tree:
+   `git archive HEAD`, extracted to a scratch folder, minus `tools/`, `.github/`, `.claude/`,
+   `.gitignore`, `LICENSE`, `*.md` and `router.php`, then zipped from inside that folder so the
+   site files sit at the zip root (`.platform/` included). Name it `tirules2-deploy-<short sha>.zip`.
+2. **Upload** it to bucket `elasticbeanstalk-us-east-1-114397092115` (presigned PUT), with key
+   `<epoch ms>-tirules2-deploy-<short sha>.zip`.
+3. **Create the application version** in application `tirules`, labelled
+   `app-<next number>-<short sha>` (check the latest label first), with a one-line description.
+4. **Deploy** it: update environment `Tirules-env` to that version label. Wait until the environment
+   is `Ready`, then read its events since the update started. It must be health `Green` and say
+   "Environment update completed successfully." If the update failed, report the events and stop.
+5. **Invalidate CloudFront**: create an invalidation of `/*` on distribution `E34WS4EQLQWY1R`, and wait
+   for it to complete. Never skip this step, even for a deploy that seems to change only code.
+6. **Verify the live site**: `curl -sI -H 'Accept-Encoding: br' https://tirules2.com/R_combat` shows
+   `content-encoding: br` and the page `cache-control`. Spot-check that a changed page shows the
+   change, and that `https://lite.tirules2.com/` still loads.
+7. **Report** the commit, version label, environment status and health, the invalidation ID, and the
+   checks.
 
 ## Before finishing a change
 
