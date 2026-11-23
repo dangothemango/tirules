@@ -1,0 +1,316 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: >-
+  Email notifications for tirules2.com problem reports: the SES domain identity for tirules2.com (DKIM, custom
+  MAIL FROM, DMARC records in Route 53), the Secrets Manager key that encrypts reporters' email addresses before
+  they are stored in the public GitHub issue, the Elastic Beanstalk instance role permissions to use both, and a
+  CloudTrail trail that audits these API calls.
+
+Metadata:
+  AWSToolsMetrics:
+    AWSAgentToolkit: aws-cloudformation@3
+
+Parameters:
+  Domain:
+    Type: String
+    Default: tirules2.com
+  HostedZoneId:
+    Type: AWS::Route53::HostedZone::Id
+    Default: Z0734051XU0I3RHWOJ4U
+  FromAddress:
+    Type: String
+    Default: noreply@tirules2.com
+  InstanceRoleName:
+    Type: String
+    Default: aws-elasticbeanstalk-ec2-role
+    Description: Instance role of the Elastic Beanstalk environment (report.php and report_notify.php run there).
+
+Resources:
+  EmailIdentity:
+    Type: AWS::SES::EmailIdentity
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Lets SES send report notifications from the domain, signed with Easy DKIM.
+    Properties:
+      EmailIdentity: !Ref Domain
+      DkimSigningAttributes:
+        NextSigningKeyLength: RSA_2048_BIT
+      MailFromAttributes:
+        MailFromDomain: !Sub "mail.${Domain}"
+        BehaviorOnMxFailure: USE_DEFAULT_VALUE
+
+  DkimRecord1:
+    Type: AWS::Route53::RecordSet
+    Properties:
+      HostedZoneId: !Ref HostedZoneId
+      Name: !GetAtt EmailIdentity.DkimDNSTokenName1
+      Type: CNAME
+      TTL: "1800"
+      ResourceRecords: [!GetAtt EmailIdentity.DkimDNSTokenValue1]
+
+  DkimRecord2:
+    Type: AWS::Route53::RecordSet
+    Properties:
+      HostedZoneId: !Ref HostedZoneId
+      Name: !GetAtt EmailIdentity.DkimDNSTokenName2
+      Type: CNAME
+      TTL: "1800"
+      ResourceRecords: [!GetAtt EmailIdentity.DkimDNSTokenValue2]
+
+  DkimRecord3:
+    Type: AWS::Route53::RecordSet
+    Properties:
+      HostedZoneId: !Ref HostedZoneId
+      Name: !GetAtt EmailIdentity.DkimDNSTokenName3
+      Type: CNAME
+      TTL: "1800"
+      ResourceRecords: [!GetAtt EmailIdentity.DkimDNSTokenValue3]
+
+  MailFromMx:
+    Type: AWS::Route53::RecordSet
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Custom MAIL FROM so SPF aligns with the From domain and DMARC can pass on SPF as well as DKIM.
+    Properties:
+      HostedZoneId: !Ref HostedZoneId
+      Name: !Sub "mail.${Domain}"
+      Type: MX
+      TTL: "1800"
+      ResourceRecords: [!Sub "10 feedback-smtp.${AWS::Region}.amazonses.com"]
+
+  MailFromSpf:
+    Type: AWS::Route53::RecordSet
+    Properties:
+      HostedZoneId: !Ref HostedZoneId
+      Name: !Sub "mail.${Domain}"
+      Type: TXT
+      TTL: "1800"
+      ResourceRecords: ['"v=spf1 include:amazonses.com ~all"']
+
+  DmarcRecord:
+    Type: AWS::Route53::RecordSet
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: A monitoring-only DMARC policy; mailbox providers expect one from senders.
+        must: The domain sends no other mail. If it ever does, check that mail is DKIM-signed before tightening p=.
+    Properties:
+      HostedZoneId: !Ref HostedZoneId
+      Name: !Sub "_dmarc.${Domain}"
+      Type: TXT
+      TTL: "1800"
+      ResourceRecords: ['"v=DMARC1; p=none;"']
+
+  NotifyKeyKms:
+    Type: AWS::KMS::Key
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Dedicated key for the report-notify secret, usable only through Secrets Manager.
+    Properties:
+      Description: Encrypts the tirules2.com report-notify secret
+      EnableKeyRotation: true
+      KeyPolicy:
+        Version: "2012-10-17"
+        Statement:
+          - Sid: AccountAdmin
+            Effect: Allow
+            Principal:
+              AWS: !Sub "arn:${AWS::Partition}:iam::${AWS::AccountId}:root"
+            Action: "kms:*"
+            Resource: "*"
+          - Sid: InstanceRoleDecryptViaSecretsManager
+            Effect: Allow
+            Principal:
+              AWS: !Sub "arn:${AWS::Partition}:iam::${AWS::AccountId}:role/${InstanceRoleName}"
+            Action:
+              - kms:Decrypt
+              - kms:DescribeKey
+            Resource: "*"
+            Condition:
+              StringEquals:
+                kms:ViaService: !Sub "secretsmanager.${AWS::Region}.amazonaws.com"
+      Tags:
+        - Key: app
+          Value: tirules
+
+  NotifySecret:
+    Type: AWS::SecretsManager::Secret
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: >-
+          Random value that report.php turns into the key that encrypts a reporter's email address before it is
+          stored, in a hidden comment, in the public GitHub issue. report_notify.php decrypts it to send updates.
+        must: >-
+          Never rotate or replace it: every stored address was encrypted with this value, so a new value makes
+          every existing subscription undeliverable. That is why rotation is deliberately not configured.
+    Properties:
+      Name: tirules/report-notify-key
+      Description: Key material for encrypting reporter email addresses (tirules2.com report form)
+      KmsKeyId: !Ref NotifyKeyKms
+      GenerateSecretString:
+        PasswordLength: 64
+        ExcludePunctuation: true
+      Tags:
+        - Key: app
+          Value: tirules
+
+  InstancePolicy:
+    Type: AWS::IAM::RolePolicy
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Lets the site's PHP read the notify secret and send mail, only from the noreply address.
+    Properties:
+      RoleName: !Ref InstanceRoleName
+      PolicyName: tirules-report-email
+      PolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Sid: SendReportNotifications
+            Effect: Allow
+            Action: ses:SendEmail
+            Resource: !Sub "arn:${AWS::Partition}:ses:${AWS::Region}:${AWS::AccountId}:identity/${Domain}"
+            Condition:
+              StringEquals:
+                ses:FromAddress: !Ref FromAddress
+          - Sid: ReadNotifySecret
+            Effect: Allow
+            Action:
+              - secretsmanager:GetSecretValue
+              - secretsmanager:DescribeSecret
+            Resource: !Ref NotifySecret
+            Condition:
+              Bool:
+                aws:SecureTransport: "true"
+          - Sid: DecryptNotifySecret
+            Effect: Allow
+            Action:
+              - kms:Decrypt
+              - kms:DescribeKey
+            Resource: !GetAtt NotifyKeyKms.Arn
+            Condition:
+              StringEquals:
+                kms:ViaService: !Sub "secretsmanager.${AWS::Region}.amazonaws.com"
+
+  TrailKey:
+    Type: AWS::KMS::Key
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Encrypts the CloudTrail log files (they include email-related SES API calls).
+    Properties:
+      Description: Encrypts the tirules CloudTrail trail
+      EnableKeyRotation: true
+      KeyPolicy:
+        Version: "2012-10-17"
+        Statement:
+          - Sid: AccountAdmin
+            Effect: Allow
+            Principal:
+              AWS: !Sub "arn:${AWS::Partition}:iam::${AWS::AccountId}:root"
+            Action: "kms:*"
+            Resource: "*"
+          - Sid: CloudTrailEncrypt
+            Effect: Allow
+            Principal:
+              Service: cloudtrail.amazonaws.com
+            Action: kms:GenerateDataKey*
+            Resource: "*"
+            Condition:
+              StringEquals:
+                aws:SourceArn: !Sub "arn:${AWS::Partition}:cloudtrail:${AWS::Region}:${AWS::AccountId}:trail/tirules-management"
+              StringLike:
+                kms:EncryptionContext:aws:cloudtrail:arn: !Sub "arn:${AWS::Partition}:cloudtrail:*:${AWS::AccountId}:trail/*"
+          - Sid: CloudTrailDescribe
+            Effect: Allow
+            Principal:
+              Service: cloudtrail.amazonaws.com
+            Action: kms:DescribeKey
+            Resource: "*"
+
+  TrailBucket:
+    Type: AWS::S3::Bucket
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Properties:
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: aws:kms
+              KMSMasterKeyID: !GetAtt TrailKey.Arn
+            BucketKeyEnabled: true
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+      VersioningConfiguration:
+        Status: Enabled
+      LifecycleConfiguration:
+        Rules:
+          - Id: ExpireAfterOneYear
+            Status: Enabled
+            ExpirationInDays: 365
+            NoncurrentVersionExpiration:
+              NoncurrentDays: 7
+
+  TrailBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref TrailBucket
+      PolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Sid: DenyInsecureTransport
+            Effect: Deny
+            Principal: "*"
+            Action: "s3:*"
+            Resource:
+              - !GetAtt TrailBucket.Arn
+              - !Sub "${TrailBucket.Arn}/*"
+            Condition:
+              Bool:
+                aws:SecureTransport: "false"
+          - Sid: CloudTrailAclCheck
+            Effect: Allow
+            Principal:
+              Service: cloudtrail.amazonaws.com
+            Action: s3:GetBucketAcl
+            Resource: !GetAtt TrailBucket.Arn
+            Condition:
+              StringEquals:
+                aws:SourceArn: !Sub "arn:${AWS::Partition}:cloudtrail:${AWS::Region}:${AWS::AccountId}:trail/tirules-management"
+          - Sid: CloudTrailWrite
+            Effect: Allow
+            Principal:
+              Service: cloudtrail.amazonaws.com
+            Action: s3:PutObject
+            Resource: !Sub "${TrailBucket.Arn}/AWSLogs/${AWS::AccountId}/*"
+            Condition:
+              StringEquals:
+                s3:x-amz-acl: bucket-owner-full-control
+                aws:SourceArn: !Sub "arn:${AWS::Partition}:cloudtrail:${AWS::Region}:${AWS::AccountId}:trail/tirules-management"
+
+  Trail:
+    Type: AWS::CloudTrail::Trail
+    DependsOn: TrailBucketPolicy
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Audit trail of management API calls in all Regions (CloudFront, SES, Secrets Manager, IAM changes).
+        must: Management events only; the first copy of management events has no CloudTrail charge.
+    Properties:
+      TrailName: tirules-management
+      S3BucketName: !Ref TrailBucket
+      KMSKeyId: !GetAtt TrailKey.Arn
+      IsLogging: true
+      IsMultiRegionTrail: true
+      IncludeGlobalServiceEvents: true
+      EnableLogFileValidation: true
+
+Outputs:
+  NotifySecretArn:
+    Value: !Ref NotifySecret
+  EmailIdentity:
+    Value: !Ref EmailIdentity

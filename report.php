@@ -4,9 +4,11 @@
 // Needs the GITHUB_ISSUES_TOKEN environment variable: a fine-grained token with
 // Issues read/write on dangothemango/tirules only. Without it (or if GitHub is down),
 // the page offers GitHub's own issue form, prefilled, instead.
+// A reporter may leave an email address to hear when the report is closed or the owner replies:
+// it is encrypted into a hidden comment in the issue (report_lib.php) and read by report_notify.php.
 $page_noindex = true;
+require __DIR__ . '/report_lib.php';
 
-const REPORT_REPO = 'dangothemango/tirules';
 const REPORT_KINDS = [
     'wrong'     => 'A rule or note is wrong',
     'missing'   => 'A note is missing or needs more detail',
@@ -56,14 +58,6 @@ function report_rate_ok(): bool
         @file_put_contents($file, json_encode($times), LOCK_EX);
     }
     return true;
-}
-
-// The token, from whichever way Elastic Beanstalk exposes environment properties to PHP.
-function report_token(): string
-{
-    $t = getenv('GITHUB_ISSUES_TOKEN') ?: ($_SERVER['GITHUB_ISSUES_TOKEN'] ?? '')
-        ?: ($_ENV['GITHUB_ISSUES_TOKEN'] ?? '') ?: (get_cfg_var('GITHUB_ISSUES_TOKEN') ?: '');
-    return trim((string) $t);
 }
 
 // Why there is no token, for the site owner. Variable names only, never values.
@@ -138,7 +132,8 @@ function report_create_issue(string $token, string $title, string $body, ?string
 
 $page = mb_substr(trim((string) ($_GET['page'] ?? '')), 0, 200);
 $kind = 'wrong';
-$details = $source = '';
+$details = $source = $email = '';
+$email_saved = null;  // after a report with an email address: whether it could be stored
 $errors = [];
 $result = null;     // [number, url] after a successful report
 $fallback = null;   // GitHub issue-form URL when the API can't be used
@@ -149,11 +144,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $kind = array_key_exists($_POST['kind'] ?? '', REPORT_KINDS) ? $_POST['kind'] : 'other';
     $details = report_field('details', 5000);
     $source = report_field('source', 500);
+    $email = report_field('email', 254);
     $bot = report_field('website', 200) !== ''                      // hidden honeypot field
         || (time() - (int) ($_POST['t'] ?? 0)) < 3;                   // submitted too fast
 
     if (mb_strlen($details) < 10) {
         $errors[] = 'Please describe the problem (at least a sentence).';
+    }
+    if ($email !== '' && !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        $errors[] = 'That email address doesn’t look right. Check it, or leave it empty.';
     }
     if (!$errors && !$bot && !report_rate_ok()) {
         $errors[] = 'Too many reports from here in the last hour. Please try again later.';
@@ -182,7 +181,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 error_log('report.php: ' . $reason);
                 $result = null;
             } else {
-                $result = report_create_issue($token, $title, $body, $reason);
+                // The encrypted address goes only into the API request, never into the GitHub-form fallback
+                $marker = $email !== '' ? report_notify_marker($email) : null;
+                $email_saved = $email !== '' ? $marker !== null : null;
+                $result = report_create_issue($token, $title, $body . ($marker !== null ? "\n\n" . $marker : ''), $reason);
             }
             if ($result === null) {
                 $fallback = 'https://github.com/' . REPORT_REPO . '/issues/new?title='
@@ -199,13 +201,14 @@ include "prefix.php";
 <article>
 <?php if ($result !== null) { ?>
 <p>Thank you. Your report has been sent<?php if ($result[0] > 0) { ?> as <a href="<?php echo $h($result[1]); ?>">issue #<?php echo $result[0]; ?></a> on GitHub, where you can follow it<?php } ?>.</p>
+<?php if ($email_saved === true) { ?><p>We&rsquo;ll email you when it&rsquo;s fixed or closed, or when we reply.</p><?php } elseif ($email_saved === false) { ?><p>We couldn&rsquo;t save your email address this time, so we can&rsquo;t email you about it. You can follow the issue on GitHub instead.</p><?php } ?>
 <?php if ($page !== '' && str_starts_with($page, '/')) { ?><p><a href="<?php echo $h($page); ?>">Back to the page</a></p><?php } ?>
 <?php } elseif ($fallback !== null) { ?>
 <p>The report could not be sent from here right now. You can send it on GitHub instead (this needs a GitHub account); your text is already filled in:</p>
 <p><a href="<?php echo $h($fallback); ?>" rel="noopener">Open the report on GitHub</a></p>
 <?php if ($reason !== null) { ?><p class="report-reason">Technical detail for the site owner: <?php echo $h($reason); ?></p><?php } ?>
 <?php } else { ?>
-<p>Found a rule that&rsquo;s wrong, a note that&rsquo;s missing, or something confusing? Tell us here. Reports become public issues on <a href="https://github.com/<?php echo REPORT_REPO; ?>/issues">GitHub</a>, so please don&rsquo;t include personal details.</p>
+<p>Found a rule that&rsquo;s wrong, a note that&rsquo;s missing, or something confusing? Tell us here. Reports become public issues on <a href="https://github.com/<?php echo REPORT_REPO; ?>/issues">GitHub</a>, so please don&rsquo;t put personal details in the report itself.</p>
 <?php if ($errors) { ?><p class="report-error"><?php echo $h(implode(' ', $errors)); ?></p><?php } ?>
 <form class="report" method="post" action="/report">
     <label for="report-page">Page</label>
@@ -220,6 +223,9 @@ include "prefix.php";
     <textarea id="report-details" name="details" maxlength="5000" required placeholder="Quote the note if you can, and say what should change."><?php echo $h($details); ?></textarea>
     <label for="report-source">Source, if you have one (optional)</label>
     <input type="text" id="report-source" name="source" maxlength="500" value="<?php echo $h($source); ?>" placeholder="e.g. Living Rules Reference 78.4, or a link to a ruling"/>
+    <label for="report-email">Email me when this is updated (optional)</label>
+    <input type="email" id="report-email" name="email" maxlength="254" autocomplete="email" value="<?php echo $h($email); ?>"/>
+    <p class="report-hint">We&rsquo;ll email you when the report is fixed or closed, or when we reply, and for nothing else. Your address is encrypted and never shown on this site or on GitHub.</p>
     <div class="report-trap" aria-hidden="true"><label for="report-website">Leave this empty</label><input type="text" id="report-website" name="website" tabindex="-1" autocomplete="off"/></div>
     <input type="hidden" name="t" value="<?php echo time(); ?>"/>
     <button type="submit">Send report</button>

@@ -60,6 +60,14 @@ the repo owner explicitly asks in the current task.
   only, set as an EB **Environment property**, not an environment secret). Without the token, or if
   GitHub refuses the request, it offers GitHub's own prefilled issue form and states the reason.
   Issues must be enabled on the repo. The page is `noindex` and is not in the nav or sitemap.
+- Reporters may leave an email address to hear when their report is closed or the owner comments.
+  `report_lib.php` encrypts it (libsodium, key derived from the Secrets Manager secret
+  `tirules/report-notify-key`) into a hidden `<!-- tirules-notify:v1:... -->` comment in the issue; it is
+  never stored in plain text. `report_notify.php` (`/report_notify`) is the repo's GitHub webhook (Issues,
+  Issue comments): it re-reads the issue and comment from the GitHub API rather than trusting the payload
+  (CloudFront doesn't forward GitHub's signature header), and sends mail through SES from
+  `noreply@tirules2.com` using the instance role. AWS resources are in the `tirules-report-email` stack
+  (`tools/aws/report-email.yaml`). Never rotate the secret: stored addresses would become unreadable.
 - `search.php` (`/search?q=`) searches the headings, rules and notes of every `R_`/`F_`/`C_` page
   on the server (no index to rebuild: it reads the page files on each request). A small inline
   script, approved by the owner, refreshes the results as the reader types by fetching the same

@@ -353,7 +353,7 @@ form.report label
     margin-top: 1.5ex;
     font-weight: bold;
 }
-form.report input[type="text"], form.report select, form.report textarea
+form.report input[type="text"], form.report input[type="email"], form.report select, form.report textarea
 {
     box-sizing: border-box;
     width: 100%;
@@ -453,6 +453,14 @@ mark
     width: 1px;
     height: 1px;
     overflow: hidden;
+}
+/* Explains the optional email field */
+.report-hint
+{
+    margin: 0;
+    padding: 0.5ex 0 0;
+    font-size: 80%;
+    opacity: 0.8;
 }
 .report-error
 {

@@ -4,6 +4,7 @@ Description: >-
   that loads the site (including one uncached search that reaches the Elastic Beanstalk origin),
   alarms that email through an existing SNS topic, and a dashboard. Elastic Beanstalk enhanced health,
   log streaming and EC2 detailed monitoring are environment option settings, not part of this stack.
+  Also CloudFront access logs (standard logging v2) to an encrypted log group, with saved per-page queries.
 
 Metadata:
   AWSToolsMetrics:
@@ -280,6 +281,146 @@ Resources:
       AlarmActions: [!Ref AlarmTopicArn]
       OKActions: [!Ref AlarmTopicArn]
 
+  AccessLogsKey:
+    Type: AWS::KMS::Key
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Encrypts the CloudFront access log group (about $1 a month).
+        must: Keep while the log group exists; deleting it makes the logs unreadable.
+    Properties:
+      Description: Encrypts the tirules2.com CloudFront access log group
+      EnableKeyRotation: true
+      KeyPolicy:
+        Version: "2012-10-17"
+        Statement:
+          - Sid: AccountAdmin
+            Effect: Allow
+            Principal:
+              AWS: !Sub "arn:${AWS::Partition}:iam::${AWS::AccountId}:root"
+            Action: "kms:*"
+            Resource: "*"
+          - Sid: CloudWatchLogs
+            Effect: Allow
+            Principal:
+              Service: !Sub "logs.${AWS::Region}.amazonaws.com"
+            Action:
+              - kms:Encrypt
+              - kms:Decrypt
+              - kms:ReEncrypt*
+              - kms:GenerateDataKey*
+              - kms:Describe*
+            Resource: "*"
+            Condition:
+              ArnLike:
+                kms:EncryptionContext:aws:logs:arn: !Sub "arn:${AWS::Partition}:logs:${AWS::Region}:${AWS::AccountId}:log-group:*"
+
+  AccessLogGroup:
+    Type: AWS::Logs::LogGroup
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: CloudFront access logs (every request, cached or not) for per-page traffic. Ingestion is covered by the Pro flat-rate plan; storage is $0.03 per GB-month.
+        must: Needs the distribution on the CloudFront Pro plan or above; the Free plan has no access logs.
+    Properties:
+      LogGroupName: !Sub "/aws/vendedlogs/cloudfront/${AWS::StackName}"
+      RetentionInDays: 365
+      KmsKeyId: !GetAtt AccessLogsKey.Arn
+
+  AccessLogDeliveryPolicy:
+    Type: AWS::Logs::ResourcePolicy
+    Properties:
+      PolicyName: !Sub "${AWS::StackName}-vendedlogs"
+      PolicyDocument: !Sub >-
+        {"Version":"2012-10-17","Statement":[{"Sid":"AWSLogDeliveryWrite",
+        "Effect":"Allow","Principal":{"Service":"delivery.logs.amazonaws.com"},
+        "Action":["logs:CreateLogStream","logs:PutLogEvents"],
+        "Resource":"arn:${AWS::Partition}:logs:${AWS::Region}:${AWS::AccountId}:log-group:/aws/vendedlogs/*",
+        "Condition":{"StringEquals":{"aws:SourceAccount":"${AWS::AccountId}"},
+        "ArnLike":{"aws:SourceArn":"arn:${AWS::Partition}:logs:${AWS::Region}:${AWS::AccountId}:*"}}}]}
+
+  AccessLogSource:
+    Type: AWS::Logs::DeliverySource
+    Properties:
+      Name: !Sub "${AWS::StackName}-cloudfront"
+      ResourceArn: !Sub "arn:${AWS::Partition}:cloudfront::${AWS::AccountId}:distribution/${DistributionId}"
+      LogType: ACCESS_LOGS
+
+  AccessLogDestination:
+    Type: AWS::Logs::DeliveryDestination
+    Properties:
+      Name: !Sub "${AWS::StackName}-cloudfront-cwl"
+      DestinationResourceArn: !Sub "arn:${AWS::Partition}:logs:${AWS::Region}:${AWS::AccountId}:log-group:${AccessLogGroup}"
+      OutputFormat: json
+
+  AccessLogDelivery:
+    Type: AWS::Logs::Delivery
+    DependsOn: AccessLogDeliveryPolicy
+    Metadata:
+      com.aws.cloudformation.Context:
+        why: Sends CloudFront standard logs (v2) to the log group with only the fields needed for traffic analysis.
+        must: >-
+          Leave out c-ip, x-forwarded-for, c-port and cs(Cookie): readers' IP addresses and cookies are not needed
+          and are personal data.
+    Properties:
+      DeliverySourceName: !Ref AccessLogSource
+      DeliveryDestinationArn: !GetAtt AccessLogDestination.Arn
+      RecordFields:
+        - timestamp
+        - cs-method
+        - x-host-header
+        - cs-uri-stem
+        - cs-uri-query
+        - sc-status
+        - sc-bytes
+        - time-taken
+        - x-edge-result-type
+        - x-edge-location
+        - c-country
+        - cs(Referer)
+        - cs(User-Agent)
+
+  TopPagesQuery:
+    Type: AWS::Logs::QueryDefinition
+    Properties:
+      Name: tirules/Top pages (people, last period)
+      LogGroupNames: [!Ref AccessLogGroup]
+      QueryString: |
+        fields `cs-uri-stem` as page
+        | filter `sc-status` = 200 and `cs-method` = "GET"
+        | filter page not like /\.(css|woff2|png|ico|txt|xml)$/
+        | filter `cs(User-Agent)` not like /(?i)bot|crawl|spider|slurp|CloudWatchSynthetics|curl|python|go-http/
+        | stats count(*) as views by page
+        | sort views desc
+        | limit 200
+
+  TopSearchesQuery:
+    Type: AWS::Logs::QueryDefinition
+    Properties:
+      Name: tirules/Top searches
+      LogGroupNames: [!Ref AccessLogGroup]
+      QueryString: |
+        filter `cs-uri-stem` = "/search" and `cs-uri-query` like /q=/
+        | filter `cs(User-Agent)` not like /(?i)bot|crawl|spider|slurp|CloudWatchSynthetics/
+        | parse `cs-uri-query` /q=(?<query>[^&]*)/
+        | stats count(*) as searches by query
+        | sort searches desc
+        | limit 100
+
+  TopReferrersQuery:
+    Type: AWS::Logs::QueryDefinition
+    Properties:
+      Name: tirules/Referrers and countries
+      LogGroupNames: [!Ref AccessLogGroup]
+      QueryString: |
+        filter `cs-uri-stem` not like /\.(css|woff2|png|ico|txt|xml)$/
+        | filter `cs(User-Agent)` not like /(?i)bot|crawl|spider|slurp|CloudWatchSynthetics/
+        | stats count(*) as views by `c-country` as country, `cs(Referer)` as referrer
+        | sort views desc
+        | limit 100
+
   Dashboard:
     Type: AWS::CloudWatch::Dashboard
     Metadata:
@@ -321,7 +462,10 @@ Resources:
               "title": "Instance CPU (%) and CPU credit balance", "region": "us-east-1", "period": 300,
               "metrics": [
                 [{"expression": "SEARCH('{AWS/EC2,InstanceId} MetricName=\"CPUUtilization\"', 'Average', 300)", "id": "cpu"}],
-                [{"expression": "SEARCH('{AWS/EC2,InstanceId} MetricName=\"CPUCreditBalance\"', 'Average', 300)", "id": "credits", "yAxis": "right"}]]}}
+                [{"expression": "SEARCH('{AWS/EC2,InstanceId} MetricName=\"CPUCreditBalance\"', 'Average', 300)", "id": "credits", "yAxis": "right"}]]}},
+            {"type": "log", "x": 0, "y": 24, "width": 24, "height": 10, "properties": {
+              "title": "Top pages (people; bots and the canary filtered out)", "region": "us-east-1", "view": "table",
+              "query": "SOURCE '${AccessLogGroup}' | fields `cs-uri-stem` as page | filter `sc-status` = 200 and `cs-method` = \"GET\" | filter page not like /[.](css|woff2|png|ico|txt|xml)$/ | filter `cs(User-Agent)` not like /(?i)bot|crawl|spider|slurp|CloudWatchSynthetics|curl|python|go-http/ | stats count(*) as views by page | sort views desc | limit 50"}}
           ]
         }
 
