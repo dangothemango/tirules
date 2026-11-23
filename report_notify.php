@@ -28,15 +28,21 @@ function notify_done(string $why): never
     exit;
 }
 
-// Claim a one-time key (per close or per comment) and cap sends at 30 an hour. False if already used.
+// Marker file recording that one close or one comment has been emailed.
+function notify_seen_file(string $key): string
+{
+    return sys_get_temp_dir() . '/tirules_notify_' . sha1($key);
+}
+
+// True if this close or comment has not been emailed yet and the 30-an-hour cap allows a send.
+// The key is only recorded as sent (the touch at the end of this file) after SES accepts the email, so a failed
+// send can be retried by redelivering the webhook.
 function notify_claim(string $key): bool
 {
-    $dir = sys_get_temp_dir();
-    $seen = $dir . '/tirules_notify_' . sha1($key);
-    if (is_file($seen)) {
+    if (is_file(notify_seen_file($key))) {
         return false;
     }
-    $file = $dir . '/tirules_notify_rate.json';
+    $file = sys_get_temp_dir() . '/tirules_notify_rate.json';
     $now = time();
     $times = is_file($file) ? (json_decode((string) @file_get_contents($file), true) ?: []) : [];
     $times = array_values(array_filter($times, fn($t) => is_int($t) && $t > $now - 3600));
@@ -45,7 +51,6 @@ function notify_claim(string $key): bool
     }
     $times[] = $now;
     @file_put_contents($file, json_encode($times), LOCK_EX);
-    @touch($seen);
     return true;
 }
 
@@ -87,7 +92,8 @@ if ($isComment) {
     if (strcasecmp((string) ($comment['user']['login'] ?? ''), $owner) !== 0) {
         notify_done('');   // only the owner's replies are sent
     }
-    if (!notify_claim('comment:' . $comment['id'])) {
+    $key = 'comment:' . $comment['id'];
+    if (!notify_claim($key)) {
         notify_done('comment ' . $comment['id'] . ' already sent, or the hourly cap was reached');
     }
     $text = trim((string) ($comment['body'] ?? ''));
@@ -100,7 +106,8 @@ if ($isComment) {
     if (($issue['state'] ?? '') !== 'closed') {
         notify_done('');   // reopened since, or not really closed
     }
-    if (!notify_claim('closed:' . $number . ':' . ($issue['closed_at'] ?? ''))) {
+    $key = 'closed:' . $number . ':' . ($issue['closed_at'] ?? '');
+    if (!notify_claim($key)) {
         notify_done('close of #' . $number . ' already sent, or the hourly cap was reached');
     }
     $fixed = ($issue['state_reason'] ?? '') === 'completed';
@@ -110,4 +117,8 @@ if ($isComment) {
         : 'has been closed without a change. The issue may say why.') . $footer;
 }
 
-notify_done(report_send_email($email, $subject, $body) ? '' : 'sending failed for #' . $number);
+if (!report_send_email($email, $subject, $body)) {
+    notify_done('sending failed for #' . $number);
+}
+@touch(notify_seen_file($key));
+notify_done('');

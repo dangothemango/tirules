@@ -68,6 +68,9 @@ the repo owner explicitly asks in the current task.
   (CloudFront doesn't forward GitHub's signature header), and sends mail through SES from
   `noreply@tirules2.com` using the instance role. AWS resources are in the `tirules-report-email` stack
   (`tools/aws/report-email.yaml`). Never rotate the secret: stored addresses would become unreadable.
+- The CloudFront web ACL (`CreatedByCloudFront-681f8213`, managed with the flat-rate plan, not in CloudFormation)
+  sets the Common Rule Set's `SizeRestrictions_BODY` to Count, and rule `BlockLargeBodiesExceptWebhook` blocks
+  bodies over 8 KB everywhere except `/report_notify`: GitHub's issue events are larger than 8 KB and were blocked.
 - `search.php` (`/search?q=`) searches the headings, rules and notes of every `R_`/`F_`/`C_` page
   on the server (no index to rebuild: it reads the page files on each request). A small inline
   script, approved by the owner, refreshes the results as the reader types by fetching the same
