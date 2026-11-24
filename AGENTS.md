@@ -120,7 +120,9 @@ Follow `style.md` for writing style and markup. Highlights:
 - A starred note's proof is an `R` line instead of `N`: quote the card text and LRR rules the note
   rests on, then the inference in one sentence. The note keeps `<sup>*</sup>`; R lines carry no
   source number. `./tools/starred_todo.py` counts the starred notes still without one
-  (`./tools/starred_todo.py <page>` lists them with their `@n`).
+  (`./tools/starred_todo.py <page>` lists them with their `@n`). `./tools/evidence.py` prints LRR
+  sections and wiki card text to quote (cached in `tools/.cache/`), and `./tools/set_reasoning.py
+  <page> <file.json>` swaps a page's `N` lines for the R lines in the JSON.
 - Each source in `sources.php` has a page, `sources/<n>.php` (served at `/sources/<n>`, `noindex`,
   linked from the home page footer), listing every note it proves. `build_pudding.py` regenerates
   them all after building proof pages (or run `./tools/build_sources.py`); commit them with the
