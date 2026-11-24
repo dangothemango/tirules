@@ -113,7 +113,10 @@ def build(page, write=True):
     reasoning = (" <b>Reasoning</b> shows how a note no source addresses follows from the card text and rules."
                  if any(k == "R" for v in raw.values() for k, _, _ in v) else "")
     styles = "".join(m + "\n" for m in re.findall(r"<style>.*?</style>", s[:s.find("<header>")], re.S))
-    out = (f'<?php include __DIR__ . "/../prefix.php"?>\n{styles}<header><h1>{heading}</h1></header>\n<article>\n'
+    # suffix.php looks for this marker to tell readers the proof page reasons out every starred note
+    done = all(any(k == "R" for k, _, _ in prs) for text, prs in records if text.rstrip().endswith("<sup>*</sup>"))
+    marker = "<?php /* starred notes reasoned */ ?>\n" if done and any(t.rstrip().endswith("<sup>*</sup>") for t, _ in records) else ""
+    out = (f'<?php include __DIR__ . "/../prefix.php"?>\n{marker}{styles}<header><h1>{heading}</h1></header>\n<article>\n'
            f'<p>The source text behind each note on <a href="/{page}">{title}</a>. <b>Explicit</b> sources state the note directly. '
            f"<b>Implicit</b> sources support it without stating it.{reasoning}</p>\n"
            + "\n".join(body) + '\n</article>\n<?php include __DIR__ . "/../suffix.php"?>\n')

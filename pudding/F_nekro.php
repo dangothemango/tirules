@@ -1,4 +1,5 @@
 <?php include __DIR__ . "/../prefix.php"?>
+<?php /* starred notes reasoned */ ?>
 <header><h1>The Nekro Virus: Proof</h1></header>
 <article>
 <p>The source text behind each note on <a href="/F_nekro">The Nekro Virus</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it. <b>Reasoning</b> shows how a note no source addresses follows from the card text and rules.</p>

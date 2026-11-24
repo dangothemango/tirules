@@ -43,7 +43,13 @@ if (empty($is_lite)) {
         echo '<p class="sources">Sources:<br/>' . "\n" . implode("<br/>\n", $lines) . "</p>\n";
     }
     if ($cited === null || isset($cited['*'])) {
-        echo '<p class="sources"><sup>*</sup>&nbsp;I could not find a source for these rulings but kept them in as they fit with my understanding of the game.</p>' . "\n";
+        // Once a page's proof page reasons out every starred note, say so (build_pudding.py writes the marker).
+        $reasoned = '';
+        if (preg_match('#^/([RFC]_[A-Za-z0-9_]+)$#', $footer_path, $m) && is_file($pf = __DIR__ . '/pudding/' . $m[1] . '.php')
+            && strpos(file_get_contents($pf), '<?php /* starred notes reasoned */ ?>') !== false) {
+            $reasoned = " The <a href=\"/{$m[1]}/pudding\">proof page</a> gives the reasoning under each one.";
+        }
+        echo '<p class="sources"><sup>*</sup>&nbsp;I could not find a source for these rulings but kept them in as they fit with my understanding of the game.' . $reasoned . '</p>' . "\n";
     }
 }
 ?>
