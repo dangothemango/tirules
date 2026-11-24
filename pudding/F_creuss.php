@@ -1,7 +1,7 @@
 <?php include __DIR__ . "/../prefix.php"?>
 <header><h1>The Ghosts of Creuss: Proof</h1></header>
 <article>
-<p>The source text behind each note on <a href="/F_creuss">The Ghosts of Creuss</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
+<p>The source text behind each note on <a href="/F_creuss">The Ghosts of Creuss</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it. <b>Reasoning</b> shows how a note no source addresses follows from the card text and rules.</p>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Quantum%20Entanglement">Quantum Entanglement</a></h2>
     <ol class="note">
@@ -39,7 +39,7 @@
         </ul></li>
     <li><sc>Slipstream</sc> does not apply to the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Abilities:~:text=Creuss%20Gate">Creuss Gate</a> or to the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a>, or to gamma wormholes.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Slipstream applies to &ldquo;each of your ships that starts its movement in your home system or in a system that contains either an alpha or beta wormhole.&rdquo; Creuss Gate: &ldquo;The Creuss Gate system is not a home system,&rdquo; and its wormhole is a delta (LRR 101.4a), as is the Hil Colish&rsquo;s; gamma wormholes are not named either.</li>
         </ul></li>
     </ol>
 
@@ -96,7 +96,7 @@
         </ul></li>
     <li>One hit will be produced even if the system contains multiple wormholes.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Dimensional Splicer: &ldquo;At the start of space combat in a system that contains a wormhole and 1 or more of your ships, you may produce 1 hit.&rdquo; The hit count is fixed; more wormholes do not add hits.</li>
         </ul></li>
     <li>The Creuss player chooses which ship the hit is assigned to.<sup>2</sup>
         <ul>
@@ -190,7 +190,7 @@
         </ul></li></ol>
     <li>If the <i>Hil Colish</i> moves before or after other ships, it does not generate a second <b>Space Cannon Offense</b> step.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Hil Colish: &ldquo;During movement, this ship may move before or after your other ships.&rdquo; LRR 77 places Space Cannon Offense &ldquo;after the &lsquo;Move Ships&rsquo; substep,&rdquo; and the Hil Colish still moves within that one substep.</li>
         </ul></li>
     <li>If another player uses the <i>Light/Wave Deflector</i> technology to move through a system that contains the Creuss player&rsquo;s ships, that player may move through the delta wormhole in the <i>Hil Colish</i>&rsquo;s system.<sup>1,2</sup>
         <ul>
@@ -199,15 +199,15 @@
         </ul></li>
     <li>During space combat involving the <i>Hil Colish</i>, either player may retreat to another system containing a delta wormhole, if that system meets the other requirements for retreating.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Hil Colish: &ldquo;This ship&rsquo;s system contains a delta wormhole.&rdquo; LRR 6.1: &ldquo;A system that has a wormhole is treated as being adjacent to a system that has a matching wormhole.&rdquo; LRR 78.7b retreats to &ldquo;a single system that is adjacent to the active system,&rdquo; for either player.</li>
         </ul></li>
     <ol><li>If the <i>Hil Colish</i> is destroyed between the <b>Announce Retreats</b> step and the <b>Retreat</b> step, then the retreating player must retreat to a different eligible system. If no such system exists, then their retreat is canceled.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 78.7: &ldquo;If a player announced a retreat during step 2, and there is still an eligible system for their units to retreat to, they must retreat.&rdquo; Eligibility is checked at the Retreat step; once the Hil Colish is gone, its delta wormhole no longer makes delta systems adjacent.</li>
         </ul></li></ol>
     <li>When the <i>Hil Colish</i> retreats, it may retreat before or after the Creuss player&rsquo;s other ships, but cannot retreat in such a way that would prevent the other ships from retreating to the same system.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Hil Colish: &ldquo;During movement, this ship may move before or after your other ships.&rdquo; LRR 78.7b: a retreating player &ldquo;takes all of their ships with a move value in the combat and moves them to a single system.&rdquo;</li>
         </ul></li>
     <li>If the <i>Hil Colish</i> is returned to the reinforcements by a gravity rift, its delta wormhole ceases to exist; other ships cannot use it to reach the active system.<sup>1,2</sup>
         <ul>
@@ -220,7 +220,7 @@
         </ul></li>
     <li>The delta wormhole of the <i>Hil Colish</i> creates adjacency for the range of <sc>Space Cannon</sc> abilities, such as <sc>Deep Space Cannon</sc>.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. RulesPal (NOT USED, unconfirmed), &ldquo;Can Space Cannon with range reach through a wormhole?&rdquo;: &ldquo;wormhole adjacency counts for Space Cannon range, including the delta wormhole on the Creuss flagship&rdquo;.</li>
+        <li><b>Reasoning</b>: LRR 6.1: &ldquo;A system that has a wormhole is treated as being adjacent to a system that has a matching wormhole.&rdquo; LRR 101.2: &ldquo;If a player has a PDS unit upgrade technology, they can use the &lsquo;Space Cannon&rsquo; abilities of their PDS units through wormholes.&rdquo; The Hil Colish&rsquo;s system &ldquo;contains a delta wormhole.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -249,7 +249,7 @@
         </ul></li>
     <ol><li>If a wormhole is placed at the start of a player&rsquo;s turn in the system using the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Promissory_Note:~:text=Creuss%20IFF">Creuss IFF</a>, then Emissary Taivra may be used for the activation immediately following.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Creuss IFF resolves &ldquo;At the start of your turn during the action phase,&rdquo; before the player activates a system. Emissary Taivra triggers &ldquo;After a player activates a system that contains a non-delta wormhole,&rdquo; and by then the token is in that system.</li>
         </ul></li></ol>
     </ol>
 
@@ -262,25 +262,25 @@
     <ol>
         <li>The Creuss player cannot remove a ground force to create capacity for a fighter.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Sai Seravus places a fighter &ldquo;if you have unused capacity in the active system.&rdquo; No rule lets a player remove their own units to make room; LRR 16.3 removes units only when they exceed capacity.</li>
         </ul></li>
         <li>If the Creuss player has a space dock in the active system, they may consider some of the fighters they place as held by the space dock, in order to continue placing fighters.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Sai Seravus needs &ldquo;unused capacity in the active system.&rdquo; Space dock: &ldquo;Up to 3 fighters in this system do not count against your ships&rsquo; capacity,&rdquo; so those fighters leave the ships&rsquo; capacity unused.</li>
         </ul></li>
     </ol>
     <li>This ability may be used whenever the Creuss player&rsquo;s ships move, not just during the movement step of a tactical action.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Sai Seravus: &ldquo;After your ships move.&rdquo; The trigger names no action or step, so any movement of the Creuss player&rsquo;s ships qualifies.</li>
         </ul></li>
     <ol>
         <li>If the Creuss player retreats from a combat, then they will have no capacity in the active system, and so cannot place any fighters there.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 78.7b: a retreating player &ldquo;moves them to a single system that is adjacent to the active system.&rdquo; Sai Seravus needs &ldquo;unused capacity in the active system,&rdquo; and after retreating the Creuss player has no ships there.</li>
         </ul></li>
         <li>If the <a href="/F_mahact">Mahact</a> player uses their <a href="https://twilight-imperium.fandom.com/wiki/The_Mahact_Gene-Sorcerers#Leaders:~:text=Benediction"><i>Benediction</i></a> hero ability to move the Creuss player&rsquo;s ships, then the Creuss player may use this ability.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Benediction: &ldquo;Move all units in the space area of any system to an adjacent system.&rdquo; Sai Seravus triggers &ldquo;After your ships move&rdquo;, whoever moves them.</li>
         </ul></li>
     </ol>
     <li>A ship only triggers Sai Seravus if it moves through a wormhole, including a wormhole in the system it started its movement in. A ship that moves through a system containing a wormhole without using that wormhole does not trigger Sai Seravus.<sup>2</sup>
@@ -329,15 +329,15 @@
         </ul></li>
     <li>If the Creuss player moves the <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Flagship:~:text=Hil%20Colish"><i>Hil Colish</i></a> into a system, the Creuss player may use the <sc>Production</sc> ability of the associated delta wormhole during the production step of the same tactical action.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Particle Synthesis: &ldquo;Each wormhole in a system that contains your ships gains PRODUCTION 1 as if it were a unit you control.&rdquo; Hil Colish: &ldquo;This ship&rsquo;s system contains a delta wormhole.&rdquo; LRR 68: in the Production step the active player can use &ldquo;the &lsquo;Production&rsquo; ability of each of their units that are in the active system.&rdquo;</li>
         </ul></li>
     <li><i>Sarween Tools</i> applies when producing with a wormhole, as each wormhole has <sc>Production</sc> &ldquo;as if it were a unit you control&rdquo;.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Ghosts of Creuss: &ldquo;Yes, Sarween Tools applies anytime the PRODUCTION keyword is present. Because the breakthrough grants PRODUCTION 1, Sarween applies.&rdquo;</li>
+        <li><b>Reasoning</b>: Sarween Tools: &ldquo;When 1 or more of your units use PRODUCTION, reduce the combined cost of the produced units by 1.&rdquo; Particle Synthesis gives each wormhole PRODUCTION 1 &ldquo;as if it were a unit you control.&rdquo;</li>
         </ul></li>
     <li>Ground forces produced this way may be placed in the space area or on any planet the Creuss player controls in that system.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Ghosts of Creuss: &ldquo;When you produce in a system with an effect or with a unit in space, it can go in space or on any planet you control in that system.&rdquo;</li>
+        <li><b>Reasoning</b>: The wormhole has PRODUCTION &ldquo;as if it were a unit&rdquo; in the system, not on a planet. LRR 68.4: &ldquo;If a player uses the &lsquo;Production&rsquo; ability of a unit in a space area of a system to produce ground forces, those ground forces may either be placed on a planet the player controls in that system or in the space area of that system.&rdquo;</li>
         </ul></li>
     </ol>
 </article>

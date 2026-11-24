@@ -15,7 +15,7 @@ E2 RulesPal, "What exactly does Creuss's Quantum Entanglement connect …?": "Ot
 E2 RulesPal, "Does Enforced Travel Ban stop Creuss's Slipstream bonus?": "No — Slipstream only checks for a wormhole in the ship's starting system."
 E5 Designer ruling: "Enforced Travel Ban has no effect on Slipstream."
 @6
-N No source found.
+R Slipstream applies to "each of your ships that starts its movement in your home system or in a system that contains either an alpha or beta wormhole." Creuss Gate: "The Creuss Gate system is not a home system," and its wormhole is a delta (LRR 101.4a), as is the Hil Colish's; gamma wormholes are not named either.
 @7
 E1 LRR 38 (Frontier Tokens), d: "A frontier token is placed in the Creuss gate system."
 @8
@@ -40,7 +40,7 @@ E6 Community consensus: "Wormhole Generator (Technology): Can wormholes be place
 @15
 E2 RulesPal, "Does the Creuss flagship's delta wormhole trigger Dimensional Splicer?": "Yes — it is a wormhole."
 @16
-N No source found.
+R Dimensional Splicer: "At the start of space combat in a system that contains a wormhole and 1 or more of your ships, you may produce 1 hit." The hit count is fixed; more wormholes do not add hits.
 @17
 E2 RulesPal, "When Dimensional Splicer or Yin's Devotion hits my ship, who picks the target …?": "The Creuss or Yin player chooses which of your ships takes the hit."
 @18
@@ -84,23 +84,23 @@ E2 Same entry: "or it can move after them. It can also use its own wormhole, for
 @34
 E2 Same entry: "Its system counts as containing a delta wormhole."
 @35
-N No source found.
+R Hil Colish: "During movement, this ship may move before or after your other ships." LRR 77 places Space Cannon Offense "after the 'Move Ships' substep," and the Hil Colish still moves within that one substep.
 @36
 E1 LRR FAQ: "'Light/Wave Deflector' allows a player other than the Ghosts of Creuss to move their fleet through the 'Hil Colish's' system into the Creuss home system or the Creuss Gate system."
 E2 RulesPal, "Can other players use the Creuss Gate and the Creuss flagship's delta wormhole?": "enemies need a way to move through it (such as Light/Wave Deflector)."
 @37
-N No source found.
+R Hil Colish: "This ship's system contains a delta wormhole." LRR 6.1: "A system that has a wormhole is treated as being adjacent to a system that has a matching wormhole." LRR 78.7b retreats to "a single system that is adjacent to the active system," for either player.
 @38
-N No source found.
+R LRR 78.7: "If a player announced a retreat during step 2, and there is still an eligible system for their units to retreat to, they must retreat." Eligibility is checked at the Retreat step; once the Hil Colish is gone, its delta wormhole no longer makes delta systems adjacent.
 @39
-N No source found.
+R Hil Colish: "During movement, this ship may move before or after your other ships." LRR 78.7b: a retreating player "takes all of their ships with a move value in the combat and moves them to a single system."
 @40
 E1 LRR FAQ: "If the 'Hil Colish' moves before other ships and is returned to reinforcements by a gravity rift, can other ships still use its delta wormhole …? A: No, the wormhole ceases to exist."
 E2 RulesPal: "If it moves first through a gravity rift and is destroyed, the wormhole is gone before the others move."
 @41
 E6 Community consensus: "What happens to the Hil Colish delta wormhole in the entropic scar? A: … there no effect from Entropic Scar on the Delta wormhole opened by Hil Colish."
 @42
-N No source found. RulesPal (NOT USED, unconfirmed), "Can Space Cannon with range reach through a wormhole?": "wormhole adjacency counts for Space Cannon range, including the delta wormhole on the Creuss flagship".
+R LRR 6.1: "A system that has a wormhole is treated as being adjacent to a system that has a matching wormhole." LRR 101.2: "If a player has a PDS unit upgrade technology, they can use the 'Space Cannon' abilities of their PDS units through wormholes." The Hil Colish's system "contains a delta wormhole."
 @43
 E2 RulesPal, "How do players reach the Wormhole Nexus, and can the Creuss agent help on the first turn?": "the Creuss agent, used after activation and before movement, makes it adjacent to a delta wormhole system, so ships can move in that turn. Once a unit enters … the Nexus flips."
 @44
@@ -113,19 +113,19 @@ E2 RulesPal, "When does the Ion Storm flip …?": "With several wormhole routes,
 @47
 E8 PoK rulebook, Emissary Taivra: "After any player activates a system that contains a non-delta wormhole."
 @48
-N No source found.
+R Creuss IFF resolves "At the start of your turn during the action phase," before the player activates a system. Emissary Taivra triggers "After a player activates a system that contains a non-delta wormhole," and by then the token is in that system.
 @49
 E4 Designer ruling: "When Sai Seravus is used, fighters are placed in the active system one at a time, up to the number of ships with capacity that moved through wormholes, or the capacity limit in the system is reached, whichever happens first."
 @50
-N No source found.
+R Sai Seravus places a fighter "if you have unused capacity in the active system." No rule lets a player remove their own units to make room; LRR 16.3 removes units only when they exceed capacity.
 @51
-N No source found.
+R Sai Seravus needs "unused capacity in the active system." Space dock: "Up to 3 fighters in this system do not count against your ships' capacity," so those fighters leave the ships' capacity unused.
 @52
-N No source found.
+R Sai Seravus: "After your ships move." The trigger names no action or step, so any movement of the Creuss player's ships qualifies.
 @53
-N No source found.
+R LRR 78.7b: a retreating player "moves them to a single system that is adjacent to the active system." Sai Seravus needs "unused capacity in the active system," and after retreating the Creuss player has no ships there.
 @54
-N No source found.
+R Benediction: "Move all units in the space area of any system to an adjacent system." Sai Seravus triggers "After your ships move", whoever moves them.
 @55
 E2 RulesPal, "Does the Creuss commander trigger if my ship just passes through a wormhole system?": "Only if the ship actually moved through the wormhole, whether it started in the wormhole's system or entered it along the way."
 @56
@@ -143,8 +143,8 @@ E2 Same entry: "a unit's 'this system' always means its own system."
 @62
 E6 Community consensus: "Do multiple wormholes of the same type count separately for the Creuss breakthrough, Particle Synthesis? … A: Yes, each wormhole, even wormholes of the same type," provides it.
 @63
-N No source found.
+R Particle Synthesis: "Each wormhole in a system that contains your ships gains PRODUCTION 1 as if it were a unit you control." Hil Colish: "This ship's system contains a delta wormhole." LRR 68: in the Production step the active player can use "the 'Production' ability of each of their units that are in the active system."
 @64
-N No source found. Twilight Imperium Wiki FAQ (not a numbered source), Ghosts of Creuss: "Yes, Sarween Tools applies anytime the PRODUCTION keyword is present. Because the breakthrough grants PRODUCTION 1, Sarween applies."
+R Sarween Tools: "When 1 or more of your units use PRODUCTION, reduce the combined cost of the produced units by 1." Particle Synthesis gives each wormhole PRODUCTION 1 "as if it were a unit you control."
 @65
-N No source found. Twilight Imperium Wiki FAQ (not a numbered source), Ghosts of Creuss: "When you produce in a system with an effect or with a unit in space, it can go in space or on any planet you control in that system."
+R The wormhole has PRODUCTION "as if it were a unit" in the system, not on a planet. LRR 68.4: "If a player uses the 'Production' ability of a unit in a space area of a system to produce ground forces, those ground forces may either be placed on a planet the player controls in that system or in the space area of that system."
