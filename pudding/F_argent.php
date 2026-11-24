@@ -1,7 +1,7 @@
 <?php include __DIR__ . "/../prefix.php"?>
 <header><h1>The Argent Flight: Proof</h1></header>
 <article>
-<p>The source text behind each note on <a href="/F_argent">The Argent Flight</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
+<p>The source text behind each note on <a href="/F_argent">The Argent Flight</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it. <b>Reasoning</b> shows how a note no source addresses follows from the card text and rules.</p>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Faction_Abilities:~:text=Zeal">Zeal</a></h2>
     <ol class="note">
@@ -20,7 +20,7 @@
         </ul></li>
     <li>If the Argent player abstains or otherwise casts zero votes, they cannot cast additional votes.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Zeal: &ldquo;When you cast at least 1 vote, cast 1 additional vote for each player in the game including you.&rdquo; The additional votes depend on casting at least 1 vote, so a player who casts none gets none.</li>
         </ul></li>
     </ol>
 
@@ -38,7 +38,7 @@
         </ul></li>
     <li>The Argent player may choose a damaged ship. This will have no effect.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Raid Formation chooses &ldquo;1 of your opponent&rsquo;s ships that has SUSTAIN DAMAGE to become damaged.&rdquo; LRR 87.3: &ldquo;A damaged unit cannot use the &lsquo;Sustain Damage&rsquo; ability until it is repaired.&rdquo; A damaged ship still has the ability, so it can be chosen, but it is already damaged.</li>
         </ul></li>
     <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship uses its <sc>Sustain Damage</sc> ability, such as the <i>Direct Hit</i> action card, cannot be played.<sup>2,4</sup>
         <ul>
@@ -52,7 +52,7 @@
         </ul></li>
         <li>The ships cannot be repaired by the effect of the <a href="/F_empyrean">Empyrean</a> player&rsquo;s flagship, the Dynamo.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Dynamo triggers &ldquo;After any player&rsquo;s unit in this system or an adjacent system uses SUSTAIN DAMAGE.&rdquo; Raid Formation makes a ship &ldquo;become damaged&rdquo;; the ship does not use SUSTAIN DAMAGE, so Dynamo cannot repair it.</li>
         </ul></li>
     </ol>
     <li>If the Argent player plays the <i>Waylay</i> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be assigned.<sup>2</sup>
@@ -65,7 +65,7 @@
         </ul></li></ol>
     <li>If the Argent player is in combat with the <a href="/F_nekro">Nekro</a> player, and the Nekro player has their mechs participating in the space combat via the effects of <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>, those mechs may become damaged by the effect of <sc>Raid Formation</sc>.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: The Alastor: &ldquo;choose any number of your ground forces in this system to participate in that combat as if they were ships.&rdquo; Raid Formation chooses &ldquo;1 of your opponent&rsquo;s ships that has SUSTAIN DAMAGE&rdquo;, and the Nekro mech, Mordred, has SUSTAIN DAMAGE.</li>
         </ul></li>
     </ol>
 
@@ -77,7 +77,7 @@
     <ol class="note">
     <li>The planet with &ldquo;<sc>Production</sc> 1&rdquo; is considered to be on itself for the purposes of producing ground forces.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Aerie Hololattice: &ldquo;Each planet that contains 1 or more of your structures gains the PRODUCTION 1 ability as if it were a unit.&rdquo; LRR 68.3: produced ground forces go &ldquo;on planets that contain a unit that used its &lsquo;Production&rsquo; ability.&rdquo; Here that unit is the planet itself.</li>
         </ul></li>
     <li>A player with the <i>Light/Wave Deflector</i> technology cannot move their ships through systems containing the Argent player&rsquo;s structures, if the Argent player owns <i>Aerie Hololattice</i>.<sup>2</sup>
         <ul>
@@ -97,7 +97,7 @@
         </ul></li>
     <li>If the last of a player&rsquo;s ground forces are destroyed by the ability of a Strike Wing Alpha II, and that player meets the other conditions for elimination, that player is immediately eliminated. All of their units are removed from the board, and the Argent player wins the combat.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 33.1: &ldquo;A player is eliminated when they meet all of the following three conditions,&rdquo; the first being &ldquo;no ground forces on the game board.&rdquo; LRR 33.2 returns &ldquo;all of the units&rdquo; to the box, and LRR 78.10: &ldquo;the player with one or more ships remaining in the system is the winner of the combat.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -105,7 +105,7 @@
     <ol class="note">
     <li>A player may still use the <sc>Space Cannon</sc> ability of their units against the Argent player&rsquo;s ground forces during the <b>Space Cannon Defense</b> step of an invasion in this system.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Quetzecoatl: &ldquo;Other players cannot use space cannon against your ships in this system.&rdquo; LRR 76: &ldquo;A ship is a unit type consisting of carriers, cruisers, dreadnoughts, destroyers, fighters, and war suns.&rdquo; Ground forces are not ships, so Space Cannon Defense against them is unaffected.</li>
         </ul></li>
     </ol>
 
@@ -117,11 +117,11 @@
     <ol class="note">
     <li>Ships that gain <sc>Bombardment</sc> due to the <i>Blitz</i> action card will contribute to the unlock condition.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Trrakan Aun Zulok unlocks with &ldquo;6 units that have ANTI-FIGHTER BARRAGE, SPACE CANNON or BOMBARDMENT on the game board.&rdquo; Blitz: each such ship &ldquo;gains BOMBARDMENT 6 until the end of the invasion,&rdquo; so during the invasion it has BOMBARDMENT.</li>
         </ul></li>
     <ol><li>The <i>Experimental Battlestation</i> action card will not contribute.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Experimental Battlestation: &ldquo;That space dock uses Space Cannon 5 (x3) against ships in the active system.&rdquo; The space dock makes one roll; it does not gain SPACE CANNON, and the unlock counts units that &ldquo;have&rdquo; the ability.</li>
         </ul></li></ol>
     <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability.<sup>1</sup>
         <ul>
@@ -133,7 +133,7 @@
     <ol class="note">
     <li>Fighters may be moved without being transported.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Helix Protocol: &ldquo;Move any number of your ships from any systems to any number of other systems.&rdquo; LRR 76: ships include &ldquo;fighters&rdquo;. Fighters are ships, and Helix Protocol moves them directly, with no move value or capacity involved.</li>
         </ul></li>
     <li>Ships in systems with one of the Argent player&rsquo;s command tokens may move.<sup>2</sup>
         <ul>
@@ -169,7 +169,7 @@
         </ul></li>
     <li>If the Argent player produces units on their turn in the active system, they will have to satisfy fleet pool and capacity limits there before they may move units to adjacent systems.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Wing Transfer moves ships &ldquo;at the end of this action&rdquo;, after the Production step. LRR 37.3: &ldquo;If at any time the number of a player&rsquo;s non-fighter ships in a system exceeds the number of tokens in that player&rsquo;s fleet pool, they choose and remove excess ships.&rdquo; LRR 16.3: excess fighters and ground forces must be removed. Both apply in the active system before the move.</li>
         </ul></li>
     </ol>
 </article>

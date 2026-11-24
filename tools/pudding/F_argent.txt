@@ -6,7 +6,7 @@ E2 RulesPal, "With Argent Flight's Zeal, what is the voting order?": "Effects ti
 @2
 E2 Same entry: "then voting resumes as normal from the speaker's left."
 @3
-N No source found.
+R Zeal: "When you cast at least 1 vote, cast 1 additional vote for each player in the game including you." The additional votes depend on casting at least 1 vote, so a player who casts none gets none.
 @4
 E1 LRR 10.1d: "This ability can still be used if no fighters are present."
 E8 PoK rulebook p. 16: "The 'Anti-Fighter Barrage' step can occur even if a player's opponent has no fighters in the combat."
@@ -14,22 +14,22 @@ E2 RulesPal, "How does Argent Flight's Raid Formation work …?": "Argent fire b
 @5
 E4 Designer ruling: "When is Raid Formation applied? After rolling or after assigning hits? … A: Raid formation is applied after rolling, before cancelling or assigning hits."
 @6
-N No source found.
+R Raid Formation chooses "1 of your opponent's ships that has SUSTAIN DAMAGE to become damaged." LRR 87.3: "A damaged unit cannot use the 'Sustain Damage' ability until it is repaired." A damaged ship still has the ability, so it can be chosen, but it is already damaged.
 @7
 E4 Designer ruling: "Can ships damaged by Raid Formation trigger a window for the Direct Hit Action card? A: No, Raid Formation does not cause the ship to use its Sustain Damage ability, it only causes it to become damaged."
 E2 RulesPal, "How does Argent Flight's Raid Formation work …?": "It produces no hits and those ships don't use Sustain Damage, so it can't destroy anything and Direct Hit or Non-Euclidean Shielding don't come into it."
 @8
 E2 RulesPal: "Direct Hit or Non-Euclidean Shielding don't come into it."
 @9
-N No source found.
+R Dynamo triggers "After any player's unit in this system or an adjacent system uses SUSTAIN DAMAGE." Raid Formation makes a ship "become damaged"; the ship does not use SUSTAIN DAMAGE, so Dynamo cannot repair it.
 @10
 E2 RulesPal, "How do Raid Formation and Waylay interact?": "Raid Formation works off the barrage roll without using up the hits. With Waylay, those hits still hit ships and the opponent assigns them normally."
 @11
 E2 Same entry: "the opponent assigns them normally, using Sustain Damage on undamaged ships if they like."
 @12
-N No source found.
+R The Alastor: "choose any number of your ground forces in this system to participate in that combat as if they were ships." Raid Formation chooses "1 of your opponent's ships that has SUSTAIN DAMAGE", and the Nekro mech, Mordred, has SUSTAIN DAMAGE.
 @13
-N No source found.
+R Aerie Hololattice: "Each planet that contains 1 or more of your structures gains the PRODUCTION 1 ability as if it were a unit." LRR 68.3: produced ground forces go "on planets that contain a unit that used its 'Production' ability." Here that unit is the planet itself.
 @14
 E2 RulesPal, "Does Argent's Aerie Hololattice stop ships with Light/Wave Deflector moving through?": "Yes — it says other players can't move through systems with Argent structures, and 'cannot' is absolute."
 @15
@@ -37,17 +37,17 @@ E4 Designer ruling: "Does Strike Wing Alpha II infantry killing get prevented by
 @16
 E4 Designer ruling: "The rolls from Strike Wing Alpha II can be subject to rerolls before the ability is applied, but the infantry would be destroyed BEFORE any cancellation of hits."
 @17
-N No source found.
+R LRR 33.1: "A player is eliminated when they meet all of the following three conditions," the first being "no ground forces on the game board." LRR 33.2 returns "all of the units" to the box, and LRR 78.10: "the player with one or more ships remaining in the system is the winner of the combat."
 @18
-N No source found.
+R Quetzecoatl: "Other players cannot use space cannon against your ships in this system." LRR 76: "A ship is a unit type consisting of carriers, cruisers, dreadnoughts, destroyers, fighters, and war suns." Ground forces are not ships, so Space Cannon Defense against them is unaffected.
 @19
-N No source found.
+R Trrakan Aun Zulok unlocks with "6 units that have ANTI-FIGHTER BARRAGE, SPACE CANNON or BOMBARDMENT on the game board." Blitz: each such ship "gains BOMBARDMENT 6 until the end of the invasion," so during the invasion it has BOMBARDMENT.
 @20
-N No source found.
+R Experimental Battlestation: "That space dock uses Space Cannon 5 (x3) against ships in the active system." The space dock makes one roll; it does not gain SPACE CANNON, and the unlock counts units that "have" the ability.
 @21
 E1 LRR 18: "Combat is an attribute of some units that is presented on faction sheets and unit upgrade technology cards."
 @22
-N No source found.
+R Helix Protocol: "Move any number of your ships from any systems to any number of other systems." LRR 76: ships include "fighters". Fighters are ships, and Helix Protocol moves them directly, with no move value or capacity involved.
 @23
 E2 RulesPal, "How do the Argent and L1Z1X heroes move ships …?": "from any number of systems for the Argent hero, ignoring command tokens in the systems they leave."
 @24
@@ -61,4 +61,4 @@ I4 Unofficially Official FAQ, Anomalies: "Any units moving into, through or out 
 @28
 E6 Community consensus: "Why does the Argent breakthrough, Wing Transfer, have 'this action' in its wording? … A: You still perform a tactical action as normal to trigger Wing Transfer. You may not move ships into illegal board states that will not be resolve (such as occupying the same space as other ships)."
 @29
-N No source found.
+R Wing Transfer moves ships "at the end of this action", after the Production step. LRR 37.3: "If at any time the number of a player's non-fighter ships in a system exceeds the number of tokens in that player's fleet pool, they choose and remove excess ships." LRR 16.3: excess fighters and ground forces must be removed. Both apply in the active system before the move.
