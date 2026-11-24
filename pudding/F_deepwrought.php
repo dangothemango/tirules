@@ -1,7 +1,7 @@
 <?php include __DIR__ . "/../prefix.php"?>
 <header><h1>The Deepwrought Scholarate: Proof</h1></header>
 <article>
-<p>The source text behind each note on <a href="/F_deepwrought">The Deepwrought Scholarate</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
+<p>The source text behind each note on <a href="/F_deepwrought">The Deepwrought Scholarate</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it. <b>Reasoning</b> shows how a note no source addresses follows from the card text and rules.</p>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Abilities:~:text=Research%20Team">Research Team</a></h2>
     <ol class="note">
@@ -68,11 +68,11 @@
         </ul></li>
     <li>The Deepwrought player may replace <i>Radical Advancement</i> itself for a biotic technology with two prerequisites.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Radical Advancement: &ldquo;replace one of your non-unit upgrade technologies with a technology of the same color that has exactly 1 more prerequisite.&rdquo; Radical Advancement is itself a biotic, non-unit upgrade technology with one prerequisite, and the card does not exclude itself.</li>
         </ul></li>
     <li>If the Deepwrought player has the <a href="/F_nekro">Nekro</a> player&rsquo;s <i>Alliance</i> promissory note in their play area, they will not draw an action card from the ability of the <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Leaders:~:text=Nekro%20Acidos">Nekro Acidos</a> commander when they resolve <i>Radical Advancement</i>.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Nekro Acidos: &ldquo;After you gain a technology: You may draw 1 action card.&rdquo; Radical Advancement instructs the player to &ldquo;replace&rdquo; a technology, not to gain one; LRR 90.5 applies only &ldquo;If an ability instructs a player to gain a technology.&rdquo; The Unofficial FAQ treats the two as separate instructions: &ldquo;If you are instructed to &ldquo;gain&rdquo; or &ldquo;replace&rdquo; a technology, you do not require prerequisites.&rdquo; Replacing is not gaining, so Acidos does not trigger.</li>
         </ul></li>
     </ol>
 
@@ -100,7 +100,7 @@
         </ul></li>
     <li>Doctor Carrina cannot place the infantry on a planet that contains none of that player&rsquo;s units, as there are no units to coexist with.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Twilight Imperium Wiki FAQ (not a numbered source), Deepwrought Scholarate: &ldquo;If a planet of a player has no ground forces, can it be chosen by the Deepwrought agent so you gain control of it? A: No. You cannot trigger coexistence on a planet that does not have units on it.&rdquo;</li>
+        <li><b>Reasoning</b>: Doctor Carrina places &ldquo;1 infantry from your reinforcements into coexistence on a non-home planet they control.&rdquo; Thunder&rsquo;s Edge Rulebook, Coexist: &ldquo;When a unit or units coexist with another player&rsquo;s units, they do not trigger combat.&rdquo; Coexisting needs the other player&rsquo;s units on the planet. Twilight Imperium Wiki FAQ (not a numbered source): &ldquo;You cannot trigger coexistence on a planet that does not have units on it.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -113,7 +113,7 @@
         </ul></li>
     <li>Aello can only reduce a cost paid with resources, including trade goods spent in place of resources. It cannot reduce a cost paid with influence, trade goods spent in place of influence, or any other currency.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Aello: &ldquo;When another player spends resources to research a technology: That player may reduce the cost by 1.&rdquo; It triggers only on spending resources. LRR 93.4 lets a trade good be spent &ldquo;In place of spending one resource&rdquo;, which is still spending resources; spending influence is not.</li>
         </ul></li>
     <li>If a player has the Deepwrought player&rsquo;s <i>Alliance</i> promissory note, then other players may use the ability of either or both (or neither):<sup>2</sup>
         <ul>
@@ -138,11 +138,11 @@
         </ul></li>
         <li>The Deepwrought player and the player with their <i>Alliance</i> promissory note may each use the ability of the other for a one resource discount, triggering the commodity ability for that other player.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Alliance: &ldquo;you can use the (color) player&rsquo;s commander ability, if it is unlocked.&rdquo; Aello: &ldquo;When another player spends resources to research a technology: That player may reduce the cost by 1, if they do, gain 1 commodity or convert 1 of your commodities to a trade good.&rdquo; Each of the two players holds Aello&rsquo;s ability, and each is &ldquo;another player&rdquo; to the other.</li>
         </ul></li>
         <li>If the <a href="/F_mahact">Mahact</a> player has the Deepwrought player&rsquo;s command token in their fleet pool, then this gives each other player the option of another discount. The Deepwrought player, the player with their <i>Alliance</i> promissory note, and the Mahact player may choose up to two of the other players with the ability, triggering their commodity ability, and resulting in a corresponding discount of up to two resources. All other players may choose up to three of the players with the ability, triggering their commodity ability, and resulting in a corresponding discount of up to three resources.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Imperia: &ldquo;While another player&rsquo;s command token is in your fleet pool, you can use the ability of that player&rsquo;s commander.&rdquo; The Mahact player then holds Aello&rsquo;s ability as well. Aello triggers &ldquo;When another player spends resources to research a technology,&rdquo; so a researching player can use every other holder&rsquo;s copy, but not their own.</li>
         </ul></li>
     </ol>
     </ol>
@@ -171,23 +171,23 @@
     <ol class="note">
     <li>When <i>Visionaria Select</i> is exhausted, all other players have the opportunity to participate; the Deepwrought player does not choose which players will participate.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Visionaria Select: &ldquo;Exhaust this card to allow each other player to spend 3 trade goods and give you 1 promissory note.&rdquo; The offer goes to &ldquo;each other player&rdquo;; the Deepwrought player does not choose.</li>
         </ul></li>
     <li>The researching player chooses which promissory note they give to the Deepwrought player.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Visionaria Select: each player that takes the offer will &ldquo;give you 1 promissory note.&rdquo; The giving player gives it, so they choose which one.</li>
         </ul></li>
     <li>Giving a promissory note because of <i>Visionaria Select</i> is not resolving a transaction.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 94.1: &ldquo;During the active player&rsquo;s turn, they may resolve up to one transaction with each of their neighbors.&rdquo; Visionaria Select makes the promissory note part of its own cost (&ldquo;spend 3 trade goods and give you 1 promissory note&rdquo;), not an exchange under LRR 94.</li>
         </ul></li>
     <li>If the Deepwrought player already owns a technology that a participating player researches, then the Deepwrought player will not gain a technology.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Visionaria Select: &ldquo;You also gain each technology researched this way.&rdquo; LRR 90.5: a player who gains a technology takes &ldquo;it from their technology deck&rdquo;, and LRR 90.2: &ldquo;A player does not own any technology card that is in their technology deck.&rdquo; A technology the Deepwrought player owns is not in their deck to gain.</li>
         </ul></li>
     <li>If the <a href="/F_nekro">Nekro</a> player participates, they will gain three command tokens. The Deepwrought player will not gain a technology this way.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Propagation: &ldquo;You cannot research technology. When you would research a technology, gain 3 command tokens instead.&rdquo; Visionaria Select gives the Deepwrought player &ldquo;each technology researched this way,&rdquo; and the Nekro player researches none.</li>
         </ul></li>
     </ol>
 </article>

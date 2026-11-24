@@ -22,9 +22,9 @@ E6 Community consensus: "What happens to a technology gained via the Deepwrought
 @10
 E2 RulesPal, "If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?": "Nothing — anomaly rules restrict moving into or through them, not being in them or moving out. Ships already there stay and may leave normally"
 @11
-N No source found.
+R Radical Advancement: "replace one of your non-unit upgrade technologies with a technology of the same color that has exactly 1 more prerequisite." Radical Advancement is itself a biotic, non-unit upgrade technology with one prerequisite, and the card does not exclude itself.
 @12
-N No source found.
+R Nekro Acidos: "After you gain a technology: You may draw 1 action card." Radical Advancement instructs the player to "replace" a technology, not to gain one; LRR 90.5 applies only "If an ability instructs a player to gain a technology." The Unofficial FAQ treats the two as separate instructions: "If you are instructed to “gain” or “replace” a technology, you do not require prerequisites." Replacing is not gaining, so Acidos does not trigger.
 @13
 E6 Community consensus: "D.W.S. Luminous (Flagship): Does it gain +1 for only your units or does it require both …? A: It gains +1 for each system if it moves through that contains your units, regardless of any other units present."
 @14
@@ -34,12 +34,12 @@ E6 Community consensus: "The agent may be used, but the coexisting infantry is n
 @16
 E6 Community consensus: "Is it possible … for the Deepwrought player to start coexisting with the Nekro player by using Doctor Carrina? A: No, there is no way for Nekro to fulfill the 'they do skip a prerequisite'" condition.
 @17
-N No source found. Twilight Imperium Wiki FAQ (not a numbered source), Deepwrought Scholarate: "If a planet of a player has no ground forces, can it be chosen by the Deepwrought agent so you gain control of it? A: No. You cannot trigger coexistence on a planet that does not have units on it."
+R Doctor Carrina places "1 infantry from your reinforcements into coexistence on a non-home planet they control." Thunder's Edge Rulebook, Coexist: "When a unit or units coexist with another player's units, they do not trigger combat." Coexisting needs the other player's units on the planet. Twilight Imperium Wiki FAQ (not a numbered source): "You cannot trigger coexistence on a planet that does not have units on it."
 @18
 E2 RulesPal, "Can a researching player use both the Deepwrought commander and alliance for -2?": "Yes — each is a separate optional trigger, and the Deepwrought and their ally can't refuse."
 E7 Thunder's Edge Rulebook, Aello (Deepwrought Commander): "The Deepwrought player cannot choose to disallow Aello from being used by other players."
 @19
-N No source found.
+R Aello: "When another player spends resources to research a technology: That player may reduce the cost by 1." It triggers only on spending resources. LRR 93.4 lets a trade good be spent "In place of spending one resource", which is still spending resources; spending influence is not.
 @20
 E2 RulesPal, "Can a researching player use both the Deepwrought commander and alliance for -2?": "Yes — each is a separate optional trigger, and the Deepwrought and their ally can't refuse."
 @21
@@ -51,9 +51,9 @@ I2 Same entry: "each is a separate optional trigger."
 @24
 I2 Same entry: "each is a separate optional trigger."
 @25
-N No source found.
+R Alliance: "you can use the (color) player's commander ability, if it is unlocked." Aello: "When another player spends resources to research a technology: That player may reduce the cost by 1, if they do, gain 1 commodity or convert 1 of your commodities to a trade good." Each of the two players holds Aello's ability, and each is "another player" to the other.
 @26
-N No source found.
+R Imperia: "While another player's command token is in your fleet pool, you can use the ability of that player's commander." The Mahact player then holds Aello's ability as well. Aello triggers "When another player spends resources to research a technology," so a researching player can use every other holder's copy, but not their own.
 @27
 I2 RulesPal, "If Wave Function Collapse purges a technology another player gained through Share Knowledge …?": "the holder owns the gained technology, so it is purged and they research another." Covers a different holder.
 @28
@@ -61,12 +61,12 @@ E2 RulesPal, "If Wave Function Collapse purges a technology another player gaine
 @29
 I2 RulesPal, "Can the Nekro Virus play Reveal Prototype?": "Yes, gaining 3 command tokens instead of the technology."
 @30
-N No source found.
+R Visionaria Select: "Exhaust this card to allow each other player to spend 3 trade goods and give you 1 promissory note." The offer goes to "each other player"; the Deepwrought player does not choose.
 @31
-N No source found.
+R Visionaria Select: each player that takes the offer will "give you 1 promissory note." The giving player gives it, so they choose which one.
 @32
-N No source found.
+R LRR 94.1: "During the active player's turn, they may resolve up to one transaction with each of their neighbors." Visionaria Select makes the promissory note part of its own cost ("spend 3 trade goods and give you 1 promissory note"), not an exchange under LRR 94.
 @33
-N No source found.
+R Visionaria Select: "You also gain each technology researched this way." LRR 90.5: a player who gains a technology takes "it from their technology deck", and LRR 90.2: "A player does not own any technology card that is in their technology deck." A technology the Deepwrought player owns is not in their deck to gain.
 @34
-N No source found.
+R Propagation: "You cannot research technology. When you would research a technology, gain 3 command tokens instead." Visionaria Select gives the Deepwrought player "each technology researched this way," and the Nekro player researches none.
