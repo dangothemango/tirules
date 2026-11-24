@@ -52,7 +52,7 @@
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Promissory_Note:~:text=Antivirus">Antivirus</a> <sub>(Promissory Note)</sub></h2>
     <ol class="note">
     <li>The effect of <i>Antivirus</i> does not prevent the Nekro player gaining a technology from a player via their <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Galactic%20Threat"><sc>Galactic Threat</sc></a> ability.<sup>*</sup></li>
-    <li>The player holding <i>Antivirus</i> may only play it at the start of a combat they are participating in.<sup>*</sup></li>
+    <li>The player holding <i>Antivirus</i> may only play it at the start of a combat they are participating in.<sup>4</sup></li>
     <ol><li>The Nekro player does not need to be participating in that combat.<sup>*</sup></li></ol>
     <li><i>Antivirus</i> has no effect while it is in a player&rsquo;s hand.<sup>*</sup></li>
     <li><i>Antivirus</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Nekro player this turn.<sup>*</sup></li>
@@ -65,7 +65,7 @@
     <li>When copying another technology, each <i>Valefar Assimilator</i> may later be used to copy a different faction technology.<sup>2,5</sup></li>
     <li>When copying another technology, <i>Valefar Assimilator</i> will retain its exhausted/readied state. It will not copy the target technology&rsquo;s exhausted/readied state.<sup>*</sup></li>
     <ol>
-        <li>The Nekro player may use any ability of the copied technology that does not require exhausting as a cost, even if the <i>Valefar Assimilator</i> card is exhausted.<sup>*</sup></li>
+        <li>The Nekro player may use any ability of the copied technology that does not require exhausting as a cost, even if the <i>Valefar Assimilator</i> card is exhausted.<sup>2</sup></li>
         <li>An exhausted <i>Valefar Assimilator</i> will always ready during the Status Phase, even if it is not currently copying a technology with an exhaust ability.<sup>*</sup></li>
     </ol>
     <li>If the Nekro player would copy a faction&ndash;specific unit upgrade, and they are already copying a faction&ndash;specific unit upgrade of the same type, they must use the same Valefar Assimilator token; they lose the previous faction unit upgrade.<sup>1,2,5</sup></li>
@@ -86,7 +86,7 @@
         <li>If both the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology and the Saar player&rsquo;s Floating Factory II unit upgrade are copied, the Nekro player may move their space docks into supernovae.<sup>*</sup></li>
         <li>If the Saar player&rsquo;s Floating Factory II unit upgrade is copied, both the Nekro player and the Saar player may have their space docks in the same system, if there are no ships in that system.<sup>*</sup></li>
         <li>If the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s Exotrireme II unit upgrade is copied, and the Nekro player is in a combat with the N&rsquo;orr player, then the players will alternate when resolving end of combat round abilities, starting with the active player (all players may resolve abilities in initiative order, but it is most common for only the two players involved in the combat to want to resolve abilities). For example, if the attacking player has two Exotriremes II in the system and the defender has four, assuming both players are hostile toward each other, the most likely sequence is as follows: The attacker activates one of their Exotriremes II, leaving them with one and the defender with two; The defender activates one of their Exotriremes II leaving them with one and the attacker with none.<sup>*</sup></li>
-        <li>If the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Technologies:~:text=Radical%20Advancement"><i>Radical Advancement</i></a> technology is copied, the Nekro player may resolve its ability, and will gain the chosen new technology; they will not gain command tokens.<sup>*</sup></li>
+        <li>If the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Technologies:~:text=Radical%20Advancement"><i>Radical Advancement</i></a> technology is copied, the Nekro player may resolve its ability to replace one of their technologies with the chosen new technology. This is not researching, so they will not gain command tokens.<sup>*</sup></li>
     </ol>
     <li>The Nekro player may lose a technology if they copy a new one. If they lose certain technologies, the following apply:<sup>*</sup></li>
     <ol>

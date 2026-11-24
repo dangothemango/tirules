@@ -4,15 +4,15 @@ E2 RulesPal, "When does the Nekro make its Galactic Threat prediction, and what 
 E1 LRR FAQ: "Can a player who cannot vote (such as the Nekro Virus) play rider action cards? A: Yes."
 E2 RulesPal, "When does the Nekro make its Galactic Threat prediction …?": "The Nekro may also play riders on the same or different outcomes."
 @2
-N No source found.
+R Galactic Threat: "You cannot vote on agendas." Elder Qanoj: "Game effects cannot prevent you from voting on an agenda," and Alliance: "you can use the (color) player's commander ability." The prediction is a separate sentence of Galactic Threat ("you may predict aloud the outcome of that agenda") and does not depend on not voting.
 @3
 E2 RulesPal, "Does Galactic Threat gain a technology if nobody voted for the predicted outcome?": "No — the Nekro gains a technology from a player who voted for that outcome. If it won through the speaker's tie-break … with no player voting for it, there is nobody to take from."
 @4
 E2 RulesPal, "Does Galactic Threat gain a technology if nobody voted for the predicted outcome?": "No — the Nekro gains a technology from a player who voted for that outcome. If it won through the speaker's tie-break … with no player voting for it, there is nobody to take from."
 @5
-N No source found.
+R Technological Singularity: "Once per combat, after 1 of your opponent's units is destroyed, you may gain 1 technology." The space combat (LRR 78) and each ground combat (LRR 42) are separate combats; LRR 61.7a likewise treats "the space combat and the ground combat during the same tactical action" separately.
 @6
-N No source found.
+R Technological Singularity works "Once per combat." LRR 49.4: the players "resolve a ground combat on that planet," and LRR 49.4a: "If players must resolve a combat on more than one planet, the active player chooses the order in which those combats are resolved." Each planet's ground combat is its own combat.
 @7
 E2 RulesPal, "Which kills trigger Nekro's Technological Singularity?": "Anti-Fighter Barrage is part of combat and counts."
 E2 RulesPal, "When the Nekro Virus gain a technology, does the other player lose it?": "It triggers when any opponent's unit is destroyed in combat, even one the Yin sacrifice with Devotion or one killed by Assault Cannon or Anti-Fighter Barrage."
@@ -25,66 +25,67 @@ E2 RulesPal, "Which kills trigger Nekro's Technological Singularity?": "Kills fr
 @11
 E2 RulesPal, "When the Nekro Virus gain a technology, does the other player lose it?": "it works immediately, even for the rest of that combat."
 @12
-N No source found.
+R LRR 78.5: "Each player rolls one die for each ship they have in the active system," and a result equal to or greater than the combat value "produces a hit." Hits are produced when the dice are rolled; LRR 78.6 assigns them afterward, so a later change to a combat value does not revisit dice already rolled.
 @13
 I2 RulesPal: the gained technology "works immediately, even for the rest of that combat."
 @14
 I2 RulesPal: the gained technology "works immediately, even for the rest of that combat."
 @15
-N No source found.
+R Direct Hit: "After another player's ship uses Sustain Damage to cancel a hit produced by your units or abilities: Destroy that ship." LRR 78.6a: "Before assigning hits, players may use their units' 'Sustain Damage' abilities to cancel hits." The ship is destroyed in that window, so Technological Singularity resolves before hits are assigned, and a Sustain Damage ability gained then can still be used in the same window.
 @16
 E2 RulesPal, "When the Nekro Virus gain a technology, does the other player lose it?": "it works immediately, even for the rest of that combat."
 @17
-N No source found.
+R Assault Cannon: "At the start of a space combat in a system that contains 3 or more of your non-fighter ships, your opponent must destroy 1 of their non-fighter ships." Valefar Assimilator "gains that technology's text," and Dimensional Splicer resolves "At the start of space combat," the window that is still open.
 @18
-N No source found.
+R Infantry II: "After this unit is destroyed, roll 1 die." Infantry destroyed alongside the unit that triggers Technological Singularity were destroyed before the Nekro player gained Infantry II, so they had no such ability; LRR 31: a destroyed unit "is removed from the game board and returned to their reinforcements."
 @19
-N No source found.
+R Direct Hit destroys the ship as soon as it uses Sustain Damage, which LRR 78.6a places "Before assigning hits." Infantry II gained then is in play when the Nekro player's infantry are destroyed in the Assign Hits step, so each rolls: "After this unit is destroyed, roll 1 die."
 @20
-N No source found.
+R Strike Wing Alpha II: "When this unit uses ANTI-FIGHTER BARRAGE, each result of 9 or 10 also destroys 1 of your opponent's infantry," during the roll (LRR 10.1). The Nekro player's own barrage hits are assigned only in LRR 10.2 ("Each player must choose and destroy one of their fighters"), so the Argent player loses a unit, and Technological Singularity can trigger, only after the infantry are gone.
 @21
 E4 Designer ruling: "They cannot do this when they GAIN technology via their Technological Singularity faction ability."
 E2 RulesPal, "Can the Nekro Virus use the Prophet's Tears relic?": "No — it triggers when you research a technology, which the Nekro never do."
 @22
 E2 RulesPal, "Does the Nekro Virus pay normally to use the Technology secondary?": "Yes — like anyone they spend a strategy token and 4 resources, and because they can't research, Propagation gives them 3 command tokens instead."
 @23
-N No source found.
+R Minister of Sciences: "When the owner of this card resolves the primary or secondary ability of the 'Technology' strategy card, they do not need to spend resources to research technology." The Nekro player still resolves the Technology card, gaining command tokens instead of researching (Propagation), so they need not spend the resources.
 @24
-N No source found.
+R Propagation: "When you would research a technology, gain 3 command tokens instead." The moment of researching still occurs; only its result is replaced (LRR 1.15a: a "when" ability "typically modifies or replaces the timing event"). The ruling above lets the Nekro player use The Prophet's Tears, which triggers "When you research a technology."
 @25
 E4 Designer ruling: "Can the Nekro Virus player use the Prophet's Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card."
 N2 Conflicts: RulesPal, "Can the Nekro Virus use the Prophet's Tears relic?": "No — it triggers when you research a technology, which the Nekro never do, so it does nothing for them."
 @26
-N No source found.
+R Propagation: "You cannot research technology. When you would research a technology, gain 3 command tokens instead." No research ever happens, and LRR 1.14 resolves an "after" ability only once its event has occurred.
 @27
 E2 RulesPal, "How does Anti-Intellectual Revolution work?": "The Nekro are unaffected, since Propagation gains tokens instead of researching."
 @28
 E2 RulesPal, "Can the Nekro Virus play Reveal Prototype?": "Yes, gaining 3 command tokens instead of the technology, but only if there's a valid unit upgrade the card could research."
 @29
-N No source found. Example of the parent note.
+R Reveal Prototype: "Spend 4 resources to research a unit upgrade technology of the same type as 1 of your units that is participating in this combat." With Dreadnought II and Fighter II owned, there is no such technology left to research, and the card can be played "only if there is a unit upgrade technology the card could research" (the note above).
 @30
-N No source found.
+R Antivirus: "the Nekro player cannot use their TECHNOLOGICAL SINGULARITY faction ability against you." It names only Technological Singularity; Galactic Threat is a different faction ability.
 @31
-N No source found.
+E4 Designer ruling: "Can abilities that trigger 'at the start of a combat' be played in combats you are not participating in? A: No, any non-agent 'at the start of a combat' abilities must be played during a combat you are participating in."
 @32
-N No source found.
+R Antivirus: "At the start of a combat: Place this card face-up in your play area." The card puts no condition on the Nekro player's presence in that combat.
 @33
-N No source found.
+R Antivirus: "Place this card face-up in your play area. While this card is in your play area, the Nekro player cannot use their TECHNOLOGICAL SINGULARITY faction ability against you." The effect applies only once the card is in the play area.
 @34
-N No source found.
+R Antivirus: "If you activate a system that contains 1 or more of the Nekro player's units, return this card to the Nekro player." Activation alone triggers it; the card mentions no movement, combat or other hostile act.
 @35
-N No source found.
+R Antivirus returns when a player activates a system "that contains 1 or more of the Nekro player's units." LRR 85: "A structure is a type of unit."
 @36
-N No source found.
+R LRR 5.1: "When a player performs a tactical action, they activate a system by placing a command token from their tactic pool in that system." Antivirus returns only "If you activate a system"; a token placed by another effect activates nothing.
 @37
 E2 RulesPal, "What can the Nekro copy with Valefar Assimilator?": "two at a time, one per token; to copy a third you move a token."
 I5 Designer ruling: "Should you switch from Exo to Super, and wanted Exo again later, you would … need to" copy it again.
 @38
-N No source found.
+R Valefar Assimilator: "While that token is on a technology, this card gains that technology's text." It gains the text only; whether the card is exhausted is a state of the Valefar Assimilator card itself (LRR 34.1: "To exhaust a card, a player flips the card facedown").
 @39
-N No source found.
+E2 RulesPal, "Can a technology ability that doesn't say 'exhaust' be used more than once per round?": "static abilities keep working even while the card is exhausted."
+I2 RulesPal, "Can Winnu use Lazax Gate Folding's action without Mecatol Rex, and does the wormhole part work while exhausted?": "The passive part ... doesn't need the card ready, so it works while exhausted."
 @40
-N No source found.
+R LRR 34.2: "During the 'Ready Cards' step of the status phase, each player readies all of their exhausted cards." This applies to every exhausted card, whatever text it currently has.
 @41
 E1 LRR 90.21: "If the Nekro Virus gains a unit upgrade technology of the same unit type as a unit upgrade technology they already have, the previous upgrade is removed, and they must use the same Valefar Assimilator token that was used to copy the previous upgrade."
 E2 RulesPal, "What happens to the Nekro's own unit upgrades …?": "A second faction upgrade for the same unit replaces the first, using the same token."
@@ -104,7 +105,7 @@ E1 LRR FAQ: "If the Nekro Virus owns multiple unit upgrade technologies of the s
 E2 RulesPal, "Do technologies the Nekro copy with Valefar Assimilator count for objectives?": "But when a copied faction upgrade covers a generic one, like Dreadnought II, only one of the two counts."
 I5 Designer ruling (sigmazero13, Mar 7, 2018): "That’s correct, or at least, what is intended." Answer addresses Develop Weaponry; Revolutionize Warfare is the same unit-upgrade count.
 @46
-N No source found.
+R The faction-specific upgrade is in effect instead of Infantry II (see the note above on generic and faction-specific upgrades), and its text is now on the Valefar Assimilator card, which "gains that technology's text" ("At the start of your next turn, place each unit that is on this card"). Moving the waiting infantry to that card keeps them under the upgrade now in effect.
 @47
 E1 LRR 97.1a: "The Nekro Virus player may upgrade their units with units of the same type (e.g., 'dreadnought' or 'infantry') even if those unit's names do not match."
 E1 LRR 97.4: "After a player gains a unit upgrade card, each of that player's units that correspond to that upgrade card is treated as having the attributes and abilities printed on that upgrade card. Any previous attributes of that unit, such as the one printed on that player's faction sheet, are ignored."
@@ -115,21 +116,21 @@ E4 Designer ruling: "The token stays on the tech in the tech-deck and Valefar As
 I2 RulesPal, "Do technologies the Nekro copy with Valefar Assimilator count for objectives?": "Yes — a copied technology counts with its colour and type."
 I5 FFG ruling (stephen986, Sep 19 2017): "The intent was that after placing an assimilator token on another faction’s faction specific technology, it would then count toward the secret objective." Counting only once a token is placed on another technology implies the if-and-only-if.
 @50
-N No source found.
+R This introduces the points below, which carry their own reasoning or sources.
 @51
-N No source found.
+R LRR 14.2: "When a player blockades another player's space dock, if the blockaded player has captured any of the blockading player's units, those units are returned." Floating Factory II: "If this unit is blockaded, it is destroyed." The return happens "When" the blockade begins (LRR 1.15), before the result of being blockaded.
 @52
 E1 LRR FAQ, on combats that are "impossible for either side to win—for example, certain configurations of ships using the 'Non-Euclidean Shielding' and 'Duranium Armor' technologies in concert? A: If neither side has the potential to win, the attacker must retreat."
 @53
-N No source found.
+R Floating Factory II: "This unit can move and retreat as if it were a ship." Magmus Reactor: "Your ships can move into supernovas."
 @54
-N No source found.
+R Floating Factory II: "This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship." It moves as if it were a ship, but it is not one: LRR 76 lists ships as "carriers, cruisers, dreadnoughts, destroyers, fighters, and war suns." LRR 14: a unit with Production is blockaded in a system that "does not contain any of their ships and contains other players' ships," so the two docks do not blockade each other. LRR 79.3 limits space docks per planet ("Each planet can have a maximum of one space dock"), not per system.
 @55
-N No source found.
+R Exotrireme II: "After a round of space combat, you may destroy this unit to destroy up to 2 ships in this system." LRR 1.19: when several abilities share a window in the action phase, "each player takes a turn resolving an ability in initiative order, beginning with the active player."
 @56
-N No source found.
+R Valefar Assimilator "gains that technology's text," so the Nekro player can resolve Radical Advancement: "you may replace one of your non-unit upgrade technologies with a technology of the same color that has exactly 1 more prerequisite." Propagation triggers only "When you would research a technology." The Unofficial FAQ treats replacing as its own instruction, apart from researching: "If an ability instructs you to “research” a technology, you require the prerequisites ... If you are instructed to “gain” or “replace” a technology, you do not require prerequisites."
 @57
-N No source found.
+R This introduces the points below, which carry their own reasoning or sources.
 @58
 E1 LRR 90.19: "If a Valefar Assimilator token is removed from the Saar 'Floating Factory' unit upgrade, each of the Nekro Virus' space docks must be placed on an eligible planet they control in that space dock's system, or the space dock is returned to their reinforcements."
 @59
@@ -138,9 +139,9 @@ E1 LRR 90.20: "If a Valefar Assimilator token is removed from a war sun unit upg
 E2 RulesPal, "What happens when the Nekro move a Valefar token off a technology their units depend on?": "Ships already in a supernova after losing Magmus Reactor are fine."
 I5 Designer ruling (Vidyaraja, Sep 18, 2017): "Losing Magmus Reactor in a supernova has no effect on the ships in the supernova, as the effects of a supernova do not kill ships, only restrict or disallow movement." Units stay; restriction on moving in or through follows from the supernova rule.
 @61
-N No source found.
+R Dimensional Tear II: "This system is a gravity rift; your ships do not roll for this gravity rift. Place a dimensional tear token beneath this unit as a reminder." Once the text is lost, nothing makes the system a gravity rift, and the reminder tokens have nothing to mark.
 @62
-N No source found.
+R Valefar Assimilator "gains that technology's text," including "At the start of your next turn, place each unit that is on this card." Infantry waiting on the card follow whichever infantry upgrade text the Nekro player still has: the new copy, then the generic Infantry II; with neither, nothing places them, and LRR 31 returns destroyed units to reinforcements.
 @63
 E1 LRR FAQ: "Infantry that are participating in space combat due to the effects of 'The Alastor' do count as ships (in addition to their own unit type) for the purpose of card effects. But, as a unit that can be transported, they do not count against fleet supply in that system."
 @64
@@ -149,11 +150,11 @@ E1 LRR FAQ: "Do infantry involved in a space combat via the effects of 'The Alas
 E1 LRR FAQ: "Does the Winnu 'Salai Sai Corian' flagship get additional dice for infantry participating in a fight due to the Nekro 'Alastor' flagship? A: Yes. The 'Salai Sai Corian' would get one additional die per infantry."
 E2 RulesPal, "How do Nekro ground forces fighting via the flagship count for other effects?": "they count as non-fighter ships for things like the Winnu flagship's extra dice (per the LRR FAQ)."
 @66
-N No source found.
+R LRR 1.19: "If there are multiple abilities that players wish to resolve at the same time during the action phase, each player takes a turn resolving an ability in initiative order, beginning with the active player." After the Nekro player resolves The Alastor, each other player takes a turn before the Nekro player's next one.
 @67
-N No source found.
+R Assault Cannon requires "a system that contains 3 or more of your non-fighter ships" when it resolves. If, after The Alastor, the opponent's turn in the LRR 1.19 order destroys ships first, the condition may no longer be met.
 @68
-N No source found.
+R Assault Cannon ("At the start of a space combat ... your opponent must destroy 1 of their non-fighter ships") and The Alastor ("At the start of a space combat") share a window, resolved in the LRR 1.19 order; the opponent may resolve theirs first, and the Nekro player may choose The Alastor to destroy.
 @69
 E4 Designer ruling: "Ground Forces participating in space combat via The Alastor do not move from their origin location. If they were on planets at the start of combat, they stay on the planet."
 @70
@@ -161,7 +162,7 @@ E4 Designer ruling: "If they were on planets at the start of combat, they stay o
 @71
 E1 LRR FAQ: "Infantry that are committed to the space combat due to the effects of 'The Alastor' continue to participate until the end of the combat, even if 'The Alastor' is destroyed."
 @72
-N No source found.
+R Copying Memoria II replaces The Alastor's abilities (see the notes above). Ground forces already in a combat stay, as they do when The Alastor itself is destroyed (note above). Without The Alastor's text at the start of combat ("At the start of a space combat, choose any number of your ground forces"), no ground forces join unless that text is back during that window.
 @73
 E1 LRR 97.4: "After a player gains a unit upgrade card, each of that player's units that correspond to that upgrade card is treated as having the attributes and abilities printed on that upgrade card. Any previous attributes of that unit … are ignored."
 I2 RulesPal, "What can the Nekro copy with Valefar Assimilator?": "Units printed on faction sheets, like Muaat's Prototype War Sun I or flagships, aren't technologies and can't be copied (the Nomad's Memoria II card is the exception)."
@@ -171,38 +172,38 @@ E1 LRR FAQ: "Infantry that are participating in space combat due to the effects 
 I2 RulesPal, "How do ground forces fighting with the Nekro Virus flagship work?": "They take part in the space combat as if they were ships."
 I5 Designer ruling (greghouse, Dec 29, 2017): "Can i have the ground forces number over my fleet pool? … 1) Yes" The Alastor ground forces do not count against the fleet pool.
 @75
-N No source found.
+R Hel Titan II: "This unit is treated as both a structure and a ground force." The Alastor: "choose any number of your ground forces in this system to participate in that combat as if they were ships."
 @76
-N No source found.
+R Demonstrate Your Power: "Have 3 or more non-fighter ships in the active system at the end of a space combat." The Alastor's ground forces take part "as if they were ships," and effects that refer to ships or non-fighter ships apply to them (note above, source 1).
 @77
-N No source found.
+R LRR 33.1: "A player is eliminated when they meet all of the following three conditions." LRR 33: "A player who is eliminated is no longer part of the game," so they are gone before any objective could be scored for that combat.
 @78
-N No source found.
+R Direct Hit destroys the flagship when it uses Sustain Damage, "Before assigning hits" (LRR 78.6a). Destroy Their Greatest Ship: "Destroy another player's war sun or flagship"; an action phase objective can be scored "at any time during that phase" (LRR 61.5b), and LRR 98.7: "The game ends immediately when one player has 10 victory points."
 @79
-N No source found.
+R Nekro Malleon: "that player may discard 1 action card or spend 1 command token from their command sheet to gain 2 trade goods." LRR 20.1: the command sheet holds the "tactic pool," "fleet pool," and "strategy pool." Magmus: "After you spend a token from your strategy pool: You may gain 1 trade good."
 @80
-N No source found.
+R Magmus is its own ability ("After you spend a token from your strategy pool: You may gain 1 trade good"), resolved after the spend (LRR 1.14); it is not part of Nekro Malleon's 2 trade goods.
 @81
 E4 Designer ruling: "Can I use the Nekro Virus' Agent, Nekro Malleon … to interrupt another ability since the timing is 'during the action phase'? A: No, any ability that is used 'during the action phase' cannot be resolved unless there are no other abilities currently being resolved."
 @82
 E2 RulesPal, "Does the Nekro commander draw an action card for the very technology that unlocks it?": "No — unlock conditions are checked only after the current effect fully resolves."
 @83
-N No source found.
+R Valefar Assimilator X: "When you would gain another player's technology using 1 of your faction abilities, you may place the 'X' assimilator token on a faction technology owned by that player instead." The token is placed instead of gaining.
 @84
-N No source found.
+R Technological Singularity: "Once per combat, after 1 of your opponent's units is destroyed." LRR 62: "During combat, a player's opponent is the other player" in it. Polymorphic Algorithm is an ACTION outside combat, so there is no opponent.
 @85
 I1 LRR 90.8b: "Unit upgrades do not have a color."
 I2 RulesPal, "What counts for technology-colour objectives like Diversify Research and Master the Sciences?": "Unit upgrades have no colour" unit upgrades are colorless; Polymorphic Algorithm gain is by color.
 @86
-N No source found.
+R Mordred: "During combat against an opponent who has an 'X' or 'Y' token on 1 or more of their technologies, apply +2 to the result of each of this unit's combat rolls." One condition gives one +2; a second token does not repeat it.
 @87
-N No source found.
+R Valefar Assimilator Z: "Your flagship gains the text abilities of that faction's flagship in addition to its own." It applies to the Nekro player's flagship, whatever its own text is after copying Memoria II.
 @88
-N No source found.
+R Valefar Assimilator X and Y: "You cannot place an assimilator token on technology that already has an assimilator token." Valefar Assimilator Z extends the same assimilation to faction sheets ("you may instead place one of your 'Z' assimilator tokens on that player's faction sheet"), and a second Z token on the same sheet would only copy the same flagship text again.
 @89
 E2 RulesPal, "With the Nekro breakthrough, can the flagship copy several other flagships, and what does it copy?": "It isn't a technology, so the Nekro commander doesn't trigger."
 @90
-N No source found.
+R Arvicon Rex: "During combat against an opponent whose command token is not in your fleet pool, apply +2." Only Mahact's Edict puts other players' tokens in a fleet pool, so for the Nekro player that condition always holds.
 @91
 E6 Community consensus: "What is the interaction when Nekro has Vuil'raith's flagship …? A: Nekro can capture their own units and can decide to return them to reinforcements at any time."
 @92

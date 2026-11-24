@@ -777,6 +777,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can the Nekro Virus player use the Prophet&rsquo;s Tears Relic? A: Yes, when the Nekro virus player uses their Propagation faction ability, they could exhaust the Relic to gain an action card.&rdquo;</li>
         </ul></li>
+    <li>The player holding <i>Antivirus</i> may only play it at the start of a combat they are participating in.<sup>4</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can abilities that trigger &lsquo;at the start of a combat&rsquo; be played in combats you are not participating in? A: No, any non-agent &lsquo;at the start of a combat&rsquo; abilities must be played during a combat you are participating in.&rdquo;</li>
+        </ul></li>
     <li>If the <a href="/F_jol_nar">Jol&ndash;Nar</a> player uses their hero to replace a technology which is currently being copied by a <i>Valefar Assimilator</i>, it will remain copied with a Valefar Assimilator token on it while in that player&rsquo;s technology deck.<sup>4</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The token stays on the tech in the tech-deck and Valefar Assimilator still has that technology&rsquo;s text.&rdquo;</li>

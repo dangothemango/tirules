@@ -2551,6 +2551,11 @@
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What can the Nekro copy with Valefar Assimilator?&rdquo;: &ldquo;two at a time, one per token; to copy a third you move a token.&rdquo;</li>
         </ul></li>
+    <li>The Nekro player may use any ability of the copied technology that does not require exhausting as a cost, even if the <i>Valefar Assimilator</i> card is exhausted.<sup>2</sup>
+        <ul>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a technology ability that doesn&rsquo;t say &lsquo;exhaust&rsquo; be used more than once per round?&rdquo;: &ldquo;static abilities keep working even while the card is exhausted.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Winnu use Lazax Gate Folding&rsquo;s action without Mecatol Rex, and does the wormhole part work while exhausted?&rdquo;: &ldquo;The passive part ... doesn&rsquo;t need the card ready, so it works while exhausted.&rdquo;</li>
+        </ul></li>
     <li>If the Nekro player would copy a faction&ndash;specific unit upgrade, and they are already copying a faction&ndash;specific unit upgrade of the same type, they must use the same Valefar Assimilator token; they lose the previous faction unit upgrade.<sup>1,2,5</sup>
         <ul>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;What happens to the Nekro&rsquo;s own unit upgrades &hellip;?&rdquo;: &ldquo;A second faction upgrade for the same unit replaces the first, using the same token.&rdquo;</li>

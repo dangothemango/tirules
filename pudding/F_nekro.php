@@ -1,7 +1,7 @@
 <?php include __DIR__ . "/../prefix.php"?>
 <header><h1>The Nekro Virus: Proof</h1></header>
 <article>
-<p>The source text behind each note on <a href="/F_nekro">The Nekro Virus</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
+<p>The source text behind each note on <a href="/F_nekro">The Nekro Virus</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it. <b>Reasoning</b> shows how a note no source addresses follows from the card text and rules.</p>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Galactic%20Threat">Galactic Threat</a></h2>
     <ol class="note">
@@ -16,7 +16,7 @@
         </ul></li></ol>
     <li>If the Nekro player has the Xxcha player&rsquo;s <i>Alliance</i> promissory note, the Nekro player may vote, without losing their ability to predict outcomes for their <sc>Galactic Threat</sc> ability.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Galactic Threat: &ldquo;You cannot vote on agendas.&rdquo; Elder Qanoj: &ldquo;Game effects cannot prevent you from voting on an agenda,&rdquo; and Alliance: &ldquo;you can use the (color) player&rsquo;s commander ability.&rdquo; The prediction is a separate sentence of Galactic Threat (&ldquo;you may predict aloud the outcome of that agenda&rdquo;) and does not depend on not voting.</li>
         </ul></li>
     <li>If the speaker breaks a tie without casting any votes, then the speaker&rsquo;s technologies are ineligible to be gained.<sup>2</sup>
         <ul>
@@ -32,11 +32,11 @@
     <ol class="note">
     <li>If the Nekro player gains a technology during a space combat, this does not prevent them from gaining technology during ground combats in the <b>Invasion</b> step of the same tactical action.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Technological Singularity: &ldquo;Once per combat, after 1 of your opponent&rsquo;s units is destroyed, you may gain 1 technology.&rdquo; The space combat (LRR 78) and each ground combat (LRR 42) are separate combats; LRR 61.7a likewise treats &ldquo;the space combat and the ground combat during the same tactical action&rdquo; separately.</li>
         </ul></li>
     <li>If multiple ground combats happen on separate planets as part of a single <b>Invasion</b> step during one action, the Nekro player may gain a technology during each combat.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Technological Singularity works &ldquo;Once per combat.&rdquo; LRR 49.4: the players &ldquo;resolve a ground combat on that planet,&rdquo; and LRR 49.4a: &ldquo;If players must resolve a combat on more than one planet, the active player chooses the order in which those combats are resolved.&rdquo; Each planet&rsquo;s ground combat is its own combat.</li>
         </ul></li>
     <li>Any method that destroys a unit during combat will trigger <sc>Technological Singularity</sc>, including an anti&ndash;fighter barrage roll, the <i>Direct Hit</i> action card, the <a href="/F_creuss">Creuss</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Ghosts_of_Creuss#Faction_Technologies:~:text=Dimensional%20Splicer"><i>Dimensional Splicer</i></a> faction technology, etc.<sup>2</sup>
         <ul>
@@ -64,7 +64,7 @@
     <ol>
         <li>The combat value of a combat dice is fixed as it is rolled, and all combat dice are rolled before any hits are assigned. Gaining a unit upgrade technology will not cause any already rolled combat dice to produce any additional hits due to an improved combat value. The same applies to unit ability dice.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 78.5: &ldquo;Each player rolls one die for each ship they have in the active system,&rdquo; and a result equal to or greater than the combat value &ldquo;produces a hit.&rdquo; Hits are produced when the dice are rolled; LRR 78.6 assigns them afterward, so a later change to a combat value does not revisit dice already rolled.</li>
         </ul></li>
         <li>Destroying an opponent&rsquo;s unit during the <b>Anti&ndash;Fighter Barrage</b> step, and gaining a unit upgrade technology will allow units of that type to use the abilities and attributes of the upgrade for the combat rolls of the same round.<sup>2</sup>
         <ul>
@@ -76,7 +76,7 @@
         </ul></li>
         <li>If the Nekro player uses the <i>Direct Hit</i> action card to destroy a unit when it uses its <sc>Sustain Damage</sc> ability, this will occur before any units are destroyed from being assigned hits. If the Nekro player then gains a technology that gives their units the <sc>Sustain Damage</sc> ability, they may then use that ability for their units participating in the combat to cancel hits produced by their opponent during that round of combat.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Direct Hit: &ldquo;After another player&rsquo;s ship uses Sustain Damage to cancel a hit produced by your units or abilities: Destroy that ship.&rdquo; LRR 78.6a: &ldquo;Before assigning hits, players may use their units&rsquo; &lsquo;Sustain Damage&rsquo; abilities to cancel hits.&rdquo; The ship is destroyed in that window, so Technological Singularity resolves before hits are assigned, and a Sustain Damage ability gained then can still be used in the same window.</li>
         </ul></li>
     </ol>
     <li>If the Nekro player destroys a unit, and gains a technology with an ability that is used during the same timing window, they may use that ability immediately.<sup>2</sup>
@@ -85,20 +85,20 @@
         </ul></li>
     <ol><li>For example, if the Nekro player uses the ability of the <i>Assault Cannon</i> technology at the start of a space combat to destroy a unit belonging to the Creuss player, and thus place a Valefar token on that player&rsquo;s <i>Dimensional Splicer</i> faction technology, the Nekro player may immediately use the ability of their Valefar <i>Dimensional Splicer</i> to produce a hit against one of the Creuss player&rsquo;s ships.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Assault Cannon: &ldquo;At the start of a space combat in a system that contains 3 or more of your non-fighter ships, your opponent must destroy 1 of their non-fighter ships.&rdquo; Valefar Assimilator &ldquo;gains that technology&rsquo;s text,&rdquo; and Dimensional Splicer resolves &ldquo;At the start of space combat,&rdquo; the window that is still open.</li>
         </ul></li></ol>
     <li>If the Nekro player gains the Infantry II unit upgrade from their <sc>Technological Singularity</sc> ability during a combat, any of the Nekro player&rsquo;s infantry destroyed at the same time as the unit used to trigger the <sc>Technological Singularity</sc> ability will be returned to their reinforcements.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Infantry II: &ldquo;After this unit is destroyed, roll 1 die.&rdquo; Infantry destroyed alongside the unit that triggers Technological Singularity were destroyed before the Nekro player gained Infantry II, so they had no such ability; LRR 31: a destroyed unit &ldquo;is removed from the game board and returned to their reinforcements.&rdquo;</li>
         </ul></li>
     <ol>
         <li>If the Nekro player uses a <i>Direct Hit</i> action card to destroy an opponent&rsquo;s unit, and gain the Infantry II unit upgrade, then any infantry destroyed in that <b>Assign Hits</b> step will roll to be placed on the Infantry II card. This will most commonly occur if the Nekro player has infantry participating in space combat via the ability of their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Direct Hit destroys the ship as soon as it uses Sustain Damage, which LRR 78.6a places &ldquo;Before assigning hits.&rdquo; Infantry II gained then is in play when the Nekro player&rsquo;s infantry are destroyed in the Assign Hits step, so each rolls: &ldquo;After this unit is destroyed, roll 1 die.&rdquo;</li>
         </ul></li>
         <li>Any infantry destroyed by the <a href="/F_argent">Argent</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Argent_Flight#Destroyer:~:text=Strike%20Wing%20Alpha">Strike Wing Alpha</a> II faction unit ability are destroyed during the <b>Roll Dice</b> substep of the <b>Anti&ndash;Fighter Barrage</b> step. The Nekro player will not have the opportunity to gain the Infantry II unit upgrade until the <b>Assign Hits</b> substep immediately following, and so the destroyed infantry will be returned to their reinforcements.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Strike Wing Alpha II: &ldquo;When this unit uses ANTI-FIGHTER BARRAGE, each result of 9 or 10 also destroys 1 of your opponent&rsquo;s infantry,&rdquo; during the roll (LRR 10.1). The Nekro player&rsquo;s own barrage hits are assigned only in LRR 10.2 (&ldquo;Each player must choose and destroy one of their fighters&rdquo;), so the Argent player loses a unit, and Technological Singularity can trigger, only after the infantry are gone.</li>
         </ul></li>
     </ol>
     <li>The Nekro player cannot use <i>The Prophet&rsquo;s Tears</i> relic to draw an action card when they gain a technology using this ability.<sup>2,4</sup>
@@ -116,11 +116,11 @@
         </ul></li>
     <ol><li>The Nekro player may still benefit from owning the <i>Minister of Sciences</i> agenda card.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Minister of Sciences: &ldquo;When the owner of this card resolves the primary or secondary ability of the &lsquo;Technology&rsquo; strategy card, they do not need to spend resources to research technology.&rdquo; The Nekro player still resolves the Technology card, gaining command tokens instead of researching (Propagation), so they need not spend the resources.</li>
         </ul></li></ol>
     <li>If an ability triggers &ldquo;when&rdquo; a player researches a technology, that ability will still be triggered by the Nekro player.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Propagation: &ldquo;When you would research a technology, gain 3 command tokens instead.&rdquo; The moment of researching still occurs; only its result is replaced (LRR 1.15a: a &ldquo;when&rdquo; ability &ldquo;typically modifies or replaces the timing event&rdquo;). The ruling above lets the Nekro player use The Prophet&rsquo;s Tears, which triggers &ldquo;When you research a technology.&rdquo;</li>
         </ul></li>
     <ol><li>If the Nekro player owns <i>The Prophet&rsquo;s Tears</i> relic, they may draw an action card whenever they would research a technology.<sup>4</sup>
         <ul>
@@ -129,7 +129,7 @@
         </ul></li></ol>
     <li>If an ability triggers &ldquo;after&rdquo; a player researches a technology, that ability will never be triggered by the Nekro player.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Propagation: &ldquo;You cannot research technology. When you would research a technology, gain 3 command tokens instead.&rdquo; No research ever happens, and LRR 1.14 resolves an &ldquo;after&rdquo; ability only once its event has occurred.</li>
         </ul></li>
     <ol><li>If the <i>Anti&ndash;Intellectual Revolution</i> law is in play, the Nekro player will not destroy a ship when they would research a technology.<sup>2</sup>
         <ul>
@@ -141,7 +141,7 @@
         </ul></li>
     <ol><li>For example, if the Nekro player&rsquo;s only units in the combat are dreadnoughts and fighters, and they already own both Dreadnought II and Fighter II, they cannot play <i>Reveal Prototype</i>.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. Example of the parent note.</li>
+        <li><b>Reasoning</b>: Reveal Prototype: &ldquo;Spend 4 resources to research a unit upgrade technology of the same type as 1 of your units that is participating in this combat.&rdquo; With Dreadnought II and Fighter II owned, there is no such technology left to research, and the card can be played &ldquo;only if there is a unit upgrade technology the card could research&rdquo; (the note above).</li>
         </ul></li></ol>
     </ol>
 
@@ -149,31 +149,31 @@
     <ol class="note">
     <li>The effect of <i>Antivirus</i> does not prevent the Nekro player gaining a technology from a player via their <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Galactic%20Threat"><sc>Galactic Threat</sc></a> ability.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Antivirus: &ldquo;the Nekro player cannot use their TECHNOLOGICAL SINGULARITY faction ability against you.&rdquo; It names only Technological Singularity; Galactic Threat is a different faction ability.</li>
         </ul></li>
-    <li>The player holding <i>Antivirus</i> may only play it at the start of a combat they are participating in.<sup>*</sup>
+    <li>The player holding <i>Antivirus</i> may only play it at the start of a combat they are participating in.<sup>4</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;Can abilities that trigger &lsquo;at the start of a combat&rsquo; be played in combats you are not participating in? A: No, any non-agent &lsquo;at the start of a combat&rsquo; abilities must be played during a combat you are participating in.&rdquo;</li>
         </ul></li>
     <ol><li>The Nekro player does not need to be participating in that combat.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Antivirus: &ldquo;At the start of a combat: Place this card face-up in your play area.&rdquo; The card puts no condition on the Nekro player&rsquo;s presence in that combat.</li>
         </ul></li></ol>
     <li><i>Antivirus</i> has no effect while it is in a player&rsquo;s hand.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Antivirus: &ldquo;Place this card face-up in your play area. While this card is in your play area, the Nekro player cannot use their TECHNOLOGICAL SINGULARITY faction ability against you.&rdquo; The effect applies only once the card is in the play area.</li>
         </ul></li>
     <li><i>Antivirus</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Nekro player this turn.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Antivirus: &ldquo;If you activate a system that contains 1 or more of the Nekro player&rsquo;s units, return this card to the Nekro player.&rdquo; Activation alone triggers it; the card mentions no movement, combat or other hostile act.</li>
         </ul></li>
     <li>Activating a system containing only the Nekro player&rsquo;s structures will still cause <i>Antivirus</i> to be returned.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Antivirus returns when a player activates a system &ldquo;that contains 1 or more of the Nekro player&rsquo;s units.&rdquo; LRR 85: &ldquo;A structure is a type of unit.&rdquo;</li>
         </ul></li>
     <li>If an effect other than activating a system during a tactical action places a command token in a system with the Nekro player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Antivirus</i> to be returned.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 5.1: &ldquo;When a player performs a tactical action, they activate a system by placing a command token from their tactic pool in that system.&rdquo; Antivirus returns only &ldquo;If you activate a system&rdquo;; a token placed by another effect activates nothing.</li>
         </ul></li>
     </ol>
 
@@ -186,16 +186,17 @@
         </ul></li>
     <li>When copying another technology, <i>Valefar Assimilator</i> will retain its exhausted/readied state. It will not copy the target technology&rsquo;s exhausted/readied state.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Valefar Assimilator: &ldquo;While that token is on a technology, this card gains that technology&rsquo;s text.&rdquo; It gains the text only; whether the card is exhausted is a state of the Valefar Assimilator card itself (LRR 34.1: &ldquo;To exhaust a card, a player flips the card facedown&rdquo;).</li>
         </ul></li>
     <ol>
-        <li>The Nekro player may use any ability of the copied technology that does not require exhausting as a cost, even if the <i>Valefar Assimilator</i> card is exhausted.<sup>*</sup>
+        <li>The Nekro player may use any ability of the copied technology that does not require exhausting as a cost, even if the <i>Valefar Assimilator</i> card is exhausted.<sup>2</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Explicit</b>: <sup>2</sup> RulesPal, &ldquo;Can a technology ability that doesn&rsquo;t say &lsquo;exhaust&rsquo; be used more than once per round?&rdquo;: &ldquo;static abilities keep working even while the card is exhausted.&rdquo;</li>
+        <li><b>Implicit</b>: <sup>2</sup> RulesPal, &ldquo;Can Winnu use Lazax Gate Folding&rsquo;s action without Mecatol Rex, and does the wormhole part work while exhausted?&rdquo;: &ldquo;The passive part ... doesn&rsquo;t need the card ready, so it works while exhausted.&rdquo;</li>
         </ul></li>
         <li>An exhausted <i>Valefar Assimilator</i> will always ready during the Status Phase, even if it is not currently copying a technology with an exhaust ability.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 34.2: &ldquo;During the &lsquo;Ready Cards&rsquo; step of the status phase, each player readies all of their exhausted cards.&rdquo; This applies to every exhausted card, whatever text it currently has.</li>
         </ul></li>
     </ol>
     <li>If the Nekro player would copy a faction&ndash;specific unit upgrade, and they are already copying a faction&ndash;specific unit upgrade of the same type, they must use the same Valefar Assimilator token; they lose the previous faction unit upgrade.<sup>1,2,5</sup>
@@ -229,7 +230,7 @@
         </ul></li>
         <li>If the Nekro player gains a faction&ndash;specific infantry unit upgrade technology while they own the generic Infantry II unit upgrade technology and they have infantry on that unit upgrade card that would be placed in their home system at the start of their next turn, then those infantry are transferred to the <i>Valefar Assimilator</i> card that they are using to copy the faction&ndash;specific infantry unit upgrade.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: The faction-specific upgrade is in effect instead of Infantry II (see the note above on generic and faction-specific upgrades), and its text is now on the Valefar Assimilator card, which &ldquo;gains that technology&rsquo;s text&rdquo; (&ldquo;At the start of your next turn, place each unit that is on this card&rdquo;). Moving the waiting infantry to that card keeps them under the upgrade now in effect.</li>
         </ul></li>
     </ol>
     <li>If the Nekro player copies the <a href="/F_nomad">Nomad</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Flagship:~:text=Memoria"><i>Memoria II</i></a> flagship unit upgrade technology, its attributes and abilities replace those of <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>.<sup>1,2</sup>
@@ -249,12 +250,12 @@
         </ul></li>
     <li>If the Nekro player has copied certain technology (possibly two or more at different points in time), the following apply:<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: This introduces the points below, which carry their own reasoning or sources.</li>
         </ul></li>
     <ol>
         <li>If both the <a href="/F_saar">Saar</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Clan_of_Saar#Space_Dock:~:text=Floating%20Factory">Floating Factory</a> II unit upgrade and the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Vortex"><i>Vortex</i></a> technology are copied, and another player blockades a Nekro space dock, the Nekro player returns any captured units, then destroys the blockaded space dock.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 14.2: &ldquo;When a player blockades another player&rsquo;s space dock, if the blockaded player has captured any of the blockading player&rsquo;s units, those units are returned.&rdquo; Floating Factory II: &ldquo;If this unit is blockaded, it is destroyed.&rdquo; The return happens &ldquo;When&rdquo; the blockade begins (LRR 1.15), before the result of being blockaded.</li>
         </ul></li>
         <li>If the Nekro player has copied both the <a href="/F_letnev">Letnev</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Barony_of_Letnev#:~:text=Non-Euclidean%20Shielding"><i>Non&ndash;Euclidean Shielding</i></a> technology and the generic <i>Duranium Armor</i> technology, then a space combat between the Nekro player and the Letnev player in certain circumstances may result in neither player being able to win. If this happens, the attacker must declare a retreat. If the attacker cannot do so, they destroy all their units in that combat.<sup>1</sup>
         <ul>
@@ -262,24 +263,24 @@
         </ul></li>
         <li>If both the <a href="/F_muaat">Muaat</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Embers_of_Muaat#Faction_Technologies:~:text=Magmus%20Reactor"><i>Magmus Reactor</i></a> technology and the Saar player&rsquo;s Floating Factory II unit upgrade are copied, the Nekro player may move their space docks into supernovae.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Floating Factory II: &ldquo;This unit can move and retreat as if it were a ship.&rdquo; Magmus Reactor: &ldquo;Your ships can move into supernovas.&rdquo;</li>
         </ul></li>
         <li>If the Saar player&rsquo;s Floating Factory II unit upgrade is copied, both the Nekro player and the Saar player may have their space docks in the same system, if there are no ships in that system.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Floating Factory II: &ldquo;This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship.&rdquo; It moves as if it were a ship, but it is not one: LRR 76 lists ships as &ldquo;carriers, cruisers, dreadnoughts, destroyers, fighters, and war suns.&rdquo; LRR 14: a unit with Production is blockaded in a system that &ldquo;does not contain any of their ships and contains other players&rsquo; ships,&rdquo; so the two docks do not blockade each other. LRR 79.3 limits space docks per planet (&ldquo;Each planet can have a maximum of one space dock&rdquo;), not per system.</li>
         </ul></li>
         <li>If the <a href="/F_norr">N&rsquo;orr</a> player&rsquo;s Exotrireme II unit upgrade is copied, and the Nekro player is in a combat with the N&rsquo;orr player, then the players will alternate when resolving end of combat round abilities, starting with the active player (all players may resolve abilities in initiative order, but it is most common for only the two players involved in the combat to want to resolve abilities). For example, if the attacking player has two Exotriremes II in the system and the defender has four, assuming both players are hostile toward each other, the most likely sequence is as follows: The attacker activates one of their Exotriremes II, leaving them with one and the defender with two; The defender activates one of their Exotriremes II leaving them with one and the attacker with none.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Exotrireme II: &ldquo;After a round of space combat, you may destroy this unit to destroy up to 2 ships in this system.&rdquo; LRR 1.19: when several abilities share a window in the action phase, &ldquo;each player takes a turn resolving an ability in initiative order, beginning with the active player.&rdquo;</li>
         </ul></li>
-        <li>If the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Technologies:~:text=Radical%20Advancement"><i>Radical Advancement</i></a> technology is copied, the Nekro player may resolve its ability, and will gain the chosen new technology; they will not gain command tokens.<sup>*</sup>
+        <li>If the <a href="/F_deepwrought">Deepwrought</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Deepwrought_Scholarate#Faction_Technologies:~:text=Radical%20Advancement"><i>Radical Advancement</i></a> technology is copied, the Nekro player may resolve its ability to replace one of their technologies with the chosen new technology. This is not researching, so they will not gain command tokens.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Valefar Assimilator &ldquo;gains that technology&rsquo;s text,&rdquo; so the Nekro player can resolve Radical Advancement: &ldquo;you may replace one of your non-unit upgrade technologies with a technology of the same color that has exactly 1 more prerequisite.&rdquo; Propagation triggers only &ldquo;When you would research a technology.&rdquo; The Unofficial FAQ treats replacing as its own instruction, apart from researching: &ldquo;If an ability instructs you to &ldquo;research&rdquo; a technology, you require the prerequisites ... If you are instructed to &ldquo;gain&rdquo; or &ldquo;replace&rdquo; a technology, you do not require prerequisites.&rdquo;</li>
         </ul></li>
     </ol>
     <li>The Nekro player may lose a technology if they copy a new one. If they lose certain technologies, the following apply:<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: This introduces the points below, which carry their own reasoning or sources.</li>
         </ul></li>
     <ol>
         <li>If the Nekro player loses the Saar player&rsquo;s Floating Factory II, each space dock the Nekro player controls must be placed on a planet they control in the same system, or the space dock is returned to their reinforcements.<sup>1</sup>
@@ -297,11 +298,11 @@
         </ul></li>
         <li>If the Vuil&rsquo;raith player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=Dimensional%20Tear">Dimensional Tear</a> II is lost, the dimensional tear tokens are removed from under the Nekro player&rsquo;s space docks; the systems are no longer gravity rifts (unless the system tile is a printed gravity rift).<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Dimensional Tear II: &ldquo;This system is a gravity rift; your ships do not roll for this gravity rift. Place a dimensional tear token beneath this unit as a reminder.&rdquo; Once the text is lost, nothing makes the system a gravity rift, and the reminder tokens have nothing to mark.</li>
         </ul></li>
         <li>The Nekro player may lose a faction&ndash;specific infantry unit upgrade technology, while they have infantry on the unit upgrade card that would be placed in their home system at the start of their next turn. If they are moving the Valefar Assimilator token to a different faction&ndash;specific infantry unit upgrade technology, the infantry remain on the <i>Valefar Assimilator</i> card. Else, if they own the generic Infantry II unit upgrade technology, the infantry are transferred to that unit upgrade card. Otherwise, the infantry are returned to the Nekro player&rsquo;s reinforcements.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Valefar Assimilator &ldquo;gains that technology&rsquo;s text,&rdquo; including &ldquo;At the start of your next turn, place each unit that is on this card.&rdquo; Infantry waiting on the card follow whichever infantry upgrade text the Nekro player still has: the new copy, then the generic Infantry II; with neither, nothing places them, and LRR 31 returns destroyed units to reinforcements.</li>
         </ul></li>
     </ol>
     </ol>
@@ -325,15 +326,15 @@
     </ol>
     <li>After the Nekro player uses the ability of <i>The Alastor</i>, all other players will have the opportunity to resolve an &ldquo;at the start of combat&rdquo; or an &ldquo;at the start of a round of combat&rdquo; ability before the Nekro player may resolve another ability.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 1.19: &ldquo;If there are multiple abilities that players wish to resolve at the same time during the action phase, each player takes a turn resolving an ability in initiative order, beginning with the active player.&rdquo; After the Nekro player resolves The Alastor, each other player takes a turn before the Nekro player&rsquo;s next one.</li>
         </ul></li>
     <ol><li>For example, say the Nekro player owns the <i>Assault Cannon</i> technology, and uses the ability of <i>The Alastor</i> to bring the total number of non&ndash;fighter ships in the combat to three (or more). Other players may then resolve one ability each. If their opponent uses an ability that destroys ships, such as from their own <i>Assault Cannon</i>, to reduce the number of non&ndash;fighter ships the Nekro player has in the combat to two (or fewer), then the Nekro player will be unable to resolve the ability of their <i>Assault Cannon</i>.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Assault Cannon requires &ldquo;a system that contains 3 or more of your non-fighter ships&rdquo; when it resolves. If, after The Alastor, the opponent&rsquo;s turn in the LRR 1.19 order destroys ships first, the condition may no longer be met.</li>
         </ul></li></ol>
     <li>Some abilities may destroy <i>The Alastor</i> at the start of a combat before the Nekro player has used its ability, such as the <i>Assault Cannon</i> technology.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Assault Cannon (&ldquo;At the start of a space combat ... your opponent must destroy 1 of their non-fighter ships&rdquo;) and The Alastor (&ldquo;At the start of a space combat&rdquo;) share a window, resolved in the LRR 1.19 order; the opponent may resolve theirs first, and the Nekro player may choose The Alastor to destroy.</li>
         </ul></li>
     <li>Ground forces on planets remain there while participating in combat.<sup>4</sup>
         <ul>
@@ -349,7 +350,7 @@
         </ul></li>
     <li>If the Nekro player copies another player&rsquo;s flagship unit upgrade technology with one of their <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator"><i>Valefar Assimilator</i></a> technologies during a space combat, any ground forces in that combat remain in that combat. If the Nekro player starts the space combat copying another player&rsquo;s flagship unit upgrade technology, ground forces cannot participate in that combat, unless the Nekro player stops copying that flagship unit upgrade technology during the &ldquo;start of combat&rdquo; window.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Copying Memoria II replaces The Alastor&rsquo;s abilities (see the notes above). Ground forces already in a combat stay, as they do when The Alastor itself is destroyed (note above). Without The Alastor&rsquo;s text at the start of combat (&ldquo;At the start of a space combat, choose any number of your ground forces&rdquo;), no ground forces join unless that text is back during that window.</li>
         </ul></li>
     <ol><li>This applies only to copying another player&rsquo;s flagship unit upgrade technology, currently only the <a href="/F_nomad">Nomad</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Flagship:~:text=Memoria"><i>Memoria II</i></a>, with a <i>Valefar Assimilator</i> X or Y token. Copying a flagship with <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Breakthrough:~:text=Valefar%20Assimilator%20Z"><i>Valefar Assimilator Z</i></a> does not replace the abilities of <i>The Alastor</i>.<sup>1,2</sup>
         <ul>
@@ -365,19 +366,19 @@
         </ul></li>
     <li>If the Nekro player has one of their <i>Valefar Assimilator</i> tokens on the <a href="/F_ul">Ul</a> player&rsquo;s Hel Titan II faction unit upgrade technology, they may use <i>The Alastor</i> to have their PDS in the active system participate in the space combat.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Hel Titan II: &ldquo;This unit is treated as both a structure and a ground force.&rdquo; The Alastor: &ldquo;choose any number of your ground forces in this system to participate in that combat as if they were ships.&rdquo;</li>
         </ul></li>
     <li>A ground force participating in a space combat may count toward scoring the <i>Demonstrate Your Power</i> secret objective.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Demonstrate Your Power: &ldquo;Have 3 or more non-fighter ships in the active system at the end of a space combat.&rdquo; The Alastor&rsquo;s ground forces take part &ldquo;as if they were ships,&rdquo; and effects that refer to ships or non-fighter ships apply to them (note above, source 1).</li>
         </ul></li>
     <li>If the Nekro player loses their last ground force during a space combat and consequently meets the requirements for elimination, they are immediately eliminated. They will not be given the opportunity to score any objectives from winning the combat or destroying certain units at the same time their last ground force was destroyed.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 33.1: &ldquo;A player is eliminated when they meet all of the following three conditions.&rdquo; LRR 33: &ldquo;A player who is eliminated is no longer part of the game,&rdquo; so they are gone before any objective could be scored for that combat.</li>
         </ul></li>
     <ol><li>If the Nekro player uses a <i>Direct Hit</i> action card to destroy an opponent&rsquo;s flagship, they may score the <i>Destroy Their Greatest Ship</i> secret objective, even if there are some hits remaining that will cause the Nekro player to be eliminated once they are assigned. If this would bring the Nekro player to ten victory points, they will instead win the game before they are eliminated.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Direct Hit destroys the flagship when it uses Sustain Damage, &ldquo;Before assigning hits&rdquo; (LRR 78.6a). Destroy Their Greatest Ship: &ldquo;Destroy another player&rsquo;s war sun or flagship&rdquo;; an action phase objective can be scored &ldquo;at any time during that phase&rdquo; (LRR 61.5b), and LRR 98.7: &ldquo;The game ends immediately when one player has 10 victory points.&rdquo;</li>
         </ul></li></ol>
     </ol>
 
@@ -385,11 +386,11 @@
     <ol class="note">
     <li>If the chosen player is the <a href="/F_muaat">Muaat</a> player with their commander, Magmus, unlocked, they will gain a trade good from it if they spend a token from their strategy pool when resolving this ability.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Nekro Malleon: &ldquo;that player may discard 1 action card or spend 1 command token from their command sheet to gain 2 trade goods.&rdquo; LRR 20.1: the command sheet holds the &ldquo;tactic pool,&rdquo; &ldquo;fleet pool,&rdquo; and &ldquo;strategy pool.&rdquo; Magmus: &ldquo;After you spend a token from your strategy pool: You may gain 1 trade good.&rdquo;</li>
         </ul></li>
     <ol><li>That trade good will be gained separately from the other two.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Magmus is its own ability (&ldquo;After you spend a token from your strategy pool: You may gain 1 trade good&rdquo;), resolved after the spend (LRR 1.14); it is not part of Nekro Malleon&rsquo;s 2 trade goods.</li>
         </ul></li></ol>
     <li>The ability of Nekro Malleon cannot be resolved while another ability is resolving.<sup>4</sup>
         <ul>
@@ -405,7 +406,7 @@
         </ul></li>
     <li>When the Nekro player places a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> token on a technology, they are not gaining a technology.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Valefar Assimilator X: &ldquo;When you would gain another player&rsquo;s technology using 1 of your faction abilities, you may place the &lsquo;X&rsquo; assimilator token on a faction technology owned by that player instead.&rdquo; The token is placed instead of gaining.</li>
         </ul></li>
     </ol>
 
@@ -413,7 +414,7 @@
     <ol class="note">
     <li>When the other player&rsquo;s units are destroyed, this does not trigger the Nekro player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Abilities:~:text=Technological%20Singularity"><sc>Technological Singularity</sc></a> ability.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Technological Singularity: &ldquo;Once per combat, after 1 of your opponent&rsquo;s units is destroyed.&rdquo; LRR 62: &ldquo;During combat, a player&rsquo;s opponent is the other player&rdquo; in it. Polymorphic Algorithm is an ACTION outside combat, so there is no opponent.</li>
         </ul></li>
     <li>Unit upgrades do not have a color. The Nekro player cannot gain a unit upgrade with <i>Polymorphic Algorithm</i>.<sup>2</sup>
         <ul>
@@ -426,7 +427,7 @@
     <ol class="note">
     <li>A Mordred will apply +2 against a player with both <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> tokens, and not +4.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Mordred: &ldquo;During combat against an opponent who has an &lsquo;X&rsquo; or &lsquo;Y&rsquo; token on 1 or more of their technologies, apply +2 to the result of each of this unit&rsquo;s combat rolls.&rdquo; One condition gives one +2; a second token does not repeat it.</li>
         </ul></li>
     </ol>
 
@@ -434,11 +435,11 @@
     <ol class="note">
     <li>If the Nekro player places a <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Faction_Technologies:~:text=Valefar%20Assimilator">Valefar Assimilator</a> X or Y token on the <a href="/F_nomad">Nomad</a> player&rsquo;s <a href="https://twilight-imperium.fandom.com/wiki/The_Nomad#Flagship:~:text=Memoria"><i>Memoria II</i></a> unit upgrade technology card, their flagship would still gain each ability granted to them by <i>Valefar Assimilator Z</i> from the flagships of other players.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Valefar Assimilator Z: &ldquo;Your flagship gains the text abilities of that faction&rsquo;s flagship in addition to its own.&rdquo; It applies to the Nekro player&rsquo;s flagship, whatever its own text is after copying Memoria II.</li>
         </ul></li>
     <li>The Nekro player cannot place multiple Valefar Assimilator Z tokens on the same player&rsquo;s faction sheet.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Valefar Assimilator X and Y: &ldquo;You cannot place an assimilator token on technology that already has an assimilator token.&rdquo; Valefar Assimilator Z extends the same assimilation to faction sheets (&ldquo;you may instead place one of your &lsquo;Z&rsquo; assimilator tokens on that player&rsquo;s faction sheet&rdquo;), and a second Z token on the same sheet would only copy the same flagship text again.</li>
         </ul></li>
     <li>Placing a Valefar Assimilator Z token is not gaining a technology. It does not trigger the ability of Nekro Acidos, the Nekro player&rsquo;s commander.<sup>2</sup>
         <ul>
@@ -446,7 +447,7 @@
         </ul></li>
     <li>If the Nekro player has a Valefar Assimilator Z token on the <a href="/F_mahact">Mahact</a> player&rsquo;s faction sheet, they will always apply the +2 to the combat rolls for <a href="https://twilight-imperium.fandom.com/wiki/The_Nekro_Virus#Flagship:~:text=The%20Alastor"><i>The Alastor</i></a>.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Arvicon Rex: &ldquo;During combat against an opponent whose command token is not in your fleet pool, apply +2.&rdquo; Only Mahact&rsquo;s Edict puts other players&rsquo; tokens in a fleet pool, so for the Nekro player that condition always holds.</li>
         </ul></li>
     <li>If the Nekro player has a Valefar Assimilator Z token on the <a href="/F_vuilraith">Vuil&rsquo;raith</a> player&rsquo;s faction sheet, copying their flagship, <a href="https://twilight-imperium.fandom.com/wiki/The_Vuil&#x27;Raith_Cabal#:~:text=The%20Terror%20Between"><i>The Terror Between</i></a>, they will capture destroyed units. They may also capture their own units, and may return their own captured units to their reinforcements at any time.<sup>6</sup>
         <ul>
