@@ -1,54 +1,54 @@
 @0
-N No source found.
+R Voidborn: "Nebulae do not affect your ships' movement." It names no step or action, so it covers any movement of the Empyrean player's ships.
 @1
-N No source found.
+R Voidborn removes only the effect on "your ships' movement." LRR 9.2 lists nebulae among the "four types of anomalies," and other nebula rules, such as LRR 59.3 ("the defender applies +1 to each combat roll"), still apply.
 @2
 E2 RulesPal, "When is a deal binding?": "Promises about future actions, and if-then conditions, are non-binding and can be broken."
 @3
-N No source found.
+R Blood Pact: "When you and the Empyrean player cast votes for the same outcome, cast 4 additional votes for that outcome." Both players must cast votes for it to trigger.
 @4
 I1 LRR 8.15: "Some game effects allow a player to cast additional votes for an outcome." LRR 8.16 bars a player who cannot vote from casting votes.
 @5
-N No source found.
+R Blood Pact: "If you activate a system that contains 1 or more of the Empyrean player's units, return this card to the Empyrean player." Activation alone triggers it; the card mentions no movement, combat or other hostile act.
 @6
-N No source found.
+R Blood Pact returns when a player activates a system "that contains 1 or more of the Empyrean player's units." LRR 85: "A structure is a type of unit."
 @7
-N No source found.
+R LRR 5.1: "When a player performs a tactical action, they activate a system by placing a command token from their tactic pool in that system." Blood Pact returns only "If you activate a system"; a token placed by another effect activates nothing.
 @8
 E1 LRR 92.3a: "A player cannot have more commodities than the commodity value printed on their faction sheet."
 E3 Learn to Play: "A player cannot" have more commodities than the value on their faction sheet.
 @9
-N No source found.
+R Trade Agreement: "When the (color) player replenishes commodities: The (color) player gives you all of their commodities." Having just replenished, they hold their full commodity value (LRR 21.3: "equals the commodity value on their faction sheet"), which is what Dark Pact asks for: "When you give a number of commodities to the Empyrean player equal to your maximum commodity value."
 @10
 E4 Designer ruling: "When a player gives you their commodities and triggers Dark Pact, do you gain all the trade goods simultaneously or the Dark Pact TG separately? … A: It is a single gain of commodities and 1 TG simultaneously."
 @11
 E4 Same ruling, asked "(For the purposes of Pillage)": "It is a single gain of commodities and 1 TG simultaneously."
 @12
-N No source found.
+R Dark Pact: "If you activate a system that contains 1 or more of the Empyrean player's units, return this card to the Empyrean player." Activation alone triggers it; the card mentions no movement, combat or other hostile act.
 @13
-N No source found.
+R Dark Pact returns when a player activates a system "that contains 1 or more of the Empyrean player's units." LRR 85: "A structure is a type of unit."
 @14
-N No source found.
+R LRR 5.1: "When a player performs a tactical action, they activate a system by placing a command token from their tactic pool in that system." Dark Pact returns only "If you activate a system"; a token placed by another effect activates nothing.
 @15
 I2 RulesPal, "When is a deal binding?": "Promises about future actions, and if-then conditions, are non-binding and can be broken."
 @16
 E6 Community consensus: "If one side is an anomaly, and another player activates the other side, can Aetherstream be used (especially if Nekro is copying it)? A: Only if Empyrean allows it."
 @17
-N No source found.
+R Voidwatch: "they must give you 1 promissory note from their hand, if able." The player who moved gives the note, so they choose which one.
 @18
-N No source found.
+R LRR 94.1: "During the active player's turn, they may resolve up to one transaction with each of their neighbors." Voidwatch forces a gift ("they must give you 1 promissory note from their hand"); it is not an exchange under LRR 94.
 @19
 E2 RulesPal, "Can a ship repaired by the Empyrean flagship use Sustain Damage again in the same round?": "No — a unit can sustain only once per instance of the timing window."
 E4 Designer ruling: "the same unit could not use its Sustain Damage ability multiple times during the same timing window."
 @20
-N No source found.
+R Dynamo: "After any player's unit in this system or an adjacent system uses SUSTAIN DAMAGE, you may spend 2 influence to repair that unit." A unit made damaged some other way has not used SUSTAIN DAMAGE.
 @21
 E2 RulesPal, "Can Direct Hit destroy a mech that uses Sustain Damage?": "A ship repaired by the Empyrean flagship after sustaining can still be Direct Hit, since it did use Sustain Damage."
 @22
 E4 Designer ruling: "The Dynamo's ability can be used multiple times in the same combat round by spending 2 influence, individually, each time."
 E2 RulesPal: "Each repair is paid separately."
 @23
-N No source found.
+I4 Unofficial FAQ: "Can the Empyrean flagship be used to repair the same ship, multiple times in the same combat round? Can it spend a 4 influence planet to use the ability twice? A: The Dynamo’s ability can be used multiple times in the same combat round by spending 2 influence, individually, each time."
 @24
 E4 Designer ruling: "The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets."
 I6 Community consensus, on Thunder's Edge: "so long as it contains no other planets it meets the requirements."
@@ -56,7 +56,7 @@ I6 Community consensus, on Thunder's Edge: "so long as it contains no other plan
 E2 RulesPal, "Can players make transactions with non-neighbors during the agenda phase?": "That doesn't make them neighbors for anything else, as the developer confirmed when asked about Mentak's Pillage."
 E5 Designer ruling (x3n d0g, 01/17/2019): "Simply being in the agenda phase does not confer neighbor status to all players."
 @26
-N No source found.
+R Xuange: "After another player moves ships into a system that contains 1 of your command tokens." It names no step or action, so any movement of ships triggers it.
 @27
 I2 RulesPal, "When does a commander unlock?": "As soon as its condition is met, mid-turn if need be … It is checked only after the current effect fully resolves." The current effect is the movement, so Xuange unlocks only after the movement resolves, after the window to resolve its ability from that movement.
 I2 RulesPal, "Can I unlock the Naalu commander partway through a production and use it for the rest?": "No — production is one step, so the unlock condition is only met after it finishes; use the commander from your next production." The same applies to movement.
@@ -75,13 +75,13 @@ E2 RulesPal: "the Empyrean hero can later put them on its empty systems."
 @32
 I2 RulesPal, "Can Sabotage cancel another Sabotage or a promissory note?": "Other cancel effects that lack that restriction can still cancel a Sabotage."
 @33
-N No source found.
+R Watcher: "You may remove this unit from a system that contains or is adjacent to another player's units to cancel an action card played by that player." The cancel answers the card as it is played, so the Watcher must meet the condition then.
 @34
-N No source found.
+R The Watcher must be in or adjacent to the other player's units when it cancels "an action card played by that player." A card played when a system is activated is played before the Movement step (LRR 89.1-89.2), so units that move in later do not count.
 @35
-N No source found.
+R LRR 2.8: "If an action card is canceled, that card has no effect and is discarded." Any cost in the card's text is part of its effect, so it is not paid.
 @36
-N No source found.
+R This introduces the two points below, which carry their own sources.
 @37
 I1 LRR FAQ (for Sabotage): "can be played after card targets (such as units, planets, systems, cards, outcomes, or players) have been decided on."
 I2 RulesPal, "When exactly is Sabotage played": "After the player announces the card's choices (target planet, ship or player, rider prediction, retreat destination and so on)."
@@ -89,11 +89,11 @@ I5 Designer ruling: "For sabotage, you would play after the target is chosen."
 @38
 I5 Designer ruling (Dane, Jan 23, 2019), confirming a list of Sabotage timings: "Bribery. Player declares how many TGs to be spent and which side he's voting for. Sabotage is played before he actually enacts it." Dane: "This list is mostly correct with one correction" (the correction concerns Focused Research only).
 @39
-N No source found.
+R LRR 2.8: "If an action card is canceled, that card has no effect." Rolling dice and drawing cards are part of the card's effect, so they wait until the Watcher has been declined.
 @40
-N No source found.
+R LRR 2.8: "If an action card is canceled, that card has no effect." Researching is part of the card's effect, and the card's targets are the only choices announced before the Watcher window (see the points above), so the technology is chosen afterward.
 @41
-N No source found.
+R Watcher cancels "an action card played by that player." LRR 2.7: "To play an action card, a player reads and resolves the card's ability text." A rider is played once, when it is placed; its later effect is not another play.
 @42
 I2 RulesPal, "If my component action card is cancelled by Sabotage …?": "a cancelled card counts as not played, so you still take an action (or pass, if allowed)."
 @43

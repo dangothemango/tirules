@@ -551,6 +551,10 @@
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Dynamo&rsquo;s ability can be used multiple times in the same combat round by spending 2 influence, individually, each time.&rdquo;</li>
         </ul></li>
+    <li>As an example, The Dark may be exhausted to repair only one ship, not two.<sup>4</sup>
+        <ul>
+        <li><b>Implicit</b>: <sup>4</sup> Unofficial FAQ: &ldquo;Can the Empyrean flagship be used to repair the same ship, multiple times in the same combat round? Can it spend a 4 influence planet to use the ability twice? A: The Dynamo&rsquo;s ability can be used multiple times in the same combat round by spending 2 influence, individually, each time.&rdquo;</li>
+        </ul></li>
     <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.<sup>4,6</sup>
         <ul>
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The destroyed planet token is no longer a planet for any purpose, and if it is covering the only planet in a system, that system contains no planets.&rdquo;</li>

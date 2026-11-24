@@ -1,17 +1,17 @@
 <?php include __DIR__ . "/../prefix.php"?>
 <header><h1>The Empyrean: Proof</h1></header>
 <article>
-<p>The source text behind each note on <a href="/F_empyrean">The Empyrean</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
+<p>The source text behind each note on <a href="/F_empyrean">The Empyrean</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it. <b>Reasoning</b> shows how a note no source addresses follows from the card text and rules.</p>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Faction_Abilities:~:text=Voidborn">Voidborn</a></h2>
     <ol class="note">
     <li>This effect also applies outside the <b>Movement</b> step.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Voidborn: &ldquo;Nebulae do not affect your ships&rsquo; movement.&rdquo; It names no step or action, so it covers any movement of the Empyrean player&rsquo;s ships.</li>
         </ul></li>
     <li>The Empyrean player treats nebulae as nebulae and as anomalies for all other game purposes.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Voidborn removes only the effect on &ldquo;your ships&rsquo; movement.&rdquo; LRR 9.2 lists nebulae among the &ldquo;four types of anomalies,&rdquo; and other nebula rules, such as LRR 59.3 (&ldquo;the defender applies +1 to each combat roll&rdquo;), still apply.</li>
         </ul></li>
     </ol>
 
@@ -31,7 +31,7 @@
     <ol class="note">
     <li>Both players must cast at least one vote to trigger the additional votes.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Blood Pact: &ldquo;When you and the Empyrean player cast votes for the same outcome, cast 4 additional votes for that outcome.&rdquo; Both players must cast votes for it to trigger.</li>
         </ul></li>
     <ol><li>If either player cannot vote on an agenda, then the additional votes will not trigger for that agenda.<sup>1</sup>
         <ul>
@@ -39,15 +39,15 @@
         </ul></li></ol>
     <li><i>Blood Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Empyrean player this turn.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Blood Pact: &ldquo;If you activate a system that contains 1 or more of the Empyrean player&rsquo;s units, return this card to the Empyrean player.&rdquo; Activation alone triggers it; the card mentions no movement, combat or other hostile act.</li>
         </ul></li>
     <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Blood Pact</i> to be returned.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Blood Pact returns when a player activates a system &ldquo;that contains 1 or more of the Empyrean player&rsquo;s units.&rdquo; LRR 85: &ldquo;A structure is a type of unit.&rdquo;</li>
         </ul></li>
     <li>If an effect other than activating a system during a tactical action places a command token in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Blood Pact</i> to be returned.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 5.1: &ldquo;When a player performs a tactical action, they activate a system by placing a command token from their tactic pool in that system.&rdquo; Blood Pact returns only &ldquo;If you activate a system&rdquo;; a token placed by another effect activates nothing.</li>
         </ul></li>
     </ol>
 
@@ -60,7 +60,7 @@
         </ul></li>
     <li>If the Empyrean player plays a player&rsquo;s <i>Trade Agreement</i> promissory note, this will count for that player giving the Empyrean player all their commodities.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Trade Agreement: &ldquo;When the (color) player replenishes commodities: The (color) player gives you all of their commodities.&rdquo; Having just replenished, they hold their full commodity value (LRR 21.3: &ldquo;equals the commodity value on their faction sheet&rdquo;), which is what Dark Pact asks for: &ldquo;When you give a number of commodities to the Empyrean player equal to your maximum commodity value.&rdquo;</li>
         </ul></li>
     <li>The trade goods gained from <i>Dark Pact</i> are gained simultaneously with the commodities transacted between the two players.<sup>4</sup>
         <ul>
@@ -72,15 +72,15 @@
         </ul></li>
     <li><i>Dark Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Empyrean player this turn.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Dark Pact: &ldquo;If you activate a system that contains 1 or more of the Empyrean player&rsquo;s units, return this card to the Empyrean player.&rdquo; Activation alone triggers it; the card mentions no movement, combat or other hostile act.</li>
         </ul></li>
     <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Dark Pact</i> to be returned.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Dark Pact returns when a player activates a system &ldquo;that contains 1 or more of the Empyrean player&rsquo;s units.&rdquo; LRR 85: &ldquo;A structure is a type of unit.&rdquo;</li>
         </ul></li>
     <li>If an effect other than activating a system during a tactical action places a command token in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Dark Pact</i> to be returned.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 5.1: &ldquo;When a player performs a tactical action, they activate a system by placing a command token from their tactic pool in that system.&rdquo; Dark Pact returns only &ldquo;If you activate a system&rdquo;; a token placed by another effect activates nothing.</li>
         </ul></li>
     </ol>
 
@@ -100,11 +100,11 @@
     <ol class="note">
     <li>The active player chooses which promissory note they give the Empyrean player.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Voidwatch: &ldquo;they must give you 1 promissory note from their hand, if able.&rdquo; The player who moved gives the note, so they choose which one.</li>
         </ul></li>
     <li>Giving a promissory note because of <i>Voidwatch</i> is not resolving a transaction.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 94.1: &ldquo;During the active player&rsquo;s turn, they may resolve up to one transaction with each of their neighbors.&rdquo; Voidwatch forces a gift (&ldquo;they must give you 1 promissory note from their hand&rdquo;); it is not an exchange under LRR 94.</li>
         </ul></li>
     </ol>
 
@@ -117,7 +117,7 @@
         </ul></li>
     <li>A unit that becomes damaged without using its <sc>Sustain Damage</sc> ability will not trigger this effect.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Dynamo: &ldquo;After any player&rsquo;s unit in this system or an adjacent system uses SUSTAIN DAMAGE, you may spend 2 influence to repair that unit.&rdquo; A unit made damaged some other way has not used SUSTAIN DAMAGE.</li>
         </ul></li>
     <li>A player may play a <i>Direct Hit</i> action card during the same timing window as this ability. If they do so, the ship is destroyed.<sup>2</sup>
         <ul>
@@ -128,9 +128,9 @@
         <li><b>Explicit</b>: <sup>4</sup> Designer ruling: &ldquo;The Dynamo&rsquo;s ability can be used multiple times in the same combat round by spending 2 influence, individually, each time.&rdquo;</li>
         <li><b>Explicit</b>: <sup>2</sup> RulesPal: &ldquo;Each repair is paid separately.&rdquo;</li>
         </ul></li>
-    <ol><li>As an example, The Dark may be exhausted to repair only one ship, not two.<sup>*</sup>
+    <ol><li>As an example, The Dark may be exhausted to repair only one ship, not two.<sup>4</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Implicit</b>: <sup>4</sup> Unofficial FAQ: &ldquo;Can the Empyrean flagship be used to repair the same ship, multiple times in the same combat round? Can it spend a 4 influence planet to use the ability twice? A: The Dynamo&rsquo;s ability can be used multiple times in the same combat round by spending 2 influence, individually, each time.&rdquo;</li>
         </ul></li></ol>
     </ol>
 
@@ -152,7 +152,7 @@
         </ul></li>
     <li>Any movement of ships can trigger this ability, not just movement during the <b>Move Ships</b> step of a tactical action.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Xuange: &ldquo;After another player moves ships into a system that contains 1 of your command tokens.&rdquo; It names no step or action, so any movement of ships triggers it.</li>
         </ul></li>
     <li>If the Empyrean player becomes neighbors with all players when the final player moves ships into a system containing one of the Empyrean player&rsquo;s command tokens, Xuange will unlock, but the Empyrean player will not be able to resolve its ability from that movement.<sup>2</sup>
         <ul>
@@ -193,19 +193,19 @@
         </ul></li>
     <li>The Watcher must be adjacent to the other player&rsquo;s units during the timing window when the action card is played in order to cancel it.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Watcher: &ldquo;You may remove this unit from a system that contains or is adjacent to another player&rsquo;s units to cancel an action card played by that player.&rdquo; The cancel answers the card as it is played, so the Watcher must meet the condition then.</li>
         </ul></li>
     <ol><li>In particular, if an action card is played &ldquo;when/after you activate a system&rdquo; or similar, then the Watcher must be adjacent before any ships move during that tactical action.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: The Watcher must be in or adjacent to the other player&rsquo;s units when it cancels &ldquo;an action card played by that player.&rdquo; A card played when a system is activated is played before the Movement step (LRR 89.1-89.2), so units that move in later do not count.</li>
         </ul></li></ol>
     <li>If an action card is canceled by a Watcher, no costs are paid.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 2.8: &ldquo;If an action card is canceled, that card has no effect and is discarded.&rdquo; Any cost in the card&rsquo;s text is part of its effect, so it is not paid.</li>
         </ul></li>
     <li>A player playing an action card announces the following before a Watcher may be triggered:<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: This introduces the two points below, which carry their own sources.</li>
         </ul></li>
     <ol>
         <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.<sup>1,2,5</sup>
@@ -221,15 +221,15 @@
     </ol>
     <li>Any dice are rolled and any cards are drawn only after the Empyrean player has declined to remove a Watcher.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 2.8: &ldquo;If an action card is canceled, that card has no effect.&rdquo; Rolling dice and drawing cards are part of the card&rsquo;s effect, so they wait until the Watcher has been declined.</li>
         </ul></li>
     <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until the Empyrean player has declined to remove a Watcher.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 2.8: &ldquo;If an action card is canceled, that card has no effect.&rdquo; Researching is part of the card&rsquo;s effect, and the card&rsquo;s targets are the only choices announced before the Watcher window (see the points above), so the technology is chosen afterward.</li>
         </ul></li>
     <li>If an action card is played that will have an effect later, such as a rider, that card may only be canceled by a Watcher when it is originally played.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Watcher cancels &ldquo;an action card played by that player.&rdquo; LRR 2.7: &ldquo;To play an action card, a player reads and resolves the card&rsquo;s ability text.&rdquo; A rider is played once, when it is placed; its later effect is not another play.</li>
         </ul></li>
     <li>If the action card that was canceled by a Watcher was to be used to perform a component action, the active player must perform a different action, or pass.<sup>2</sup>
         <ul>

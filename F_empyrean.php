@@ -54,7 +54,7 @@
     <li>A unit that becomes damaged without using its <sc>Sustain Damage</sc> ability will not trigger this effect.<sup>*</sup></li>
     <li>A player may play a <i>Direct Hit</i> action card during the same timing window as this ability. If they do so, the ship is destroyed.<sup>2</sup></li>
     <li>Influence must be spent separately for each use of this ability. As such, any excess influence used to repair a ship is wasted, and cannot be used to repair a different ship.<sup>2,4</sup></li>
-    <ol><li>As an example, The Dark may be exhausted to repair only one ship, not two.<sup>*</sup></li></ol>
+    <ol><li>As an example, The Dark may be exhausted to repair only one ship, not two.<sup>4</sup></li></ol>
     </ol>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Empyrean#Leaders:~:text=Acamar">Acamar</a> <sub>(Agent)</sub></h2>
