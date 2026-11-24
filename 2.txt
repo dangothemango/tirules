@@ -1,0 +1,1539 @@
+Chat
+
+Rulebook
+
+FAQ
+
+Twilight Imperium: Fourth Edition FAQ
+
+738 questions players ask · Updated Oct 23, 2026 · Full rulebook
+
+Search questions
+
+Golden Rules, Timing and ComponentsSetup and Map BuildingStrategy Phase and Strategy CardsAction Phase and Tactical ActionsStatus PhaseAgenda Phase and VotingAgenda CardsObjectives and Victory PointsSpace CombatInvasion and Ground CombatSpace Cannon, Bombardment and Anti-Fighter BarrageMovement, Anomalies and WormholesFleet Pool, Capacity and TransportTrade, Transactions and DealsProducing UnitsTechnologyControl, Structures and Mecatol RexAction CardsPromissory NotesBase Factions: Arborec to LetnevBase Factions: Mentak, Naalu and NekroBase Factions: Saar to YssarilElimination and Game EndTwilight Imperium: Fourth Edition – Prophecy of KingsTwilight Imperium: Fourth Edition – Thunder's Edge
+
+Golden Rules, Timing and Components
+
+When several players want to resolve abilities at the same time, who goes first?
+
+If I pass on playing an action card or ability in a timing window, can I still play one later in that window?
+
+Once I resolve an ability in a timing window, can I take it back after my opponent responds?
+
+If both players have the same 'after a round of space combat' ability, such as two Exotrireme II dreadnoughts, who resolves first?
+
+Can the defender respond to the active player's Flank Speed with a card like Ceasefire?
+
+How do we order two game effects (not player abilities) that trigger at the same time?
+
+If an ability says 'then', do I have to resolve the first part before the part after 'then' happens?
+
+Is each paragraph on a card a separate ability, for example the 'Then return this card' line on a promissory note?
+
+If an ability tells me to destroy or lose a number of things and I have fewer, do I resolve it partly?
+
+If an earlier ruling by the developer contradicts the Living Rules Reference FAQ, which one wins?
+
+If I only play the base game, which Living Rules Reference should I use?
+
+Are the Codex cards official, and do I have to use them?
+
+Can I show my action cards or secret objectives to other players?
+
+After looking at another player's action cards (for example with Mageon Implants), can I tell other players what I saw?
+
+Is the action card discard pile face up, and can players look through it?
+
+Can I use an effect that destroys units, like Lucky Shot, Unstable Planet or X-89 Bacterial Weapon, on my own units?
+
+Are fighters ships?
+
+Are PDS and space docks ground forces?
+
+Do faction units like the Muaat Prototype War Sun count as their base unit type?
+
+What do the small arrows and the dots by the combat value on a faction sheet mean?
+
+Are fighter and infantry tokens limited, and what are they for?
+
+Is there a limit to how many infantry can be on one planet?
+
+What happens if I would gain a command token but have none left in my reinforcements?
+
+What if an effect makes me place a command token from my reinforcements, such as Diplomacy or a retreat, and I have none there?
+
+If my reinforcements are empty, must I take units from the board to place a new one?
+
+Setup and Map Building
+
+Can Twilight Imperium 4 be played with two players?
+
+How are factions, colors and seats chosen at setup?
+
+When building the galaxy, can I look at my dealt system tiles and choose which one to place?
+
+During galaxy setup, when can anomalies go next to each other, and can they go next to Mecatol Rex?
+
+Are red-backed empty systems anomalies for the setup placement rule?
+
+Is it a problem if an alpha or beta wormhole ends up on the map without its partner?
+
+Is a randomly built galaxy supposed to be balanced?
+
+Is the gravity rift tile only for four-player games?
+
+In a five-player game, which players get starting trade goods?
+
+Do players start the game with commodities, trade goods or action cards?
+
+Do factions start with their faction technologies, and does adding them remove any generic technologies?
+
+Can I put all my starting ground forces on one home planet, and do I control the empty one?
+
+Which promissory notes does each player start with?
+
+Are there errors in the Learn to Play setup illustrations?
+
+How do the two Creuss tiles work at setup, and where do their starting units go?
+
+When are galactic events chosen at setup?
+
+Strategy Phase and Strategy Cards
+
+How do strategy cards work in three- and four-player games?
+
+With two strategy cards, which one sets my initiative, and must I use the lower card first?
+
+Does a strategy card's primary ability cost a command token, and does the Leadership secondary?
+
+Which parts of a strategy card's primary ability are mandatory?
+
+Does Leadership let me redistribute the command tokens already on my sheet?
+
+How does the revised Diplomacy strategy card work?
+
+Which system can I choose with Diplomacy, and can it be Mecatol Rex?
+
+What do the Diplomacy tokens do to other players?
+
+Can Warfare, Counterstroke or other effects remove a token placed by Diplomacy?
+
+Who can I make speaker with Politics, and is it mandatory?
+
+Can the speaker token be traded or sold?
+
+Can Politics look at and rearrange the agenda deck before anyone takes Mecatol Rex?
+
+After Politics, is it public whether the agenda cards went to the top or bottom of the deck?
+
+Do I pay resources for the structures placed with Construction?
+
+Can I use the Construction secondary in a system that already has my command token, and does it lock the system?
+
+Can the Clan of Saar use Construction to place a Floating Factory in a system without a planet they control?
+
+Does the Warfare primary give me two extra command tokens?
+
+How does the Warfare secondary work?
+
+Must I research a second technology with the Technology primary?
+
+What do the Imperial abilities give, and when is Mecatol Rex control checked?
+
+If Public Disgrace makes a player give back a strategy card, who gets its trade goods?
+
+Can Public Disgrace be played against a strategy card swap from Quantum Datahub Node or Imperial Arbiter?
+
+How does Hacan's Quantum Datahub Node swap strategy cards?
+
+Must the Naalu place their 0 initiative token?
+
+What does Jol-Nar pay to use Brilliant, and does it work on other strategy cards?
+
+In a three- or four-player game, does Political Stability let you keep both strategy cards?
+
+Action Phase and Tactical Actions
+
+How many actions do I take per turn, and in what order must I use action types?
+
+Do I have to move ships or do anything after activating a system?
+
+Can I activate a system that already contains my command token?
+
+How many systems can I activate in one tactical action, and why do I end up with tokens in many systems?
+
+Does a system I activated stay the active system for the rest of the round?
+
+Can a system ever hold two of my command tokens?
+
+Do Diplomacy tokens, retreats or action cards like Ghost Ship or Plague count as activating a system?
+
+Can I move into a system, fight, invade and then produce there in the same tactical action?
+
+If another player activates a system with my space dock, can I produce there during their action?
+
+Can I produce in a system that already holds my command token from an earlier turn?
+
+Must I resolve my strategy card right away, and do I need command tokens to do it?
+
+When a strategy card is played, do other players resolve the secondary right away or on their own turn?
+
+Can I still resolve other players' strategy card secondaries after I have passed?
+
+When do 'at the start of your turn' abilities happen, and do they work in other phases?
+
+Are component actions limited to once per round?
+
+Can I play a component action that I can't fully resolve?
+
+Can I play an action card whose effect would amount to nothing, like Plague on a planet with no infantry?
+
+Can I remove my own units from the board when I want to?
+
+Status Phase
+
+In the status phase, do I get back all the command tokens I used on the board?
+
+In what order do players score objectives in the status phase?
+
+Can I score more than one public objective in a single status phase?
+
+Does Arborec's Mitosis place an infantry on every planet they control?
+
+If two players have abilities at the same point of the status phase, such as both using Wormhole Generator, who goes first?
+
+In what order are action cards drawn in the status phase?
+
+Are control tokens removed along with command tokens in the status phase?
+
+Agenda Phase and Voting
+
+When does the agenda phase happen, and when are planets readied?
+
+How does voting work, and does it go around the table more than once?
+
+Can I spend only part of a planet's influence when voting?
+
+Can trade goods be spent to cast votes?
+
+Can I abstain, and does casting zero votes let me use Distinguished Councilor or Bribery?
+
+What happens if the vote ties or everyone abstains?
+
+Can a speaker who can't vote, such as the Nekro Virus or a speaker who played a rider, still break ties?
+
+Does an agenda's outcome affect everyone, or only the players who voted for it?
+
+What is the difference between a law and a directive?
+
+How do 'Elect Planet' agendas work, and can an uncontrolled planet be chosen?
+
+When must Rider action cards be played, and can we discuss the agenda first?
+
+Do 'when an agenda is revealed' effects like Veto and Quash come before Riders?
+
+In what order do players play riders and other agenda-phase cards?
+
+Do I have to reveal my Rider and its prediction when I play it?
+
+Can one player play several riders on the same agenda, on different outcomes?
+
+Who can play Bribery, and when?
+
+Can a player hit by Assassinate Representative still play riders?
+
+When an agenda outcome and a rider both award points, which resolves first?
+
+How do Confusing and Confounding Legal Text interact with riders and Drive the Debate?
+
+What exactly does Political Secret stop the affected player from doing?
+
+If Political Secret is played and the agenda is then Quashed or Vetoed, does it carry over to the replacement?
+
+Can the Xxcha Quash more than once, including the replacement agenda?
+
+When does the Nekro make its Galactic Threat prediction, and what can it predict?
+
+Does Galactic Threat gain a technology if nobody voted for the predicted outcome?
+
+Can I exhaust planets for resources or technology specialties during the agenda phase?
+
+Agenda Cards
+
+If Shard of the Throne, The Crown of Emphidia or Holy Planet of Ixth is discarded or re-elected, does the previous owner lose its victory point?
+
+Do I lose The Crown of Emphidia if I lose a planet I control in another player's home system?
+
+If players are tied for the most or fewest points when Seed of an Empire resolves, who scores?
+
+When Miscount Disclosed forces a revote on a law, does that law stay in effect during the revote?
+
+How does the revote from Miscount Disclosed work?
+
+How does a secret objective made public by Classified Document Leaks work?
+
+What does Enforced Travel Ban do, and does it stop Space Cannon or the Creuss?
+
+Which units does The Ixthian Artifact destroy?
+
+Does Arms Reduction touch ships other than dreadnoughts and cruisers, and what about capacity?
+
+When Fleet Regulations passes, what happens to fleet pool tokens above 4 and ships over the limit?
+
+How does Anti-Intellectual Revolution work?
+
+Does Distinguished Councilor still add 5 votes under Representative Government?
+
+Does Public Execution stop the elected player voting in the next agenda phase, and does Yssaril's Crafty save their hand?
+
+Under Shared Research's Against outcome, what if I have no command tokens in reinforcements?
+
+When is Committee Formation used, and does it combine with riders?
+
+If Judicial Abolishment comes up with only one law in play, can that law be saved?
+
+Can Minister of War be used after any action?
+
+When is Minister of Peace used, and can other after-activation abilities follow it?
+
+What triggers Minister of Industry?
+
+How does Minister of Sciences interact with the Technology strategy card?
+
+Under Regulated Conscription, how much do fighters and infantry cost?
+
+How does Swords to Plowshares work on a planet with one infantry, and how often can Mentak pillage the result?
+
+Which rolls can The Crown of Thalnos reroll?
+
+If Homeland Defense Act is discarded, must players remove PDS beyond 2 per planet?
+
+Do gamma and delta wormholes count for Wormhole Research and Wormhole Reconstruction?
+
+Can a home planet, or the planet with Holy Planet of Ixth, be elected for Demilitarized Zone or Colonial Redistribution?
+
+Why vote against Conventions of War, and does it stop X-89 Bacterial Weapon?
+
+What happens with Archived Secret if the elected player already holds the maximum secret objectives?
+
+When an attached agenda says 'exhaust this card', do I exhaust the planet?
+
+How do Minister of Commerce, Industry, Peace and War interact with other effects?
+
+Does Minister of Sciences waive the 2 resources for L1Z1X's Inheritance Systems?
+
+Does Shard of the Throne change hands if both sides' ground forces are wiped out?
+
+How do the Research Team agendas work?
+
+In what order are agenda-phase secret objectives scored?
+
+When must The Prophecy of Ixth be discarded?
+
+If an agenda exhausts a planet with a Research Team attached, is the Research Team exhausted too?
+
+Objectives and Victory Points
+
+Can I score objectives if another player controls a planet in my home system?
+
+Does the limit of three secret objectives include ones I've scored?
+
+How do I get more secret objectives after setup?
+
+For objectives that require spending resources, influence, tokens or trade goods, does earlier spending count?
+
+Can I mark an objective as soon as I meet it and score it later, or keep a point if I stop qualifying?
+
+Do revealed public objectives stay in play, and can several players score the same one?
+
+How and when are action-phase secret objectives scored?
+
+If two players could each score an action-phase objective in the same combat, who scores first?
+
+Can I score a public objective with Imperial and another in the same round's status phase?
+
+Can Imperial's point for controlling Mecatol Rex be gained more than once?
+
+Do Space Cannon, Bombardment or landing on an empty planet count as winning a combat for objectives?
+
+Does a ship destroyed by Space Cannon plus Direct Hit, or fighters lost for capacity after Space Cannon kills their carrier, count for Turn Their Fleets to Dust?
+
+Can I score an objective for beating 'the player with the most victory points', like Spark a Rebellion, if I'm the leader?
+
+When several players are tied for the most or fewest victory points, which of them does an effect apply to?
+
+If I beat the Shard of the Throne holder, who leads on points, can I score Spark a Rebellion and take the Shard?
+
+Do other players' home planets count for 'non-home system' objectives like Subdue the Galaxy?
+
+Do ships in Mecatol Rex's system, or in an anomaly, count as adjacent to it for objectives?
+
+What counts for technology-colour objectives like Diversify Research and Master the Sciences?
+
+Do technologies the Nekro copy with Valefar Assimilator count for objectives?
+
+Does the Muaat Prototype War Sun count as a war sun for objectives?
+
+Can Support for the Throne be given away even if it hands someone the winning point, and can the giver attack the holder?
+
+If I reveal a secret objective to score it but turn out not to qualify, do I lose it?
+
+Are there common clarifications for specific objectives like Establish a Perimeter, Unveil Flagship, Become the Gatekeeper or Make an Example of Their World?
+
+When do I discard the 5 action cards for Form a Spy Network?
+
+How does the Total War variant's commodity tally work?
+
+Space Combat
+
+Does the 0 on the ten-sided die count as 0 or 10?
+
+Does a 10 always hit or a 1 always miss?
+
+Can more than two players fight in the same space combat?
+
+How does Sustain Damage work, and is it optional?
+
+Can Sustain Damage save a ship from Exotrireme II, Assault Cannon or other 'destroy' effects?
+
+When Dimensional Splicer or Yin's Devotion hits my ship, who picks the target, and can I use Sustain Damage?
+
+Are 'start of combat' and 'start of the first combat round' abilities in the same timing window, and how often do they happen?
+
+If both players have start-of-combat abilities like Assault Cannon or Skilled Retreat, which resolves first?
+
+With rerolls or die modifiers like the Hacan flagship or Crown of Thalnos, must I decide before rolling my other ships?
+
+Who can retreat from a space combat, and does an announced retreat still happen if the enemy is wiped out?
+
+Where can my ships retreat to?
+
+When my ships retreat, can they pick up ground forces from my planets in the combat system?
+
+What happens to units that can't go with a retreat?
+
+How does Skilled Retreat differ from a normal retreat?
+
+Can I retreat or Skilled Retreat into, or carry units out of, systems that contain my command token?
+
+What happens if neither side can ever win a space combat?
+
+Can two players agree not to fight when their ships share a system, or not to roll or assign hits?
+
+In space combat, who assigns hits first?
+
+Can a unit with Sustain Damage be destroyed by two hits in one round?
+
+If my carrier is destroyed in combat, are the fighters and ground forces it carried destroyed at once?
+
+If the defender leaves with Skilled Retreat or Foresight, does the attacker still invade, and has anyone won a combat?
+
+What happens to the attacker's ships if the invasion fails?
+
+If Space Cannon Offense destroys all of the active player's ships, did a space combat take place?
+
+Do Morale Boost, faction modifiers and rerolls affect Anti-Fighter Barrage, Space Cannon, Bombardment or Ambush?
+
+Can I roll all my combat dice together when my ships have different combat values?
+
+Do ships that announced a retreat still roll that round?
+
+Can ground forces that retreated with my ships, or moved with Skilled Retreat, land on a planet in the new system?
+
+When both players have end-of-round abilities, like Yin's Devotion and Sardakk's Exotrireme II, who goes first?
+
+Invasion and Ground Combat
+
+What happens if I move ships into a system where the opponent has only ground forces on planets?
+
+After winning a space combat, must I invade the planets in that system?
+
+Can I invade several planets in the same system in one tactical action?
+
+Can ground forces already on one planet invade another planet in the same system?
+
+Can I land ground forces on a planet, even one I control, outside the invasion step?
+
+Can fighters or dreadnoughts take part in an invasion?
+
+Is there a ground combat if Bombardment or Space Cannon Defense wipes out one side first?
+
+Space Cannon, Bombardment and Anti-Fighter Barrage
+
+Does Space Cannon Offense happen if the active player moves nothing into the active system?
+
+During Space Cannon Offense, who can shoot at whom?
+
+Can a ship use Sustain Damage against Space Cannon hits?
+
+When can Experimental Battlestation be used, and what can it shoot?
+
+Can Space Cannon fire at ships outside the active system, such as ships passing by, retreating, or in a neighboring system?
+
+When several players fire Space Cannon Offense, are they resolved together?
+
+Can Space Cannon with range reach through a wormhole?
+
+Is Bombardment mandatory, and can I bombard without landing ground forces?
+
+How many extra dice does Plasma Scoring add to Bombardment and Space Cannon?
+
+Can the active player fire their own Space Cannon, including PDS II in an adjacent system, into the system they activate?
+
+Which PDS fire Space Cannon Defense during an invasion?
+
+Can one ship bombard several planets, or split its dice between them?
+
+How many times does a PDS fire in one tactical action?
+
+Do Ceasefire or Disable stop Space Cannon?
+
+Movement, Anomalies and Wormholes
+
+Can I move ships partway toward the active system, or move ships that can't reach it?
+
+Can a ship leave the active system and come back in the same move, for example to fetch ground forces?
+
+What blocks my ships from moving through a system?
+
+Can I move more ships into a system that already has my command token on a later turn?
+
+Do ships move one at a time, and can I wait to see gravity rift rolls before moving others?
+
+How do gravity rifts work: when do I get +1 move and when do I roll?
+
+When a carrier leaves a gravity rift, do the fighters and ground forces it carries roll too?
+
+How do nebulae work for movement, and does Gravity Drive help?
+
+Can ships retreat or Skilled Retreat into a nebula?
+
+Who can move into or through a supernova?
+
+If I lose Antimass Deflectors while my ships sit in an asteroid field, or place units in an anomaly, what happens?
+
+Which systems count as anomalies?
+
+How do wormholes work, and must my ships use them?
+
+Can other players use the Creuss Gate and the Creuss flagship's delta wormhole?
+
+How does the Creuss flagship's 'move before or after your other ships' work?
+
+What exactly does Creuss's Quantum Entanglement connect, and can others use it?
+
+Does Enforced Travel Ban stop Creuss's Slipstream bonus?
+
+How does Lost Star Chart work, including with Enforced Travel Ban?
+
+Do Flank Speed and Gravity Drive stack?
+
+Do movement effects like Gravity Drive and gravity rifts apply to Saar Floating Factories?
+
+When an ability moves units outside a tactical action, like the Argent or L1Z1X hero, do normal movement rules apply?
+
+How do I move ground forces from one planet to another in the same system?
+
+Is a system adjacent to itself, and are planets in the same system adjacent?
+
+Fleet Pool, Capacity and Transport
+
+When is the fleet pool limit checked, and can I bring extra ships into a fight and trim afterwards?
+
+Can I deliberately go over my fleet pool by moving or producing, then remove ships of my choice?
+
+If an effect cuts my fleet pool, like Neuroglaive or Fleet Regulations, what happens to the excess ships, and does anyone get credit for them?
+
+What does capacity cover, and which units have it?
+
+Does a space dock have capacity?
+
+Can fighters stay in a system without a carrier or space dock?
+
+Can Fighter IIs move on their own into a system already at my fleet limit?
+
+Where can a moving ship pick up and drop off units?
+
+Can a carrier pick up more units than its capacity so the excess are destroyed, or leave fighters behind to die?
+
+After ships stop moving, are fighters and ground forces still tied to the ship that carried them?
+
+When is capacity checked if a carrier is lost?
+
+Can ground forces stay aboard ships in space instead of landing?
+
+With Light/Wave Deflector, can I pick up my ground forces from a system that has enemy ships?
+
+Trade, Transactions and Deals
+
+Who can make transactions, and when?
+
+Is the one-transaction limit per turn or per round?
+
+Can players make transactions with non-neighbors during the agenda phase?
+
+Can players trade action cards?
+
+When is a deal binding?
+
+Is a deal to buy someone's votes binding?
+
+Must deals and negotiations happen openly at the table?
+
+What can be exchanged in a transaction?
+
+Is a transaction an action, and when during a turn can it happen?
+
+Can players make transactions in the strategy or status phase?
+
+Who counts as my neighbor?
+
+When do commodities turn into trade goods, and can I give them and get them back in one transaction?
+
+Can I trade on a promissory note I received from another player, and must I show it?
+
+Is replenishing other players' commodities with Trade a transaction?
+
+Is a deal like 'take these trade goods and don't attack me this turn' binding?
+
+Can I broker a trade between two players who aren't neighbors?
+
+Can a planet's resources and influence both be spent, or spent twice?
+
+How does Mentak's Mirror Computing interact with Bribery or spend-trade-goods objectives?
+
+Is returning a used promissory note to its owner a transaction?
+
+How often can Sol's Military Support be used?
+
+Producing Units
+
+How many units can a space dock produce?
+
+Does Production limit the number of units or their total cost?
+
+When producing, can I exhaust planets outside the active system to pay?
+
+Do the Production values of several units in the active system add together?
+
+Where are produced ground forces placed?
+
+Can ground forces I produce take an uncontrolled planet in the same tactical action?
+
+Can I produce at my home space dock during a tactical action elsewhere, or at a system I activated earlier?
+
+Can I produce ships at a space dock when enemy ships are in that system?
+
+Can I build space docks or PDS with Production?
+
+If all my space docks or PDS are on the board, can I place another?
+
+Do units 'placed' by an effect cost resources, and do they count as producing?
+
+How does Sarween Tools work?
+
+Can a destroyed flagship be rebuilt?
+
+When all my plastic fighters or infantry are on the board, can I move some to where I'm producing?
+
+Technology
+
+Does the Codex (Omega) Magen Defense Grid still work if the PDS on the planet has been hit by Disable?
+
+Does Graviton Laser System do anything during Space Cannon Defense?
+
+How does Duranium Armor work?
+
+Does Valkyrie Particle Weave trigger if I cancel all the opponent's hits?
+
+How does Graviton Laser System affect Space Cannon hits?
+
+Is Hyper Metabolism misprinted?
+
+How do technology specialties work when researching?
+
+Does a technology I just researched, or one that is exhausted, count as a prerequisite?
+
+How do unit upgrades work?
+
+Do faction technologies replace generic ones?
+
+If an effect lets me research a technology, do I pay for it?
+
+Can I use a technology right after researching it, such as Fleet Logistics?
+
+What does Fleet Logistics allow?
+
+Does Gravity Drive give +1 move to every ship?
+
+Is Plasma Scoring's extra die optional, and does it work with Experimental Battlestation?
+
+What does Antimass Deflectors do?
+
+Does Light/Wave Deflector let my ships ignore blockades?
+
+Are Fighter II units still fighters for other effects?
+
+What happens to infantry on the Infantry II card if I don't control my home system?
+
+Does a war sun shut off Magen Defense Grid?
+
+How does X-89 Bacterial Weapon Omega work?
+
+What can Integrated Economy produce?
+
+What can L1Z1X's Inheritance Systems be used for?
+
+Can Xxcha's Instinct Training cancel any action card, even outside their own combats?
+
+Is Creuss's Wormhole Generator mandatory, and where can its tokens go?
+
+Does the Creuss flagship's delta wormhole trigger Dimensional Splicer?
+
+How does Jol-Nar's Research Agreement work?
+
+How does Jol-Nar's Spatial Conduit Cylinder work?
+
+Can Bioplasmosis or Transit Diodes move ground forces onto enemy planets, or chain across systems?
+
+Can Winnu use Lazax Gate Folding's action without Mecatol Rex, and does the wormhole part work while exhausted?
+
+Can a technology ability that doesn't say 'exhaust' be used more than once per round?
+
+When does Magmus Reactor give a trade good for producing?
+
+Does Prototype War Sun II cost less?
+
+Control, Structures and Mecatol Rex
+
+Does a home system stop being a home system when another player takes it?
+
+Do I lose control of a planet if my ground forces leave or are destroyed?
+
+Do I control both planets in my home system at the start, and does that trigger 'gain control' effects?
+
+How do I take control of a planet?
+
+When invading a system with two planets, does winning on one take both, and what if both sides are wiped out on a planet?
+
+Can different players control different planets in the same system?
+
+What happens to space docks and PDS when an enemy takes the planet?
+
+Can PDS or space docks be moved or transported?
+
+How do I take Mecatol Rex, and does the custodians point ever change hands?
+
+If I kill every ground force on a planet with X-89 or Orbital Drop elsewhere, do I take the planet?
+
+Can an enemy use a Saar Floating Factory to score objectives about ships in systems with enemy space docks?
+
+Action Cards
+
+Can I play two copies of the same action card, like Morale Boost or Flank Speed, in one timing window?
+
+If my action card is cancelled by Sabotage, can I play another copy of the same card in that window?
+
+Can a player who isn't in the combat play Sabotage or Direct Hit?
+
+Do Direct Hit and Shields Holding work on hits from Dimensional Splicer or Yin Devotion?
+
+If I have 7 action cards and draw 2, do I discard as I go or after drawing both?
+
+Can Tactical Bombardment be played in a system with no enemy planets?
+
+Does Cripple Defenses destroy every PDS on the planet?
+
+If my component action card is cancelled by Sabotage, have I used my action for the turn?
+
+When exactly is Sabotage played: before or after the card's target is chosen?
+
+Can Sabotage cancel another Sabotage or a promissory note?
+
+Can I play action cards when it isn't my turn?
+
+When can the Upgrade action card be played?
+
+Does Unstable Planet destroy fewer than 3 infantry if there are only 1 or 2?
+
+Can several Direct Hits or Shields Holdings be played in the same combat round?
+
+Does Shields Holding last for the whole combat?
+
+What happens to committed ground forces when Parley is played?
+
+Can I play Skilled Retreat if I have no command tokens in reinforcements?
+
+When can Parley be played, and does it stop Bombardment?
+
+Which hits can Shields Holding cancel?
+
+Can I play Direct Hit, Maneuvering Jets or other combat cards in a combat I'm not part of?
+
+Can Emergency Repairs save a ship from Direct Hit?
+
+Does Scramble Frequency reroll all the dice of a unit ability?
+
+Does Signal Jamming take command tokens from more than one player?
+
+Does Maneuvering Jets protect infantry from Space Cannon Defense?
+
+Promissory Notes
+
+Do I have to play a promissory note, such as Ceasefire, as soon as its timing comes up?
+
+Does the Letnev War Funding promissory note still work if the Letnev player has fewer than 2 trade goods?
+
+Can L1Z1X Cybernetic Enhancements or Xxcha Political Favor be used if their owner has no command token in the strategy pool?
+
+Does Sol's Military Support work if Sol has no strategy token, and can its 2 infantry go on different planets?
+
+When must I return another player's Support for the Throne?
+
+If I hold Mentak's Promise of Protection without playing it, must I return it when I activate a Mentak system?
+
+Can the Creuss IFF note put a wormhole token in a system with enemy ships if I control a planet there?
+
+Can I receive Creuss IFF in a transaction at the start of my turn and play it in that same window?
+
+Who can play the Yin Greyfire Mutagen note, and in which systems?
+
+Does the Arborec Stymie note stop the Arborec from producing in their home system?
+
+When must Ceasefire be played?
+
+Can Letnev's War Funding or The Crown of Thalnos reroll Anti-Fighter Barrage dice?
+
+Base Factions: Arborec to Letnev
+
+Who assigns the L1Z1X flagship's hits?
+
+Can Creuss use a wormhole token to get into an asteroid field protected by Saar's Chaos Mapping?
+
+When does the Arborec flagship produce, and can it move in first?
+
+Are the Ghosts of Creuss neighbors with a player on a beta wormhole when Creuss sits on an alpha wormhole?
+
+How many Creuss wormhole tokens are there, and is there a delta wormhole token?
+
+When Jol-Nar uses Brilliant to resolve the Technology primary as a secondary, do they need another token for the second tech?
+
+How does the L1Z1X Harrow ability work?
+
+How many hits can the Jol-Nar flagship produce?
+
+How does the Hacan flagship's trade-good bonus work?
+
+Can Letnev use Munitions Reserves every round, and does it cover Anti-Fighter Barrage?
+
+With Jol-Nar's Fragile, can their fighters still hit?
+
+How does Non-Euclidean Shielding work?
+
+How does Arborec infantry Production work?
+
+How does the Arborec flagship's produce-5 ability work?
+
+How do the Hacan trade action cards?
+
+Base Factions: Mentak, Naalu and Nekro
+
+How often can the Mentak use Pillage, and does it work in the agenda phase against everyone?
+
+How often can the Naalu use Foresight, and what triggers it?
+
+How do ground forces fighting with the Nekro Virus flagship work?
+
+Can the Nekro gain technologies from both the space combat and the ground combat of one tactical action?
+
+Does the Nekro Virus pay normally to use the Technology secondary?
+
+Can Naalu fighters fighting with the Matriarch win a ground combat or take control of a planet?
+
+Which kills trigger Nekro's Technological Singularity?
+
+How do Nekro ground forces fighting via the flagship count for other effects?
+
+Do Mentak ships that Ambush still roll in the first round, and how does The Fourth Moon block Sustain Damage?
+
+When does Naalu Foresight happen, and where can the ships go?
+
+What combat value do Naalu fighters use in ground combat, and can they fight on two planets?
+
+How does Mentak's Ambush work?
+
+Does the Mentak flagship stop Sustain Damage against Space Cannon hits too?
+
+When the Nekro Virus gain a technology, does the other player lose it?
+
+What can the Nekro copy with Valefar Assimilator?
+
+What happens to the Nekro's own unit upgrades when they copy a faction upgrade for the same unit?
+
+What happens when the Nekro move a Valefar token off a technology their units depend on?
+
+Can the Nekro use technology specialties?
+
+What are the Nekro's X and Y tokens for?
+
+When exactly can Mentak use Pillage?
+
+Base Factions: Saar to Yssaril
+
+If Yin's Indoctrination replaces the only defending infantry, have the Yin won the ground combat?
+
+Are Saar Floating Factories ships, and do they count against the fleet pool?
+
+Can Space Cannon fire at, or hits be assigned to, a Saar Floating Factory when it moves?
+
+Where do Saar Floating Factories go, and how many can share a system?
+
+What is Yssaril's Stall Tactics for, and can it be Sabotaged?
+
+Can units carried by the Yssaril flagship pass through systems with enemy ships, and can other Yssaril ships move with it?
+
+Can Xxcha's Peace Accords take a planet another player controls if no units are on it?
+
+Can Sol's Orbital Drop be used more than once a round, and can its 2 infantry go on different planets?
+
+When must Xxcha use Nullification Field, and what can still happen after it ends the turn?
+
+Does Yssaril's Scheming trigger on cards taken from other players, and does their unlimited hand protect against forced discards?
+
+How does the Yin's Devotion work?
+
+What happens to a Saar Floating Factory when enemy ships arrive, and can it retreat?
+
+When exactly can Exotrireme II use its ability?
+
+How do Sardakk's Unrelenting and flagship bonuses work?
+
+Does Greyfire Mutagen stop the Yin flagship from destroying the ships in its system?
+
+Can each Winnu flagship die score a hit?
+
+How does Saar's Ragh's Call work in an invasion?
+
+Does the Yin flagship's self-destruct destroy a Saar Floating Factory?
+
+Can Saar Floating Factories move and produce in the same action, and how many can share a system?
+
+How does Saar's Chaos Mapping production work?
+
+How many infantry does Yin Spinner give, and does it trigger off Integrated Economy?
+
+How long does Winnu's Hegemonic Trade Policy last?
+
+What does Lazax Gate Folding do?
+
+Elimination and Game End
+
+When does the game end if nobody reaches 10 victory points?
+
+If two players could both reach 10 points in the same status phase, who wins?
+
+If two players reach 10 points at the same moment in the agenda phase, who wins?
+
+If two players swap Support for the Throne and both would hit 10, who wins?
+
+Can a player win during the action phase?
+
+Is there an official longer game?
+
+When is a player eliminated?
+
+After a player is eliminated, do the remaining players pick more strategy cards?
+
+When a player is eliminated, do their wormhole tokens or Naalu 0 token leave the game?
+
+What happens to a technology the Nekro copied with Valefar Assimilator if its owner is eliminated?
+
+Twilight Imperium: Fourth Edition – Prophecy of KingsExpansion
+
+How does strategy card selection work under Checks and Balances?
+
+If Miscount Disclosed revotes Political Censure, who gains or loses points?
+
+If several Council Keleres mechs are on a planet, does the invader pay 1 influence for each?
+
+How do the Council Keleres choose their home system and hero?
+
+Does the tactical action granted by the Codex Naalu agent use a token from the tactic pool, and whose turn is it?
+
+Does Custodia Vigilia give command tokens when another player scores a public objective with Imperial?
+
+Can Mahact use Decoy Operation to move a Starlancer mech into the active system and then use the mech to end the active player's turn?
+
+Can the Xxcha agent ready another player's planet and remove their infantry?
+
+How do you capture fighters and infantry?
+
+Can Titans put more than one sleeper on a planet with Terragenesis, or one on Mecatol Rex?
+
+Does the Vuil'raith flagship capture units destroyed at the same moment it is destroyed?
+
+Does Ceasefire stop Sardakk N'orr from committing ground forces from adjacent systems with their commander?
+
+Does the Muaat hero remove tokens like the Mirage or frontier tokens from the system it converts?
+
+Does the Creuss commander trigger if my ship just passes through a wormhole system?
+
+If a Vuil'raith dimensional tear is on Mallice, which systems does Dimensional Anchor affect?
+
+Which exploration deck do I draw from when a planet has more than one trait?
+
+Can a mech deploy ability, like the Letnev mech's, take a mech from the board if none are left in reinforcements?
+
+Can I play Counterstroke on a system I activate that already has my command token?
+
+In the Codex alliance variant, does my ally become an active player when we both move into the same system?
+
+What is the Codex Mahact 'Thrall of the Kings' card for?
+
+How does Argent Flight's Raid Formation work, including against an opponent with no fighters?
+
+Can relic fragments be traded, and in both directions?
+
+When a planet card is given to another player, by an exploration effect or the Hacan mech, does control go with it?
+
+Is a legendary planet's ability card exhausted when I take the planet?
+
+Does exploring a new planet happen before Integrated Economy?
+
+Can Mentak pillage the Saar twice when Scavenge and Minister of Exploration both give trade goods for one planet?
+
+Do the Keleres control Custodia Vigilia as a legendary planet?
+
+Can Xxcha's Peace Accords take a planet with the Demilitarized Zone?
+
+Can I use only parts of Prophecy of Kings, such as just the new tiles or just the mechs?
+
+With the Nomad hero active, can the Memoria pick up units from systems with Nomad command tokens?
+
+When can the Titans use Awaken, and can Ceasefire or Nullification Field stop it?
+
+Can Titans explore a planet with Scanlink, Awaken its sleeper, and then use Terragenesis there?
+
+Is the Titans' Hel Titan a ground force, and does a sleeper stay when another player takes the planet?
+
+Does the Vuil'raith Devour ability capture units destroyed by Space Cannon or Bombardment?
+
+Do Vuil'raith ships roll for Cormund's gravity rift if their Dimensional Tear dock is there, and do two tears stack?
+
+Can Parley be played against ground forces committed by the Sardakk hero, even with no ships in space?
+
+When does Dark Energy Tap explore frontier tokens, and is it mandatory?
+
+Can the Mirage sit in a supernova, and can I activate a supernova, build there and leave?
+
+How does the Muaat hero's Nova Seed treat Muaat's own units and systems a war sun passes through?
+
+Can I use Scanlink Drone Network or other activation abilities when activating a system with the Mahact commander?
+
+Can Mahact use the Arborec commander to build a mech when their system is activated, then use that mech to end the active player's turn?
+
+How does Armed Forces Standardization affect Mahact holding other players' fleet tokens?
+
+Does an agenda resolved with the Xxcha hero that destroys an enemy flagship score Destroy Their Greatest Ship?
+
+Does Psychoarchaeology give 1 trade good per planet or 1 total?
+
+For the Creuss mech's Icarus Drive, which system does 'this system' mean?
+
+What does spending a command token 'from your reinforcements' mean?
+
+Do several Muaat mechs each place infantry when Star Forge is used?
+
+Can Direct Hit destroy a mech that uses Sustain Damage?
+
+Are exploration cards public, and what happens when a deck runs out?
+
+When does the Ion Storm flip, and does using a matching wormhole in the same system flip it?
+
+When I find Mirage by exploring, do I control it and explore it too?
+
+How does Scanlink Drone Network work?
+
+Can mechs use tokens beyond the 4 plastic pieces?
+
+Can the Naalu commander look at the next agenda after the first is revealed?
+
+Can the Nekro Virus use the Prophet's Tears relic?
+
+Can the Titans move Hel Titan PDS with Ghost Squad?
+
+Can the Naalu use Foresight when the Mahact hero pushes ships into their system?
+
+Can abilities be used after an exploration card is revealed but before it resolves?
+
+Can the Empyrean refuse Aetherpassage after agreeing to it in a deal?
+
+Does Naaz-Rokha's Distant Suns work with more than one mech on the planet?
+
+How do the Argent and L1Z1X heroes move ships, and can they reach the inactive Wormhole Nexus or invade?
+
+How does the Mahact commander work?
+
+Do Nekro-copied Dimensional Tears affect the Vuil'raith, and do they count for the Vuil'raith hero?
+
+What are captured units good for, and how do Amalgamation and Riftmeld use them?
+
+What does the Vuil'raith flagship capture?
+
+Does the Nomad's Cavalry note give my ship Anti-Fighter Barrage itself, or just the value?
+
+Can Become a Martyr be scored by losing a planet in another player's home system that I had taken?
+
+How can a frontier token in a supernova ever be explored?
+
+With Argent Flight's Zeal, what is the voting order?
+
+Which side of the sleeper token is used, when does Terragenesis move one, and can Awaken work with no PDS left?
+
+Can the Titans deploy their mech instead of placing a PDS with Construction?
+
+Which trade good gains count for the Nomad agent Artuno?
+
+Does Argent's Aerie Hololattice stop ships with Light/Wave Deflector moving through?
+
+Can Coup d'Etat stop a primary ability resolved through the Winnu hero or Overrule?
+
+How do players reach the Wormhole Nexus, and can the Creuss agent help on the first turn?
+
+How do the Yin and Naalu commanders' extra infantry and fighters work?
+
+What counts as being in my play area, for objectives about promissory notes?
+
+Can units leave a system with my command token, Saar Floating Factories included, and does Dominus Orb ignore range?
+
+Does Mahact's Genetic Recombination force a player to vote a certain way?
+
+Are Mirage, the destroyed-planet marker and Ion Storm tokens attachments?
+
+When an exploration card says to remove a ground force, where does it go?
+
+Who goes first when the Muaat hero and Naalu Foresight both trigger as a war sun moves in?
+
+If several Crimson Legionnaires die at once, does each trigger separately?
+
+Do 'during the action phase' agent abilities use my action, and does 'a player' include me?
+
+How does the Xxcha hero's ability to combine a planet's resources and influence work?
+
+Are the Arborec and Hacan heroes limited by Production?
+
+Do Creuss wormhole tokens count for unlocking the Creuss commander?
+
+Can Anti-Fighter Barrage hit ground forces fighting via the Nekro flagship?
+
+Can L1Z1X mechs bombard through Harrow?
+
+Does the Naalu Omega mech stop opponents rolling Anti-Fighter Barrage at all?
+
+Does the Yin hero commit 3 infantry per planet or 3 in total?
+
+With the Vuil'raith agent, who gets the trade goods converted from the target's commodities?
+
+Is flipping Naaz-Rokha mechs to ships mandatory, and do they count against the fleet pool?
+
+How does Insider Information interact with Covert Legislation?
+
+Can Self-Assembly Routines place a mech when Muaat produce in a supernova?
+
+Can the Scepter of Emelpar help pay spend-token objectives?
+
+Can the Trade primary or the Winnu hero choose zero other players for the free secondary?
+
+With Diplomatic Pressure or the Mentak commander, who picks the promissory note handed over?
+
+Can the Nekro Virus play Reveal Prototype?
+
+Does Sarween Tools reduce units produced with the Muaat agent?
+
+Which ground forces can Ghost Squad move?
+
+Can Reverse Engineer take an action card another player just played or had Sabotaged, or one I discarded?
+
+What happens if Rout forces a retreat but there's no legal system, or the combat ends first?
+
+In a seven- or eight-player setup, does the speaker look at the extra tiles before placing them by Mecatol Rex?
+
+If another player already holds my home planet when I gain the Shard of the Throne relic, do they take it?
+
+Can I decline to resolve an exploration card I drew?
+
+If I win the space combat and then invade the planet with an enemy dock in the same action, do I get my captured units back for blockading it?
+
+Do the Nomad use all three of their agents?
+
+Does the Nekro hero need prerequisites for the technology it gains?
+
+Can the L1Z1X mech bombard before landing, and help with Harrow?
+
+Does the Nekro commander draw an action card for the very technology that unlocks it?
+
+For Betray a Friend, must I still hold the other player's note when I win the combat?
+
+Do kills from X-89 or other effects count for Make an Example of Their World?
+
+Can the Sardakk commander be used when defending?
+
+Can Imperial Arms Vault place a mech when I have none in reinforcements?
+
+Which base game components does Prophecy of Kings replace?
+
+How do the Creuss place and move wormhole tokens with their promissory note and mech?
+
+How many extra dice does the Argent Flight commander give?
+
+How does exploration work?
+
+What does Political Censure stop, and how is it removed?
+
+Can Stellar Converter target a planet in the same system as my Bombardment unit?
+
+Does the Naaz-Rokha flagship give one extra die total or one per mech?
+
+Does Defy Space and Time need more than one unit in the Wormhole Nexus?
+
+Are my unplayed promissory notes in my hand, so effects that take notes from hands can get them?
+
+Can a planet with the Demilitarized Zone attachment be invaded?
+
+Can Genetic Recombination target a player who isn't voting, such as one who played a rider?
+
+How do Raid Formation and Waylay interact?
+
+Can ships use the Wormhole Nexus's alpha and beta wormholes on the move that flips it?
+
+Can the Titans deploy their flagship for free, and with a PDS placed by Awaken that turn?
+
+Is the Dyson Sphere attachment +2 resources and +1 influence or the reverse?
+
+If Winnu place a mech with Hope's End, can the Winnu mech ability then place a space dock?
+
+Does Dark Energy Tap let me retreat without a combat?
+
+Can the Yin mech let Indoctrination replace an opponent's mech?
+
+During the Xxcha hero, can a player holding the Xxcha alliance vote?
+
+When the Mahact mech ends a player's turn, where does that player's command token go?
+
+Can the Naalu agent give a player a tactical action in a system they already activated?
+
+If Brother Milor places infantry during Colonial Redistribution, is there a ground combat?
+
+Does the Empyrean home system have a planet?
+
+Does the Winnu commander unlock if another player attacks Winnu ships at Mecatol Rex?
+
+Can the Mahact agent, or other effects used instead of spending a strategy token, work with an empty strategy pool?
+
+With Riftmeld, must the captured unit belong to a player who has the upgrade?
+
+Can the L1Z1X agent upgrade an infantry that moves into the active system?
+
+How does Rearmament Agreement's Against outcome replace mechs?
+
+Does removing infantry for an exploration card trigger the Crimson Legionnaire?
+
+If the Titans retreat into a system with a sleeper, does it awaken?
+
+Can Saar take Scavenge's trade good and spend it on their mech's deploy for the same planet?
+
+How does the Arborec mech's deploy work with Mitosis?
+
+Can Transit Diodes move Titans Hel-Titans or ordinary PDS?
+
+Is using my agent for another player a transaction, and must we be neighbors?
+
+Are mechs ground forces?
+
+Can the Xxcha agent target a ready planet just to remove an infantry?
+
+Does the Keleres I.I.H.Q. Modernization make systems adjacent for movement?
+
+Does the Letnev commander give a trade good for each unit that uses Sustain Damage?
+
+Can the Jol-Nar commander reroll several kinds of unit ability rolls?
+
+Does the route my ships take matter for abilities that care where ships move?
+
+If an exhausted technology returns to my deck and is researched again, is it exhausted?
+
+When does a commander unlock?
+
+Do the faction reference sheets give rules?
+
+Under Checks and Balances, does a player who was given a card still pick one on their turn?
+
+Is a Hel-Titan a valid target for effects on non-structures, and can it produce?
+
+With the Hacan commander, can I vote using only trade goods?
+
+Do the Vuil'raith roll for ordinary gravity rifts?
+
+How do the Argent agent's placement and the Argent commander's unlock work?
+
+Does the tactical action from the Naalu agent cost a command token?
+
+Do ships moved by the L1Z1X hero out of a gravity rift still roll?
+
+How many fighters does the Creuss commander give?
+
+Can the Sardakk commander move ground forces onto planets I already control?
+
+Can Nomad mechs cancel hits with Quantum Manipulator when the Mentak flagship is present?
+
+In the Alliance variant, do 'when you gain control' abilities trigger when my ally takes a planet?
+
+Is the trade good from Minister of Exploration mandatory?
+
+Do the Crucible note's +1 and a gravity rift's +1 stack, and can I use several end-of-turn abilities?
+
+Does Infantry II trigger on infantry removed by the Jol-Nar agent?
+
+When can Psychoarchaeology be used?
+
+Can the Titans awaken a sleeper on a planet another player has taken?
+
+As Hacan holding the Empyrean's Dark Pact, can I trigger it?
+
+What happens when an exploration card adds a technology specialty to a planet that already has one?
+
+If an exploration card on a planet makes me remove my ground forces, do I keep the planet?
+
+If Xxcha take a neutral planet with Peace Accords, do they explore it?
+
+Does Letnev's War Funding let me choose whether my opponent rerolls?
+
+Does Yin Spinner Omega trigger off Integrated Economy?
+
+Do Naaz-Rokha mechs keep their extra dice under Articles of War?
+
+Does the Yin hero work on planets with none of my infantry?
+
+Does Mahact's Scepter of Dominion make the Mahact player place a token too?
+
+Does producing with Sling Relay trigger the Prophecy of Ixth drawback?
+
+Does the Mentak hero still give ships in a round where all Mentak ships die?
+
+Can other players play action cards during the Xxcha hero's action?
+
+Can the Nomad agent be used in combats the Nomad aren't in?
+
+If a planet card is traded in the agenda phase, can the receiver vote with it?
+
+When the Creuss hero swaps two system tiles, do the units move with them?
+
+Can the Vuil'raith produce a captured war sun without the War Sun technology?
+
+Does Naaz-Rokha's Supercharge give +1 to one unit or all?
+
+Does the Jol-Nar commander reroll Infantry II revival rolls?
+
+Are relics public?
+
+How does Galactic Crisis Pact work when Leadership is elected?
+
+Is the Muaat supernova faction tile placed during setup?
+
+Can the Mahact agent be used if the active player has no command token on the board?
+
+Does the Wormhole Nexus count as on the edge of the board?
+
+Which strategy cards can the Winnu and Naaz-Rokha heroes use, and do players pay for secondaries?
+
+Can the Titans play their own Terraform note, or reuse it after it's attached?
+
+Why are Cormund and Everra printed in red?
+
+What can Bio-Stims ready?
+
+If Saar take several planets in one action, can they deploy a mech on each?
+
+Does Rout make the attacker leave with no combat rolls?
+
+With hyperlanes, which systems are on the edge of the board?
+
+Does a system whose planet was destroyed by Stellar Converter count as having no planets for objectives?
+
+Does the no-adjacent-anomalies setup rule apply to anomaly home systems like the Empyrean nebula?
+
+When does the Council Keleres choose its starting technologies?
+
+Which systems get frontier tokens, and do hyperlanes get them?
+
+With Prophecy of Kings, must I make sure alpha and beta wormholes are among the dealt tiles?
+
+How does the Xxcha hero resolve agendas, and can Xxcha play riders on them?
+
+After the Xxcha hero resolves agendas in the action phase, do exhausted planets stay exhausted, and does Public Execution carry over?
+
+What does the Xxcha commander allow, and does it beat Political Secret or a rider?
+
+When is Deadly Plot played?
+
+Under Articles of War, do mechs lose Bombardment, Space Cannon and Production too?
+
+How does Checks and Balances' Against outcome work?
+
+Do Jol-Nar's Brilliant or the Jae Mir Kan trigger off a free secondary from Galactic Crisis Pact?
+
+Does Nexus Sovereignty stop Space Cannon through the Wormhole Nexus?
+
+When can a player make a prediction for the Nomad's Future Sight?
+
+Does Winnu's Acquiescence skip placing a token from Diplomacy, and can Mathis Mathinus use any strategy card?
+
+Can the Sardakk commander commit ground forces from adjacent systems without moving any ships in, even past enemy ships?
+
+Can mechs use Sustain Damage against Bombardment?
+
+Can a ship repaired by the Empyrean flagship use Sustain Damage again in the same round?
+
+Does a Nomad mech on the Memoria flagship give it an extra Sustain Damage?
+
+Can mechs carried in the space area use Space Cannon?
+
+Can Sol's commander place infantry if no ground combat happens?
+
+Does the Vuil'raith hero make a ship roll once per adjacent dimensional tear?
+
+How does the Mentak hero work, and can it be escaped?
+
+Do abilities that trigger on ships moving into a system, or through a wormhole, count systems merely passed through?
+
+Can ships stay in a supernova after entering it with an ability like Nav Suite?
+
+Does the Saar agent stack with Gravity Drive?
+
+How does the Mahact hero's Benediction work?
+
+How does the Nomad flagship Memoria's adjacency to mechs work?
+
+How does Aerie Hololattice's Production 1 work?
+
+If one of my units is captured, can I still produce more of that type?
+
+Can I unlock the Naalu commander partway through a production and use it for the rest?
+
+Can the Argent Flight agent place ground forces on planets the player doesn't control?
+
+With Prophecy of Kings capture rules, when exactly is a space dock blockaded?
+
+Can I own both no-prerequisite technologies of one color from Prophecy of Kings, and do they count together?
+
+Can Jol-Nar use their own agent when they research?
+
+Can the Yin commander let me research Destroyer II when only Argent owns Strike Wing Alpha II?
+
+Twilight Imperium: Fourth Edition – Thunder's EdgeExpansion
+
+Do I need to swap Ta Zern for Agnlan Oln when combining Thunder's Edge with Prophecy of Kings?
+
+What counts as a unit ability for Agnlan Oln's reroll?
+
+Can Plane Splitter move an ingress token into a system in the Fracture?
+
+With Thunder's Edge, can the Council Keleres take any faction's hero at setup?
+
+Does Graviton Laser System apply to every Space Cannon die, including Ral Nel Linkships using a PDS's Space Cannon?
+
+Can ships move from an egress back to an ingress to leave The Fracture?
+
+How many systems can the Argent Flight breakthrough affect?
+
+Can a planet with two technology specialties satisfy both prerequisites at once?
+
+Is The Fracture 3 systems or 7, and is it adjacent to the galaxy it touches?
+
+Do empty Fracture systems get frontier tokens, and can wormholes go there?
+
+Do I need Prophecy of Kings to play Thunder's Edge?
+
+What are the +2 and +1 commodity tokens in Thunder's Edge for?
+
+How does the Thunder's Edge Warfare strategy card work?
+
+How does the Thunder's Edge Construction card differ?
+
+Should I use the Thunder's Edge Warfare and Construction cards in base-only games?
+
+Can players look through the Mercenaries for Hire deck?
+
+Can Scanlink explore a planet I only coexist on, letting the Titans place a sleeper there?
+
+With the Nekro breakthrough, can the flagship copy several other flagships, and what does it copy?
+
+How does the Thunder's Edge expedition finish, and who gets the planet?
+
+Can I use Thunder's Edge's ability as soon as I gain it, and does it give a breakthrough?
+
+How does coexistence work?
+
+Can a coexisting player end coexistence and attack?
+
+If Wave Function Collapse purges a technology another player gained through Share Knowledge, does that player research a replacement?
+
+How do Firmament plot cards work?
+
+What tokens do the Council Keleres use, and how do they get Custodia Vigilia now?
+
+How far can the ship moved by Rescue come from, and can it carry units?
+
+When do I gain and lose control of a space station?
+
+Does the Crimson Rebellion's starting breakthrough trigger the Fracture roll?
+
+How many agendas does the Thunder's Edge Inside Information look at?
+
+Can the Crimson Rebellion hero join a combat between two other players?
+
+Does Overrule exhaust the strategy card or let others follow?
+
+In Minor Factions mode, how are the Creuss or Crimson Rebellion home systems placed?
+
+After a Crimson Rebellion swap, are the ships locked, and can moved units invade?
+
+How do Crimson Rebellion breaches work?
+
+Does the Crimson Rebellion's inability to use wormholes remove wormhole adjacency?
+
+Who places ingress tokens when Rapid Mobilization brings the Fracture in?
+
+Can ships pass through the Fracture in one move, and do touching ingress systems stop being adjacent?
+
+After forming the Naaz-Rokha Eidolon Maximum, can I rebuild my mechs?
+
+Does an agenda voted through Keleres's Executive Order count as the agenda phase?
+
+Can a researching player use both the Deepwrought commander and alliance for -2?
+
+Do neutral fighters need capacity, and do neutral units count for Total War?
+
+Can a unit with several instances of Sustain Damage cancel several hits?
+
+If Limit Genome returns the token that activated a system, does the tactical action end?
+
+How do the Last Bastion's spaceport card, Helios upgrade and Galvanize tokens work?
+
+If I lose a Fracture relic planet, does the new controller get my relic?
+
+With Subatomic Splicer, is each destroyed ship paid for separately, and can it rebuild a flagship?
+
+Does the Arborec commander work with a Letani in an Entropic Scar?
+
+Does the Mahact flagship's 'end of the Edict Phase' mean the Benedictions Phase in Twilight's Fall?
+
+Are breakthroughs technologies, and do their passive abilities work while exhausted?
+
+In the Alliance variant, do 'another player' abilities trigger on my ally?
+
+Are there quick answers for Watchtower, Reflect, Garbozia's legendary ability, Brilliance, Ignis and Ral Nel Linkships?
+
+In Twilight's Fall premade-map setup, who picks a home system first?
+
+Are hyperlanes required in a four-player game with Thunder's Edge?

@@ -1,0 +1,710 @@
+[[File:Thunder's Edge.png|alt=Thunder's Edge cover art|thumb|423x423px|Thunder's Edge box art]]
+'''Thunder's Edge''' is the second official expansion for Twilight Imperium Fourth Edition.
+
+It was announced on July 31, 2025 and released on October 24, 2025.
+
+== Introduction ==
+The galaxy stands on the edge of a blade. Disasters approach from all directions, and the Council lacks the united will to respond to any of the threats. In the midst of this turmoil, new leaders arise, bringing visions of a brighter future. As all heads turn to the mysterious world of Thunder’s Edge, these would-be saviors—or conquerors will all be tested. The question remains: will the future lead to calamity, or prosperity?
+
+A great struggle is coming, and only the greatest among them all will triumph.
+
+== Contents ==
+
+* Components for each new faction
+* 30 Breakthroughs
+* 10 Relic cards
+* 43 Planet cards
+* 10 Legendary Planet Ability Cards
+* 3 Fracture Tiles
+* 33 System and Hyperlane Tiles
+* 20 Galactic Events
+* 31 Alliance Cards
+* 74 Cards from the Twilight Codices
+* 2 Revised Strategy Cards
+* 1 Reference Card
+* 1 Reference Card, 258 Cards, 8 Faction Sheets, and 8 Strategy Cards for the Twilight's Fall Game Mode
+* 479 Tokens
+* 1 Set of Neutral Units
+
+== [[Expedition|Thunder's Edge Planet and Expedition]] ==
+[[File:Thunder's Edge Planet.png|alt=Thunder's Edge Planet|thumb|395x395px]]
+Beginning the game off the board, the legend of Thunder’s Edge starts with an expedition. At the end of your turn, you can choose to “commit to the expedition” and lay claim to an unclaimed piece of the planet. Each “slice” of Thunder’s Edge tile has a different cost associated with it, and each slice can only be claimed once. The slices are as follows:
+
+* Spend 5 Resources
+* Discard 2 Action Cards
+* Spend 5 Influence
+* Discard 1 unscored Secret Objective
+* Exhaust 1 Technology Specialty Planet
+* Spend 3 Trade Goods
+
+The first time you claim one of the expedition slices, you gain your faction’s “[[Breakthroughs|Breakthrough]],” which is a new faction-specific component. After all six slices of Thunder’s Edge are claimed, the expedition is complete, and the player who claimed the final slice flips the tile to its planet side and places it in a system of their choice (so long as that system doesn’t contain a planet, supernova, or printed wormhole). Then, the player who claimed the most slices takes control of it, placing infantry on the planet equal to the number of slices they’d claimed.
+
+== [[Breakthroughs]] ==
+[[File:Breakthrough Example.png|alt=Arborec Breakthrough|thumb|308x308px]]
+In Thunder’s Edge, every faction in the game (including the base game and the [[Prophecy of Kings]] expansion) gains a special new card that may be unlocked during gameplay, their [[Breakthroughs|Breakthrough]].
+
+The abilities on these Breakthroughs are quite powerful, and in addition to their abilities, each Breakthrough grants a "synergy" between two technology colors. This is a fairly simple yet potent effect: whenever you are researching [[technology]] or scoring technology-related objectives, you can treat the technology colors on your Breakthrough as ''either'' of the two for the purpose of fulfilling requirements (but not both). This means that the Arborec Breakthrough in the example shown allows them to treat their red technology/technology specialties as green ones or vice versa. You can choose which color to use between the two at any given time, but you can’t use both at once, so be sure to plan accordingly!
+
+== [[Factions]] ==
+
+=== New Factions ===
+This expansion introduces 5 new [[factions]] to the game, bringing the total up to 30:
+
+* [[Last Bastion]]
+* [[The Ral Nel Consortium]]
+* [[The Deepwrought Scholarate]]
+* [[The Crimson Rebellion]]
+* [[The Firmament / The Obsidian]]
+=== [[Factions|Updates to Pre-existing Factions]] ===
+
+===== General =====
+All existing factions received a [[Breakthroughs|breakthrough]].
+
+==== [[The Council Keleres]] ====
+
+* Keleres has received updates to two of its faction abilities.
+* 2 Heroes have been changed slighty.
+* The ability of its flagship has been reworded.
+* Keleres’ faction technologies have both been updated. I.I.H.Q. modernization has been moved to the Keleres’ breakthrough. It has been replaced with a new technology called Executive Order which allows voting on an agenda during the Keleres’ turn. The Agency Supply Network tech has been reworded.
+* The Keleres Custodai Vigilia planet card and Custodia Vigilia planet ability card have been updated.
+
+==== [[The Naalu Collective]] ====
+
+* Naalu's mech has been updated to have a deploy ability.
+* The Naalu agent's ability has been replaced with a new ability which allows it to exhaust to remove a command token after a player places it.
+
+==== [[The Universities of Jol-Nar]] ====
+
+* The Jol-Nar Commander's name has been updated from Ta Zern to Agnlan Oln. The ability remains the same.
+
+==== [[The Xxcha Kingdom]] ====
+
+* Xxcha’s Hero has been updated again. Its ability is now called Planetary Defence Nexus and can place PDS and Mechs on their planets and ready those planets.
+
+==== [[The Yin Brotherhood]] ====
+
+* The Yin's agent, commander, and hero have all received updates to their wording.
+
+=== Reference Cards ===
+In addition, each faction is also given a new '''Faction Reference Card''', which gives an overview on the faction's abilities and starting capabilities. Each faction card also has a number in the top-right of the card (below the faction symbol), used for the Twilight's Fall Variant mode as a part of their set-up to determine seating order.
+
+== [[Planets and Systems]] ==
+
+=== [[Planet Systems|New Planet Systems]] ===
+{| class="mw-collapsible mw-collapsed article-table" style="text-align: center; "
+!'''Tile #'''
+!'''Planet'''
+!'''Traits'''
+!'''Resources'''
+!'''Influence'''
+!'''Technology Specialty'''
+!'''Flavor Text'''
+|-
+|104
+|'''Lesab'''
+|[[File:Industrial.png|35x35px]] [[File:Hazardous.png|35x35px]]
+| style="text-align:center;" |2
+| style="text-align:center;" |1
+| -
+|
+|-
+|101
+|'''Olergodt'''
+|[[File:Cultural.png|35x35px]] [[File:Hazardous.png|35x35px]]
+| style="text-align:center;" |2
+| style="text-align:center;" |1
+|{{Tech|cybernetic}} {{Tech|warfare}}
+|
+|-
+|103
+|'''Vira-Pics III'''
+|[[File:Cultural.png|35x35px]] [[File:Hazardous.png|35x35px]]
+| style="text-align:center;" |2
+| style="text-align:center;" |3
+| -
+|
+|-
+| rowspan="2" |102
+|'''Andeara'''
+|[[File:Industrial.png|35x35px]]
+| style="text-align:center;" |1
+| style="text-align:center;" |1
+|{{Tech|propulsion}}
+|
+|-
+|'''Alpha Wormhole'''
+| colspan="5" | -
+|-
+| rowspan="2" |116
+|'''Lemox'''
+|[[File:Industrial.png|35x35px]]
+| style="text-align:center;" |0
+| style="text-align:center;" |3
+|
+|
+|-
+|'''Entropic Scar'''
+| colspan="5" | -
+|-
+| rowspan="3" |117
+|'''The Watchtower'''
+|(Space Station)
+| style="text-align:center;" |1
+| style="text-align:center;" |1
+|[[File:Bentor_Commodity.png|31x31px]]
+|
+|-
+|'''Asteroid Field'''
+| colspan="5" | -
+|-
+|'''Gravity Rift'''
+| colspan="5" | -
+|-
+|99
+|'''Emelpar'''
+|[[File:Cultural.png|35x35px]] [[File:Legendary_Symbol.png|30x30px]]
+| style="text-align:center;" |0
+| style="text-align:center;" |2
+| -
+|
+|-
+|
+|'''Faunus'''
+|[[File:Industrial.png|35x35px]] [[File:Legendary_Symbol.png|30x30px]]
+| style="text-align:center;" |1
+| style="text-align:center;" |3
+|{{Tech|Biotic}}{{Tech|biotic}}
+|
+|-
+|98
+|'''Garbozia'''
+|[[File:Hazardous.png|35x35px]] [[File:Legendary_Symbol.png|30x30px]]
+| style="text-align:center;" |2
+| style="text-align:center;" |1
+| -
+|
+|-
+|100
+|'''Tempesta'''
+|[[File:Hazardous.png|35x35px]] [[File:Legendary_Symbol.png|30x30px]]
+| style="text-align:center;" |1
+| style="text-align:center;" |1
+|{{Tech|propulsion}}
+|
+|-
+| rowspan="2" |115
+|'''Industrex'''
+|[[File:Industrial.png|35x35px]] [[File:Legendary_Symbol.png|30x30px]]
+| style="text-align:center;" |2
+| style="text-align:center;" |0
+|{{Tech|warfare}}
+|
+|-
+|'''Asteroid Field'''
+| colspan="5" | -
+|-
+| rowspan="2" |108
+|'''Capha'''
+|[[File:Hazardous.png|35x35px]]
+| style="text-align:center;" |3
+| style="text-align:center;" |0
+| -
+|
+|-
+|'''Kostboth'''
+|[[File:Cultural.png|35x35px]]
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| -
+|
+|-
+| rowspan="2" |106
+|'''Cresius'''
+|[[File:Hazardous.png|35x35px]]
+| style="text-align:center;" |0
+| style="text-align:center;" |1
+| -
+|
+|-
+|'''Lazul Rex'''
+|[[File:Cultural.png|35x35px]] [[File:Industrial.png|35x35px]]
+| style="text-align:center;" |2
+| style="text-align:center;" |2
+| -
+|
+|-
+| rowspan="2" |107
+|'''Hercalor'''
+|[[File:Industrial.png|35x35px]]
+| style="text-align:center;" |1
+| style="text-align:center;" |0
+| -
+|
+|-
+|'''Tiamat'''
+|[[File:Cultural.png|35x35px]]
+| style="text-align:center;" |1
+| style="text-align:center;" |2
+|{{Tech|cybernetic}}
+|
+|-
+| rowspan="2" |105
+|'''New''' '''Terra'''
+|[[File:Industrial.png|35x35px]]
+|1
+|1
+|{{Tech|biotic}}
+|
+|-
+|'''Tinnes'''
+|[[File:Industrial.png|35x35px]][[File:Hazardous.png|35x35px]]
+|2
+|1
+|{{Tech|biotic}}
+|
+|-
+| rowspan="2" |109
+|'''Bellatrix'''
+|[[File:Cultural.png|35x35px]]
+| style="text-align:center;" |1
+| style="text-align:center;" |2
+| -
+|
+|-
+|'''Tsion Station'''
+|(Space Station)
+| style="text-align:center;" |1
+| style="text-align:center;" |1
+|[[File:Bentor_Commodity.png|31x31px]]
+|
+|-
+| rowspan="2" |111
+|'''Tarana'''
+|[[File:Cultural.png|35x35px]] [[File:Industrial.png|35x35px]]
+| style="text-align:center;" |1
+| style="text-align:center;" |2
+| -
+|
+|-
+|'''Oluz Station'''
+|(Space Station)
+| style="text-align:center;" |1
+| style="text-align:center;" |1
+|[[File:Bentor_Commodity.png|31x31px]]
+|
+|-
+| colspan="7" |'''Fracture Systems'''
+|-
+|
+|'''Cocytus'''
+| -
+| style="text-align:center;" |3
+| style="text-align:center;" |0
+|Gain 1 Relic
+|
+|-
+|
+|'''Styx'''
+|[[File:Legendary_Symbol.png|30x30px]]
+| style="text-align:center;" |4
+| style="text-align:center;" |0
+|Gain 1 Relic
+|
+|-
+| rowspan="2" |
+|'''Lethe'''
+| -
+| style="text-align:center;" |0
+| style="text-align:center;" |2
+|Gain 1 Relic
+|
+|-
+|'''Phlegethon'''
+| -
+| style="text-align:center;" |1
+| style="text-align:center;" |2
+|Gain 1 Relic
+|
+|}
+
+=== [[Legendary Planets]] ===
+Thunder's Edge introduced a new version of Mecatol Rex that has a legendary planet trait and an associated legendary planet card. It also includes two legendary planets that are associated with a faction: Avernus, associated with the [[The Embers of Muaat|Muaat]] breakthrough and Ordinian, a planet in the home system of the [[Last Bastion]] faction. Finally, the expansion added 7 other legendary planets, 5 which have their own regular tiles, and 2 that are associated with special elements of the game (Thunder's Edge and Styx).
+{| class="mw-collapsible mw-collapsed article-table" style="text-align: center; "
+!'''Planet'''
+!'''Trait'''
+!'''Resources'''
+!'''Influence'''
+!'''Technology Specialty'''
+!'''Ability'''
+!'''Flavor Text'''
+|-
+|Mecatol Rex '''Ω'''
+| -
+|1
+|6
+| -
+|'''The Galactic Council'''
+''You may exhaust this card and discard 1 secret objective at the end of your turn to draw 1 secret objective.''
+|
+|-
+|Thunder's Edge
+| -
+|5
+|1
+| -
+|'''Jupiter Brain'''
+''Gain your breakthrough when you gain this card if you do not already have it.''
+
+''You may exhaust this card at the end of your turn to perform 1 action.''
+|
+|-
+|Styx
+| -
+|4
+|0
+| -
+|'''A Song Like Marrow'''
+''When you gain this card, gain 1 victory point.''
+
+''When you lose this card, lose 1 victory point.''
+|
+|-
+|Ordinian
+| -
+| style="text-align:center;" |0
+| style="text-align:center;" |0
+| -
+|'''4X4ID "Hyperion" VI'''
+''You may exhaust this card when you pass to draw 1 action card and gain 1 command token.''
+|
+|-
+|Avernus
+|[[File:Hazardous.png|35x35px]]
+|2
+|0
+| -
+|'''The Nucleus'''
+''ACTION: Exhaust this card to use the Embers of Muaat's STAR FORGE faction ability without spending a command token.''
+|
+|-
+|Emelpar
+|[[File:Cultural.png|35x35px]]
+|0
+|2
+| -
+|'''The Acropolis'''
+''You may exhaust this card at the end of your turn to ready another component that isn't a strategy card.''
+|
+|-
+|Faunus
+|[[File:Industrial.png|35x35px]]
+|1
+|3
+|{{Tech|biotic}}
+|'''Maxis Central Control'''
+''You may exhaust this card when you pass to gain control of a non-home, non-legendary planet that contains no units and has no attechments.''
+|
+|-
+|Garbozia
+|[[File:Hazardous.png|35x35px]]
+|2
+|1
+| -
+|'''Dok 'N Pic's Salvage Yard'''
+''You may exhaust this card when you pass to place 1 action card from the discard pile faceup on this card; you can purge cards on this card to play them as if they were in your hand.''
+|
+|-
+|Industrex
+|[[File:Industrial.png|35x35px]]
+|2
+|0
+|{{Tech|warfare}}
+|'''Aeurex Mechanica'''
+''You may exhaust this card when you pass to place 1 ship that matches a unit upgrade technology you own form your reinforcements into a system that contains your ships.''
+|
+|-
+|Tempesta
+|[[File:Hazardous.png|35x35px]]
+|1
+|1
+|{{Tech|propulsion}}
+|'''Ionian Fuel Refinery'''
+''You may exhaust this card after you activate a system to apply +1 to the move value of 1 of your ships during this tactical action.''
+|
+|}
+
+=== [[Planets and Systems#Space Stations|Space Stations]] ===
+Thunder's edge introduces a new feature of some tiles called Space Stations. These are trading posts that are controlled by players when they have the only ships in the Space Station's system. A player will not lose control of a Space Station if their ships move out of that system however.
+
+Although Space Stations don't have high resource or influence values, they provide a number of benefits to their owners:
+
+* A player's commodity value is increased by 1 for each Space Station they control; corresponding commerce tokens are placed in their commodity pool as a reminder.
+* A player that controls a Space Station can resolve transactions with other players that control a Space Station, even if they are not neighbors (this does not make the players neighbors).
+* A player can exhaust a Space Station at any time to convert their commodities to trade goods.
+
+Each space station has a corresponding planet card, which is gained exhausted and can be spent or readied as if it were a planet.
+
+However, structures and ground forces cannot be placed on or committed to space stations, and they do not count as planets for the purpose of scoring objectives, or controlling a home system (''This last point is important for [[Last Bastion]], as you must control Ordinian, not Revelation)''. Additionally, they cannot be elected during an elect planet agenda.
+
+=== [[Anomalies#Entropic Scar|Entropic Scar Anomaly]] ===
+Thunder's Edge introduces a new type of anomaly called the Entropic Scar. It has the following rules:
+
+* All [[Units#Unit Abilities|unit abilities]] cannot be used by or against units inside of an Entropic Scar. Text abilities are unaffected.
+* Wormholes that would be placed inside of an Entropic Scar are discarded instead.
+* At the start of the status phase, a player that has ships in an Entropic Scar can spend a token from their strategy pool to gain one of their faction-specific technologies.
+
+== [[Strategy Cards]] ==
+Thunder's Edge introduces an update to the Construction and Warfare strategy cards.
+{| class="fandom-table"
+!Card
+!Primary Ability
+!Secondary Ability
+|-
+|[[Warfare (Strategy card)|Warfare Ω]]
+|Perform a tactical action in any system without placing a command token, even if the system already has your command token in it; that system still counts as being activated. You may redistribute your command tokens before and after this action.
+|Spend 1 token from your Strategy Pool to use the PRODUCTION abilities of units in your home system.
+|-
+|[[Construction (Strategy card)|Construction ΩΩ]]
+|
+* Either place 1 structure on a planet you control, or use the PRODUCTION ability of 1 of your space docks.
+* Place 1 structure on a planet you control.
+|Spend 1 token from your strategy pool to place 1 structure on a planet you control.
+|}
+
+== [[Exploration|Relics]] ==
+[[File:RelicDeck2.png|thumb|200x200px]]
+These 7 Relics were introduced in the Thunder's Edge expansion. The three relics introduced in [[Codex I - IV (Fourth Edition Expansion)#Volume IV (Liberation)|Codex IV]] were also included in the expansion.
+{| class="mw-collapsible mw-collapsed article-table"
+!'''Name'''
+!'''Effect'''
+!'''Flavor Text'''
+|-
+|Metali Void Armaments
+|During the "Anti Fighter Barrage" step of space combat, you may resolve ANTI-FIGHTER BARRAGE 6 (X3) against your opponent's units.
+|
+|-
+|The Quantumcore
+|When you gain this card, gain your breakthrough.
+You have SYNERGY for all technology types.
+|
+|-
+|The Silver Flame
+|The Silver Flame be exchanged as part of a transaction.
+ACTION: Roll 1 die and purge this card; if the result is a 10 gain 1 victory point. Otherwise, purge your home system and all units in it; you cannot score public objectives. Put the Fracture into play if it is not already.
+|
+|-
+|Lightrail Ordnance
+|Your space docks gain SPACE CANNON 5 (X2). You may use your space dock's SPACE CANNON against ships that are adjacent to their system.
+|
+|-
+|Metali Void Shielding
+|Each time hits are produced against 1 of your non-fighter ships, 1 of those ships may use SUSTAIN DAMAGE as if it had that ability.
+|
+|-
+|The Triad
+|This card can be readied and spent as if it were a planet card. Its resource and influence values are equal to 3 plus the number of different types of relic fragments you own.
+|
+|-
+|Heart of Ixth
+|After any die is rolled, you may exhaust this card to add or subtract 1 from its results.
+|
+|}
+
+== [[Action Cards]] ==
+
+=== New Action Cards ===
+The Expansion introduced 20 additional Action Cards, bringing the total up to 140.
+{| class="mw-collapsible mw-collapsed article-table"
+!'''Name'''
+!'''Number in Deck'''
+!'''Play'''
+!'''Effect'''
+!'''Flavor Text'''
+|-
+|'''Black Market Dealings'''
+|1
+|When you are negotiating a transaction:
+|You and the other player can include relics, action cards, and unscored secret objectives as part of the transaction. This card cannot be cancelled.
+|''A chill went up Riod's spine as the Empyrean extended a clawed hand, a small black box floating in their palm,, sucking up all the light and life in the room.''
+|-
+|'''Brillance'''
+|1
+|As an [[Action Phase|Action]]:
+|Ready 1 of your planets that has a technology speciality or choose 1 player to gain their breakthrough.
+|''Crocoan gently stroked the bloodied feathers of the screeching cir-le-sh. Such a beautiful song. At last, he'd cracked the code. Soon, Garanthis would be filled with a chorus of such soulful music.''
+|-
+|'''Crash Landing'''
+|1
+|When your last ship in the active system is destroyed:
+|Place 1 of your [[Ground Forces|ground forces]] from the space area of the active system onto a planet in that system other than Mecatol Rex; if the planet contains other players' units, place your ground force into coexistence.
+|''The Long Fall spiraled toward the surface of the rocky planet. Living up to its name, Connor thought dryly.''
+|-
+|'''Crisis'''
+|1
+|At the end of any player's turn, if there are at least 2 players who have not [[Action Phase#Pass|passed]]:
+|Skip the next player's turn.
+|''4X41A "Apollo" shrieked in the skies of Ordinian. Blazing shards of metal and fire rained down upon the planet's surface - the remains of Nekro whose atoms were undergoing a rapid and violent disintegration.''
+|-
+|'''Exchange Program'''
+|1
+|As an [[Action Phase|Action]]:
+|Choose another player. You and the player may agree to place 1 infantry from each of your reinforcements into coexistence on a planet the other player controls that contains their ground forces; if no agreement is reached, you each discard 1 token from your fleet pool.
+|Madness. ''Magmus thought to himself. A city. Under water.'' Absurd
+|-
+|'''Extreme Duress'''
+|1
+|At the start of another player's turn, if they have a readied [[Strategy Cards|strategy card]]:
+|If that player's next action is not a strategic action, they discard all of their action cards, gives you all of their trade goods, and shows you all of their secret objectives.
+|''Kan Kip Rel tugged nervously at his collar, fingering the explosive device he knew was there.''
+|-
+|'''Lie in Wait'''
+|1
+|After 2 of your neighbours resolve a [[Transactions & Deals|transaction]]:
+|Look at each of those player's hands of action cards, then choose and take 1 action card from each.
+|''Suffi sauntered towards the huddle of paralyzed Hylar, whistling and twirling her pistols as she walked.''
+''"I'll be taking these," she said, flashing a grin, and snatched the humming data drives from each of them in turn.''
+|-
+|'''Mercenary Contract'''
+|1
+|As an [[Action Phase|Action]]:
+|Spend 2 trade goods to place 2 neutral infantry on any non-home planet that contains no units; if that planet was owned by another player, they return its planet card to the planet card deck.
+|''"Just sign right 'here---yep, right below the smeared blood. You got it, champ, get at 'em."''
+|-
+|'''Pirate Contract'''
+|4
+|As an [[Action Phase|Action]]:
+|Place 1 neutral [[destroyer]] in a non-home system that contains no non-neutral ships.
+|
+# ''Suffi accepted the contract, swearing her solemn vow that she would see the viceroy's daugfhter kidnapped and held for ransom by the day's end.''
+# ''Suffi accepted the contract, swearing her solemn vow as one of Mogar's Raiders that she would be loyal to the crew above all else.''
+# ''Suffi accepted the contract, swearing her solemn vow as a member of the Shadowscald that the job would be completed, one way or another.''
+# ''Satisfied, Suffi cashed in her contracts, wondering how long it would take any of them to notice she was gone. After all, it was much too late, with any luck.''
+#
+#
+|-
+|'''Pirate Fleet'''
+|1
+|As an [[Action Phase|Action]]:
+|Spend 3 [[Spending Resources and Influence|resources]] to place 1 neutral carrier, 1 neutral cruiser, 1 neutral destroyer, and 2 neutral fighters in a non-home system that contains no ships.
+|''Felix rubbed his temples as the pirtaes - well, the other pirates - blipped one by one on the ship's scanner. It was going to be a very long day.''
+|-
+|'''Puppets on a String'''
+|1
+|At the end of any player's turn, if you have [[Action Phase#Pass|passed]]:
+|Perform 1 action.
+|''A red light flashed as the pile that was once thought to be destroyed remains of unit..dsgn.ASTAROTH came once more to life. "YOU THOUGHT. YOU BELIEVED YOUR VICTORY SECURE. BUT YOU WERE WRONG."''
+|-
+|'''Rescue'''
+|1
+|After another player moves ships into a system that contains your ships:
+|You may move 1 of your ships into the active system from any system that does not contain one of your command tokens.
+|''"Hold on..." Tuck pleaded. "We are coming. Hold on, please..."''
+|-
+|'''Strategize'''
+|4
+|As an [[Action Phase|Action]]:
+|Perform the secondary ability of any readied or unchosen strategy card
+|
+# ''Sweat dripped down Mathis' brow. To show weakness now would mean defeat. Death would be preferable to that. But then, as if the divine providence of the Lazax were within her, she saw something she had overlooked. An opening! Her hand darted forward as she made her play. She smirked.''
+# ''Strategy. What meaning could be derived from the word, what flesh could be sucked clean off its bones? There was a spark, almost like remembering, but it faded. Violently.''
+# ''No, there would be no strategy here, only hunder. Life, blood, love, life, fear, fear, fear. Let the ants mill about with their strategies. No strategy would avail them today.''
+# ''Kyver stared at Mathis in the eye, unblinking. For a time, niether made a move. The greens and browns of Kyver's eyes were impassive. They betrayed nothing of his intent. Nothing of his past or his future. They were but windows to the wild, unforgiving jungles of Retillion.''
+#
+#
+#
+|-
+|'''Overrule'''
+|1
+|As an [[Action Phase|Action]]:
+|Perform the primary ability of any readied or unchosen strategy card
+|''Treilla absentmindedly smiled at the audacity of the newly promoted commander. Making waves like this–he'd likely be dead or demoted within a day or two. Still, she found the posturing...amusing.''
+|}
+
+=== Updated Action Cards ===
+{| class="mw-collapsible mw-collapsed article-table"
+!'''Name'''
+!'''Previous Wording'''
+!'''Omega Wording'''
+|-
+|Master PlanΩ
+|After you perform an action:
+You may perform an additional action this turn.
+|After you perform an action:
+Perform an additional action.
+|-
+|Fighter ConscriptionΩ
+|ACTION:
+Place 1 fighter from your reinforcements in each system that contains 1 or more of your space docks or units that have capacity; they cannot be placed in systems that contain other players' ships.
+|ACTION:
+Place 1 fighter from your reinforcements in each system that contains 1 or more of your space docks or ships that have '''a capacity value'''; they cannot be placed in systems that contain other players' ships.
+|-
+|BlitzΩ
+|At the start of an invasion:
+Each of your non-fighter ships in the active system that do not have BOMBARDMENT gain BOMBARDMENT 6 until the end of the invasion.
+|At the start of an invasion:
+Each of your non-fighter ships in the active system that '''does''' not have BOMBARDMENT gains BOMBARDMENT 6 until the end of the invasion.
+|-
+|Hack ElectionΩ
+|After an agenda is revealed:
+During this agenda, voting begins with the player to the right of the speaker and continues counterclockwise.
+|After an agenda is revealed:
+During this agenda, you vote last.
+|-
+|Solar FlareΩ
+|After you activate a system:
+During this movement, other players cannot use SPACE CANNON against your ships.
+|After you activate a system:
+During the "Movement" step of this tactical action, other players cannot use SPACE CANNON against your ships.
+|-
+|CounterstrokeΩ
+|After a player activates a system that contains 1 of your command tokens:
+Return that command token to your tactic pool.
+|After '''another''' player activates a system that contains 1 of your command tokens:
+Return that command token to your tactic pool.
+|-
+|Ghost SquadΩ
+|After a player commits units to land on a planet you control:
+Move any number of ground forces from any planet you control in the active system to any other planet you control in the active system.
+|After '''another''' player commits units to land on a planet you control:
+Move any number of ground forces from any planet you control in the active system to any other planet you control in the active system.
+|-
+|War MachineΩ
+|When 1 or more of your units use PRODUCTION:
+Apply +4 to the total PRODUCTION value of your units and reduce the combined cost of the produced units by 1.
+|When 1 or more of your units use PRODUCTION:
+Apply +4 to the total PRODUCTION value of '''those''' units and reduce the combined cost of the produced units by 1.
+|}
+
+== [[The Fracture]] ==
+[[File:The Fracture.png|right|frameless|346x346px]]
+
+An enigmatic area of space disconnected from the rest of the galaxy, The Fracture is chock full of rewards and resources for you and your opponents to explore.
+
+Whenever a player gains their [[Breakthroughs|Breakthrough]], they roll a die. If the result is a 1 or a 10, The Fracture enters play. The Fracture has its own set of system tiles, and they can only be accessed through “ingress tokens,” which are placed at certain spots throughout the galaxy when The Fracture enters play. Each planet within The Fracture gives you a [[Exploration#Relic Fragments and Relics|relic]] when you gain control of it, and the new [[Planets and Systems|legendary planet]] Styx also gives you a victory point for as long as you control it. However, you won’t be able to just waltz in and take these planets for yourself—after all, this alternate space is already occupied by neutral forces!
+
+== Neutral Units ==
+Thunder’s Edge introduces a set of “neutral units” to the galactic stage, represented by their own set of gray unit pieces. These units are non-player forces that engage you in combat if you enter their turf, and The Fracture enters play with a handful of neutral units guarding each planet. Other effects can occasionally bring neutral units into play as well, making the galaxy feel more alive than ever.
+
+<gallery widths="150">
+File:NeutralUnitsReferenceSheet.jpg|Neutral Units Reference Sheet
+File:StyxTEBackRef.png|Neutral units for Styx
+</gallery>
+
+== [[Galactic Events]] ==
+Besides all the new features of Thunder’s Edge that can come up ''during'' a game of Twilight Imperium, there is also a new mechanic that can affect the game from the very beginning: [[Galactic Events]]!
+[[File:Galactic Events.png|thumb|432x432px]]
+These optional special event cards can be chosen during setup, and each of them provides new modifiers and rules that can significantly impact the way the game is played. For example, the Stellar Atomics event grants each player a one-time delete button that can wipe a planet clean of enemy forces, but also bars them from voting in the agenda phase if they do so. The Age of Commerce event boosts the galactic economy to soaring heights, while the Age of Fighters event changes what space combat looks like for the entire game. The Civilized Society event makes scoring public objectives a much more “civil” affair, while the Dangerous Wilds event fills hazardous planets with deadly fauna that must be dealt with if you want to establish a foothold.
+
+There are 20 of these Galactic Event cards in total, and you can mix and match them to create your own unique Twilight Imperium experience. With so many options at your disposal, no two games will ever be the same!
+
+== [[Twilight's Fall]] ==
+[[File:Twilight's Fall.png|alt=Twilight's Fall|thumb|241x241px]]
+Also included in this expansion is a brand-new way to play Twilight Imperium, [[Twilight's Fall]]!
+
+Set in a dark alternate future, the Twilight’s Fall mode has each player take up the mantle of a mad Mahact king, building their own custom faction from the scraps of interstellar civilization. With its own spread of unique faction sheets, strategy cards, and components, Twilight’s Fall is practically an entire new game in and of itself.
+
+== [[Codex I - IV (Fourth Edition Expansion)|A Collected Codex]] ==
+Alongside the mountain of new content unique to the expansion itself, Thunder’s Edge also includes a compilation of the standard game components from each [[Codex|Twilight Codex]], which were all previously only available through print-and-play. This includes the Codex [[Action Cards|action cards]], [[Exploration#Relic Fragments and Relics|relics]], [[Exploration|exploration cards]], the entire [[The Council Keleres|Council Keleres]] faction, and more.
+
+Now, every fan of Twilight Imperium can experience this expanded content for the game, even if you couldn’t get it printed before. This means that nearly all the content for Twilight Imperium 4<sup>th</sup> Edition is now officially collected and available between its three products: the base game, [[Prophecy of Kings]], and now Thunder’s Edge.
+[[Category:Factions and Races]]
