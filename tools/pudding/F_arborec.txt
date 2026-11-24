@@ -6,11 +6,11 @@ I2 RulesPal, "How does Arborec infantry Production work?": "Arborec space docks 
 @2
 E10 Codex I p. 8, "The Omega Initiative": "Components from this section replace preexisting components of the same name and type." The Omega Initiative contents (p. 3) list "Stymie".
 @3
-N No source found.
+R Stymie: "If you activate a system that contains 1 or more of the Arborec player's units, return this card to the Arborec player." Activation alone triggers it; the card mentions no movement, combat or other hostile act.
 @4
-N No source found.
+R Stymie returns when a player activates a system "that contains 1 or more of the Arborec player's units." LRR 85: "A structure is a type of unit." A system with only Arborec structures contains Arborec units.
 @5
-N No source found.
+R LRR 5.1: "When a player performs a tactical action, they activate a system by placing a command token from their tactic pool in that system." Stymie returns only "if you activate a system"; a token placed by another effect activates nothing.
 @6
 I2 RulesPal, "Does the Arborec Stymie note stop the Arborec from producing in their home system?": "Stymie only covers non-home systems containing the holder's units and the systems adjacent to them."
 I6 Community consensus, "What happens to Avernus if Muaat is eliminated?": "Avernus, its token, planet card and legendary ability remain in play. Similar to an eliminated faction's home system." An eliminated player's home system stays a home system.
@@ -25,9 +25,9 @@ I2 RulesPal: "Bioplasmosis moves each infantry once."
 @11
 I2 RulesPal: "Bioplasmosis moves each infantry once."
 @12
-N No source found.
+R Bioplasmosis: "remove any number of infantry from planets you control and place them on 1 or more planets you control in the same or adjacent systems." After the swap each planet holds one infantry, as before.
 @13
-N No source found.
+R Bioplasmosis moves only "infantry". LRR 55: "Mechs are unique, faction-specific heavy ground forces." A mech is a ground force, not an infantry.
 @14
 E1 LRR FAQ: "Can the 'Production' abilities of multiple Arborec 'Letani Warriors' in a system be combined to allow the production of two infantry for one resource? A: Yes. Production value is totaled when the 'Production' ability of units in a system is used."
 E2 RulesPal: "Their Production pools with your other units in the system."
@@ -45,24 +45,24 @@ E1 LRR FAQ: "When producing a unit with an ability other than 'Production,' does
 E1 LRR FAQ: "Does the Arborec flagship (The 'Duha Menaimon') need to be in a system when it is activated …? A: Yes. The 'Duha Menaimon' can only be used to produce units when it is in a system at the moment it is activated."
 E2 RulesPal, "When does the Arborec flagship produce, and can it move in first?": "so it only works if it is already in the active system; it can't move in and then produce"
 @19
-N No source found.
+R Letani Ospha: "that player may replace that ship with one from their reinforcements." The card replaces the ship; it does not destroy it, and it spends no resources, which LRR 67.1 requires to produce a unit: "To produce a unit, a player must spend a number of resources."
 @20
-N No source found.
+R Sarween Tools: "When 1 or more of your units use PRODUCTION, reduce the combined cost of the produced units by 1." Letani Ospha uses no PRODUCTION and produces nothing; "costs up to 2 more than the replaced ship" compares printed costs.
 @21
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E4 Designer ruling: "If a unit is damaged, and is 'removed and placed' from the board via a game effect, does it come back repaired …? A: … If it is produced, placed, or replaced which would require a remove and place it is no longer damaged."
 @22
-N No source found.
+R Letani Ospha requires only the chosen ship to be "non-fighter"; the new ship is any "one from their reinforcements that costs up to 2 more." LRR 76: "A ship is a unit type consisting of carriers, cruisers, dreadnoughts, destroyers, fighters, and war suns."
 @23
 E1 LRR FAQ: "When an ability other than 'Production' allows you to produce one or more units, do you have to pay for the units produced? A: Yes, a unit that is produced must always be paid for."
 I2 RulesPal, "How does Saar's Chaos Mapping production work?": "you still pay for it."
 @24
-N No source found.
+R LRR 67.6: "A player cannot produce ships in a system that contains other players' ships." Dirzuga Rophal produces "1 unit in that system," so this limit applies.
 @25
 E1 LRR FAQ: "When producing a unit with an ability other than 'Production,' does the price reduction from the 'Sarween Tools' technology apply? A: No, 'Sarween Tools' is only used with the 'Production' ability."
 I2 RulesPal, "How does Sarween Tools work?": "It needs a unit's Production ability, so it doesn't apply to effects that just let you produce."
 @26
-N No source found. LRR 68.1d says Arborec space dock "'Production' value … cannot be used to produce infantry"; the commander's ability is not Production.
+R LRR 68.1d: "'Production' value from Arborec space docks cannot be used to produce infantry." Dirzuga Rophal uses no PRODUCTION value: the space dock only meets the trigger ("a system that contains 1 or more of your units that have PRODUCTION"), then "You may produce 1 unit in that system."
 @27
 E1 LRR 23.4a: "that player can remove a unit from any system that does not contain one of their command tokens and place that unit in their reinforcements."
 E3 Learn to Play: "When a player wishes to produce a unit but has no units of that type available in their reinforcements, that player may remove one of their units of that type from a system that does not contain one of their command tokens."
@@ -72,11 +72,11 @@ E2 RulesPal, "Does the Arborec commander work with a Letani in an Entropic Scar?
 @29
 E1 LRR FAQ: "When an ability other than 'Production' allows you to produce one or more units, do you have to pay for the units produced? A: Yes, a unit that is produced must always be paid for."
 @30
-N No source found.
+R LRR 67.6: "A player cannot produce ships in a system that contains other players' ships." Ultrasonic Emitter produces units "in any number of systems," so this limit applies in each.
 @31
 E1 LRR FAQ: "When producing a unit with an ability other than 'Production,' does the price reduction from the 'Sarween Tools' technology apply? A: No, 'Sarween Tools' is only used with the 'Production' ability."
 E2 RulesPal, "How does Sarween Tools work?": "It needs a unit's Production ability, so it doesn't apply to effects that just let you produce."
 @32
-N No source found.
+R Ultrasonic Emitter: "Produce any number of units in any number of systems that contain 1 or more of your ground forces." LRR 67.4b: "If an ability allows a player to produce a unit in a system, they may produce that unit in the space area or on a planet they control in that system."
 @33
 I2 RulesPal, "How does Arborec infantry Production work?": "Arborec space docks can never produce infantry." Mechs are not infantry.

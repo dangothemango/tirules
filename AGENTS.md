@@ -116,7 +116,11 @@ Follow `style.md` for writing style and markup. Highlights:
   generated from `tools/pudding/<page>.txt` by `./tools/build_pudding.py <page>`. The proof file
   format is described at the top of `tools/build_pudding.py`: `@n` is the nth cited note in page
   order (sub-notes included, uncited header `<li>` skipped); lines are `E<src>` explicit,
-  `I<src>` implicit, `N` not found.
+  `I<src>` implicit, `N` not found, `R` reasoning.
+- A starred note's proof is an `R` line instead of `N`: quote the card text and LRR rules the note
+  rests on, then the inference in one sentence. The note keeps `<sup>*</sup>`; R lines carry no
+  source number. `./tools/starred_todo.py` counts the starred notes still without one
+  (`./tools/starred_todo.py <page>` lists them with their `@n`).
 - Each source in `sources.php` has a page, `sources/<n>.php` (served at `/sources/<n>`, `noindex`,
   linked from the home page footer), listing every note it proves. `build_pudding.py` regenerates
   them all after building proof pages (or run `./tools/build_sources.py`); commit them with the

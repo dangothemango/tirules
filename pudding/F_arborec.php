@@ -1,7 +1,7 @@
 <?php include __DIR__ . "/../prefix.php"?>
 <header><h1>The Arborec: Proof</h1></header>
 <article>
-<p>The source text behind each note on <a href="/F_arborec">The Arborec</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it.</p>
+<p>The source text behind each note on <a href="/F_arborec">The Arborec</a>. <b>Explicit</b> sources state the note directly. <b>Implicit</b> sources support it without stating it. <b>Reasoning</b> shows how a note no source addresses follows from the card text and rules.</p>
 
 <h2><a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Faction_Abilities:~:text=Mitosis">Mitosis</a></h2>
     <ol class="note">
@@ -24,15 +24,15 @@
         </ul></li>
     <li><i>Stymie</i> is returned when the system is activated, even if the active player will perform no hostile acts toward the Arborec player this turn.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Stymie: &ldquo;If you activate a system that contains 1 or more of the Arborec player&rsquo;s units, return this card to the Arborec player.&rdquo; Activation alone triggers it; the card mentions no movement, combat or other hostile act.</li>
         </ul></li>
     <li>Activating a system containing only the Arborec player&rsquo;s structures will still cause <i>Stymie</i> to be returned.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Stymie returns when a player activates a system &ldquo;that contains 1 or more of the Arborec player&rsquo;s units.&rdquo; LRR 85: &ldquo;A structure is a type of unit.&rdquo; A system with only Arborec structures contains Arborec units.</li>
         </ul></li>
     <li>If an effect other than activating a system during a tactical action places a command token in a system with the Arborec player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Stymie</i> to be returned.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 5.1: &ldquo;When a player performs a tactical action, they activate a system by placing a command token from their tactic pool in that system.&rdquo; Stymie returns only &ldquo;if you activate a system&rdquo;; a token placed by another effect activates nothing.</li>
         </ul></li>
     </ol>
 
@@ -70,12 +70,12 @@
         </ul></li>
         <li>An infantry may move from A to B, while another infantry moves from B to A. This will have no meaningful effect.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Bioplasmosis: &ldquo;remove any number of infantry from planets you control and place them on 1 or more planets you control in the same or adjacent systems.&rdquo; After the swap each planet holds one infantry, as before.</li>
         </ul></li>
     </ol>
     <li><i>Bioplasmosis</i> cannot move <a href="https://twilight-imperium.fandom.com/wiki/The_Arborec#Mech:~:text=Letani%20Behemoth">Letani Behemoth</a>.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Bioplasmosis moves only &ldquo;infantry&rdquo;. LRR 55: &ldquo;Mechs are unique, faction-specific heavy ground forces.&rdquo; A mech is a ground force, not an infantry.</li>
         </ul></li>
     </ol>
 
@@ -117,11 +117,11 @@
     <ol class="note">
     <li>The replaced ship is not destroyed. The replacing ship is not produced.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Letani Ospha: &ldquo;that player may replace that ship with one from their reinforcements.&rdquo; The card replaces the ship; it does not destroy it, and it spends no resources, which LRR 67.1 requires to produce a unit: &ldquo;To produce a unit, a player must spend a number of resources.&rdquo;</li>
         </ul></li>
     <ol><li>The <i>Sarween Tools</i> technology and similar effects will not allow a more expensive ship to be placed.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Sarween Tools: &ldquo;When 1 or more of your units use PRODUCTION, reduce the combined cost of the produced units by 1.&rdquo; Letani Ospha uses no PRODUCTION and produces nothing; &ldquo;costs up to 2 more than the replaced ship&rdquo; compares printed costs.</li>
         </ul></li></ol>
     <li>If the player wishes to place a ship, but there are none of that type left in their reinforcements, they may remove a ship of that type from any system that does not contain one of their command tokens and place that instead. This ship will be placed undamaged.<sup>1,4</sup>
         <ul>
@@ -130,7 +130,7 @@
         </ul></li>
     <li>A fighter may be placed with Letani Ospha.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Letani Ospha requires only the chosen ship to be &ldquo;non-fighter&rdquo;; the new ship is any &ldquo;one from their reinforcements that costs up to 2 more.&rdquo; LRR 76: &ldquo;A ship is a unit type consisting of carriers, cruisers, dreadnoughts, destroyers, fighters, and war suns.&rdquo;</li>
         </ul></li>
     </ol>
 
@@ -143,7 +143,7 @@
         </ul></li>
     <li>A ship may be produced only if no other player currently has ships in that system.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 67.6: &ldquo;A player cannot produce ships in a system that contains other players&rsquo; ships.&rdquo; Dirzuga Rophal produces &ldquo;1 unit in that system,&rdquo; so this limit applies.</li>
         </ul></li>
     <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not apply.<sup>1,2</sup>
         <ul>
@@ -152,7 +152,7 @@
         </ul></li>
     <li>The Arborec player may produce an infantry, even if the only unit with the <sc>Production</sc> ability in the active system is their space dock.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found. LRR 68.1d says Arborec space dock &ldquo;&rsquo;Production&rsquo; value &hellip; cannot be used to produce infantry&rdquo;; the commander&rsquo;s ability is not Production.</li>
+        <li><b>Reasoning</b>: LRR 68.1d: &ldquo;&rsquo;Production&rsquo; value from Arborec space docks cannot be used to produce infantry.&rdquo; Dirzuga Rophal uses no PRODUCTION value: the space dock only meets the trigger (&ldquo;a system that contains 1 or more of your units that have PRODUCTION&rdquo;), then &ldquo;You may produce 1 unit in that system.&rdquo;</li>
         </ul></li>
     <li>If the Arborec player wishes to place a unit, but there are none of that type left in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that instead. This unit will be placed undamaged.<sup>1,3,4</sup>
         <ul>
@@ -174,7 +174,7 @@
         </ul></li>
     <li>A ship may be produced in the system only if no other player currently has ships in that system.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: LRR 67.6: &ldquo;A player cannot produce ships in a system that contains other players&rsquo; ships.&rdquo; Ultrasonic Emitter produces units &ldquo;in any number of systems,&rdquo; so this limit applies in each.</li>
         </ul></li>
     <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not apply.<sup>1,2</sup>
         <ul>
@@ -183,7 +183,7 @@
         </ul></li>
     <li>If a ground force is produced in a system, it may be placed on any planet the Arborec player controls in that system, regardless of what units, if any, the Arborec player has on that planet. The produced ground force may also be placed in the space area of that system.<sup>*</sup>
         <ul>
-        <li><b>Unverified</b>: No source found.</li>
+        <li><b>Reasoning</b>: Ultrasonic Emitter: &ldquo;Produce any number of units in any number of systems that contain 1 or more of your ground forces.&rdquo; LRR 67.4b: &ldquo;If an ability allows a player to produce a unit in a system, they may produce that unit in the space area or on a planet they control in that system.&rdquo;</li>
         </ul></li>
     </ol>
 

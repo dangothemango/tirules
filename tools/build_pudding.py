@@ -8,7 +8,10 @@ the nth cited item in the Rules Reference section (an <li> or <p> with a <sup>, 
     E9 Designer Q&A, "Voting with Space Stations": "Yeah you can vote with them."
     I1 LRR 8.4: "Each player readies each of their exhausted planets." Names only planets.
     N No source found.
+    R Bioplasmosis moves only "infantry". LRR 55: "Mechs are ... heavy ground forces," not infantry.
 E = explicit, I = implicit, N = no support found; the number is the source's footnote number.
+R = reasoning, for a starred note no source addresses: quote the card text and rules it rests on
+(by name or LRR number, unnumbered), then the inference in one sentence. The note keeps <sup>*</sup>.
 """
 import html, os, re, sys, unicodedata
 
@@ -34,7 +37,7 @@ def proofs(page, raw=False):
             key = line[1:]
             cur = out.setdefault(key if key.startswith("r") else int(key), [])
             continue
-        m = re.match(r"([EIN])(\d*)\s+(.*)", line)
+        m = re.match(r"([EINR])(\d*)\s+(.*)", line)
         cur.append(m.groups() if raw else proof_li(*m.groups()))
     return out
 
@@ -49,7 +52,7 @@ def page_title(h1):
     return t
 
 def proof_li(kind, src, text):
-    kind = {"E": "Explicit", "I": "Implicit", "N": "Unverified"}[kind]
+    kind = {"E": "Explicit", "I": "Implicit", "N": "Unverified", "R": "Reasoning"}[kind]
     sup = f" <sup>{src}</sup>" if src else ""
     return f"<li><b>{kind}</b>:{sup} {typo(text)}</li>"
 
@@ -107,10 +110,12 @@ def build(page, write=True):
         sys.exit(f"{page}: proofs for notes {extra} but the page has only {n} notes")
     if not write:
         return title, records
+    reasoning = (" <b>Reasoning</b> shows how a note no source addresses follows from the card text and rules."
+                 if any(k == "R" for v in raw.values() for k, _, _ in v) else "")
     styles = "".join(m + "\n" for m in re.findall(r"<style>.*?</style>", s[:s.find("<header>")], re.S))
     out = (f'<?php include __DIR__ . "/../prefix.php"?>\n{styles}<header><h1>{heading}</h1></header>\n<article>\n'
            f'<p>The source text behind each note on <a href="/{page}">{title}</a>. <b>Explicit</b> sources state the note directly. '
-           f"<b>Implicit</b> sources support it without stating it.</p>\n"
+           f"<b>Implicit</b> sources support it without stating it.{reasoning}</p>\n"
            + "\n".join(body) + '\n</article>\n<?php include __DIR__ . "/../suffix.php"?>\n')
     open(os.path.join(ROOT, "pudding", page + ".php"), "w", encoding="utf-8").write(out)
     print(f"pudding/{page}.php: {n} notes, {len(rr)} rules items, {len(pr)} with proofs")

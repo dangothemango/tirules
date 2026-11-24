@@ -33,6 +33,7 @@
 ## rules reference and notes
 - Rules Reference items are LRR text and carry no citation. A sub-item the site adds from a later source starts with the expansion in brackets, e.g. "(Thunder&rsquo;s Edge) ...", and ends with a citation.
 - Every note ends with a citation: `<sup>n</sup>` for numbered sources, `<sup>*</sup>` when no source exists. Each note has a proof in `tools/pudding/<page>.txt`.
+- A starred note's proof is a Reasoning (`R`) line: the card text and LRR rules it rests on, quoted ("Stymie: ...", "LRR 67.6: ..."), then one sentence of inference. Quote only what the inference needs, cite LRR by rule number, and don't present the inference as a ruling. If the quotes don't support the note, or contradict it, leave the `N` line and raise it with the owner instead.
 - Example players (Alice, Bob, ...) are referred to as "they".
 - Components removed from the game, and replaced versions of cards, use `class="removed"` (red), on the heading and on notes that only apply to the old version. The red is the marker: no "original card only" wording, and no notes for the current version added beside the red ones.
 - Updated card versions are marked &Omega; (Codex) and &Omega;&Omega; (later); &Omega;(&Omega;) means the &Omega; and &Omega;&Omega; versions are the same.
